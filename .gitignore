@@ -1,0 +1,32 @@
+# Ignore all data
+data/
+
+# Except for examples folder in data
+!data/examples/
+
+# Ignore everything in output
+output/
+
+# Except for examples folder in output
+!output/examples/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore temporary/system files
+*.tmp
+.DS_Store
+
+# Ignore virtual environments
+venv/
+env/
+.venv
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+models/
