@@ -12,3 +12,7 @@ joblib
 NLPAug
 textaugment
 PyMuPDF
+pytesseract 
+Pillow 
+nlpaug
+tqdm
