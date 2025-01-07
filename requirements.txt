@@ -16,3 +16,5 @@ pytesseract
 Pillow 
 nlpaug
 tqdm
+tensorflow
+sentencepiece
