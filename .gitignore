@@ -31,3 +31,4 @@ __pycache__/
 *.pyo
 
 models/
+distilbert_model.tar.gz
