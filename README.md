@@ -1,8 +1,8 @@
 # For the reviewer:
 
-As of 9th January, 2025:
+**Status as of 9th January, 2025:**
 
-- Main scripts for preprocessing, supervised, unsupervised, summarization, and RAG are found in the folder called `scripts`. 
+- Main scripts for preprocessing, supervised, unsupervised, summarization, and RAG are found in the folder called 'scripts'. 
 - Raw and preprocessed data, and the AI models have not been pushed due to github size limitations. 
 - Supervised and unsupervised learning have been completed on preprocessed data. They have been successfully tested. I will post their test evaluation metrics soon. 
 - Summarization and RAG scripts are currently under development and once I complete them, I will push them. Client interface and endpoints have also yet to be completed, but I will complete them once I finish backend.
