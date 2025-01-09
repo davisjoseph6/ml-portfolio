@@ -1,6 +1,6 @@
 # For the reviewer:
 
-**Status as of 9th January, 2025:**
+**Project status as of 9th January, 2025:**
 
 - Main scripts for preprocessing, supervised, unsupervised, summarization, and RAG are found in the folder called 'scripts'. 
 - Raw and preprocessed data, and the AI models have not been pushed due to github size limitations. 
