@@ -10,9 +10,9 @@
 - Once local development is complete, I will move the whole project on AWS for final deployment.
 - I have already put in place a small infrastructure and working inference endpoints on AWS with the AWS service such as Glue, S3 Bucket, SageMaker. I will complete them during my final stages.   
 
-##
+#
 
-Below are just some personal notes for myself at earlier stages of my project. (you can ignore them).
+**Below are just some personal notes for myself at earlier stages of my project. (you can ignore them).**
 
 Business intelligence
 
