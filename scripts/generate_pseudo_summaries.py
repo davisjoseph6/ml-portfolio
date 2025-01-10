@@ -4,7 +4,6 @@ import os
 import json
 import argparse
 from tqdm import tqdm
-
 import torch
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
@@ -12,14 +11,15 @@ def generate_summary(model, tokenizer, text, max_input_length=1024, max_summary_
     """
     Generate a summary using a pre-trained seq2seq model.
     """
-    # Tokenize
     inputs = tokenizer(
         [text],
         max_length=max_input_length,
         truncation=True,
         return_tensors="pt"
     )
-    # Generate
+    if torch.cuda.is_available():
+        inputs = {k: v.to("cuda") for k, v in inputs.items()}
+
     summary_ids = model.generate(
         inputs["input_ids"],
         num_beams=4,
@@ -27,7 +27,6 @@ def generate_summary(model, tokenizer, text, max_input_length=1024, max_summary_
         early_stopping=True,
         no_repeat_ngram_size=2
     )
-    # Decode
     summary = tokenizer.decode(summary_ids[0], skip_special_tokens=True)
     return summary
 
@@ -35,8 +34,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", type=str, default="facebook/bart-large-cnn",
                         help="Pretrained summarization model name.")
-    parser.add_argument("--data_dir", type=str, default="../data/preprocessed/",
-                        help="Root directory for your preprocessed JSON files.")
+    parser.add_argument("--root_dir", type=str, default="../data/preprocessed",
+                        help="Root directory for your preprocessed data.")
     parser.add_argument("--max_input_length", type=int, default=1024,
                         help="Max input length for the summarizer.")
     parser.add_argument("--max_summary_length", type=int, default=150,
@@ -54,14 +53,28 @@ def main():
     else:
         print("No GPU found. Summarization will be slower on CPU.")
 
-    # Recursively find all JSON files
-    json_files = []
-    for root, dirs, files in os.walk(args.data_dir):
-        for f in files:
-            if f.lower().endswith(".json"):
-                json_files.append(os.path.join(root, f))
+    # We only want to process these subdirectories
+    target_subdirs = [
+        "supervised/test",
+        "supervised/val",
+        "unsupervised/test",
+        "unsupervised/val"
+    ]
 
-    print(f"Found {len(json_files)} JSON files under {args.data_dir}")
+    # Collect all JSON files from these subdirectories
+    json_files = []
+    for subdir in target_subdirs:
+        dir_path = os.path.join(args.root_dir, subdir)
+        if not os.path.exists(dir_path):
+            print(f"Skipping {dir_path}, does not exist.")
+            continue
+
+        for root, dirs, files in os.walk(dir_path):
+            for f in files:
+                if f.lower().endswith(".json"):
+                    json_files.append(os.path.join(root, f))
+
+    print(f"Found {len(json_files)} JSON files in target subdirectories.")
     for json_path in tqdm(json_files, desc="Generating pseudo-summaries"):
         try:
             with open(json_path, 'r', encoding='utf-8') as jf:
@@ -72,9 +85,9 @@ def main():
                 # no text? skip
                 continue
 
-            # If there's already a summary, we can skip or overwrite
+            # If there's already a summary, you can skip or overwrite
             # if "summary" in data and data["summary"]:
-            #     continue  # skip if we don't want to overwrite existing
+            #     continue
 
             # Generate pseudo-summary
             summary = generate_summary(
