@@ -8,7 +8,7 @@ from tqdm import tqdm
 import torch
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
-def generate_summary(model, tokenizer, text, max_input_length=1024, max_summary_length=150):
+def generate_summary(model, tokenizer, text, max_input_length=1024, max_summary_length=150, device="cpu"):
     """
     Generate a summary using a pre-trained seq2seq model.
     """
@@ -19,6 +19,9 @@ def generate_summary(model, tokenizer, text, max_input_length=1024, max_summary_
         truncation=True,
         return_tensors="pt"
     )
+    # Move to the same device as model
+    inputs = {k: v.to(device) for k, v in inputs.items()}
+
     # Generate
     summary_ids = model.generate(
         inputs["input_ids"],
@@ -33,7 +36,7 @@ def generate_summary(model, tokenizer, text, max_input_length=1024, max_summary_
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model_name", type=str, default="facebook/bart-large-cnn",
+    parser.add_argument("--model_name", type=str, default="sshleifer/distilbart-cnn-12-6",
                         help="Pretrained summarization model name.")
     parser.add_argument("--data_dir", type=str, default="../data/preprocessed/",
                         help="Root directory for your preprocessed JSON files.")
@@ -47,11 +50,13 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)
     model = AutoModelForSeq2SeqLM.from_pretrained(args.model_name)
 
-    # Move to GPU if available
+    # Decide device
     if torch.cuda.is_available():
-        model.to("cuda")
+        device = "cuda"
+        model.to(device)
         print("Using GPU for summarization.")
     else:
+        device = "cpu"
         print("No GPU found. Summarization will be slower on CPU.")
 
     # Recursively find all JSON files
@@ -69,12 +74,12 @@ def main():
 
             text = data.get("text", "").strip()
             if not text:
-                # no text? skip
+                # No text? skip
                 continue
 
-            # If there's already a summary, we can skip or overwrite
+            # If there's already a summary, you can skip or overwrite
             # if "summary" in data and data["summary"]:
-            #     continue  # skip if we don't want to overwrite existing
+            #     continue
 
             # Generate pseudo-summary
             summary = generate_summary(
@@ -82,7 +87,8 @@ def main():
                 tokenizer,
                 text,
                 max_input_length=args.max_input_length,
-                max_summary_length=args.max_summary_length
+                max_summary_length=args.max_summary_length,
+                device=device  # pass device here
             )
 
             data["summary"] = summary
@@ -96,4 +102,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
