@@ -4,6 +4,8 @@ import os
 import argparse
 import json
 
+os.environ["WANDB_DISABLED"] = "true"
+
 import torch
 from transformers import (
     AutoTokenizer,
@@ -15,24 +17,35 @@ from transformers import (
 from datasets import Dataset
 from typing import Dict, List
 
-# 1) A helper function to load your supervised/unsupervised data
+from tqdm import tqdm  # <-- Import tqdm for progress bars
+
 def load_summarization_data(root_dir: str):
     """
     Recursively load text and summary from JSON in `root_dir`.
     Returns a list of dicts: [{"text": ..., "summary": ...}, ...]
+    Provides a progress bar for the files it loads.
     """
-    import os, json
     samples = []
+    all_json_files = []
+
+    # First, gather a list of all .json files
     for subdir, dirs, files in os.walk(root_dir):
         for fname in files:
             if fname.lower().endswith(".json"):
-                fpath = os.path.join(subdir, fname)
-                with open(fpath, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                text = data.get("text", "").strip()
-                summary = data.get("summary", "").strip()
-                if text and summary:
-                    samples.append({"text": text, "summary": summary})
+                all_json_files.append(os.path.join(subdir, fname))
+
+    # Now iterate with a progress bar
+    for fpath in tqdm(all_json_files, desc=f"Loading data from {root_dir}"):
+        try:
+            with open(fpath, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            text = data.get("text", "").strip()
+            summary = data.get("summary", "").strip()
+            if text and summary:
+                samples.append({"text": text, "summary": summary})
+        except Exception as e:
+            print(f"Error reading {fpath}: {e}")
+
     return samples
 
 def preprocess_function(examples, tokenizer, max_input_length=1024, max_target_length=150):
@@ -42,13 +55,14 @@ def preprocess_function(examples, tokenizer, max_input_length=1024, max_target_l
     inputs = examples["text"]
     targets = examples["summary"]
 
+    # Tokenize inputs
     model_inputs = tokenizer(
         inputs,
         max_length=max_input_length,
         truncation=True
     )
 
-    # Setup the tokenizer for targets
+    # Tokenize targets
     with tokenizer.as_target_tokenizer():
         labels = tokenizer(
             targets,
@@ -112,14 +126,14 @@ def main():
     train_dataset = Dataset.from_list(train_data)
 
     # If you have a validation set, load it similarly or do a train/val split
-    # For example, we do a quick 90/10 split for demonstration:
+    # For demonstration, we do a quick 90/10 train/val split:
     split_dataset = train_dataset.train_test_split(test_size=0.1, seed=42)
     train_dataset = split_dataset["train"]
     val_dataset = split_dataset["test"]
 
     print(f"Train size: {len(train_dataset)}, Val size: {len(val_dataset)}")
 
-    # 3. Tokenize
+    # 3. Prepare tokenization function with progress bars
     def tokenize_fn(examples):
         return preprocess_function(
             examples,
@@ -128,8 +142,20 @@ def main():
             max_target_length=args.max_target_length
         )
 
-    train_dataset = train_dataset.map(tokenize_fn, batched=True)
-    val_dataset = val_dataset.map(tokenize_fn, batched=True)
+    # Tokenize with progress bar for train & val sets
+    print("Tokenizing train dataset...")
+    train_dataset = train_dataset.map(
+        tokenize_fn,
+        batched=True,
+        desc="Tokenizing train data"
+    )
+
+    print("Tokenizing validation dataset...")
+    val_dataset = val_dataset.map(
+        tokenize_fn,
+        batched=True,
+        desc="Tokenizing val data"
+    )
 
     # 4. Data collator
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
