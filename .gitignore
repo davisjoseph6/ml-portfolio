@@ -7,6 +7,7 @@ data/
 # Ignore everything in output
 output/
 distilbert_model/
+my_summarization_model/
 
 # Except for examples folder in output
 !output/examples/

@@ -86,8 +86,8 @@ def main():
                 continue
 
             # If there's already a summary, you can skip or overwrite
-              if "summary" in data and data["summary"]:
-                  continue
+            if "summary" in data and data["summary"]:
+                continue
 
             # Generate pseudo-summary
             summary = generate_summary(
