@@ -8,6 +8,7 @@ data/
 output/
 distilbert_model/
 my_summarization_model/
+my_summarization_model_original/
 
 # Except for examples folder in output
 !output/examples/
@@ -33,3 +34,4 @@ __pycache__/
 
 models/
 distilbert_model.tar.gz
+my_summarization_model.tar.gz
