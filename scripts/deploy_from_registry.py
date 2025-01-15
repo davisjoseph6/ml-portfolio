@@ -16,12 +16,7 @@ def main():
     create_model_response = sm_client.create_model(
         ModelName=model_name,
         PrimaryContainer={
-            "ModelPackageName": model_package_arn,
-            "Environment": {
-                # OVERRIDE or add environment variables here
-                "HF_TASK": "summarization",
-                "CUSTOM_ENV": "override_example"
-            }
+            "ModelPackageName": model_package_arn
         },
         ExecutionRoleArn=role_arn
     )
