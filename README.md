@@ -6,7 +6,8 @@ Project status as of **18th January, 2025**:
 
 Notes:
 - Some directories and files (such as model artifacts, raw and preprocessed data) could not be uploaded due to github limitations on size.
-- Main scripts for preprocessing, training, and RAG are found in the directory called `scripts/`.
+- Main scripts for preprocessing, training, and RAG are found in the directory called `scripts/` (at the bottom).
+
 
 ```bash
 # Project Structure
@@ -120,8 +121,8 @@ ml-portfolio/
 
 ```
 
-Notes:
+## Author
 
-- Main scripts for preprocessing, training, and RAG are found in the folder called 'scripts'.  
+- Davis Joseph  
 
 
