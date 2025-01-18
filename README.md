@@ -6,8 +6,8 @@ Project status as of **18th January, 2025**:
 
 Notes:
 - Some directories and files (such as model artifacts, raw and preprocessed data) could not be uploaded due to github limitations on size.
-- Main scripts for preprocessing, training, and RAG are found in the directory called `scripts/` (at the bottom).
-
+- Main scripts for preprocessing, training, and RAG are found in the directory called `scripts/`
+- Please scroll to the right in the directory structure below to view clipped information. 
 
 ```bash
 # Project Structure
