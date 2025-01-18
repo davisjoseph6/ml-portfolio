@@ -14,14 +14,76 @@ Notes:
 
 ml-portfolio/
 ├── README.md
+├── distilbert_model/                   # DistilBERT classification model artifacts.
+│   ├── config.json
+│   ├── label_map.json
+│   ├── special_tokens_map.json
+│   ├── tf_model.h5
+│   ├── tokenizer.json
+│   ├── tokenizer_config.json
+│   └── vocab.txt
+├── distilbert_model.tar.gz             # Tarred model for SageMaker deployment.
+├── my_summarization_model/             # Fine-tuned summarization model artifacts (BART/DistilBART).
+│   ├── config.json
+│   ├── generation_config.json
+│   ├── merges.txt
+│   ├── model.safetensors
+│   ├── special_tokens_map.json
+│   ├── tokenizer_config.json
+│   ├── training_args.bin
+│   └── vocab.json
+├── my_summarization_model.tar.gz       # Summarization model tarball for SageMaker deployment.
+├── scripts/                            # Main folder for Python scripts (deploy, train, RAG, etc.).│   
+│   ├── data_prep.py                    	# Prepares data for DistilBERT classification training (tokenization, etc.). 
+│   ├── model.py                        	# DistilBERT model creation (TF). 
+│   ├── train_distilbert.py             	# Script to train DistilBERT for classification tasks. 
+│   ├── evaluate.py                     	# Evaluates classification model performance 
+│   ├── usage.py                        	# Example usage of the classification model. 
+│   ├── usage_file.py                   	# Example usage of classification on a raw file
+│   ├── deploy_model.py                 	# Deploy local classification model tarball to a AWS SageMaker endpoint. 
+│   ├── delete_endpoint.py              	# Deletes an existing classification AWS SageMaker endpoint. 
+│   ├── preprocessing/                  	# Subfolder for data preprocessing scripts.
+│   │   ├── nltk_script.py              		# NLTK-based text cleaning or tokenization example.
+│   │   └── preprocess_data.py          		# OCR, text extraction, augmentation pipeline.
+│   ├── clustering_with_embeddings.py   	# SentenceTransformer + KMeans clustering (local version). Unsupervised Learning
+│   ├── generate_pseudo_summaries.py    	# Generates rough/pseudo summaries for text data.
+│   ├── train_summarizer.py             	# Script to fine-tune summarization model.
+│   └── usage_file_summarizer.py        	# Summarizer usage or inference test script.
+│   ├── register_summarization_model.py 	# Registers summarization model to SageMaker Model Registry.
+│   ├── deploy_from_registry.py         	# Deploy summarization model from Model Registry to an endpoint.
+│   ├── create_endpoint.py              	# Creates Summarization SageMaker endpoint from model config.
+│   ├── test_summar_endpoint.py         	# Tests a deployed summarization endpoint with sample input.
+│   ├── rag/                            	# Retrieval-Augmented Generation pipeline code.
+│   │   ├── build_rag_index_multi.py    		# Builds FAISS index from multiple summarized data dirs.
+│   │   ├── chunk_and_summarize.py      		# Splits docs into chunks, and summarizes.
+│   │   ├── faiss_index.bin             		# Example FAISS index (binary).
+│   │   ├── index_metadata.json         		# Metadata for the FAISS index.
+│   │   └── rag_query.py                		# Queries the RAG index + generative model for answers.
+├── tests/                              # Holds test files (unit/integration tests).
+│   └── test_tokenizer.py               	# Tests tokenizer logic or text processing.
+├── train_clustering/                   # Dedicated folder for SageMaker clustering job scripts.
+│   ├── clustering_with_embeddings.py   	# Similar KMeans script adapted for SageMaker TrainingJob.
+│   ├── requirements.txt                	# Dependencies to install in the SageMaker training container.
+│   └── run_clustering_job.py           	# Python driver to launch the clustering job on SageMaker.
+├── policies/                           # JSON policy files for controlling S3 or IAM permissions in AWS.
+│   ├── client-data-in-policy.json
+│   ├── client-data-out-policy.json
+│   ├── client-data-test-1-policy.json
+│   ├── client-data-test-2-policy.json
+│   ├── my_s3_custom_policy.json
+│   └── retrieved-client-data-in-policy.json
+├── python/                             # Python scripts, wheels, or environment folder.
+├── requirements.txt                    # Main Python dependencies for the project.
+├── requirements2.txt                   # Secondary or alternative dependency file.
 ├── aws_config/
+├── dependencies.zip                    # A zip of extra dependencies or modules.
 ├── data/                               # Primary data directory (raw, preprocessed, summarized).
-│   ├── examples/                       # Example documents or samples for demonstration.
-│   ├── preprocessed/                   # Data that has been partially or fully preprocessed.
-│   ├── raw/                            # Original, unchanged source data.
-│   │   ├── supervised/                 # Labeled data (supervised) in raw form.
-│   │   │   ├── train/                  # Training set for supervised tasks.
-│   │   │   │   ├── advertisement/      # Each subfolder is a class label/type of document.
+│   ├── examples/                       	# Example documents or samples for demonstration.
+│   ├── preprocessed/                   	# Data that has been partially or fully preprocessed.
+│   ├── raw/                            	# Original, unchanged source data.
+│   │   ├── supervised/                 		# Labeled data (supervised) in raw form.
+│   │   │   ├── train/                  			# Training set for supervised tasks.
+│   │   │   │   ├── advertisement/      				# Each subfolder is a class label/type of document.
 │   │   │   │   ├── budget/
 │   │   │   │   ├── email/
 │   │   │   │   ├── form/
@@ -43,81 +105,16 @@ ml-portfolio/
 │   │   │   │   ├── scientific_report/
 │   │   │   │   ├── shipping_orders/
 │   │   │   │   └── specification/
-│   │   │   ├── val/                    # Validation set for supervised data.
-│   │   │   ├── test/                   # Test set for supervised data.
-│   │   │   ├── test_split1/            # Alternate or partial test set (split).
-│   │   │   └── test_split2/            # Another partial test set (split).
-│   │   └── unsupervised/               # Unlabeled data in raw form (for clustering, etc.).
-│   │       ├── train/                  # Training set for unsupervised tasks.
-│   │       ├── val/                    # Validation set (unsupervised).
-│   │       ├── test/                   # Test set (unsupervised).
+│   │   │   ├── val/                    			# Validation set for supervised data.
+│   │   │   ├── test/                   			# Test set for supervised data.
+│   │   │   ├── test_split1/            			# Alternate or partial test set (split).
+│   │   │   └── test_split2/            			# Another partial test set (split).
+│   │   └── unsupervised/               		# Unlabeled data in raw form (for clustering, etc.).
+│   │       ├── train/	                 			# Training set for unsupervised tasks.│   │       
+│   │       ├── test/                   			# Test set (unsupervised).
 │   │       ├── test_split1/
 │   │       └── test_split2/
-│   └── summarized/                     # Data with generated summaries (post-processing).
-├── dependencies.zip                    # A zip of extra dependencies or modules.
-├── distilbert_model/                   # DistilBERT classification model artifacts.
-│   ├── config.json
-│   ├── label_map.json
-│   ├── special_tokens_map.json
-│   ├── tf_model.h5
-│   ├── tokenizer.json
-│   ├── tokenizer_config.json
-│   └── vocab.txt
-├── distilbert_model.tar.gz             # Tarred model for SageMaker deployment.
-├── my_summarization_model/             # Fine-tuned summarization model artifacts (BART/DistilBART).
-│   ├── config.json
-│   ├── generation_config.json
-│   ├── merges.txt
-│   ├── model.safetensors
-│   ├── special_tokens_map.json
-│   ├── tokenizer_config.json
-│   ├── training_args.bin
-│   └── vocab.json
-├── my_summarization_model.tar.gz       # Summarization model tarball for SageMaker deployment.
-├── my_summarization_model_original     # An older/original summarization model folder.
-├── policies/                           # JSON policy files for controlling S3 or IAM permissions in AWS.
-│   ├── client-data-in-policy.json
-│   ├── client-data-out-policy.json
-│   ├── client-data-test-1-policy.json
-│   ├── client-data-test-2-policy.json
-│   ├── my_s3_custom_policy.json
-│   └── retrieved-client-data-in-policy.json
-├── python/                             # Python scripts, wheels, or environment folder.
-├── requirements.txt                    # Main Python dependencies for the project.
-├── requirements2.txt                   # Secondary or alternative dependency file.
-├── scripts/                            # Main folder for Python scripts (deploy, train, RAG, etc.).
-│   ├── __pycache__/
-│   ├── data_prep.py                    # Prepares data for DistilBERT classification training (tokenization, etc.). 
-│   ├── model.py                        # DistilBERT model creation (TF). 
-│   ├── train_distilbert.py             # Script to train DistilBERT for classification tasks. 
-│   ├── evaluate.py                     # Evaluates classification model performance 
-│   ├── usage.py                        # Example usage of the classification model. 
-│   ├── usage_file.py                   # Example usage of classification on a raw file
-│   ├── deploy_model.py                 # Deploy local classification model tarball to a AWS SageMaker endpoint. 
-│   ├── delete_endpoint.py              # Deletes an existing classification AWS SageMaker endpoint. 
-│   ├── preprocessing/                  # Subfolder for data preprocessing scripts.
-│   │   ├── nltk_script.py              # NLTK-based text cleaning or tokenization example.
-│   │   └── preprocess_data.py          # OCR, text extraction, augmentation pipeline.
-│   ├── clustering_with_embeddings.py   # SentenceTransformer + KMeans clustering (local version). Unsupervised Learning
-│   ├── generate_pseudo_summaries.py    # Generates rough/pseudo summaries for text data.
-│   ├── train_summarizer.py             # Script to fine-tune summarization model.
-│   └── usage_file_summarizer.py        # Summarizer usage or inference test script.
-│   ├── register_summarization_model.py # Registers summarization model to SageMaker Model Registry.
-│   ├── deploy_from_registry.py         # Deploy summarization model from Model Registry to an endpoint.
-│   ├── create_endpoint.py              # Creates Summarization SageMaker endpoint from model config.
-│   ├── test_summar_endpoint.py         # Tests a deployed summarization endpoint with sample input.
-│   ├── rag/                            # Retrieval-Augmented Generation pipeline code.
-│   │   ├── build_rag_index_multi.py    # Builds FAISS index from multiple summarized data dirs.
-│   │   ├── chunk_and_summarize.py      # Splits docs into chunks, and summarizes.
-│   │   ├── faiss_index.bin             # Example FAISS index (binary).
-│   │   ├── index_metadata.json         # Metadata for the FAISS index.
-│   │   └── rag_query.py                # Queries the RAG index + generative model for answers.
-├── tests/                              # Holds test files (unit/integration tests).
-│   └── test_tokenizer.py               # Tests tokenizer logic or text processing.
-└── train_clustering/                   # Dedicated folder for SageMaker clustering job scripts.
-    ├── clustering_with_embeddings.py   # Similar KMeans script adapted for SageMaker TrainingJob.
-    ├── requirements.txt                # Dependencies to install in the SageMaker training container.
-    └── run_clustering_job.py           # Python driver to launch the clustering job on SageMaker.
+│   └── summarized/                     	# Data with generated summaries (post-processing).
 
 ```
 
