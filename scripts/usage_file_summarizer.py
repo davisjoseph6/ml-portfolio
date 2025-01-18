@@ -8,6 +8,7 @@ from PIL import Image  # for image reading
 import json
 import torch
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"  # Disable GPU
 
 def extract_text_from_pdf(pdf_path):
     """Extract text from a PDF file using PyMuPDF (fitz)."""

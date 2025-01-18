@@ -271,7 +271,7 @@ safetensors==0.4.5
 sagemaker==2.237.1
 sagemaker-core==1.0.17
 schema==0.7.7
-scikit-learn==1.5.0
+scikit-learn==1.2.2
 scipy==1.11.4
 screen-resolution-extra==0.0.0
 seaborn==0.13.2
@@ -317,7 +317,7 @@ torch==2.0.1+cu117
 torchaudio==2.0.2+cu117
 torchvision==0.15.2+cu117
 tornado==6.4.2
-tqdm==4.67.1
+tqdm==4.65.0
 traitlets==5.14.3
 traits==6.4.3
 transformers==4.47.1

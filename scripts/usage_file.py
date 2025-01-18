@@ -8,6 +8,7 @@ from PIL import Image  # for image reading
 import json
 import tensorflow as tf
 from transformers import DistilBertTokenizerFast, TFDistilBertForSequenceClassification
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"  # Disable GPU
 
 def extract_text_from_file(file_path):
     file_ext = file_path.lower().split('.')[-1]
