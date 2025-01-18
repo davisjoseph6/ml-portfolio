@@ -1,0 +1,3 @@
+tqdm==4.65.0
+# scikit-learn==1.2.2  <-- If you want an exact version
+# sentence-transformers==2.2.2  <-- If you want to override
