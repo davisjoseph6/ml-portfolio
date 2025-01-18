@@ -57,7 +57,7 @@ decorator==5.1.1
 deep-translator==1.11.4
 defusedxml==0.7.1
 diffusers==0.32.1
-dill==0.3.9
+dill
 distro==1.7.0
 distro-info==1.1+ubuntu0.2
 dm-tree==0.1.8
@@ -217,6 +217,7 @@ promise==2.3
 prompt_toolkit==3.0.48
 propcache==0.2.1
 protobuf==3.20.3
+protobuf3-to-dict==0.1.5
 prov==2.0.1
 psutil==5.9.0
 psycopg2-binary==2.9.10
