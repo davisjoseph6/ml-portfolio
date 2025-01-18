@@ -21,7 +21,6 @@ def main():
     huggingface_estimator = HuggingFace(
         entry_point="clustering_with_embeddings.py",
         source_dir=".",  # current folder that has clustering_with_embeddings.py
-        dependencies=["min_requirements.txt"],
         base_job_name="embedding-clustering-job",
         role=role_arn,
         instance_count=1,
