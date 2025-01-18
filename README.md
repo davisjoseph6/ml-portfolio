@@ -121,8 +121,3 @@ ml-portfolio/
 
 ```
 
-## Author
-
-- Davis Joseph  
-
-
