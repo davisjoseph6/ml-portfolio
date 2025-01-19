@@ -9,6 +9,7 @@ output/
 distilbert_model/
 my_summarization_model/
 my_summarization_model_original/
+final_clustered_data/
 
 # Except for examples folder in output
 !output/examples/
