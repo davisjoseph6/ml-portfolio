@@ -1,0 +1,24 @@
+{
+    "filename": "order_10330.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10330\nShipping Details:\nShip Name: LILA-Supermercado\nShip Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo\nShip City: Barquisimeto\nShip Region: South America\nShip Postal Code: 3508\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: LILAS\nCustomer Name: LILA-Supermercado\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-10-16\nShipped Date: 2016-10-28\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gumbär Gummibärchen\nQuantity: 50\nUnit Price: 24.9\nTotal: 1245.0\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 25\nUnit Price: 27.8\nTotal: 695.0\nTotal Price:\nTotal Price: 1940.0\n",
+    "augmented_texts": [
+        "Order ID: 10330 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo Ship City: Barquisimeto Ship Region: Southward America Ship Postal Code: 3508 Ship Country: Republic of venezuela Customer Details: Customer ID: LILAS Customer Name: LILA - Supermercado Employee Details: Employee Name: Janet Leverling Shipper Detail: Shipper ID: 1 Shipper Figure: Speedy Express mail Order Details: Order Appointment: 2016 - 10 - 16 Shipped Date: 2016 - 10 - 28 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Quantity: 50 Building block Price: 24. 9 Total: 1245. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Mozzarella di Giovanni Quantity: 25 Unit Leontyne price: 27. 8 Total: 695. 0 Total Price: Total Price: 1940. 0",
+        "Order gem state: 10330 Ship Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo Ship City: Barquisimeto Ship Region: South America Ship Postal Code: 3508 Ship Country: Venezuela Customer Details: Client gem state: LILAS Customer Name: LILA - Supermercado Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper gem state: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 10 - 16 Shipped Day of the month: 2016 - 10 - 28 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Amount: 50 Unit Price: 24. 9 Total: 1245. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 25 Unit Price: 27. 8 Total: 695. 0 Total Price: Total Price: 1940. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10330. Ship Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo. Postal Code: 3508. Country: Venezuela. Customer: LILA-Supermercado. Employee: Janet Leverling. Shipper: Speedy Express."
+}

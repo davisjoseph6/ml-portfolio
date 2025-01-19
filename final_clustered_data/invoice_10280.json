@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10280.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10280\nCustomer ID: BERGS\nOrder Date: 2016-08-14\nCustomer Details:\nContact Name:\nChristina Berglund\nAddress:\nBerguvsvägen  8\nCity:\nLuleå\nPostal Code:\nS-958 22\nCountry:\nSweden\nPhone:\n0921-12 34 65\nFax:\n0921-12 34 67\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n24\nGuaraná Fantástica\n12\n3.6\n55\nPâté chinois\n20\n19.2\n75\nRhönbräu Klosterbier\n30\n6.2\n \n \nTotalPrice\n613.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10280 Customer ID: BERGS Order Date: 2016 - 08 - 14 Customer Details: Tangency Name: Christina Berglund Savoir faire: Berguvsvägen 8 City: Luleå Postal Codification: S - 958 22 Country: Sweden Phone: 0921 - 12 34 65 Fax: 0921 - 12 34 sixty seven Product Details: Product ID Product Name Quantity Unit Price 24 Guaraná Fantástica 12 3. 6 fifty five Pâté chinois 20 19. 2 seventy five Rhönbräu Klosterbier 30 6. 2 TotalPrice 613. 2 Page 1",
+        "Invoice Order gem state: 10280 Customer gem state: BERGS Order Date: 2016 - 08 - 14 Client Details: Contact Gens: Christina Berglund Address: Berguvsvägen 8 City: Luleå Postal Code: S - 958 22 Country: Sweden Phone: 0921 - 12 34 65 Facsimile machine: 0921 - dozen 34 67 Production Details: Product ID Product Name Quantity Social unit Damage 24 Guaraná Fantástica 12 3. 6 55 Pâté chinois 20 19. 2 75 Rhönbräu Klosterbier 30 6. 2 TotalPrice 613. deuce Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: BERGS. Order Date: 2016-08-14.Customer Details:         Christina Berglund. Address: Berguvsvägen, Luleå, Sweden. Postal Code: S-958 22 22."
+}

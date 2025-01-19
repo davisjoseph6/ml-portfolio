@@ -1,0 +1,24 @@
+{
+    "filename": "order_10428.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10428\nShipping Details:\nShip Name: Reggiani Caseifici\nShip Address: Strada Provinciale 124\nShip City: Reggio Emilia\nShip Region: Southern Europe\nShip Postal Code: 42100\nShip Country: Italy\nCustomer Details:\nCustomer ID: REGGC\nCustomer Name: Reggiani Caseifici\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-01-28\nShipped Date: 2017-02-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Spegesild\nQuantity: 20\nUnit Price: 9.6\nTotal: 192.0\nTotal Price:\nTotal Price: 192.0\n",
+    "augmented_texts": [
+        "Order ID: 10428 Embark Details: Ship Name: Reggiani Caseifici Ship Address: Strada Provinciale 124 Ship City: Reggio Emilia Ship Region: Southern Europe Ship Postal Code: 42100 Ship Country: Italy Client Detail: Customer ID: REGGC Client Name: Reggiani Caseifici Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 01 - 28 Shipped Date: 2017 - 02 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Spegesild Amount: twenty Unit Price: 9. 6 Total: 192. 0 Total Price: Total Price: 192. 0",
+        "Order ID: 10428 Shipping Details: Ship Name: Reggiani Caseifici Ship Address: Strada Provinciale 124 Ship City: Reggio Emilia Ship Region: Southern Europe Ship Postal Code: 42100 Ship Country: Italy Customer Details: Customer ID: REGGC Customer Name: Reggiani Caseifici Employee Details: Employee Name: Robert King Shipper Details: Shipper i.d.: ace Shipper Name: Speedy Express Order Details: Order Date: 2017 - 01 - 28 Shipped Date: 2017 - 02 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Spegesild Quantity: 20 Unit Price: niner. vi Total: 192. zero Total Price: Total Toll: 192. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10428; Ship Address: Strada Provinciale 124; Postal Code: 42100. Ship City: Reggio Emilia; Region: Southern Europe; Country: Italy. Product Name: Spegesild; Unit Price: 9.6; Price per unit: 192.0; Shipping: 1; Order Date: 2017-01-28."
+}

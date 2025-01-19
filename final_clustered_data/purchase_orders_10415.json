@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10415.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10415\n2017-01-15\nYoshi Latimer\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n17\nAlice Mutton\n2\n31.2\n33\nGeitost\n20\n2\nPage 1\n",
+    "augmented_texts": [
+        "Leverage Orders Order ID Order Date Customer Name 10415 2017 - 01 - 15 Yoshi Latimer Products Cartesian product ID: Product: Quantity: Unit Price: 17 Alice Mutton 2 31. 2 33 Geitost twenty 2 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10415 2017 - 01 - 15 Yoshi Latimer Production Product ID: Product: Quantity: Unit Price: 17 Alice Mutton ii 31. 2 33 Geitost 20 2 Pageboy 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: products, products and products. The product ID is the product's quantity and the order's date of purchase. Customers can choose to pay by cash or by credit card. For more information, visit the Purchase Orders section of this page."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10377.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10377\n2016-12-09\nHari Kumar\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n28\nRössle Sauerkraut\n20\n36.4\n39\nChartreuse verte\n20\n14.4\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order gem state Order Date Customer Name 10377 2016 - xii - 09 Hari Kumar Products Product ID: Product: Quantity: Unit Price: 28 Rössle Sauerkraut 20 36. 4 thirty nine Chartreuse verte 20 14. 4 Page 1",
+        "Purchase Order Order ID Order Date Customer Name 10377 2016 - 12 - 09 Hari Kumar Products Product ID: Product: Quantity: Unit Price: 28 Rössle Sauerkraut 20 36. 4 39 Chartreuse verte xx 14. quaternion Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass a range of products and services. Customers can order products online and pay by cash or credit card. To order a product, click here: http://www.mogul.com/shop/buy-a-product.php?product-name-id = Hari Kumar. For more information, go to: www.magul-shop.org."
+}

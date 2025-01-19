@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10333.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10333\n2016-10-18\nPirkko Koskitalo\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n14\nTofu\n10\n18.6\n21\nSir Rodney's Scones\n10\n8\n71\nFlotemysost\n40\n17.2\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10333 2016 - 10 - eighteen Pirkko Koskitalo Products Product ID: Ware: Quantity: Unit Price: 14 Tofu 10 18. hexad 21 Sir Rodney ' s Scones 10 8 seventy one Flotemysost 40 xvii. 2 Page 1",
+        "Purchase Orders Ordain gem state Order Day of the month Customer Name 10333 2016 - 10 - 18 Pirkko Koskitalo Products Product ID: Product: Quantity: Unit Price: 14 Tofu 10 eighteen. 6 21 Sir Rodney ' s Scones 10 8 71 Flotemysost 40 17. 2 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Pirkko Koskitalo's products include: Sir Rodney's Scones, Tofu, and Flotemysost. Customers can purchase the products online at Kirkko.com or by phone at 1-800-910-10333. Prices start at $14.99."
+}

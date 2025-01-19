@@ -1,0 +1,24 @@
+{
+    "filename": "order_10472.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10472\nShipping Details:\nShip Name: Seven Seas Imports\nShip Address: 90 Wadhurst Rd.\nShip City: London\nShip Region: British Isles\nShip Postal Code: OX15 4NB\nShip Country: UK\nCustomer Details:\nCustomer ID: SEVES\nCustomer Name: Seven Seas Imports\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-03-12\nShipped Date: 2017-03-19\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 80\nUnit Price: 3.6\nTotal: 288.0\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 18\nUnit Price: 42.4\nTotal: 763.1999999999999\nTotal Price:\nTotal Price: 1051.1999999999998\n",
+    "augmented_texts": [
+        "Order ID: 10472 Shipping Details: Ship Name: Seven Ocean Imports Ship Address: 90 Wadhurst Rd. Ship Metropolis: London Ship Region: British Islet Ship Postal Code: OX15 4NB Ship Country: UK Customer Details: Client ID: SEVES Customer Name: Seven Seas Imports Employee Details: Employee Gens: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 03 - 12 Shipped Date: 2017 - 03 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 80 Unit of measurement Price: 3. 6 Total: 288. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 18 Unit Price: 42. 4 Total: 763. 1999999999999 Total Price: Total Price: 1051. 1999999999998",
+        "Order ID: 10472 Shipping Details: Ship Name: Seven Seas Imports Ship Address: 90 Wadhurst Rd. Ship City: London Ship Region: British Isles Ship Postal Computer code: OX15 4NB Ship Country: UK Client Details: Customer ID: SEVES Customer Name: Septenary Seas Imports Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Lodge Date: 2017 - 03 - 12 Shipped Date: 2017 - 03 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 80 Unit Toll: 3. 6 Total: 288. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 18 Unit Price: 42. 4 Total: 763. 1999999999999 Total Price: Total Price: 1051. 1999999999998"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Ship Name: Seven Seas ImportsShip Address: 90 Wadhurst Rd.Ship Region: British IslesShip Postal Code: OX15 4NBShip Country: UK. Ship Postal ID: SEVES.Customer: Speedy Express. Customers: 7, 1, 2, 3, 4, 5, 6."
+}

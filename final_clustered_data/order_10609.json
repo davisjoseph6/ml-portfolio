@@ -1,0 +1,24 @@
+{
+    "filename": "order_10609.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10609\nShipping Details:\nShip Name: Du monde entier\nShip Address: 67, rue des Cinquante Otages\nShip City: Nantes\nShip Region: Western Europe\nShip Postal Code: 44000\nShip Country: France\nCustomer Details:\nCustomer ID: DUMON\nCustomer Name: Du monde entier\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-07-24\nShipped Date: 2017-07-30\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 3\nUnit Price: 18.0\nTotal: 54.0\n--------------------------------------------------------------------------------------------------\nProduct: Ikura\nQuantity: 10\nUnit Price: 31.0\nTotal: 310.0\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 6\nUnit Price: 10.0\nTotal: 60.0\nTotal Price:\nTotal Price: 424.0\n",
+    "augmented_texts": [
+        "Order ID: 10609 Shipping Details: Ship Name: Du monde entier Ship Address: 67, rue des Cinquante Otages Ship Metropolis: Nantes Ship Region: Western Europe Ship Postal Code: 44000 Ship Country: France Customer Details: Customer ID: DUMON Customer Name: Du monde entier Employee Details: Employee Name: Robert King Shipper Item: Shipper ID: 2 Shipper Name: United Software system Order Details: Order Date: 2017 - 07 - 24 Shipped Date: 2017 - 07 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 3 Building block Price: 18. 0 Total: 54. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: x Unit Price: 31. 0 Total: 310. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Measure: 6 Unit Cost: 10. 0 Total: 60. 0 Total Price: Total Leontyne price: 424. 0",
+        "Order ID: 10609 Shipping Details: Ship Public figure: Du monde entier Ship Address: 67, rue des Cinquante Otages Ship City: Nantes Ship Region: Western Europe Ship Postal Code: 44000 Ship Land: France Customer Details: Customer ID: DUMON Customer Name: Du monde entier Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 07 - 24 Shipped Escort: 2017 - 07 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Chai Quantity: 3 Unit Price: 18. 0 Total: 54. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Ikura Quantity: 10 Unit Price: 31. 0 Total: 310. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: 6 Unit Price: 10. 0 Total: 60. 0 Total Price: Total Price: 424. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10609. Order Name: Du monde entier. Ship Address: 67, rue des Cinquante Otages, Nantes, France. Postal Code: 44000. Mailing address: DUMON. Customers can choose to pay by credit card or cash."
+}

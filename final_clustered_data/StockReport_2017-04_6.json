@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-04_6.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-04 \n Category : Meat/Poultry  \n id category : 6  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nMishi Kobe Niku\n16\n29\n97\nThüringer Rostbratwurst\n36\n0\n123.79\nPerth Pasties\n21\n0\n32.8\nTourtière\n20\n21\n7.45\n",
+    "augmented_texts": [
+        "Stock Report for 2017 - 04 Category: Meat / Poultry id category: 6 Product Units Sold Units in Stock Unit Price Mishi Kobe Niku sixteen 29 ninety seven Thüringer Rostbratwurst 36 0 123. 79 Perth Pasties 21 cipher 32. 8 Tourtière 20 twenty one 7. 45",
+        "Stock Report for 2017 - 04 Category: Center / Poultry id category: 6 Intersection Units Sold Units in Stock Unit Monetary value Mishi Kobe Niku 16 29 97 Thüringer Rostbratwurst 36 0 123. 79 Perth Pasties 21 zero 32. 8 Tourtière 20 21 septenary. 45"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-04. Category : Meat/Poultry. id category : 6                  Product                Units Sold           Units in Stock                Unit Price                Mishi Kobe Niku16. grotesquely299797. Thüringer Rostbratwurst36. cognitively0.7740                Perth Pasties21. purposefully0 encompasses32.8774."
+}

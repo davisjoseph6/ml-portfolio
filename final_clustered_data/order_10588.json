@@ -1,0 +1,24 @@
+{
+    "filename": "order_10588.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10588\nShipping Details:\nShip Name: QUICK-Stop\nShip Address: Taucherstraße 10\nShip City: Cunewalde\nShip Region: Western Europe\nShip Postal Code: 1307\nShip Country: Germany\nCustomer Details:\nCustomer ID: QUICK\nCustomer Name: QUICK-Stop\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-07-03\nShipped Date: 2017-07-10\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Carnarvon Tigers\nQuantity: 40\nUnit Price: 62.5\nTotal: 2500.0\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 100\nUnit Price: 14.0\nTotal: 1400.0\nTotal Price:\nTotal Price: 3900.0\n",
+    "augmented_texts": [
+        "Order ID: 10588 Shipping Details: Ship Name: QUICK - Stop Ship Address: Taucherstraße 10 Ship City: Cunewalde Ship Region: Westerly Eec Ship Postal Code: 1307 Ship Country: Germany Customer Details: Customer i.d.: QUICK Customer Figure: QUICK - Stop Employee Details: Employee Name: Andrew Melville weston fuller Shipper Details: Shipper idaho: 3 Shipper Name: Federal Shipping Order Item: Guild Day of the month: 2017 - 07 - 03 Shipped Date: 2017 - 07 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Tigers Quantity: 40 Unit Price: 62. 5 Total: 2500. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 100 Unit Price: 14. 0 Total: 1400. 0 Total Price: Total Price: 3900. 0",
+        "Order ID: 10588 Shipping Details: Ship Name: QUICK - Stop Ship Address: Taucherstraße ten Ship City: Cunewalde Ship Region: Western Europe Ship Postal Code: 1307 Ship Country: Germany Client Details: Customer ID: QUICK Customer Name: QUICK - Plosive consonant Employee Details: Employee Public figure: Andrew Melville weston fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 07 - 03 Shipped Appointment: 2017 - 07 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Tigers Quantity: 40 Unit Toll: 62. 5 Total: 2500. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 100 Social unit Price: 14. 0 Total: 1400. 0 Total Price: Total Leontyne price: 3900. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10588. Order Name: QUICK-Stop. Ship Address: Taucherstraße 10. City: Cunewalde. Region: Western Europe. Postal Code: 1307. Country: Germany. Shipper: Federal Shipping. Products: Carnarvon Tigers, Singaporean Hokkien Fried Mee."
+}

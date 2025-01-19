@@ -1,0 +1,24 @@
+{
+    "filename": "order_10501.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10501\nShipping Details:\nShip Name: Blauer See Delikatessen\nShip Address: Forsterstr. 57\nShip City: Mannheim\nShip Region: Western Europe\nShip Postal Code: 68306\nShip Country: Germany\nCustomer Details:\nCustomer ID: BLAUS\nCustomer Name: Blauer See Delikatessen\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-04-09\nShipped Date: 2017-04-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 20\nUnit Price: 7.45\nTotal: 149.0\nTotal Price:\nTotal Price: 149.0\n",
+    "augmented_texts": [
+        "Edict ID: 10501 Shipping Detail: Ship Name: Blauer See Delikatessen Ship Name and address: Forsterstr. 57 Ship City: Mannheim Ship Region: Westerly Europe Ship Postal Computer code: 68306 Ship Country: Germany Customer Details: Customer ID: BLAUS Customer Name: Blauer See Delikatessen Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Item: Order Date: 2017 - 04 - 09 Shipped Date: 2017 - 04 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 20 Unit Price: 7. 45 Total: 149. 0 Total Price: Total Leontyne price: 149. cipher",
+        "Ordering ID: 10501 Shipping Details: Ship Name: Blauer See Delikatessen Ship Address: Forsterstr. 57 Ship City: Mannheim Ship Neighborhood: Westerly Europe Ship Postal Code: 68306 Ship Country: Germany Client Details: Customer idaho: BLAUS Customer Name: Blauer See Delikatessen Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 04 - 09 Shipped Date: 2017 - 04 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 20 Unit Price: septet. 45 Total: 149. 0 Total Price: Total Price: 149. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10501. Order Name: Blauer See Delikatessen. Ship Address: Forsterstr. 57, Mannheim. Postal Code: 68306. Country: Germany. Customer: BLAUS. Shipper: Federal Shipping. Product: Tourtière. Unit Price: 7.45 pounds. Price per unit: 149.0 euros."
+}

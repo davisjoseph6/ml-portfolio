@@ -1,0 +1,12 @@
+{
+    "filename": "508592242.jpg",
+    "metadata": {},
+    "text": "TSLRPTOS ‘*#** TEST SPECIFICATIONS *#* Page 1\n09352:12.2 #*x PINAL REPORT *** 02/10/93\nTest Number: AN 18678 Program Number: 502\n\nYo of Testparts: 4 Priority: 05 status: COMPLETED\n\nmequested by: CHANDRA K BANERJEE (2069) Date Requested: 12/15/92\n\n~ BGTC 611-13W/0\nBackup Contac!\n\n \n\nNo. of Revisions:\nRelated Test Number: 459884 Division: 559\n\nTest Name: NEW CONFIGURATION OF CARBON FILTER\n\nTest Purpose: TEST EFFICIENCY OF C FILTER IN A SIMPLIFIED CONFIGURATION\nMaking and Packing Date: Machine No: Mail out Date:\n\nType of Panel Testing:\n\nKeyword(s)\n\n \n\nAIR DILUTION Added by: BANERIC\nCA FILTER\nCAMEL\n\nSpecial Instructions for the Pilot Plant:\n\nzzz 6580S\n\n \n\f",
+    "augmented_texts": [
+        "TSLRPTOS ‘ * # * * TEST SPECIFICATIONS * # * Page 1 09352: 12. 2 # * xtc PINAL study * * * 02 / 10 / 93 Test Number: AN 18678 Program Number: 502 Yo of Testparts: 4 Priority: 05 position: COMPLETED mequested by: CHANDRA K BANERJEE (2069) Date Requested: 12 / 15 / 92 ~ BGTC 611 - 13W / 0 Backup Contac! No. of Revisions: Related Test Number: 459884 Division: 559 Test Name: NEW CONFIGURATION OF carbon copy FILTER Test Purpose: TEST EFFICIENCY OF C FILTER IN A SIMPLIFIED CONFIGURATION Making and Packing Date: Machine No: Mail out Appointment: Type of Panel Testing: Keyword (s) AIR DILUTION Added by: BANERIC CA FILTER CAMEL Special Instructions for the Pilot Plant: zzz 6580S",
+        "TSLRPTOS ‘ * # * * TEST SPECIFICATIONS * # * Page 1 09352: 12. 2 # * ex PINAL REPORT * * * 02 / 10 / 93 Test Telephone number: AN 18678 Program Number: 502 Yo of Testparts: 4 Antecedency: 05 status: COMPLETED mequested by: CHANDRA K BANERJEE (2069) Date Requested: 12 / 15 / 92 ~ BGTC 611 - 13W / 0 Support Contac! No. of Revisions: Related Test Number: 459884 Division: 559 Test Name: NEW CONFIGURATION OF carbon paper FILTER Test Purpose: TEST EFFICIENCY OF C FILTER IN A SIMPLIFIED CONFIGURATION Making and Packing Date: Machine No: Mail prohibited Date: Character of Panel Testing: Keyword (s) AIR DILUTION Added by: BANERIC CA FILTER CAMEL Special Instruction manual for the Pilot Plant: zzz 6580S"
+    ],
+    "predicted_cluster": 1,
+    "predicted_label": "cluster_1",
+    "summary": "Test Name: NEW CONFIGURATION of CARBON FILTER. Test Purpose: TEST EFFICIENCY of C FILter in a SIMPLIFIED CONFIGuration. Machine No: Machine no: Mail out Date: 12/15/92. Type of Panel Testing: \"C\" - Carbon Carbon Film."
+}

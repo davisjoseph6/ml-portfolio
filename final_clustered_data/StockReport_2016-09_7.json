@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-09_7.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-09 \n Category : Produce  \n id category : 7  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nRössle Sauerkraut\n32\n26\n45.6\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 09 Category: Produce id category: 7 Product Units Sold Units in Stock Unit Price Rössle Sauerkraut 32 twenty six 45. 6",
+        "Stock Report for 2016 - 09 Category: Produce id category: 7 Product Units Sold Units in Stock Unit Price Rössle Sauerkraut 32 xxvi xlv. 6"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-09. Category : Produce. id category : 7. Price: €2.50 per kilogram. Number of units sold: 32,26. Units in Stock: 26,45. Units in stock in price: £3.6 per kg."
+}

@@ -1,0 +1,12 @@
+{
+    "filename": "00086321.jpg",
+    "metadata": {},
+    "text": "elle\n\nREPORT\n\nr To 4\nP, LORILLARD COMPANY\n\non\n\nEFFECT OF FILTERS\non\n\nREMOVAL OF TAR AND NICOTINE\n\nIN\n\nCIGARETTE SMOKE\n\n4 DECEMBER 1962\n\nTze98000\n\f",
+    "augmented_texts": [
+        "elle REPORT r To 4 P, LORILLARD ship's company on EFFECT OF FILTERS on REMOVAL OF TAR AND NICOTINE IN CIGARETTE pot 4 DECEMBER 1962 Tze98000",
+        "elle study r To 4 P, LORILLARD COMPANY on EFFECT OF FILTERS on REMOVAL OF TAR AND NICOTINE IN CIGARETTE SMOKE 4 DECEMBER 1962 Tze98000"
+    ],
+    "predicted_cluster": 1,
+    "predicted_label": "cluster_1",
+    "summary": "elle.774,000 people died as a result of smoke from the cigarette industry in 1962. The smoke was caused by the use of cigarette lighter fluid. In 1962, the U.S. government banned the production of cigarettes in an effort to reduce the amount of smog."
+}

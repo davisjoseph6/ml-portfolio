@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10592.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10592\nCustomer ID: LEHMS\nOrder Date: 2017-07-08\nCustomer Details:\nContact Name:\nRenate Messner\nAddress:\nMagazinweg 7\nCity:\nFrankfurt a.M.\nPostal Code:\n60528\nCountry:\nGermany\nPhone:\n069-0245984\nFax:\n069-0245874\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n15\nGenen Shouyu\n25\n15.5\n26\nGumbär Gummibärchen\n5\n31.23\n \n \nTotalPrice\n543.65\nPage 1\n",
+    "augmented_texts": [
+        "Bill Orderliness ID: 10592 Customer ID: LEHMS Order Date: 2017 - 07 - 08 Customer Details: Contact Name: Renate Messner Name and address: Magazinweg 7 City: Frankfurt a. M. Postal Code: 60528 Country: Germany Phone: 069 - 0245984 Fax: 069 - 0245874 Product Details: Product ID Product Name Quantity Unit Price 15 Genen Shouyu 25 15. 5 26 Gumbär Gummibärchen 5 31. xxiii TotalPrice 543. 65 Page 1",
+        "Invoice Order ID: 10592 Client ID: LEHMS Order Date: 2017 - 07 - 08 Customer Details: Contact Name: Renate Messner Address: Magazinweg 7 City: Frankfurt a. M. Postal Code: 60528 Country: Germany Phone: 069 - 0245984 Fax: 069 - 0245874 Product Contingent: Product gem state Product Name Quantity Unit Price xv Genen Shouyu 25 15. 5 26 Gumbär Gummibärchen 5 31. 23 TotalPrice 543. 65 Page i"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10592.Customer ID: LEHMS. Order Date: 2017-07-08. Customer Name: Renate Messner. Address: 7 Magazinweg 7. City: Frankfurt a.M. Postal Code:60528. Country: Germany. Phone: 069-0245984.Fax: 605-069."
+}

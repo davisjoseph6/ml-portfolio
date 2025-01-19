@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-08_5.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-08 \n Category : Grains/Cereals  \n id category : 5  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nRavioli Angelo\n2\n36\n19.5\nWimmers gute Semmelknödel\n9\n22\n33.25\n",
+    "augmented_texts": [
+        "Line of descent Paper for 2016 - 08 Category: Grains / Cereals id category: 5 Product Units Sold Social unit in Stock Unit Price Cappelletti Angelo 2 36 19. 5 Wimmers gute Semmelknödel 9 22 33. 25",
+        "Livestock Report for 2016 - 08 Category: Grains / Cereals id category: 5 Product Units Sold Unit in Stock Unit Price Cappelletti Angelo 2 36 19. 5 Wimmers gute Semmelknödel 9 22 xxxiii. 25"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-08. Category : Grains/Cereals. id category : 5. Price: $2.36 per pound. Volume: 2.5 tonnes. Cost: £1.25 per tonne. Total volume: 1.2 tonnes, Volume : 2,000. Number of tonnes sold: 3,500."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10620.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10620\nShipping Details:\nShip Name: Laughing Bacchus Wine Cellars\nShip Address: 2319 Elm St.\nShip City: Vancouver\nShip Region: North America\nShip Postal Code: V3F 2K1\nShip Country: Canada\nCustomer Details:\nCustomer ID: LAUGB\nCustomer Name: Laughing Bacchus Wine Cellars\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-08-05\nShipped Date: 2017-08-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 5\nUnit Price: 4.5\nTotal: 22.5\n--------------------------------------------------------------------------------------------------\nProduct: Filo Mix\nQuantity: 5\nUnit Price: 7.0\nTotal: 35.0\nTotal Price:\nTotal Price: 57.5\n",
+    "augmented_texts": [
+        "Order ID: 10620 Shipping Details: Ship Name: Laughing Bacchus Wine Cellars Ship Address: 2319 Elm St. Ship City: Vancouver Ship Region: North The states Ship Postal Code: V3F 2K1 Ship Country: Canada Customer Details: Client ID: LAUGB Customer Name: Laughing Bacchus Wine Cellars Employee Details: Employee Name: Saint andrew the apostle Fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 08 - 05 Shipped Date: 2017 - 08 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 5 Unit Terms: 4. 5 Total: 22. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Filo Mix Quantity: 5 Unit Price: 7. 0 Total: 35. 0 Total Price: Total Price: 57. quintuplet",
+        "Order ID: 10620 Shipping Details: Ship Figure: Laughing Bacchus Wine Cellars Ship Address: 2319 Elm St. Ship City: Vancouver Ship Region: North America Ship Postal Code: V3F 2K1 Ship Land: Canada Customer Details: Customer ID: LAUGB Customer Name: Laughing Bacchus Wine Cellars Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Merchant vessels Order Details: Order Date: 2017 - 08 - 05 Shipped Date: 2017 - 08 - xiv Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 5 Building block Price: 4. 5 Total: 22. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Filo Mix Quantity: phoebe Unit Price: vii. 0 Total: 35. 0 Total Price: Total Price: 57. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10620. Order Name: Laughing Bacchus Wine Cellars. Ship Address: 2319 Elm St. Shipper: Federal Shipping. Postal Code: V3F 2K1. Customers: LAUGB, Vancouver, Canada. Products: Filo Mix."
+}

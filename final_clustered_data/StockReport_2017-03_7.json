@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-03_7.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-03 \n Category : Produce  \n id category : 7  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nUncle Bob's Organic Dried Pears\n30\n15\n30\nTofu\n12\n35\n23.25\nRössle Sauerkraut\n18\n26\n45.6\nManjimup Dried Apples\n46\n20\n53\nLonglife Tofu\n16\n4\n10\n",
+    "augmented_texts": [
+        "Stock Report for 2017 - 03 Category: Produce id class: 7 Product Units Sold Units in Stock Unit Price Uncle Bob ' siemens Organic Dried Pear 30 15 30 Tofu 12 35 23. 25 Rössle Sauerkraut 18 26 45. 6 Manjimup Dried Apples 46 twenty fifty three Longlife Bean curd 16 4 10",
+        "Stock News report for 2017 - 03 Category: Produce id category: 7 Product Units Sold Units in Stock Unit of measurement Price Uncle Bob ' s Organic Dried Pears 30 15 30 Tofu 12 35 23. 25 Rössle Sauerkraut xviii 26 45. 6 Manjimup Dried Apples xlvi 20 53 Longlife Tofu xvi 4 10"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-03. Category : Produce. id category : 7              Product: \"Pears,\" \"Sauerkraut\", \"Longlife Tofu\"  Price: $1.99 per pound. Price per unit: $2.50."
+}

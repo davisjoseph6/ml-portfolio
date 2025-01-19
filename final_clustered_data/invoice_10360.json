@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10360.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10360\nCustomer ID: BLONP\nOrder Date: 2016-11-22\nCustomer Details:\nContact Name:\nFrédérique Citeaux\nAddress:\n24, place Kléber\nCity:\nStrasbourg\nPostal Code:\n67000\nCountry:\nFrance\nPhone:\n88.60.15.31\nFax:\n88.60.15.32\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n28\nRössle Sauerkraut\n30\n36.4\n29\nThüringer Rostbratwurst\n35\n99.0\n38\nCôte de Blaye\n10\n210.8\n49\nMaxilaku\n35\n16.0\n54\nTourtière\n28\n5.9\n \n \nTotalPrice\n7390.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10360 Customer ID: BLONP Order Date: 2016 - 11 - 22 Customer Details: Contact Name: Frédérique Citeaux Address: 24, place Kléber City: Strasbourg Postal Code: 67000 Land: France Earpiece: lxxxviii. 60. 15. 31 Facsimile machine: 88. 60. 15. 32 Product Details: Product ID Merchandise Name Quantity Unit Price 28 Rössle Sauerkraut 30 thirty six. quaternion 29 Thüringer Rostbratwurst thirty five 99. 0 38 Côte de Blaye 10 210. 8 49 Maxilaku 35 sixteen. 0 54 Tourtière 28 5. 9 TotalPrice 7390. ii Page 1",
+        "Invoice Order ID: 10360 Customer ID: BLONP Gild Particular date: 2016 - 11 - 22 Customer Details: Contact Name: Frédérique Citeaux Address: two dozen, place Kléber Metropolis: Strasbourg Postal Code: 67000 Country: France Phone: 88. 60. 15. 31 Facsimile: 88. 60. 15. 32 Product Details: Product gem state Product Name Quantity Unit Price 28 Rössle Sauerkraut 30 36. 4 29 Thüringer Rostbratwurst 35 99. 0 38 Côte de Blaye 10 210. 8 49 Maxilaku 35 xvi. 0 54 Tourtière 28 5. 9 TotalPrice 7390. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10360.Customer ID: BLONP. Order Date: 2016-11-22.Product: Rössle Sauerkraut.Unit Price: 7390.2. Price per pound: $1.99. Total Price for all products is $7.739.4."
+}

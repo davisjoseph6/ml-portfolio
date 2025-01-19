@@ -1,0 +1,24 @@
+{
+    "filename": "order_10397.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10397\nShipping Details:\nShip Name: Princesa Isabel Vinhos\nShip Address: Estrada da saúde n. 58\nShip City: Lisboa\nShip Region: Southern Europe\nShip Postal Code: 1756\nShip Country: Portugal\nCustomer Details:\nCustomer ID: PRINI\nCustomer Name: Princesa Isabel Vinhos\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-12-27\nShipped Date: 2017-01-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 10\nUnit Price: 8.0\nTotal: 80.0\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 18\nUnit Price: 42.4\nTotal: 763.1999999999999\nTotal Price:\nTotal Price: 843.1999999999999\n",
+    "augmented_texts": [
+        "Order ID: 10397 Shipping Details: Ship Name: Princesa Isabel Vinhos Ship Address: Estrada da saúde n. 58 Ship City: Lisboa Ship Region: Southern Europe Ship Postal Code: 1756 Ship Country: Portugal Client Details: Customer ID: PRINI Customer Name: Princesa Isabel Vinhos Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Particular date: 2016 - 12 - 27 Shipped Date: 2017 - 01 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Sir Rodney ' due south Scones Quantity: 10 Unit Price: 8. 0 Total: 80. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 18 Unit Price: 42. 4 Total: 763. 1999999999999 Entire Price: Total Price: 843. 1999999999999",
+        "Order ID: 10397 Shipping Details: Ship Name: Princesa Isabel Vinhos Ship Address: Estrada da saúde n. 58 Ship City: Lisboa Ship Part: Southern Europe Ship Postal Code: 1756 Ship Country: Portugal Customer Details: Customer ID: PRINI Customer Name: Princesa Isabel Vinhos Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 1 Shipper Public figure: Speedy Express Order Details: Order Date: 2016 - 12 - 27 Shipped Date: 2017 - 01 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: 10 Unit Price: 8. 0 Total: 80. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apple Quantity: 18 Unit Price: 42. 4 Total: 763. 1999999999999 Total Price: Total Price: 843. 1999999999999"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10397. Ship Address: Estrada da saúde n. 58 in Lisboa. Postal Code: 1756. Country: Portugal. Customer: Princesa Isabel Vinhos. Shipper: Speedy Express. Product: Manjimup Dried Apples."
+}

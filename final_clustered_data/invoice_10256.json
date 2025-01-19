@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10256.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10256\nCustomer ID: WELLI\nOrder Date: 2016-07-15\nCustomer Details:\nContact Name:\nPaula Parente\nAddress:\nRua do Mercado, 12\nCity:\nResende\nPostal Code:\n08737-363\nCountry:\nBrazil\nPhone:\n(14) 555-8122\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n53\nPerth Pasties\n15\n26.2\n77\nOriginal Frankfurter grüne Soße\n12\n10.4\n \n \nTotalPrice\n517.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Club ID: 10256 Customer ID: WELLI Order Date: 2016 - 07 - 15 Client Details: Contact Name: Paula Parente Address: Rua do Mercado, 12 City: Resende Postal Code: 08737 - 363 Country: Brazil Phone: (xiv) 555 - 8122 Fax: None Product Details: Product ID Product Name Quantity Unit Price 53 Perth Pasties 15 26. 2 lxxvii Original Frankfurter grüne Soße 12 ten. 4 TotalPrice 517. 8 Page 1",
+        "Invoice Order ID: 10256 Customer ID: WELLI Order Day of the month: 2016 - 07 - 15 Customer Details: Touch Name: Paula Parente Address: Rua do Mercado, 12 Metropolis: Resende Postal Code: 08737 - 363 Country: Brazil Phone: (14) 555 - 8122 Fax: None Product Details: Cartesian product ID Product Name Quantity Unit Price 53 Perth Pasties 15 twenty six. 2 77 Original Frankfurter grüne Soße 12 10. 4 TotalPrice 517. 8 Page one"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: WELLI Order ID: 10256 Customers: \"Paula Parente\" Order Date: 2016-07-15 Customer Details:              \"Contact Name\":            \"Para Paula\"  Postal Code:   \"Rua do Mercado, 12\" Phone:    (14) 555-8122Fax:                                          “Product ID”: “Papa Paulo’s Pasties‚."
+}

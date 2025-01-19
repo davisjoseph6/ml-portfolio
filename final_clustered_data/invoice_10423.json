@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10423.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10423\nCustomer ID: GOURL\nOrder Date: 2017-01-23\nCustomer Details:\nContact Name:\nAndré Fonseca\nAddress:\nAv. Brasil, 442\nCity:\nCampinas\nPostal Code:\n04876-786\nCountry:\nBrazil\nPhone:\n(11) 555-9482\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n31\nGorgonzola Telino\n14\n10.0\n59\nRaclette Courdavault\n20\n44.0\n \n \nTotalPrice\n1020.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10423 Customer idaho: GOURL Order Date: 2017 - 01 - 23 Customer Details: Contact Figure: André Fonseca Savoir faire: Ab. Brasil, 442 City: Campinas Postal Code: 04876 - 786 Country: Brazil Phone: (11) 555 - 9482 Fax: None Product Item: Product ID Cartesian product Name Quantity Unit Price 31 Gorgonzola Telino 14 10. 0 fifty nine Raclette Courdavault 20 44. 0 TotalPrice 1020. 0 Page i",
+        "Bill Order ID: 10423 Customer i.d.: GOURL Order Date: 2017 - 01 - 23 Customer Details: Contact Epithet: André Fonseca Address: Av. Brasil, 442 Metropolis: Campinas Postal Code: 04876 - 786 Country: Brazil Phone: (11) 555 - 9482 Fax: None Intersection Details: Product ID Product Name Quantity Whole Price 31 Gorgonzola Telino 14 10. 0 59 Raclette Courdavault 20 44. 0 TotalPrice 1020. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: GOURL. Order Date: 2017-01-23. Customer Details: André Fonseca. Product ID: \"Gorgonzola Telino,\" Unit Price: $1020.0. Price for a single unit is $1,000."
+}

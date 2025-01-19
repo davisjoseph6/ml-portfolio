@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10340.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10340\nCustomer ID: BONAP\nOrder Date: 2016-10-29\nCustomer Details:\nContact Name:\nLaurence Lebihan\nAddress:\n12, rue des Bouchers\nCity:\nMarseille\nPostal Code:\n13008\nCountry:\nFrance\nPhone:\n91.24.45.40\nFax:\n91.24.45.41\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n18\nCarnarvon Tigers\n20\n50.0\n41\nJack's New England Clam Chowder\n12\n7.7\n43\nIpoh Coffee\n40\n36.8\n \n \nTotalPrice\n2564.4\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order i.d.: 10340 Customer ID: BONAP Rules of order Date: 2016 - 10 - xxix Customer Details: Contact Name: Laurence Lebihan Address: xii, rue des Bouchers City: Marseille Postal Code: 13008 Country: France Phone: 91. 24. 45. 40 Fax: 91. 24. 45. forty one Product Details: Product ID Product Name Quantity Whole Price 18 Carnarvon World tamil movement 20 50. 0 xli Jack ' s New England Clam Chowder 12 7. 7 43 Ipoh Coffee 40 36. octad TotalPrice 2564. 4 Sir frederick handley page 1",
+        "Account Order ID: 10340 Customer ID: BONAP Order of magnitude Date: 2016 - 10 - 29 Customer Details: Contact Name: Laurence Lebihan Address: xii, rue des Bouchers Urban center: Marseille Postal Codification: 13008 Country: France Phone: 91. 24. 45. 40 Fax: 91. xxiv. 45. 41 Product Detail: Product ID Product Name Quantity Unit Price 18 Carnarvon Tigers 20 50. 0 41 Jack ' s New England Clam Chowder 12 7. vii 43 Ipoh Coffee 40 36. 8 TotalPrice 2564. quatern Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: BONAP. Order Date: 2016-10-29. Customer: Laurence Lebihan. Address: rue des Bouchers, Marseille. Postal Code: 13008. Country: France. Product: Jack's New England Clam Chowder."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10287.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10287\nCustomer ID: RICAR\nOrder Date: 2016-08-22\nCustomer Details:\nContact Name:\nJanete Limeira\nAddress:\nAv. Copacabana, 267\nCity:\nRio de Janeiro\nPostal Code:\n02389-890\nCountry:\nBrazil\nPhone:\n(21) 555-3412\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n16\nPavlova\n40\n13.9\n34\nSasquatch Ale\n20\n11.2\n46\nSpegesild\n15\n9.6\n \n \nTotalPrice\n924.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10287 Customer ID: RICAR Order Date: 2016 - 08 - 22 Client Details: Contact Name: Janete Limeira Address: Av. Copacabana, 267 City: Rio de Janeiro Postal Code: 02389 - 890 Country: Brazil Phone: (xxi) 555 - 3412 Fax: None Product Details: Product ID Product Name Quantity Unit Mary leontyne price 16 Pavlova 40 thirteen. 9 34 Sasquatch Ale xx 11. 2 46 Spegesild xv 9. 6 TotalPrice 924. 0 Page 1",
+        "Invoice Order ID: 10287 Customer ID: RICAR Order of magnitude Date: 2016 - 08 - 22 Customer Details: Contact Name: Janete Limeira Reference: Av. Copacabana, 267 City: Rio de Janeiro Postal Code: 02389 - 890 Country: Brazil Phone: (21) 555 - 3412 Fax: None Ware Details: Product ID Product Name Measure Unit Price 16 Anna pavlova 40 13. 9 34 Bigfoot Ale 20 eleven. 2 46 Spegesild 15 9. 6 TotalPrice 924. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: \"RICAR\" Order ID: 10287. Customer ID is RICar. Order Date: 2016-08-22. Product Name is \"Sasquatch Ale\" Price is $924.0. The product is called \"Pavlova\" and is sold in Brazil."
+}

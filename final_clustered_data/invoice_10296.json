@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10296.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10296\nCustomer ID: LILAS\nOrder Date: 2016-09-03\nCustomer Details:\nContact Name:\nCarlos González\nAddress:\nCarrera 52 con Ave. Bolívar #65-98 Llano Largo\nCity:\nBarquisimeto\nPostal Code:\n3508\nCountry:\nVenezuela\nPhone:\n(9) 331-6954\nFax:\n(9) 331-7256\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n11\nQueso Cabrales\n12\n16.8\n16\nPavlova\n30\n13.9\n69\nGudbrandsdalsost\n15\n28.8\n \n \nTotalPrice\n1050.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Ordering ID: 10296 Customer ID: LILAS Order Day of the month: 2016 - 09 - 03 Client Details: Contact Public figure: Carlos González Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo City: Barquisimeto Postal Code: 3508 Country: Venezuela Telephone: (9) 331 - 6954 Fax: (9) 331 - 7256 Product Detail: Product idaho Product Name Quantity Unit Price 11 Queso Cabrales 12 16. 8 sixteen Pavlova 30 13. 9 69 Gudbrandsdalsost 15 28. 8 TotalPrice 1050. 6 Page 1",
+        "Invoice Order ID: 10296 Customer ID: LILAS Order Date: 2016 - 09 - 03 Customer Details: Contact Name: Carlos González Address: Carrera 52 con Ave. Bolívar # sixty five - 98 Llano Largo City: Barquisimeto Postal Code: 3508 Country: Venezuela Earpiece: (9) 331 - 6954 Fax: (niner) 331 - 7256 Ware Details: Product ID Merchandise Name Quantity Unit Cost 11 Queso Cabrales 12 16. 8 16 Pavlova 30 thirteen. 9 69 Gudbrandsdalsost 15 xxviii. 8 TotalPrice 1050. vi Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: LILAS. Order Date: 2016-09-03.Customer Details:                         Carlos González. Phone: 331-6954.Fax: 329-7256. Product ID: \"Gudbrandsdalsost\" Price: $1050.6."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10297.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10297\nShipping Details:\nShip Name: Blondel père et fils\nShip Address: 24, place Kléber\nShip City: Strasbourg\nShip Region: Western Europe\nShip Postal Code: 67000\nShip Country: France\nCustomer Details:\nCustomer ID: BLONP\nCustomer Name: Blondesddsl père et fils\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-09-04\nShipped Date: 2016-09-10\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 60\nUnit Price: 14.4\nTotal: 864.0\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 20\nUnit Price: 27.8\nTotal: 556.0\nTotal Price:\nTotal Price: 1420.0\n",
+    "augmented_texts": [
+        "Order ID: 10297 Shipping Details: Ship Name: Blondel père et fils Ship Address: 24, place Kléber Ship City: Strasbourg Ship Region: Westerly Europe Ship Postal Code: 67000 Ship Body politic: France Customer Details: Customer ID: BLONP Client Name: Blondesddsl père et fils Employee Detail: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 04 Shipped Date: 2016 - 09 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 60 Unit Price: 14. four Total: 864. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Amount: 20 Unit Price: 27. 8 Total: 556. 0 Total Price: Entire Price: 1420. 0",
+        "Order ID: 10297 Ship Item: Ship Figure: Blondel père et fils Ship Address: 24, place Kléber Ship City: Strasbourg Ship Region: Western Europe Ship Postal Code: 67000 Ship Country: France Customer Details: Customer ID: BLONP Customer Name: Blondesddsl père et fils Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 04 Shipped Date: 2016 - 09 - 10 Merchandise: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 60 Unit Price: 14. 4 Total: 864. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Mozzarella di Giovanni Quantity: 20 Unit Price: 27. 8 Total: 556. 0 Total Price: Total Price: 1420. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10297. Ship Address: 24, place Kléber, Strasbourg. Postal Code: 67000. Country: France. Customer: Blondesddsl père et fils. Shipper: United Package. Products: Chartreuse verte, Mozzarella di Giovanni."
+}

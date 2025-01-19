@@ -1,0 +1,24 @@
+{
+    "filename": "order_10365.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10365\nShipping Details:\nShip Name: Antonio Moreno Taquería\nShip Address: Mataderos  2312\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5023\nShip Country: Mexico\nCustomer Details:\nCustomer ID: ANTON\nCustomer Name: Antonio Moreno Taquería\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-11-27\nShipped Date: 2016-12-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 24\nUnit Price: 16.8\nTotal: 403.20000000000005\nTotal Price:\nTotal Price: 403.20000000000005\n",
+    "augmented_texts": [
+        "Order ID: 10365 Shipping Detail: Ship Name: Antonio Moreno Taquería Ship Address: Mataderos 2312 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5023 Ship Country: United mexican states Customer Details: Customer ID: ANTON Customer Name: Antonio Moreno Taquería Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 11 - 27 Shipped Date: 2016 - 12 - 02 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 24 Unit Price: 16. viii Total: 403. 20000000000005 Total Price: Total Price: 403. 20000000000005",
+        "Order ID: 10365 Shipping Details: Ship Name: Antonio Moreno Taquería Ship Address: Mataderos 2312 Ship City: México 500. F. Ship Region: Central America Ship Postal Code: 5023 Ship Country: Mexico Customer Details: Customer ID: ANTON Customer Name: Antonio Moreno Taquería Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 11 - 27 Shipped Date: 2016 - 12 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Measure: xxiv Unit Price: 16. 8 Aggregate: 403. 20000000000005 Total Price: Total Price: 403. 20000000000005"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10365; Ship Address: Mataderos  2312; Postal Code: 5023; Country: Mexico; City: México D.F.; Region: Central America. Ship Name: Antonio Moreno Taquería; Shipper: United Package. Product: Queso Cabrales;Unit Price: 16.8; Unit Quantity: 24; unit price: 403.20000000000005."
+}

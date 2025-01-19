@@ -1,0 +1,24 @@
+{
+    "filename": "order_10271.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10271\nShipping Details:\nShip Name: Split Rail Beer & Ale\nShip Address: P.O. Box 555\nShip City: Lander\nShip Region: North America\nShip Postal Code: 82520\nShip Country: USA\nCustomer Details:\nCustomer ID: SPLIR\nCustomer Name: Split Rail Beer & Ale\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-08-01\nShipped Date: 2016-08-30\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 24\nUnit Price: 2.0\nTotal: 48.0\nTotal Price:\nTotal Price: 48.0\n",
+    "augmented_texts": [
+        "Order ID: 10271 Shipping Details: Ship Name: Split Runway Beer & Ale Ship Address: P. Type o. Box 555 Ship City: Lander Ship Region: North America Ship Postal Code: 82520 Ship Country: USA Customer Details: Customer ID: SPLIR Customer Name: Split Rail Beer & Ale Employee Item: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 08 - 01 Shipped Day of the month: 2016 - 08 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Measure: 24 Unit Price: 2. 0 Total: 48. 0 Total Price: Total Price: 48. 0",
+        "Lodge ID: 10271 Shipping Details: Ship Name: Split up Rails Beer & Ale Ship Address: P. O. Box 555 Ship City: Lander Ship Region: North America Ship Postal Computer code: 82520 Ship Country: USA Customer Details: Customer ID: SPLIR Customer Epithet: Split Rail Beer & Ale Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 08 - 01 Shipped Date: 2016 - 08 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 24 Unit Price: 2. 0 Total: 48. 0 Total Price: Total Price: 48. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10271. Order Name: Split Rail Beer & Ale. Ship Address: P.O. Box 555. Postal Code: 82520. Country: USA. Shipper: United Package. Product: Geitost. Quantity: 24. Unit Price: 2.0."
+}

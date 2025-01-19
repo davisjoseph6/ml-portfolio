@@ -1,0 +1,24 @@
+{
+    "filename": "order_10599.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10599\nShipping Details:\nShip Name: B-s Beverages\nShip Address: Fauntleroy Circus\nShip City: London\nShip Region: British Isles\nShip Postal Code: EC2 5NT\nShip Country: UK\nCustomer Details:\nCustomer ID: BSBEV\nCustomer Name: B's Beverages\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-07-15\nShipped Date: 2017-07-21\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 10\nUnit Price: 49.3\nTotal: 493.0\nTotal Price:\nTotal Price: 493.0\n",
+    "augmented_texts": [
+        "Order ID: 10599 Shipping Details: Ship Name: B - due south Beverages Ship Address: Fauntleroy Circus Ship City: Greater london Ship Region: British Isles Ship Postal Computer code: EC2 5NT Ship Country: UK Customer Details: Customer ID: BSBEV Customer Figure: B ' s Beverages Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: trine Shipper Name: Federal Transportation Order Details: Order Date: 2017 - 07 - 15 Shipped Appointment: 2017 - 07 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 10 Unit Price: 49. 3 Total: 493. 0 Full Price: Total Price: 493. 0",
+        "Order gem state: 10599 Shipping Details: Ship Name: Boron - s Beverages Ship Address: Fauntleroy Circus Ship City: Greater london Ship Region: British Isles Ship Postal Code: EC2 5NT Ship Country: UK Customer Details: Customer ID: BSBEV Customer Name: B ' s Beverages Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 07 - 15 Shipped Escort: 2017 - 07 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 10 Unit Price: 49. 3 Total: 493. cipher Total Price: Entire Price: 493. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10599. Order Name: B-s Beverages. Ship Address: Fauntleroy Circus, London. Postal Code: EC2 5NT. Country: UK. Shipper: Federal Shipping. Product: Tarte au sucre. Unit Price: 49.3."
+}

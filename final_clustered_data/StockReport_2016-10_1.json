@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-10_1.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-10 \n Category : Beverages  \n id category : 1  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nChang\n56\n17\n19\nSteeleye Stout\n80\n20\n18\nCôte de Blaye\n20\n17\n263.5\nChartreuse verte\n4\n69\n18\nIpoh Coffee\n40\n17\n46\nRhönbräu Klosterbier\n50\n125\n7.75\nLakkalikööri\n51\n57\n18\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 10 Category: Beverages id category: 1 Product Units Sold Units in Stock Unit Price Yangtze kiang 56 17 19 Steeleye Stout eighty 20 18 Côte de Blaye 20 17 263. fin Chartreuse verte 4 ilxx 18 Ipoh Coffee 40 17 46 Rhönbräu Klosterbier 50 125 7. seventy five Lakkalikööri 51 57 18",
+        "Stock Report for 2016 - 10 Category: Beverages id category: 1 Product Units Sold Units in Stock Building block Price Chang lvi 17 19 Steeleye Stout 80 20 18 Côte first state Blaye 20 17 263. 5 Chartreuse verte 4 69 18 Ipoh Coffee 40 17 46 Rhönbräu Klosterbier 50 125 7. seventy five Lakkalikööri 51 57 18"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-10. Category : Beverages. id category : 1.Product: Beverage. type: Drink. category: Beer, Stout, Coffee, Beer. price: $1.50 per litre. product: beverage, beer, coffee, beverage. unit: unit price. brand: beer."
+}

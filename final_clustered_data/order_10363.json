@@ -1,0 +1,24 @@
+{
+    "filename": "order_10363.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10363\nShipping Details:\nShip Name: Drachenblut Delikatessen\nShip Address: Walserweg 21\nShip City: Aachen\nShip Region: Western Europe\nShip Postal Code: 52066\nShip Country: Germany\nCustomer Details:\nCustomer ID: DRACD\nCustomer Name: Drachenblut Delikatessen\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-11-26\nShipped Date: 2016-12-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 20\nUnit Price: 10.0\nTotal: 200.0\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 12\nUnit Price: 6.2\nTotal: 74.4\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 12\nUnit Price: 14.4\nTotal: 172.8\nTotal Price:\nTotal Price: 447.20000000000005\n",
+    "augmented_texts": [
+        "Order ID: 10363 Shipping Inside information: Ship Name: Drachenblut Delikatessen Ship Speech: Walserweg 21 Ship City: Aken Ship Region: Western Europe Ship Postal Code: 52066 Ship Country: Germany Customer Details: Customer ID: DRACD Customer Name: Drachenblut Delikatessen Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - xi - 26 Shipped Escort: 2016 - 12 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 20 Unit Price: 10. 0 Total: 200. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 12 Unit Price: captain hicks. 2 Total: 74. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 12 Unit Price: fourteen. 4 Total: 172. 8 Total Price: Entire Price: 447. 20000000000005",
+        "Order ID: 10363 Shipping Detail: Ship Name: Drachenblut Delikatessen Ship Address: Walserweg 21 Ship City: Aken Ship Region: Western Europe Ship Postal Code: 52066 Ship Country: Germany Customer Details: Customer ID: DRACD Customer Name: Drachenblut Delikatessen Employee Details: Employee Gens: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - eleven - 26 Shipped Date: 2016 - 12 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: twenty Building block Price: 10. 0 Total: 200. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 12 Unit Price: 6. 2 Total: 74. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 12 Unit Price: 14. 4 Total: 172. 8 Total Price: Total Price: 447. 20000000000005"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10363. Ship Name: Drachenblut Delikatessen. Address: Walserweg 21, Aachen. Country: Germany. Postal Code: 52066. Customers: DRACD. Shipper: Federal Shipping. Products: Rhönbräu Klosterbier, Lakkalikööri."
+}

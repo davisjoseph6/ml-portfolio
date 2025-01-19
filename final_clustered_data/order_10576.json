@@ -1,0 +1,24 @@
+{
+    "filename": "order_10576.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10576\nShipping Details:\nShip Name: Tortuga Restaurante\nShip Address: Avda. Azteca 123\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5033\nShip Country: Mexico\nCustomer Details:\nCustomer ID: TORTU\nCustomer Name: Tortuga Restaurante\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-06-23\nShipped Date: 2017-06-30\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 10\nUnit Price: 18.0\nTotal: 180.0\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 20\nUnit Price: 12.5\nTotal: 250.0\n--------------------------------------------------------------------------------------------------\nProduct: Gula Malacca\nQuantity: 21\nUnit Price: 19.45\nTotal: 408.45\nTotal Price:\nTotal Price: 838.45\n",
+    "augmented_texts": [
+        "Order ID: 10576 Shipping Details: Ship Name: Tortuga Restaurante Ship Address: Avda. Azteca 123 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5033 Ship Country: Mexico Customer Details: Customer ID: TORTU Customer Name: Tortuga Restaurante Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Parliamentary procedure Date: 2017 - 06 - 23 Shipped Date: 2017 - 06 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Chai Quantity: 10 Unit Price: 18. 0 Total: 180. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 20 Unit Price: 12. cinque Sum: 250. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Gula Malacca Quantity: xxi Unit Price: 19. xlv Total: 408. 45 Total Cost: Total Price: 838. 45",
+        "Order ID: 10576 Shipping Particular: Ship Name: Tortuga Restaurante Ship Address: Avda. Azteca 123 Ship City: México D. Degree fahrenheit. Ship Region: Central America Ship Postal Code: 5033 Ship Country: Mexico Customer Details: Customer ID: TORTU Customer Name: Tortuga Restaurante Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 06 - xxiii Shipped Date: 2017 - 06 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 10 Unit Price: 18. 0 Total: 180. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Measure: 20 Building block Price: 12. 5 Total: 250. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Quantity: 21 Unit Price: 19. 45 Total: 408. 45 Full Price: Total Damage: 838. 45"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10576. Ship Name: Tortuga Restaurante. Address: Avda. Azteca 123. Postal Code: 5033. Country: Mexico. Customer: TORTU. Employee: Janet Leverling. Shipper: Federal Shipping. Products: Chai, Gula Malacca, and Gorgonzola Telino."
+}

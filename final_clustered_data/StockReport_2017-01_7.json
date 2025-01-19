@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-01_7.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-01 \n Category : Produce  \n id category : 7  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nTofu\n67\n35\n23.25\nRössle Sauerkraut\n42\n26\n45.6\nLonglife Tofu\n15\n4\n10\n",
+    "augmented_texts": [
+        "Stock Report for 2017 - 01 Category: Produce id category: 7 Product Units Sold Units in Stock Unit Price Tofu 67 thirty five 23. xxv Rössle Sauerkraut 42 26 45. 6 Longlife Tofu 15 4 10",
+        "Stock Reputation for 2017 - 01 Category: Produce id category: 7 Product Units Sold Units in Malcolm stock Unit Price Tofu 67 35 23. 25 Rössle Sauerkraut 42 26 xlv. 6 Longlife Tofu 15 4 10"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-01. Category : Produce. id category : 7                   Product: Tofu. Units Sold: 67. Units in StockUnit Price: 23.25. Rössle Sauerkraut: 42. Unloaded: 26."
+}

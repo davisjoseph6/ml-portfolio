@@ -1,0 +1,24 @@
+{
+    "filename": "order_10373.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10373\nShipping Details:\nShip Name: Hungry Owl All-Night Grocers\nShip Address: 8 Johnstown Road\nShip City: Cork\nShip Region: British Isles\nShip Postal Code: None\nShip Country: Ireland\nCustomer Details:\nCustomer ID: HUNGO\nCustomer Name: Hungry Owl All-Night Grocers\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-05\nShipped Date: 2016-12-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Escargots de Bourgogne\nQuantity: 80\nUnit Price: 10.6\nTotal: 848.0\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 50\nUnit Price: 17.2\nTotal: 860.0\nTotal Price:\nTotal Price: 1708.0\n",
+    "augmented_texts": [
+        "Order ID: 10373 Shipping Details: Ship Name: Thirsty Owl All - Night Grocers Ship Speech: 8 Johnstown Road Ship City: Cork Ship Region: British Isles Ship Postal Code: None Ship Country: Ireland Client Details: Customer ID: HUNGO Customer Name: Hungry Owl All - Night Grocers Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Transportation Order Details: Order Date: 2016 - 12 - 05 Shipped Date: 2016 - 12 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Escargots de Bourgogne Quantity: 80 Unit Price: 10. 6 Total: 848. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 50 Unit Price: 17. two Totality: 860. 0 Full Price: Total Terms: 1708. cipher",
+        "Order ID: 10373 Shipping Details: Ship Name: Hungry Owl All - Dark Grocers Ship Address: 8 Johnstown Road Ship City: Cork Ship Region: British Isles Ship Postal Code: None Ship Country: Ireland Customer Details: Customer ID: HUNGO Client Name: Hungry Owl All - Night Grocers Employee Details: Employee Name: Margaret Inachis io Shipper Item: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - 05 Shipped Appointment: 2016 - 12 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Escargots de Burgundy Quantity: 80 Social unit Price: 10. 6 Total: 848. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Amount: 50 Unit Toll: 17. 2 Total: 860. 0 Total Price: Total Price: 1708. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10373. Ship Name: Hungry Owl All-Night Grocers. Address: 8 Johnstown Road. Postal Code: None. Country: Ireland. Shipper: Federal Shipping. Order Date: 2016-12-05. shipper. name: \"Federal Shipping\" Ship. address: 3. 3rd Avenue, Cork. Customers: HUNGO."
+}

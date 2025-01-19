@@ -1,0 +1,24 @@
+{
+    "filename": "order_10364.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10364\nShipping Details:\nShip Name: Eastern Connection\nShip Address: 35 King George\nShip City: London\nShip Region: British Isles\nShip Postal Code: WX3 6FW\nShip Country: UK\nCustomer Details:\nCustomer ID: EASTC\nCustomer Name: Eastern Connection\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-11-26\nShipped Date: 2016-12-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 30\nUnit Price: 28.8\nTotal: 864.0\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 5\nUnit Price: 17.2\nTotal: 86.0\nTotal Price:\nTotal Price: 950.0\n",
+    "augmented_texts": [
+        "Order ID: 10364 Shipping Details: Ship Name: Easterly Connection Ship Address: 35 King George Ship City: London Ship Region: British Islet Ship Postal Code: WX3 6FW Ship Country: UK Customer Details: Client gem state: EASTC Customer Name: Eastern Connection Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper i.d.: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 11 - 26 Shipped Date: 2016 - 12 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 30 Unit Price: 28. 8 Sum: 864. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 5 Unit Price: 17. 2 Total: 86. 0 Total Price: Total Price: 950. 0",
+        "Order ID: 10364 Shipping Contingent: Ship Figure: Eastern Connection Ship Address: 35 King George Ship City: London Ship Region: British Isles Ship Postal Code: WX3 6FW Ship Country: UK Customer Details: Customer ID: EASTC Customer Name: Eastern Connection Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 11 - 26 Shipped Day of the month: 2016 - 12 - 04 Ware: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Amount: xxx Unit Price: 28. 8 Total: 864. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 5 Unit Price: 17. 2 Total: 86. 0 Total Price: Total Price: 950. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10364. Ship Address: 35 King George. Postal Code: WX3 6FW. Country: UK. Customer: EASTC. Shipper: Speedy Express. Product: Gudbrandsdalsost. Unit Price: 28.8 euros. Total Cost: 950.0 Euros."
+}

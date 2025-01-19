@@ -1,0 +1,24 @@
+{
+    "filename": "order_10272.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10272\nShipping Details:\nShip Name: Rattlesnake Canyon Grocery\nShip Address: 2817 Milton Dr.\nShip City: Albuquerque\nShip Region: North America\nShip Postal Code: 87110\nShip Country: USA\nCustomer Details:\nCustomer ID: RATTC\nCustomer Name: Rattlesnake Canyon Grocery\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-08-02\nShipped Date: 2016-08-06\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Marmalade\nQuantity: 6\nUnit Price: 64.8\nTotal: 388.79999999999995\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 40\nUnit Price: 10.0\nTotal: 400.0\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 24\nUnit Price: 27.8\nTotal: 667.2\nTotal Price:\nTotal Price: 1456.0\n",
+    "augmented_texts": [
+        "Order ID: 10272 Shipping Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship City: Albuquerque Ship Region: North America Ship Postal Codification: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Customer Name: Rattlesnake Canyon Grocery Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Engagement: 2016 - 08 - 02 Shipped Date: 2016 - 08 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Marmalade Quantity: six Unit Price: sixty four. 8 Total: 388. 79999999999995 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 40 Unit Price: 10. 0 Total: 400. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 24 Unit Price: 27. 8 Total: 667. 2 Total Price: Full Price: 1456. zero",
+        "Order ID: 10272 Ship Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship Metropolis: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Country: USA Client Details: Customer ID: RATTC Customer Name: Rattlesnake Canon Grocery Employee Details: Employee Figure: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Item: Rules of order Date: 2016 - 08 - 02 Shipped Date: 2016 - 08 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Marmalade Amount: 6 Unit Price: 64. 8 Total: 388. 79999999999995 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 40 Unit Price: 10. 0 Total: 400. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 24 Unit Price: 27. 8 Total: 667. 2 Total Price: Total Price: 1456. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10272. Ship Name: Rattlesnake Canyon Grocery. Address: 2817 Milton Dr., Albuquerque. Postal Code: 87110. Gorgonzola Telino. Shipper: United Package. Customers: RATTC. Products: Sir Rodney's Marmalade, Mozzarella di Giovanni."
+}

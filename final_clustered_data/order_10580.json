@@ -1,0 +1,24 @@
+{
+    "filename": "order_10580.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10580\nShipping Details:\nShip Name: Ottilies Käseladen\nShip Address: Mehrheimerstr. 369\nShip City: Köln\nShip Region: Western Europe\nShip Postal Code: 50739\nShip Country: Germany\nCustomer Details:\nCustomer ID: OTTIK\nCustomer Name: Ottilies Käseladen\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-06-26\nShipped Date: 2017-07-01\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 15\nUnit Price: 23.25\nTotal: 348.75\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 9\nUnit Price: 9.65\nTotal: 86.85000000000001\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper Sauce\nQuantity: 30\nUnit Price: 21.05\nTotal: 631.5\nTotal Price:\nTotal Price: 1067.1\n",
+    "augmented_texts": [
+        "Order ID: 10580 Shipping Details: Ship Name: Ottilies Käseladen Ship Address: Mehrheimerstr. 369 Ship City: Köln Ship Region: Western Europe Ship Postal Code: 50739 Ship Country: Germany Client Details: Customer ID: OTTIK Customer Name: Ottilies Käseladen Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 06 - xxvi Shipped Date: 2017 - 07 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Tofu Quantity: 15 Unit Price: 23. 25 Total: 348. 75 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 9 Unit Price: nine. 65 Total: 86. 85000000000001 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Amount: 30 Unit Cost: 21. 05 Total: 631. quintuplet Total Price: Total Price: 1067. 1",
+        "Order ID: 10580 Shipping Details: Ship Name: Ottilies Käseladen Ship Address: Mehrheimerstr. 369 Ship City: Köln Ship Region: Western European community Ship Postal Codification: 50739 Ship Country: Germany Customer Details: Client ID: OTTIK Customer Name: Ottilies Käseladen Employee Details: Employee Epithet: Margaret Peacock butterfly Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 06 - 26 Shipped Date: 2017 - 07 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: fifteen Unit Price: 23. 25 Aggregate: 348. 75 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 9 Unit Price: 9. 65 Total: 86. 85000000000001 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: 30 Unit Cost: 21. 05 Total: 631. 5 Total Price: Total Price: 1067. 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10580. Ship Address: Mehrheimerstr. 369, Köln. Postal Code: 5073939. Country: Germany. Customer: Ottilies Käseladen. Employee: Margaret Peacock. Shipper: Federal Shipping. Product: Tofu."
+}

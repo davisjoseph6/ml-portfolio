@@ -1,0 +1,24 @@
+{
+    "filename": "order_10618.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10618\nShipping Details:\nShip Name: Mère Paillarde\nShip Address: 43 rue St. Laurent\nShip City: Montréal\nShip Region: North America\nShip Postal Code: H1J 1C3\nShip Country: Canada\nCustomer Details:\nCustomer ID: MEREP\nCustomer Name: Mère Paillarde\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-08-01\nShipped Date: 2017-08-08\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Grandma's Boysenberry Spread\nQuantity: 70\nUnit Price: 25.0\nTotal: 1750.0\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 20\nUnit Price: 38.0\nTotal: 760.0\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 15\nUnit Price: 12.5\nTotal: 187.5\nTotal Price:\nTotal Price: 2697.5\n",
+    "augmented_texts": [
+        "Order ID: 10618 Shipping Details: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship City: Montréal Ship Region: North America Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Parliamentary procedure Details: Order Date: 2017 - 08 - 01 Shipped Date: 2017 - 08 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Grandma ' southward Boysenberry Spread Quantity: 70 Unit Price: 25. zero Total: 1750. nought - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 20 Unit Price: 38. 0 Total: 760. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 15 Unit Monetary value: 12. 5 Total: 187. 5 Total Price: Entire Price: 2697. 5",
+        "Order ID: 10618 Shipping Details: Ship Name: Mère Paillarde Ship Address: forty three rue St. Laurent Ship City: Montréal Ship Region: Frederick north America Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 08 - 01 Shipped Date: 2017 - 08 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Grannie ' s Boysenberry bush Spread Quantity: 70 Unit Toll: 25. 0 Total: 1750. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 20 Unit Price: 38. 0 Total: 760. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Scottish Longbreads Quantity: 15 Unit Price: 12. 5 Total: 187. 5 Total Price: Total Price: 2697. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10618. Order Name: Mère Paillarde. Ship Address: 43 rue St. Laurent. Postal Code: H1J 1C3. Country: Canada. Shipper: Speedy Express. Price: 2697.5. Product: Scottish Longbreads."
+}

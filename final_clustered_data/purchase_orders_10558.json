@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10558.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10558\n2017-06-04\nThomas Hardy\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n47\nZaanse koeken\n25\n9.5\n51\nManjimup Dried Apples\n20\n53\n52\nFilo Mix\n30\n7\n53\nPerth Pasties\n18\n32.8\n73\nRöd Kaviar\n3\n15\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10558 2017 - 06 - 04 Thomas Hardy Product Product ID: Product: Quantity: Unit Price: 47 Zaanse koeken 25 9. 5 51 Manjimup Dried Apples 20 53 52 Filo Intermixture 30 septet 53 Perth Pasties eighteen 32. 8 73 Röd Kaviar trinity 15 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10558 2017 - 06 - 04 Norman mattoon thomas Hardy Products Product ID: Product: Quantity: Unit Price: forty seven Zaanse koeken xxv 9. 5 51 Manjimup Dried Apples 20 53 52 Filo Mix xxx 7 53 Perth Pasty 18 32. 8 73 Röd Kaviar 3 15 Sir frederick handley page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: apples, pasties, dried fruit,Filo Mix, and kaviar. The product ID:Product: product: quantity: unit Price: Price. Customers: customers: customer: Thomas Hardy. Items: products; quantity; price; date."
+}

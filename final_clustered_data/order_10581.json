@@ -1,0 +1,24 @@
+{
+    "filename": "order_10581.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10581\nShipping Details:\nShip Name: Familia Arquibaldo\nShip Address: Rua Orós, 92\nShip City: Sao Paulo\nShip Region: South America\nShip Postal Code: 05442-030\nShip Country: Brazil\nCustomer Details:\nCustomer ID: FAMIA\nCustomer Name: Familia Arquibaldo\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-06-26\nShipped Date: 2017-07-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 50\nUnit Price: 7.75\nTotal: 387.5\nTotal Price:\nTotal Price: 387.5\n",
+    "augmented_texts": [
+        "Order ID: 10581 Shipping Details: Ship Name: Familia Arquibaldo Ship Address: Rua Orós, 92 Ship City: Sao Paulo Ship Region: South America Ship Postal Code: 05442 - 030 Ship Area: Brazil Customer Details: Customer ID: FAMIA Customer Name: Familia Arquibaldo Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: one Shipper Gens: Speedy Express Rescript Details: Order Date: 2017 - 06 - 26 Shipped Date: 2017 - 07 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 50 Unit Leontyne price: sevener. 75 Total: 387. 5 Total Price: Total Price: 387. five",
+        "Order ID: 10581 Shipping Details: Ship Name: Familia Arquibaldo Ship Address: Rua Orós, 92 Ship City: Sao Paulo Ship Region: Confederate states of america America Ship Postal Code: 05442 - 030 Ship Res publica: Brazil Customer Details: Customer ID: FAMIA Customer Name: Familia Arquibaldo Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: one Shipper Name: Speedy Express Guild Details: Order Date: 2017 - 06 - 26 Shipped Date: 2017 - 07 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Rhönbräu Klosterbier Quantity: 50 Unit Price: 7. 75 Total: 387. 5 Total Cost: Total Price: 387. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10581. Order Name: Familia Arquibaldo. Ship Address: Rua Orós, 92, Sao Paulo. Postal Code: 05442-030Ship Country: Brazil. Customer: FAMIA. Shipper: Speedy Express. Product: Rhönbräu Klosterbier.Unit Price: 7.75. Unit Price : 387.5."
+}

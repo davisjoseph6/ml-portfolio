@@ -1,0 +1,24 @@
+{
+    "filename": "order_10510.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10510\nShipping Details:\nShip Name: Save-a-lot Markets\nShip Address: 187 Suffolk Ln.\nShip City: Boise\nShip Region: North America\nShip Postal Code: 83720\nShip Country: USA\nCustomer Details:\nCustomer ID: SAVEA\nCustomer Name: Save-a-lot Markets\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-04-18\nShipped Date: 2017-04-28\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Thüringer Rostbratwurst\nQuantity: 36\nUnit Price: 123.79\nTotal: 4456.4400000000005\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 36\nUnit Price: 7.75\nTotal: 279.0\nTotal Price:\nTotal Price: 4735.4400000000005\n",
+    "augmented_texts": [
+        "Order ID: 10510 Shipping Details: Ship Name: Save - a - lot Markets Ship Destination: 187 Suffolk Ln. Ship City: Capital of idaho Ship Region: North America Ship Postal Code: 83720 Ship Country: USA Customer Details: Customer ID: SAVEA Customer Name: Save - a - lot Grocery Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 04 - 18 Shipped Date: 2017 - 04 - 28 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Quantity: 36 Unit Price: 123. 79 Total: 4456. 4400000000005 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: xxxvi Unit Terms: 7. 75 Total: 279. nought Full Price: Total Price: 4735. 4400000000005",
+        "Order i.d.: 10510 Shipping Details: Ship Figure: Save - a - lot Markets Ship Address: 187 Suffolk Ln. Ship Metropolis: Boise Ship Region: North America Ship Postal Code: 83720 Ship Country: u.s.a. Customer Details: Customer ID: SAVEA Customer Name: Save - a - lot Markets Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Ordering Date: 2017 - 04 - 18 Shipped Particular date: 2017 - 04 - 28 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Measure: 36 Unit Price: 123. seventy nine Total: 4456. 4400000000005 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 36 Unit Price: 7. 75 Total: 279. 0 Total Price: Total Price: 4735. 4400000000005"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Ship Name: Save-a-lot Markets.Ship Address: 187 Suffolk Ln. in Boise, Idaho. Ship Postal Code: 83720 20th Street. Customer ID: SAVEA. Customers name: \"Savinga\" Customers are asked to call the customer care line at (Idaho) Boise (208) 615-788-5100."
+}

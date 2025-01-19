@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10448.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10448\nCustomer ID: RANCH\nOrder Date: 2017-02-17\nCustomer Details:\nContact Name:\nSergio Gutiérrez\nAddress:\nAv. del Libertador 900\nCity:\nBuenos Aires\nPostal Code:\n1010\nCountry:\nArgentina\nPhone:\n(1) 123-5555\nFax:\n(1) 123-5556\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n26\nGumbär Gummibärchen\n6\n24.9\n40\nBoston Crab Meat\n20\n14.7\n \n \nTotalPrice\n443.4\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10448 Customer ID: RANCH Order Date: 2017 - 02 - seventeen Customer Details: Tangency Public figure: Sergio Gutiérrez Address: Av. del Libertador 900 City: Buenos Aires Postal Code: 1010 Country: Argentina Phone: (ane) 123 - 5555 Fax: (1) 123 - 5556 Product Details: Product ID Product Name Amount Unit Price 26 Gumbär Gummibärchen 6 24. 9 40 Hub of the universe Crab Meat 20 14. 7 TotalPrice 443. 4 Pageboy one",
+        "Bill Order ID: 10448 Customer ID: RANCH Order Date: 2017 - 02 - 17 Customer Details: Contact Gens: Sergio Gutiérrez Address: Av. del Libertador 900 City: Buenos Aires Postal Code: 1010 Country: Argentina Phone: (1) 123 - 5555 Fax: (single) 123 - 5556 Product Details: Product ID Product Name Quantity Unit Price 26 Gumbär Gummibärchen sextuplet 24. 9 40 Bean town Crab Meat 20 14. 7 TotalPrice 443. 4 Page single"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10448.Customer ID: RANCH. Order Date: 2017-02-17. Customer: Sergio Gutiérrez. Product Name: Gumbär Gummibärchen. Unit Price: $443.4. Price per pound: €24.9."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10285.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10285\nCustomer ID: QUICK\nOrder Date: 2016-08-20\nCustomer Details:\nContact Name:\nHorst Kloss\nAddress:\nTaucherstraße 10\nCity:\nCunewalde\nPostal Code:\n01307\nCountry:\nGermany\nPhone:\n0372-035188\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n1\nChai\n45\n14.4\n40\nBoston Crab Meat\n40\n14.7\n53\nPerth Pasties\n36\n26.2\n \n \nTotalPrice\n2179.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10285 Client ID: QUICK Society Date: 2016 - 08 - 20 Customer Details: Contact Name: Horst Kloss Address: Taucherstraße x Urban center: Cunewalde Postal Code: 01307 Country: Germany Phone: 0372 - 035188 Fax: None Product Details: Product ID Product Name Quantity Unit Price 1 Chai 45 14. 4 40 Boston Crab Meat forty 14. 7 53 Perth Pasties 36 26. 2 TotalPrice 2179. 2 Page 1",
+        "Invoice Order ID: 10285 Customer ID: QUICK Ordering Engagement: 2016 - 08 - twenty Customer Details: Contact Name: Horst Kloss Address: Taucherstraße 10 City: Cunewalde Postal Code: 01307 Country: Germany Phone: 0372 - 035188 Facsimile: None Product Details: Product ID Product Name Quantity Unit of measurement Price 1 Chai 45 14. 4 forty Boston Crab Meat 40 14. 7 liii Perth Pasties 36 26. 2 TotalPrice 2179. deuce Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10285.Customer ID: QUICK. Order Date: 2016-08-20. Customers: Horst Kloss. Product: Perth Pasties. Price: $2179.2. The order was processed on August 20, 2016, at 10:30am."
+}

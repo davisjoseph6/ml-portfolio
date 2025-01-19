@@ -1,0 +1,24 @@
+{
+    "filename": "order_10481.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10481\nShipping Details:\nShip Name: Ricardo Adocicados\nShip Address: Av. Copacabana, 267\nShip City: Rio de Janeiro\nShip Region: South America\nShip Postal Code: 02389-890\nShip Country: Brazil\nCustomer Details:\nCustomer ID: RICAR\nCustomer Name: Ricardo Adocicados\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-03-20\nShipped Date: 2017-03-25\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Maxilaku\nQuantity: 24\nUnit Price: 16.0\nTotal: 384.0\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 40\nUnit Price: 27.2\nTotal: 1088.0\nTotal Price:\nTotal Price: 1472.0\n",
+    "augmented_texts": [
+        "Order ID: 10481 Shipping Details: Ship Name: Ricardo Adocicados Ship Address: Av. Copacabana, 267 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 02389 - 890 Ship Country: Brazil Customer Details: Customer ID: RICAR Customer Name: Ricardo Adocicados Employee Details: Employee Epithet: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Computer software Order Details: Order Date: 2017 - 03 - 20 Shipped Date: 2017 - 03 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Measure: 24 Unit of measurement Price: 16. 0 Total: 384. nought - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: twoscore Unit Price: 27. 2 Total: 1088. 0 Full Price: Total Price: 1472. 0",
+        "Order i.d.: 10481 Shipping Detail: Ship Name: Ricardo Adocicados Ship Address: Av. Copacabana, 267 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 02389 - 890 Ship Country: Brazil Customer Details: Customer ID: RICAR Client Public figure: David ricardo Adocicados Employee Details: Employee Public figure: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Society Details: Order Date: 2017 - 03 - xx Shipped Date: 2017 - 03 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Quantity: 24 Building block Price: 16. 0 Total: 384. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 40 Unit Price: 27. 2 Total: 1088. 0 Total Price: Total Price: 1472. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10481. Ship Address: Av. Copacabana, 267, Rio de Janeiro. Postal Code: 02389-890. Country: Brazil. Customer: Ricardo Adocicados. Employee: Laura Callahan. Shipper: United Package. Products: Maxilaku, Camembert Pierrot."
+}

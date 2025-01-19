@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10344.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10344\nCustomer ID: WHITC\nOrder Date: 2016-11-01\nCustomer Details:\nContact Name:\nKarl Jablonski\nAddress:\n305 - 14th Ave. S. Suite 3B\nCity:\nSeattle\nPostal Code:\n98128\nCountry:\nUSA\nPhone:\n(206) 555-4112\nFax:\n(206) 555-4115\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n4\nChef Anton's Cajun Seasoning\n35\n17.6\n8\nNorthwoods Cranberry Sauce\n70\n32.0\n \n \nTotalPrice\n2856.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10344 Client ID: WHITC Order Date: 2016 - 11 - 01 Customer Details: Contact Name: Karl Jablonski Address: 305 - 14th Ave. S. Suite 3B City: Seattle Postal Code: 98128 Res publica: USA Phone: (206) 555 - 4112 Fax: (206) 555 - 4115 Mathematical product Details: Product i.d. Product Name Quantity Unit Price 4 Chef Anton ' s Cajun Flavourer 35 17. 6 8 Northwoods Cranberry Sauce lxx 32. 0 TotalPrice 2856. 0 Page 1",
+        "Invoice Order ID: 10344 Customer ID: WHITC Order Appointment: 2016 - 11 - 01 Customer Details: Contact Name: Karl Jablonski Address: 305 - 14th Ave. Southward. Retinue 3B City: Seattle Postal Code: 98128 Country: USA Phone: (206) 555 - 4112 Fax: (206) 555 - 4115 Product Details: Product ID Product Name Quantity Unit Price 4 Chef Anton ' s Cajun Seasoning 35 17. hexad octonary Northwoods Cranberry Sauce lxx 32. 0 TotalPrice 2856. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: WHITC. Order Date: 2016-11-01. Customer Details: Karl Jablonski. Product ID: Cajun Seasoning. Unit Price: $2856.0. Page 1: Northwoods Cranberry Sauce, $32.70."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-08_1.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-08 \n Category : Beverages  \n id category : 1  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nChai\n63\n39\n18\nGuaraná Fantástica\n40\n20\n4.5\nSasquatch Ale\n20\n111\n14\nSteeleye Stout\n104\n20\n18\nIpoh Coffee\n40\n17\n46\nLaughing Lumberjack Lager\n5\n52\n14\nRhönbräu Klosterbier\n42\n125\n7.75\nLakkalikööri\n33\n57\n18\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 08 Category: Beverages id category: 1 Product Units Sold Units in Stock Unit Price Chai 63 39 18 Guaraná Fantástica 40 20 4. quintet Sasquatch Ale 20 111 14 Steeleye Stout 104 20 18 Ipoh Coffee 40 17 46 Laughing Lumberjack Lager five 52 14 Rhönbräu Klosterbier 42 125 vii. 75 Lakkalikööri thirty three 57 18",
+        "Stock Theme for 2016 - 08 Category: Beverages id category: 1 Production Unit of measurement Sold Units in Stock Unit Price Chai 63 39 18 Guaraná Fantástica 40 20 4. 5 Sasquatch Ale 20 111 fourteen Steeleye Stout 104 20 18 Ipoh Coffee 40 17 46 Laughing Lumberjack Lager 5 52 fourteen Rhönbräu Klosterbier 42 125 7. 75 Lakkalikööri 33 57 xviii"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-08. Category : Beverages. id category : 1. Product: Beer. Unit price: $1.25 per litre. Number of units sold: 1,000. Units in stock: 2,500. Average price per unit is $0.99."
+}

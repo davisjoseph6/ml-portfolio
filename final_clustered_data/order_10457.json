@@ -1,0 +1,24 @@
+{
+    "filename": "order_10457.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10457\nShipping Details:\nShip Name: Königlich Essen\nShip Address: Maubelstr. 90\nShip City: Brandenburg\nShip Region: Western Europe\nShip Postal Code: 14776\nShip Country: Germany\nCustomer Details:\nCustomer ID: KOENE\nCustomer Name: Königlich Essen\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-02-25\nShipped Date: 2017-03-03\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 36\nUnit Price: 44.0\nTotal: 1584.0\nTotal Price:\nTotal Price: 1584.0\n",
+    "augmented_texts": [
+        "Order ID: 10457 Shipping Details: Ship Name: Königlich Essen Ship Computer address: Maubelstr. 90 Ship City: Brandenburg Ship Region: Westerly Europe Ship Postal Code: 14776 Ship Country: Germany Customer Details: Customer i.d.: KOENE Customer Gens: Königlich Essen Employee Details: Employee Name: Andrew Buckminster fuller Shipper Details: Shipper ID: ace Shipper Gens: Speedy Express Order Detail: Order Date: 2017 - 02 - 25 Shipped Date: 2017 - 03 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 36 Unit Price: 44. 0 Total: 1584. 0 Total Price: Total Price: 1584. 0",
+        "Order gem state: 10457 Shipping Details: Ship Name: Königlich Essen Ship Address: Maubelstr. 90 Ship City: Brandenburg Ship Region: Western Europe Ship Postal Code: 14776 Ship Country: Federal republic of germany Customer Details: Client ID: KOENE Customer Name: Königlich Essen Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper i.d.: one Shipper Name: Speedy Express Order Details: Order Date: 2017 - 02 - 25 Shipped Date: 2017 - 03 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 36 Unit Price: 44. 0 Total: 1584. 0 Entire Price: Total Price: 1584. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10457; Ship Address: Maubelstr. 90; Postal Code: 14776; Country: Germany; City: Brandenburg; Region: Western Europe. Product: Raclette Courdavault; Quantity: 36; Unit Price: 44.0; Price per unit: 1584. 0."
+}

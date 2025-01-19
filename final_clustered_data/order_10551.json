@@ -1,0 +1,24 @@
+{
+    "filename": "order_10551.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10551\nShipping Details:\nShip Name: Furia Bacalhau e Frutos do Mar\nShip Address: Jardim das rosas n. 32\nShip City: Lisboa\nShip Region: Southern Europe\nShip Postal Code: 1675\nShip Country: Portugal\nCustomer Details:\nCustomer ID: FURIB\nCustomer Name: Furia Bacalhau e Frutos do Mar\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-05-28\nShipped Date: 2017-06-06\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pavlova\nQuantity: 40\nUnit Price: 17.45\nTotal: 698.0\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 20\nUnit Price: 18.0\nTotal: 360.0\n--------------------------------------------------------------------------------------------------\nProduct: Gula Malacca\nQuantity: 40\nUnit Price: 19.45\nTotal: 778.0\nTotal Price:\nTotal Price: 1836.0\n",
+    "augmented_texts": [
+        "Order ID: 10551 Shipping Details: Ship Name: Furia Bacalhau e Frutos do Mar Ship Address: Jardim das rosas n. 32 Ship City: Lisboa Ship Region: Southern Europe Ship Postal Code: 1675 Ship Country: Portugal Customer Details: Customer ID: FURIB Customer Name: Furia Bacalhau e Frutos do Mar Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Detail: Fiat Date: 2017 - 05 - 28 Shipped Date: 2017 - 06 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: 40 Unit Terms: 17. 45 Total: 698. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: twenty Unit Price: 18. 0 Total: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gluttony Malacca Measure: 40 Unit Price: 19. 45 Total: 778. 0 Total Price: Total Price: 1836. 0",
+        "Order ID: 10551 Shipping Detail: Ship Name: Furia Bacalhau e Frutos do Mar Ship Address: Jardim das rosas n. 32 Ship Metropolis: Lisboa Ship Region: Southern Europe Ship Postal Code: 1675 Ship Country: Portuguese republic Customer Details: Customer ID: FURIB Customer Name: Furia Bacalhau e Frutos do Mar Employee Details: Employee Epithet: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 05 - 28 Shipped Date: 2017 - 06 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: 40 Unit Price: 17. 45 Total: 698. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Steeleye Stout Quantity: 20 Unit Price: 18. 0 Total: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Quantity: 40 Whole Price: 19. 45 Total: 778. 0 Total Price: Total Price: 1836. cipher"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10551.Ship Name: Furia Bacalhau e Frutos do Mar. Address: Jardim das rosas n. 32. Ship City: Lisboa. Region: Southern Europe. Postal Code: 1675. Country: Portugal. Customer: FURIB. Shipper: Federal Shipping."
+}

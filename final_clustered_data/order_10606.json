@@ -1,0 +1,24 @@
+{
+    "filename": "order_10606.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10606\nShipping Details:\nShip Name: Tradiçao Hipermercados\nShip Address: Av. Inês de Castro, 414\nShip City: Sao Paulo\nShip Region: South America\nShip Postal Code: 05634-030\nShip Country: Brazil\nCustomer Details:\nCustomer ID: TRADH\nCustomer Name: Tradição Hipermercados\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-07-22\nShipped Date: 2017-07-31\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chef Anton's Cajun Seasoning\nQuantity: 20\nUnit Price: 22.0\nTotal: 440.0\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 20\nUnit Price: 24.0\nTotal: 480.0\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 10\nUnit Price: 49.3\nTotal: 493.0\nTotal Price:\nTotal Price: 1413.0\n",
+    "augmented_texts": [
+        "Society ID: 10606 Shipping Details: Ship Name: Tradiçao Hipermercados Ship Address: Av. Inês de Castro, 414 Ship City: Sao Paulo Ship Region: South America Ship Postal Code: 05634 - 030 Ship Country: Brazil Customer Item: Customer ID: TRADH Customer Name: Tradição Hipermercados Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 07 - 22 Shipped Date: 2017 - 07 - 31 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Seasoning Quantity: 20 Unit Toll: 22. 0 Total: 440. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Measure: 20 Unit Price: 24. cipher Total: 480. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 10 Unit Price: 49. 3 Total: 493. 0 Total Price: Total Price: 1413. 0",
+        "Order ID: 10606 Shipping Details: Ship Name: Tradiçao Hipermercados Ship Address: Av. Inês de Castro, 414 Ship City: Sao Paulo Ship Region: South America Ship Postal Code: 05634 - 030 Ship Country: Brazil Customer Details: Customer ID: TRADH Customer Name: Tradição Hipermercados Employee Details: Employee Gens: Margaret Peacock Shipper Details: Shipper ID: trinity Shipper Name: Federal Shipping Order Detail: Monastic order Date: 2017 - 07 - 22 Shipped Date: 2017 - 07 - 31 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Seasoning Quantity: 20 Unit Price: 22. 0 Total: 440. nought - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Pâté chinois Quantity: 20 Unit Price: 24. 0 Totality: 480. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 10 Unit Price: 49. 3 Total: 493. 0 Total Price: Total Price: 1413. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10606. Order Name: Tradiçao Hipermercados. Ship Address: Av. Inês de Castro, 414, Sao Paulo. Postal Code: 05634-030. Country: Brazil. Customer: TRADH. Employee: Margaret Peacock."
+}

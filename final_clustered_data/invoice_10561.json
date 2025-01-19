@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10561.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10561\nCustomer ID: FOLKO\nOrder Date: 2017-06-06\nCustomer Details:\nContact Name:\nMaria Larsson\nAddress:\nÅkergatan 24\nCity:\nBräcke\nPostal Code:\nS-844 67\nCountry:\nSweden\nPhone:\n0695-34 67 21\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n44\nGula Malacca\n10\n19.45\n51\nManjimup Dried Apples\n50\n53.0\n \n \nTotalPrice\n2844.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10561 Customer ID: FOLKO Order Date: 2017 - 06 - 06 Customer Details: Contact Gens: Maria Larsson Address: Åkergatan 24 City: Bräcke Postal Code: Mho - 844 67 Country: Sweden Phone: 0695 - 34 67 21 Fax: None Ware Detail: Product ID Product Name Quantity Unit of measurement Price 44 Gula Malacca 10 19. 45 51 Manjimup Dried Apples 50 53. 0 TotalPrice 2844. 5 Varlet 1",
+        "Invoice Order ID: 10561 Customer ID: FOLKO Ordering Date: 2017 - 06 - 06 Customer Details: Contact Name: Maria Larsson Address: Åkergatan 24 City: Bräcke Postal Code: S - 844 67 Commonwealth: Sweden Phone: 0695 - 34 67 21 Fax: None Product Details: Production ID Ware Name Quantity Unit Price xliv Gula Malacca 10 19. 45 51 Manjimup Dried Apples 50 53. 0 TotalPrice 2844. 5 Page ane"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: FOLKO Order ID: 10561 Order Date: 2017-June-06 Customer: Maria Larsson. Postal Code: S-844 67 Phone: 21 21 Fax: None. Product Details: Gula Malacca, Manjimup Dried Apples. Total Price: $2844.5."
+}

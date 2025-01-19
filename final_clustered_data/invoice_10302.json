@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10302.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10302\nCustomer ID: SUPRD\nOrder Date: 2016-09-10\nCustomer Details:\nContact Name:\nPascale Cartrain\nAddress:\nBoulevard Tirou, 255\nCity:\nCharleroi\nPostal Code:\nB-6000\nCountry:\nBelgium\nPhone:\n(071) 23 67 22 20\nFax:\n(071) 23 67 22 21\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n17\nAlice Mutton\n40\n31.2\n28\nRössle Sauerkraut\n28\n36.4\n43\nIpoh Coffee\n12\n36.8\n \n \nTotalPrice\n2708.7999999999997\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10302 Customer ID: SUPRD Fiat Date: 2016 - 09 - 10 Customer Details: Contact Name: Pascale Cartrain Address: Boulevard Tirou, 255 City: Charleroi Postal Code: Boron - 6000 Country: Kingdom of belgium Phone: (071) twenty three 67 22 20 Fax: (071) 23 67 22 21 Product Details: Product ID Ware Name Quantity Unit Price seventeen Alice Mutton 40 31. 2 twenty eight Rössle Sauerkraut 28 36. 4 43 Ipoh Coffee 12 36. 8 TotalPrice 2708. 7999999999997 Page 1",
+        "Invoice Order ID: 10302 Customer i.d.: SUPRD Order Date: 2016 - 09 - 10 Customer Details: Contact Name: Pascale Cartrain Address: Boulevard Tirou, 255 Metropolis: Charleroi Postal Code: B - 6000 Country: Belgium Earphone: (071) 23 67 22 20 Facsimile: (071) xxiii 67 22 twenty one Product Details: Intersection ID Product Name Amount Unit Price xvii Alice Mutton 40 31. 2 28 Rössle Sauerkraut 28 36. 4 43 Ipoh Coffee 12 36. 8 TotalPrice 2708. 7999999999997 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10302.Customer ID: SUPRD. Order Date: 2016-09-10. Customer: Pascale Cartrain. Address: Boulevard Tirou, 255. Postal Code: C-6000. Country: Belgium. Price: 2708.7999999999997."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10268.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10268\n2016-07-30\nManuel Pereira\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n29\nThüringer Rostbratwurst\n10\n99\n72\nMozzarella di Giovanni\n4\n27.8\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Guild Rank ID Order Date Customer Name 10268 2016 - 07 - 30 Manuel Pereira Products Product i.d.: Product: Quantity: Unit Price: 29 Thüringer Rostbratwurst 10 99 72 Mozzarella di Giovanni 4 27. 8 Varlet 1",
+        "Purchase Orders Order ID Order Date Customer Name 10268 2016 - 07 - 30 Manuel Pereira Products Product ID: Product: Quantity: Unit Price: twenty nine Thüringer Rostbratwurst 10 99 72 Mozzarella di Giovanni 4 27. ogdoad Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than 1,000 products. The number of products sold is based on the amount of money spent on each item. Customers can order by phone, email, or in-store at any of the following locations: Germany, Italy, Austria, Switzerland, Germany and Austria."
+}

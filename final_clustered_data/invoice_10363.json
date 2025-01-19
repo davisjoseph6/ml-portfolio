@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10363.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10363\nCustomer ID: DRACD\nOrder Date: 2016-11-26\nCustomer Details:\nContact Name:\nSven Ottlieb\nAddress:\nWalserweg 21\nCity:\nAachen\nPostal Code:\n52066\nCountry:\nGermany\nPhone:\n0241-039123\nFax:\n0241-059428\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n31\nGorgonzola Telino\n20\n10.0\n75\nRhönbräu Klosterbier\n12\n6.2\n76\nLakkalikööri\n12\n14.4\n \n \nTotalPrice\n447.20000000000005\nPage 1\n",
+    "augmented_texts": [
+        "Bill Order ID: 10363 Customer idaho: DRACD Order Date: 2016 - 11 - 26 Customer Details: Contact Name: Sven Ottlieb Address: Walserweg 21 City: Aachen Postal Code: 52066 Land: Germany Headphone: 0241 - 039123 Fax: 0241 - 059428 Product Details: Product idaho Product Name Quantity Unit Price 31 Gorgonzola Telino 20 10. 0 75 Rhönbräu Klosterbier 12 6. 2 76 Lakkalikööri 12 xiv. quatern TotalPrice 447. 20000000000005 Page 1",
+        "Invoice Order ID: 10363 Customer ID: DRACD Order Date: 2016 - 11 - 26 Customer Details: Touch Name: Sven Ottlieb Address: Walserweg 21 City: Aachen Postal Computer code: 52066 Nation: Germany Phone: 0241 - 039123 Fax: 0241 - 059428 Product Detail: Mathematical product ID Product Name Quantity Unit Price 31 Gorgonzola Telino 20 10. 0 75 Rhönbräu Klosterbier 12 vi. 2 76 Lakkalikööri 12 14. 4 TotalPrice 447. 20000000000005 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: DRACD. Invoice Order ID: 10363.Customer ID is: \"Sven Ottlieb\" Order Date: 2016-11-26. Customer Name is \"Vicentino\" Customer Details are as follows: Phone: 0241-039123.Fax:0241 -059428. Product ID product name product number product quantity product price product value."
+}

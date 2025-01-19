@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10310.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10310\nCustomer ID: THEBI\nOrder Date: 2016-09-20\nCustomer Details:\nContact Name:\nLiz Nixon\nAddress:\n89 Jefferson Way Suite 2\nCity:\nPortland\nPostal Code:\n97201\nCountry:\nUSA\nPhone:\n(503) 555-3612\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n16\nPavlova\n10\n13.9\n62\nTarte au sucre\n5\n39.4\n \n \nTotalPrice\n336.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10310 Customer idaho: THEBI Order Particular date: 2016 - 09 - 20 Customer Details: Contact Name: Liz Nixon Address: 89 Jefferson Way Suite 2 City: Portland Postal Code: 97201 Country: USA Earpiece: (503) 555 - 3612 Fax: None Product Details: Product ID Merchandise Name Quantity Unit Price 16 Pavlova 10 13. 9 sixty two Tarte au sucre 5 ixl. iv TotalPrice 336. 0 Page 1",
+        "Invoice Order idaho: 10310 Client ID: THEBI Order Date: 2016 - 09 - 20 Customer Particular: Contact Name: Liz Nixon Address: 89 Thomas jefferson Way Suite 2 Metropolis: Portland Postal Code: 97201 Country: USA Phone: (503) 555 - 3612 Fax: None Product Details: Product ID Product Name Quantity Unit Price 16 Pavlova 10 13. 9 62 Tarte au sucre 5 39. 4 TotalPrice 336. 0 Page i"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 10310102020.Customer Name: THEBI; Order Date: 2016-09-20 20th September. Customer Details:                                         Liz Nixon; Phone:(503) 555-3612;Fax: (Portland, Oregon) (PORTLAND, U.S.)"
+}

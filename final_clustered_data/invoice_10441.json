@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10441.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10441\nCustomer ID: OLDWO\nOrder Date: 2017-02-10\nCustomer Details:\nContact Name:\nRene Phillips\nAddress:\n2743 Bering St.\nCity:\nAnchorage\nPostal Code:\n99508\nCountry:\nUSA\nPhone:\n(907) 555-7584\nFax:\n(907) 555-2880\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n27\nSchoggi Schokolade\n50\n35.1\n \n \nTotalPrice\n1755.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order gem state: 10441 Customer ID: OLDWO Order Appointment: 2017 - 02 - 10 Customer Detail: Contact Name: Rene Phillips Address: 2743 Bering St. City: Anchorage Postal Computer code: 99508 Country: USA Phone: (907) 555 - 7584 Fax: (907) 555 - 2880 Product Details: Product ID Product Name Quantity Unit Monetary value 27 Schoggi Schokolade 50 35. 1 TotalPrice 1755. 0 Page 1",
+        "Bill Order ID: 10441 Client ID: OLDWO Order Day of the month: 2017 - 02 - 10 Client Details: Contact Name: Rene Phillips Address: 2743 Bering St. City: Anchorage ground Postal Code: 99508 Country: USA Phone: (907) 555 - 7584 Fax: (907) 555 - 2880 Product Details: Product ID Product Name Quantity Unit Price 27 Schoggi Schokolade 50 35. 1 TotalPrice 1755. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: OLDWO. Order Date: 2017-02-10. Customer Details: Rene Phillips. Phone:(907) 555-7584. Email: r Phillips@ogle.com. Product: Schoggi Schokolade. Price: $1755.0."
+}

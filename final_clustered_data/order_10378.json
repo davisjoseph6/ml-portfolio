@@ -1,0 +1,24 @@
+{
+    "filename": "order_10378.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10378\nShipping Details:\nShip Name: Folk och fä HB\nShip Address: Åkergatan 24\nShip City: Bräcke\nShip Region: Northern Europe\nShip Postal Code: S-844 67\nShip Country: Sweden\nCustomer Details:\nCustomer ID: FOLKO\nCustomer Name: Folk och fä HB\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-10\nShipped Date: 2016-12-19\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 6\nUnit Price: 17.2\nTotal: 103.19999999999999\nTotal Price:\nTotal Price: 103.19999999999999\n",
+    "augmented_texts": [
+        "Order ID: 10378 Shipping Details: Ship Name: Kinsfolk och fä haemoglobin Ship Address: Åkergatan 24 Ship City: Bräcke Ship Region: Northern Europe Ship Postal Codification: S - 844 67 Ship Country: Sweden Customer Details: Customer ID: FOLKO Customer Name: Folk och fä HB Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: tierce Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - 10 Shipped Date: 2016 - 12 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Amount: six Unit Price: 17. 2 Total: 103. 19999999999999 Total Terms: Total Price: 103. 19999999999999",
+        "Order idaho: 10378 Shipping Details: Ship Name: Kinsfolk och fä HB Ship Address: Åkergatan 24 Ship City: Bräcke Ship Area: Northern Eec Ship Postal Code: S - 844 67 Ship Country: Sweden Customer Details: Customer ID: FOLKO Customer Name: Folk och fä hemoglobin Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Orderliness Date: 2016 - 12 - 10 Shipped Date: 2016 - 12 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 6 Unit Price: 17. ii Total: 103. 19999999999999 Total Price: Total Price: 103. 19999999999999"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10378. Ship Address: Åkergatan 24. Postal Code: S-844 67 67. Country: Sweden. Customer: Folk och fä HB. Shipper: Federal Shipping. Product: Flotemysost.Unit Price: 17.2."
+}

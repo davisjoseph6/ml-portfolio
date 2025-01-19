@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10563.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10563\n2017-06-10\nJanete Limeira\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n36\nInlagd Sill\n25\n19\n52\nFilo Mix\n70\n7\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10563 2017 - 06 - 10 Janete Limeira Products Product ID: Product: Amount: Unit Price: 36 Inlagd Sill 25 xix 52 Filo Mix 70 vii Page 1",
+        "Purchase Ordination Order ID Order Date Customer Name 10563 2017 - 06 - 10 Janete Limeira Products Mathematical product ID: Mathematical product: Measure: Unit Price: 36 Inlagd Sill 25 19 52 Filo Mix 70 7 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass a range of products and services. Customers can choose from a selection of different products. The company also offers a mix of food and drink products for customers to purchase. For more information, visit the company's website at: http://www.julie Limeira.com/."
+}

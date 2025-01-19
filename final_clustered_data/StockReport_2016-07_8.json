@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-07_8.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-07 \n Category : Seafood  \n id category : 8  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nNord-Ost Matjeshering\n60\n10\n25.89\nInlagd Sill\n25\n112\n19\nGravad lax\n1\n11\n26\nBoston Crab Meat\n50\n123\n18.4\nJack's New England Clam Chowder\n51\n85\n9.65\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 07 Category: Seafood id category: 8 Product Units Sold Units in Stock Unit Price Nord - Ost Matjeshering threescore 10 25. 89 Inlagd Sill 25 112 19 Gravad lax 1 11 twenty six Boston Cancer the crab Meat fifty 123 18. 4 Jack ' s New England Clam Chowder 51 eighty five 9. 65",
+        "Stock Report for 2016 - 07 Category: Seafood id category: 8 Product Units Sold Units in Stock Unit Price Nord - Ost Matjeshering 60 10 25. 89 Inlagd Sill 25 112 nineteen Gravad lax 1 11 xxvi Boston Crab Meat 50 123 xviii. 4 Jack ' s New England Clam Chowder 51 eighty five 9. 65"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-07. Category : Seafood. id category : 8                  Product: \"Seafood\"  Price: $1.50 per kilogram. Number of kilos sold: 1.2 kilograms. Percentage of stock in stock: 0.3%. Percentage sold for sale: 2.4 per cent."
+}

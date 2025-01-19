@@ -1,0 +1,24 @@
+{
+    "filename": "order_10556.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10556\nShipping Details:\nShip Name: Simons bistro\nShip Address: Vinbæltet 34\nShip City: Kobenhavn\nShip Region: Northern Europe\nShip Postal Code: 1734\nShip Country: Denmark\nCustomer Details:\nCustomer ID: SIMOB\nCustomer Name: Simons bistro\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-06-03\nShipped Date: 2017-06-13\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 24\nUnit Price: 34.8\nTotal: 835.1999999999999\nTotal Price:\nTotal Price: 835.1999999999999\n",
+    "augmented_texts": [
+        "Order ID: 10556 Ship Details: Ship Name: Simons bistro Ship Address: Vinbæltet xxxiv Ship City: Kobenhavn Ship Part: Northern Europe Ship Postal Code: 1734 Ship Country: Denmark Customer Details: Customer ID: SIMOB Client Name: Simons bistro Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper i.d.: 1 Shipper Name: Speedy Express Orderliness Details: Order Date: 2017 - 06 - 03 Shipped Date: 2017 - 06 - 13 Ware: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: xxiv Unit Price: 34. 8 Total: 835. 1999999999999 Total Price: Total Price: 835. 1999999999999",
+        "Order gem state: 10556 Shipping Details: Ship Name: Simons bistro Ship Name and address: Vinbæltet 34 Ship Metropolis: Kobenhavn Ship Area: Northern Europe Ship Postal Code: 1734 Ship Country: Denmark Customer Details: Customer ID: SIMOB Customer Name: Simons bistro Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 1 Shipper Public figure: Speedy Express Order Details: Order Date: 2017 - 06 - 03 Shipped Date: 2017 - 06 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 24 Unit Price: 34. 8 Total: 835. 1999999999999 Total Price: Entire Price: 835. 1999999999999"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10556. Ship Address: Vinbæltet 34; Postal Code: 1734; Country: Denmark; City: Kobenhavn; Region: Northern Europe. Product: Mozzarella di Giovanni; Unit Price: 34.8;Unit Quantity: 24; Units Cost: 835.1999999999999; Ship Date: 2017-06-03; Shipper: Speedy Express."
+}

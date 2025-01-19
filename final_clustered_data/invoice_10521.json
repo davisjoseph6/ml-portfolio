@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10521.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10521\nCustomer ID: CACTU\nOrder Date: 2017-04-29\nCustomer Details:\nContact Name:\nPatricio Simpson\nAddress:\nCerrito 333\nCity:\nBuenos Aires\nPostal Code:\n1010\nCountry:\nArgentina\nPhone:\n(1) 135-5555\nFax:\n(1) 135-4892\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n35\nSteeleye Stout\n3\n18.0\n41\nJack's New England Clam Chowder\n10\n9.65\n68\nScottish Longbreads\n6\n12.5\n \n \nTotalPrice\n225.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10521 Client ID: CACTU Gild Date: 2017 - 04 - 29 Customer Details: Contact Name: Patricio Simpson Address: Cerrito 333 City: Buenos Aires Postal Code: 1010 Country: Argentina Speech sound: (ace) 135 - 5555 Fax: (1) 135 - 4892 Product Details: Product ID Product Name Quantity Unit Price 35 Steeleye Stout iii 18. 0 41 Jack ' s New England Clam Chowder 10 9. 65 68 Scottish Longbreads 6 twelve. fivesome TotalPrice 225. 5 Page 1",
+        "Invoice Order ID: 10521 Customer ID: CACTU Order Date: 2017 - 04 - 29 Customer Details: Contact Name: Patricio Simpson Address: Cerrito 333 City: Buenos Aires Postal Code: 1010 Country: Argentina Phone: (1) 135 - 5555 Fax: (1) 135 - 4892 Product Details: Ware idaho Mathematical product Name Quantity Unit Price 35 Steeleye Stout 3 18. 0 41 Diddly ' s New England Clam Chowder 10 9. 65 68 Scottish Longbreads 6 12. 5 TotalPrice 225. 5 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10521.Customer: CACTU.Product: Jack's New England Clam Chowder, Scottish Longbreads, and Steeleye Stout. Price: $225.5. Order date: 2017-04-29. Customers: 135-5555. Product name: \"Cerrito 333\""
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10254.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10254\nShipping Details:\nShip Name: Chop-suey Chinese\nShip Address: Hauptstr. 31\nShip City: Bern\nShip Region: Western Europe\nShip Postal Code: 3012\nShip Country: Switzerland\nCustomer Details:\nCustomer ID: CHOPS\nCustomer Name: Chop-suey Chinese\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-07-11\nShipped Date: 2016-07-23\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 15\nUnit Price: 3.6\nTotal: 54.0\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 21\nUnit Price: 19.2\nTotal: 403.2\n--------------------------------------------------------------------------------------------------\nProduct: Longlife Tofu\nQuantity: 21\nUnit Price: 8.0\nTotal: 168.0\nTotal Price:\nTotal Price: 625.2\n",
+    "augmented_texts": [
+        "Order ID: 10254 Shipping Details: Ship Name: Chop - suey Chinese Ship Address: Hauptstr. 31 Ship City: Berne Ship Region: Western Europe Ship Postal Code: 3012 Ship Commonwealth: Swiss confederation Customer Details: Customer ID: CHOPS Customer Name: Chop - suey Chinese Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 07 - 11 Shipped Date: 2016 - 07 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: fifteen Unit Price: 3. 6 Total: 54. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 21 Unit of measurement Price: 19. 2 Total: 403. 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Longlife Tofu Quantity: 21 Unit Price: 8. 0 Total: 168. 0 Total Price: Entire Price: 625. 2",
+        "Order ID: 10254 Shipping Details: Ship Name: Chop - suey Chinese Ship Address: Hauptstr. 31 Ship City: Bern Ship Region: Western Europe Ship Postal Codification: 3012 Ship Country: Switzerland Customer Details: Client ID: CHOPS Customer Name: Chop - suey Chinese Employee Details: Employee Name: Steven Buchanan Shipper Item: Shipper i.d.: two Shipper Name: United Software package Order Details: Order Date: 2016 - 07 - 11 Shipped Date: 2016 - 07 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 15 Unit Price: 3. 6 Total: 54. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 21 Unit Price: 19. 2 Totality: 403. 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Longlife Tofu Quantity: 21 Unit Price: 8. 0 Total: 168. 0 Total Price: Full Price: 625. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10254. Order Name: Chop-suey Chinese. Ship Address: Hauptstr. 31, Bern. Postal Code: 3012. Country: Switzerland. Customer: CHOPS. Shipper: United Package. Products: Guaraná Fantástica, Pâté chinois."
+}

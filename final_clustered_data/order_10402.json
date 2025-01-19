@@ -1,0 +1,24 @@
+{
+    "filename": "order_10402.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10402\nShipping Details:\nShip Name: Ernst Handel\nShip Address: Kirchgasse 6\nShip City: Graz\nShip Region: Western Europe\nShip Postal Code: 8010\nShip Country: Austria\nCustomer Details:\nCustomer ID: ERNSH\nCustomer Name: Ernst Handel\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-01-02\nShipped Date: 2017-01-10\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tunnbröd\nQuantity: 60\nUnit Price: 7.2\nTotal: 432.0\n--------------------------------------------------------------------------------------------------\nProduct: Vegie-spread\nQuantity: 65\nUnit Price: 35.1\nTotal: 2281.5\nTotal Price:\nTotal Price: 2713.5\n",
+    "augmented_texts": [
+        "Order idaho: 10402 Shipping Details: Ship Name: Ernst Handel Ship Address: Kirchgasse 6 Ship City: Graz Ship Region: Westerly Europe Ship Postal Code: 8010 Ship Country: Austria Customer Details: Customer ID: ERNSH Customer Name: Ernst Handel Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Public figure: United Package Order Details: Order Date: 2017 - 01 - 02 Shipped Particular date: 2017 - 01 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tunnbröd Quantity: 60 Unit Price: 7. 2 Total: 432. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Vegie - spread Quantity: 65 Unit Price: 35. 1 Sum: 2281. quint Total Price: Total Price: 2713. fivesome",
+        "Order ID: 10402 Shipping Details: Ship Name: Ernst Handel Ship Address: Kirchgasse 6 Ship City: Graz Ship Part: Western Europe Ship Postal Code: 8010 Ship Country: Austria Customer Details: Customer ID: ERNSH Customer Name: Ernst Handel Employee Particular: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 01 - 02 Shipped Particular date: 2017 - 01 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tunnbröd Quantity: lx Building block Price: 7. 2 Sum: 432. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Vegie - spread Quantity: 65 Unit Price: 35. 1 Total: 2281. 5 Total Price: Total Price: 2713. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10402. Order Name: Ernst Handel. Ship Address: Kirchgasse 6, Graz. Postal Code: 8010. Country: Austria. Customer: ERNSH. Shipper: United Package. Product: Tunnbröd."
+}

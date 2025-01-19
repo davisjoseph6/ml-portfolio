@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10516.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10516\nCustomer ID: HUNGO\nOrder Date: 2017-04-24\nCustomer Details:\nContact Name:\nPatricia McKenna\nAddress:\n8 Johnstown Road\nCity:\nCork\nPostal Code:\nNone\nCountry:\nIreland\nPhone:\n2967 542\nFax:\n2967 3333\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n18\nCarnarvon Tigers\n25\n62.5\n41\nJack's New England Clam Chowder\n80\n9.65\n42\nSingaporean Hokkien Fried Mee\n20\n14.0\n \n \nTotalPrice\n2614.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order gem state: 10516 Customer ID: HUNGO Order Date: 2017 - 04 - 24 Customer Details: Contact Name: Patricia McKenna Address: 8 Johnstown Road Metropolis: Cork Postal Code: None Country: Ireland Phone: 2967 542 Fax: 2967 3333 Product Details: Cartesian product idaho Product Name Quantity Unit Price 18 Carnarvon Panthera tigris 25 62. 5 41 Jack ' s New England Clam Chowder 80 9. 65 42 Singaporean Hokkien Fried Mee 20 14. 0 TotalPrice 2614. 5 Pageboy i",
+        "Invoice Order ID: 10516 Customer ID: HUNGO Order Date: 2017 - 04 - 24 Customer Details: Contact Name: Patricia McKenna Address: eight Johnstown Road City: Cork Postal Code: None Country: Ireland Phone: 2967 542 Fax: 2967 3333 Product Details: Product ID Product Name Quantity Unit Price 18 Carnarvon Tigers 25 62. 5 xli Jack ' s New England Clam Chowder 80 9. sixty five 42 Singaporean Hokkien Fried Mee 20 14. 0 TotalPrice 2614. 5 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: \"Patricia McKenna,\" Order ID: 10516, Order Date: 2017-04-24, Customers: \"Huge,\" Orders: 542, Prices: 2614.5, Total Price: $2614, Pages: 1, 2."
+}

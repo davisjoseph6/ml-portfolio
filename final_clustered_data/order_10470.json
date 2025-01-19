@@ -1,0 +1,24 @@
+{
+    "filename": "order_10470.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10470\nShipping Details:\nShip Name: Bon app-\nShip Address: 12, rue des Bouchers\nShip City: Marseille\nShip Region: Western Europe\nShip Postal Code: 13008\nShip Country: France\nCustomer Details:\nCustomer ID: BONAP\nCustomer Name: Bon app'\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-03-11\nShipped Date: 2017-03-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Carnarvon Tigers\nQuantity: 30\nUnit Price: 50.0\nTotal: 1500.0\n--------------------------------------------------------------------------------------------------\nProduct: Tunnbröd\nQuantity: 15\nUnit Price: 7.2\nTotal: 108.0\n--------------------------------------------------------------------------------------------------\nProduct: Wimmers gute Semmelknödel\nQuantity: 8\nUnit Price: 26.6\nTotal: 212.8\nTotal Price:\nTotal Price: 1820.8\n",
+    "augmented_texts": [
+        "Order ID: 10470 Shipping Details: Ship Name: Bon app - Ship Address: 12, rue des Bouchers Ship City: Marseille Ship Region: Western Europe Ship Postal Code: 13008 Ship Country: France Customer Details: Customer i.d.: BONAP Customer Name: Bon app ' Employee Details: Employee Name: Margaret Peacock Shipper Detail: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 03 - 11 Shipped Appointment: 2017 - 03 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Tigers Quantity: 30 Unit Price: 50. 0 Total: 1500. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Tunnbröd Quantity: 15 Unit Leontyne price: 7. ii Total: 108. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Wimmers gute Semmelknödel Quantity: eighter from decatur Unit of measurement Price: 26. 6 Total: 212. 8 Total Damage: Total Price: 1820. 8",
+        "Order ID: 10470 Shipping Details: Ship Name: Bon app - Ship Address: 12, rue des Bouchers Ship City: Marseille Ship Region: Western Europe Ship Postal Code: 13008 Ship Country: France Customer Details: Customer ID: BONAP Customer Name: Bon app ' Employee Details: Employee Name: Margaret Inachis io Shipper Item: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 03 - eleven Shipped Date: 2017 - 03 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Tigers Quantity: thirty Unit Price: 50. cypher Total: 1500. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tunnbröd Quantity: 15 Unit Price: 7. 2 Total: 108. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Wimmers gute Semmelknödel Quantity: 8 Social unit Price: 26. 6 Total: 212. 8 Total Price: Entire Price: 1820. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10470. Ship Address: 12, rue des Bouchers, Marseille, France. Postal Code: 13008. Customer Name: BONAP. Shipper: United Package. Product: Carnarvon Tigers. Price: 50.0 euros."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10349.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10349\nCustomer ID: SPLIR\nOrder Date: 2016-11-08\nCustomer Details:\nContact Name:\nArt Braunschweiger\nAddress:\nP.O. Box 555\nCity:\nLander\nPostal Code:\n82520\nCountry:\nUSA\nPhone:\n(307) 555-4680\nFax:\n(307) 555-6525\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n54\nTourtière\n24\n5.9\n \n \nTotalPrice\n141.60000000000002\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10349 Customer ID: SPLIR Order Particular date: 2016 - 11 - 08 Customer Details: Contact Name: Art Braunschweiger Address: P. O. Box 555 Urban center: Lander Postal Code: 82520 Country: USA Phone: (307) 555 - 4680 Facsimile machine: (307) 555 - 6525 Product Details: Product ID Product Name Quantity Unit Price 54 Tourtière 24 5. 9 TotalPrice 141. 60000000000002 Page 1",
+        "Invoice Order ID: 10349 Customer ID: SPLIR Order Date: 2016 - 11 - 08 Customer Details: Contact Gens: Art Braunschweiger Address: Atomic number 15. O. Corner 555 City: Lander Postal Code: 82520 Country: USA Phone: (307) 555 - 4680 Fax: (307) 555 - 6525 Mathematical product Details: Product gem state Product Name Quantity Unit Price 54 Tourtière 24 5. 9 TotalPrice 141. 60000000000002 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: 10349.Customer ID: SPLIR. Order Date: 2016-11-08. Customer Details:                              \"Art Braunschweiger\" \"Art\" is the name of the art gallery in Lander, Switzerland. The gallery is open to the public."
+}

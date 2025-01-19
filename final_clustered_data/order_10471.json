@@ -1,0 +1,24 @@
+{
+    "filename": "order_10471.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10471\nShipping Details:\nShip Name: B-s Beverages\nShip Address: Fauntleroy Circus\nShip City: London\nShip Region: British Isles\nShip Postal Code: EC2 5NT\nShip Country: UK\nCustomer Details:\nCustomer ID: BSBEV\nCustomer Name: B's Beverages\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-03-11\nShipped Date: 2017-03-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Uncle Bob's Organic Dried Pears\nQuantity: 30\nUnit Price: 24.0\nTotal: 720.0\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 20\nUnit Price: 30.4\nTotal: 608.0\nTotal Price:\nTotal Price: 1328.0\n",
+    "augmented_texts": [
+        "Guild ID: 10471 Ship Details: Ship Name: B - s Beverages Ship Address: Fauntleroy Circus Ship City: London Ship Region: British Isles Ship Postal Code: EC2 5NT Ship Country: UK Client Details: Customer ID: BSBEV Customer Name: B ' s Beverages Employee Point: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 03 - 11 Shipped Date: 2017 - 03 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Uncle Bob ' s Organic fertilizer Dried Pears Measure: 30 Unit Price: 24. 0 Total: 720. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 20 Unit Price: 30. 4 Total: 608. 0 Total Price: Total Damage: 1328. 0",
+        "Order ID: 10471 Shipping Details: Ship Name: B - s Potable Ship Address: Fauntleroy Circus Ship City: London Ship Region: British Isles Ship Postal Code: EC2 5NT Ship Country: UK Customer Details: Customer ID: BSBEV Customer Figure: B ' s Beverages Employee Details: Employee Name: Saint andrew Fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal soldier Shipping Order Details: Order Date: 2017 - 03 - 11 Shipped Date: 2017 - 03 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Uncle Bob ' s Organic Dried Pears Quantity: xxx Unit Price: 24. 0 Total: 720. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 20 Unit Price: 30. 4 Total: 608. 0 Total Price: Total Price: 1328. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10471. Order name: B-s Beverages. Ship address: Fauntleroy Circus, London. Postal Code: EC2 5NT. Country: UK. Shipper: Federal Shipping. Customer: BSBEV. Price: 1328.0."
+}

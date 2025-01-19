@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10300.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10300\nCustomer ID: MAGAA\nOrder Date: 2016-09-09\nCustomer Details:\nContact Name:\nGiovanni Rovelli\nAddress:\nVia Ludovico il Moro 22\nCity:\nBergamo\nPostal Code:\n24100\nCountry:\nItaly\nPhone:\n035-640230\nFax:\n035-640231\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n66\nLouisiana Hot Spiced Okra\n30\n13.6\n68\nScottish Longbreads\n20\n10.0\n \n \nTotalPrice\n608.0\nPage 1\n",
+    "augmented_texts": [
+        "Bill Order ID: 10300 Client i.d.: MAGAA Order Date: 2016 - 09 - 09 Customer Details: Contact Name: Giovanni Rovelli Address: Via Ludovico il Moro xxii City: Bergamo Postal Code: 24100 Country: Italy Phone: 035 - 640230 Fax: 035 - 640231 Product Details: Product ID Product Name Quantity Unit Price 66 Louisiana Hot Spiced Okra 30 13. 6 68 Scottish Longbreads 20 10. 0 TotalPrice 608. cipher Page 1",
+        "Invoice Order i.d.: 10300 Customer ID: MAGAA Order Date: 2016 - 09 - 09 Customer Details: Contact Name: Giovanni Rovelli Address: Via Ludovico il Moro xxii City: Bergamo Postal Code: 24100 Country: Italy Phone: 035 - 640230 Fax: 035 - 640231 Product Details: Product ID Product Gens Quantity Unit Price 66 Louisiana Hot Spiced Okra 30 baker's dozen. sextet 68 Scottish Longbreads twenty tenner. 0 TotalPrice 608. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name:Giovanni Rovelli. Email Address:Via Ludovico il Moro 22, Bergamo, Italy. Postal Code: 24100. Customer ID: MAGAA. Order Date: 2016-09-08. Product Details:Product ID Product Name QuantityUnit Price: $608.0."
+}

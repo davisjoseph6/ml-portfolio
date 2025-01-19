@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10599.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10599\nCustomer ID: BSBEV\nOrder Date: 2017-07-15\nCustomer Details:\nContact Name:\nVictoria Ashworth\nAddress:\nFauntleroy Circus\nCity:\nLondon\nPostal Code:\nEC2 5NT\nCountry:\nUK\nPhone:\n(171) 555-1212\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n62\nTarte au sucre\n10\n49.3\n \n \nTotalPrice\n493.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10599 Customer ID: BSBEV Order Date: 2017 - 07 - 15 Client Details: Contact Name: Victoria Ashworth Address: Fauntleroy Circus Metropolis: London Postal Code: EC2 5NT Country: UK Phone: (171) 555 - 1212 Fax: None Product Details: Cartesian product ID Product Name Quantity Unit Price 62 Tarte au sucre 10 49. 3 TotalPrice 493. 0 Thomas nelson page one",
+        "Invoice Order ID: 10599 Customer ID: BSBEV Order Date: 2017 - 07 - 15 Client Details: Contact Name: Victoria Ashworth Address: Fauntleroy Circus City: British capital Postal Code: EC2 5NT Country: UK Telephone: (171) 555 - 1212 Fax: None Product Details: Product ID Product Name Quantity Social unit Price 62 Tarte au sucre 10 49. 3 TotalPrice 493. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 10599.Customer IDs: BSBEV and VAV. Order Date: 2017-07-15. Customer Details:                              VAV, Victoria Ashworth,  Fauntleroy Circus, London, UK."
+}

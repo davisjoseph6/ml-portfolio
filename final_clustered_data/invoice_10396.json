@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10396.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10396\nCustomer ID: FRANK\nOrder Date: 2016-12-27\nCustomer Details:\nContact Name:\nPeter Franken\nAddress:\nBerliner Platz 43\nCity:\nMünchen\nPostal Code:\n80805\nCountry:\nGermany\nPhone:\n089-0877310\nFax:\n089-0877451\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n23\nTunnbröd\n40\n7.2\n71\nFlotemysost\n60\n17.2\n72\nMozzarella di Giovanni\n21\n27.8\n \n \nTotalPrice\n1903.8000000000002\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10396 Client ID: FRANK Order Date: 2016 - 12 - 27 Customer Details: Contact Name: Shaft Franken Address: Berliner Platz 43 City: München Postal Code: 80805 Country: Germany Headphone: 089 - 0877310 Fax: 089 - 0877451 Product Details: Product ID Cartesian product Public figure Quantity Unit Price 23 Tunnbröd 40 7. 2 71 Flotemysost 60 17. 2 72 Mozzarella di Giovanni 21 27. 8 TotalPrice 1903. 8000000000002 Page 1",
+        "Invoice Order ID: 10396 Customer ID: FRANK Order Date: 2016 - 12 - 27 Customer Details: Contact Name: Peter Franken Address: Berliner Platz xliii City: München Postal Code: 80805 Nation: Germany Phone: 089 - 0877310 Facsimile: 089 - 0877451 Product Details: Product ID Product Name Quantity Unit Price 23 Tunnbröd 40 7. two 71 Flotemysost 60 17. 2 72 Mozzarella di Giovanni twenty one twenty seven. 8 TotalPrice 1903. 8000000000002 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: FRANK. Order Date: 2016-12-27.Customer Details:         Peter Franken. Address: Berliner Platz 43. City: München, Germany. Postal Code:  “”. Phone: ‘’.Phone Number: 020-089-0877310.Fax: 905-877451."
+}

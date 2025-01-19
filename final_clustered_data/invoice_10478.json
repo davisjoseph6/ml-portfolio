@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10478.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10478\nCustomer ID: VICTE\nOrder Date: 2017-03-18\nCustomer Details:\nContact Name:\nMary Saveley\nAddress:\n2, rue du Commerce\nCity:\nLyon\nPostal Code:\n69004\nCountry:\nFrance\nPhone:\n78.32.54.86\nFax:\n78.32.54.87\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n10\nIkura\n20\n24.8\n \n \nTotalPrice\n496.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10478 Customer ID: VICTE Order Date: 2017 - 03 - 18 Customer Details: Contact Figure: Mary Saveley Address: two, rue du Commerce City: Lyons Postal Computer code: 69004 Country: France Phone: 78. 32. 54. 86 Fax: 78. 32. 54. lxxxvii Product Item: Mathematical product ID Product Name Quantity Unit Price 10 Ikura 20 two dozen. 8 TotalPrice 496. 0 Page 1",
+        "Invoice Fiat ID: 10478 Customer ID: VICTE Order Date: 2017 - 03 - eighteen Customer Details: Link Name: Virgin mary Saveley Address: ii, rue du Commerce City: Lyon Postal Computer code: 69004 Country: France Phone: 78. 32. 54. 86 Fax: 78. 32. 54. 87 Product Details: Product ID Product Name Quantity Unit of measurement Price 10 Ikura 20 two dozen. 8 TotalPrice 496. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: 10478.Customer ID: VICTE. Order Date: 2017-03-18. Customer Details:              Mary Saveley. Address:                2, rue du Commerce, Lyon, France. Postal Code:                            69004. Country:  \"France\""
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10321.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10321\nShipping Details:\nShip Name: Island Trading\nShip Address: Garden House Crowther Way\nShip City: Cowes\nShip Region: British Isles\nShip Postal Code: PO31 7PJ\nShip Country: UK\nCustomer Details:\nCustomer ID: ISLAT\nCustomer Name: Island Trading\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-10-03\nShipped Date: 2016-10-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 10\nUnit Price: 14.4\nTotal: 144.0\nTotal Price:\nTotal Price: 144.0\n",
+    "augmented_texts": [
+        "Order ID: 10321 Shipping Details: Ship Name: Island Trading Ship Address: Garden House Crowther Way Ship City: Cowes Ship Area: British Isles Ship Postal Computer code: PO31 7PJ Ship Country: UK Customer Details: Customer ID: ISLAT Customer Name: Island Trading Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Society Details: Guild Engagement: 2016 - 10 - 03 Shipped Date: 2016 - x - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Steeleye Stout Quantity: tenner Unit Price: 14. 4 Total: 144. 0 Total Price: Total Price: 144. 0",
+        "Order i.d.: 10321 Shipping Details: Ship Name: Island Trading Ship Address: Garden Firm Crowther Way Ship Metropolis: Cowes Ship Region: British Isles Ship Postal Code: PO31 7PJ Ship Country: UK Customer Details: Customer ID: ISLAT Customer Name: Island Trading Employee Detail: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Parliamentary law Date: 2016 - 10 - 03 Shipped Date: 2016 - x - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 10 Unit Price: 14. 4 Aggregate: 144. 0 Total Price: Total Price: 144. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10321. Ship Address: Garden House Crowther Way, Cowes. Postal Code: PO31 7PJ. Country: UK. Customer: Island Trading. Shipper: United Package. Product: Steeleye Stout. Unit Price: 14.4."
+}

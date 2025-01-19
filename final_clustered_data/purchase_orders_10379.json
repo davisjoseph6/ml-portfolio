@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10379.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10379\n2016-12-11\nBernardo Batista\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n41\nJack's New England Clam Chowder\n8\n7.7\n63\nVegie-spread\n16\n35.1\n65\nLouisiana Fiery Hot Pepper Sauce\n20\n16.8\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Escort Customer Name 10379 2016 - 12 - 11 Bernardo Batista Products Production gem state: Product: Quantity: Unit Price: xli Jack ' s New England Clam Chowder 8 7. 7 63 Vegie - spread 16 35. 1 65 Louisiana Fiery Hot Pepper Sauce xx 16. 8 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10379 2016 - 12 - 11 Bernardo Batista Products Product ID: Product: Quantity: Unit Price: xli Jack ' s New England Clam Chowder eighter vii. 7 lxiii Vegie - spread 16 35. 1 65 Louisiana Fiery Hot Pepper Sauce 20 16. viii Varlet 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than just clam chowder and hot pepper sauce. Customers can choose their favorite product and the price they pay for it. For more information on these products, go to www.chowder.com or visit the Jack's New England Clam Chowder website."
+}

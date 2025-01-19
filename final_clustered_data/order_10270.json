@@ -1,0 +1,24 @@
+{
+    "filename": "order_10270.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10270\nShipping Details:\nShip Name: Wartian Herkku\nShip Address: Torikatu 38\nShip City: Oulu\nShip Region: Scandinavia\nShip Postal Code: 90110\nShip Country: Finland\nCustomer Details:\nCustomer ID: WARTH\nCustomer Name: Wartian Herkku\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-08-01\nShipped Date: 2016-08-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Inlagd Sill\nQuantity: 30\nUnit Price: 15.2\nTotal: 456.0\n--------------------------------------------------------------------------------------------------\nProduct: Ipoh Coffee\nQuantity: 25\nUnit Price: 36.8\nTotal: 919.9999999999999\nTotal Price:\nTotal Price: 1376.0\n",
+    "augmented_texts": [
+        "Order ID: 10270 Shipping Details: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Area: Scandinavian peninsula Ship Postal Code: 90110 Ship Country: Finland Client Details: Client ID: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 08 - 01 Shipped Date: 2016 - 08 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Amount: xxx Unit Price: xv. 2 Total: 456. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ipoh Coffee Quantity: 25 Unit Price: 36. 8 Total: 919. 9999999999999 Full Price: Total Price: 1376. 0",
+        "Order ID: 10270 Shipping Details: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship Metropolis: Oulu Ship Region: Scandinavia Ship Postal Codification: 90110 Ship Country: Finland Customer Point: Customer ID: WARTH Client Name: Wartian Herkku Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 08 - 01 Shipped Particular date: 2016 - 08 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: xxx Unit Price: 15. 2 Total: 456. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Ipoh Coffee Quantity: 25 Unit Price: 36. 8 Total: 919. 9999999999999 Total Price: Total Price: 1376. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10270. Order Name: Wartian Herkku. Ship Address: Torikatu 38. City: Oulu. Region: Scandinavia. Postal Code: 90110. Country: Finland. Shipper: Speedy Express. Customers: WARTH."
+}

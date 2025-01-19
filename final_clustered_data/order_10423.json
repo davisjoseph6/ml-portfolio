@@ -1,0 +1,24 @@
+{
+    "filename": "order_10423.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10423\nShipping Details:\nShip Name: Gourmet Lanchonetes\nShip Address: Av. Brasil, 442\nShip City: Campinas\nShip Region: South America\nShip Postal Code: 04876-786\nShip Country: Brazil\nCustomer Details:\nCustomer ID: GOURL\nCustomer Name: Gourmet Lanchonetes\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-01-23\nShipped Date: 2017-02-24\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 14\nUnit Price: 10.0\nTotal: 140.0\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 20\nUnit Price: 44.0\nTotal: 880.0\nTotal Price:\nTotal Price: 1020.0\n",
+    "augmented_texts": [
+        "Order ID: 10423 Shipping Details: Ship Public figure: Gourmet Lanchonetes Ship Computer address: Av. Brasil, 442 Ship City: Campinas Ship Neighborhood: South America Ship Postal Code: 04876 - 786 Ship Country: Brazil Customer Contingent: Customer ID: GOURL Customer Name: Gourmet Lanchonetes Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 3 Shipper Gens: Federal Shipping Order Details: Order Date: 2017 - 01 - 23 Shipped Date: 2017 - 02 - 24 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Gorgonzola Telino Quantity: 14 Unit Monetary value: 10. 0 Total: 140. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 20 Unit Price: 44. 0 Total: 880. 0 Total Price: Total Price: 1020. nought",
+        "Order ID: 10423 Shipping Details: Ship Name: Gourmet Lanchonetes Ship Address: Av. Brazil, 442 Ship City: Campinas Ship Region: South America Ship Postal Code: 04876 - 786 Ship Country: Brazil Customer Details: Customer ID: GOURL Customer Name: Gourmet Lanchonetes Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 3 Shipper Name: Fed Shipping Order Detail: Order Date: 2017 - 01 - 23 Shipped Date: 2017 - 02 - xxiv Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 14 Unit Price: 10. 0 Total: 140. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Raclette Courdavault Quantity: 20 Unit Price: 44. 0 Total: 880. 0 Total Price: Total Price: 1020. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10423. Ship address: Av. Brasil, 442. City: Campinas. Region: South America. Postal Code: 04876-786. Country: Brazil. Customer: Gourmet Lanchonetes. Employee: Michael Suyama. Shipper: Federal Shipping."
+}

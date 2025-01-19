@@ -1,0 +1,24 @@
+{
+    "filename": "order_10590.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10590\nShipping Details:\nShip Name: Mère Paillarde\nShip Address: 43 rue St. Laurent\nShip City: Montréal\nShip Region: North America\nShip Postal Code: H1J 1C3\nShip Country: Canada\nCustomer Details:\nCustomer ID: MEREP\nCustomer Name: Mère Paillarde\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-07-07\nShipped Date: 2017-07-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 20\nUnit Price: 18.0\nTotal: 360.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 60\nUnit Price: 13.0\nTotal: 780.0\nTotal Price:\nTotal Price: 1140.0\n",
+    "augmented_texts": [
+        "Order ID: 10590 Shipping Details: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship City: Montréal Ship Region: North U.s.a. Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Name: Margaret Peacock butterfly Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 07 - 07 Shipped Date: 2017 - 07 - 14 Mathematical product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 20 Whole Price: 18. 0 Total: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 60 Unit Price: baker's dozen. 0 Total: 780. 0 Total Cost: Total Price: 1140. 0",
+        "Order ID: 10590 Shipping Detail: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship Urban center: Montréal Ship Region: North America Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Epithet: Margaret Inachis io Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 07 - 07 Shipped Date: 2017 - 07 - fourteen Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: twenty Unit Price: 18. 0 Total: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 60 Unit Price: 13. 0 Total: 780. 0 Total Price: Total Price: 1140. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10590. Order Name: Mère Paillarde. Ship Address: 43 rue St. Laurent. Postal Code: H1J 1C3. Country: Canada. Shipper: Federal Shipping. Product: Original Frankfurter grüne Soße (chai)"
+}

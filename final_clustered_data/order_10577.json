@@ -1,0 +1,24 @@
+{
+    "filename": "order_10577.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10577\nShipping Details:\nShip Name: Trail-s Head Gourmet Provisioners\nShip Address: 722 DaVinci Blvd.\nShip City: Kirkland\nShip Region: North America\nShip Postal Code: 98034\nShip Country: USA\nCustomer Details:\nCustomer ID: TRAIH\nCustomer Name: Trail's Head Gourmet Provisioners\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-06-23\nShipped Date: 2017-06-30\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 10\nUnit Price: 18.0\nTotal: 180.0\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 20\nUnit Price: 7.75\nTotal: 155.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 18\nUnit Price: 13.0\nTotal: 234.0\nTotal Price:\nTotal Price: 569.0\n",
+    "augmented_texts": [
+        "Order ID: 10577 Shipping Details: Ship Name: Trail - s Head Gourmet Provisioners Ship Address: 722 DaVinci Blvd. Ship Urban center: Kirkland Ship Region: North America Ship Postal Code: 98034 Ship Country: USA Customer Details: Customer ID: TRAIH Customer Gens: Trail ' s Head Gourmet Provisioners Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: deuce Shipper Figure: United Package Order Details: Order Date: 2017 - 06 - 23 Shipped Date: 2017 - 06 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 10 Unit Price: 18. 0 Total: 180. nought - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Amount: 20 Unit Price: 7. 75 Aggregate: clv. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Original Frankfurter grüne Soße Quantity: 18 Unit Price: 13. 0 Total: 234. 0 Total Price: Total Price: 569. 0",
+        "Order ID: 10577 Shipping Details: Ship Gens: Trail - s Head Gourmet Provisioners Ship Address: 722 DaVinci Blvd. Ship City: Kirkland Ship Region: North America Ship Postal Code: 98034 Ship Country: USA Customer Details: Customer ID: TRAIH Customer Name: Track ' s Head Gourmet Provisioners Employee Details: Employee Figure: Anne Dodsworth Shipper Details: Shipper ID: 2 Shipper Name: United Bundle Order Details: Order Date: 2017 - 06 - 23 Shipped Date: 2017 - 06 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 10 Unit Price: 18. 0 Total: 180. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Measure: 20 Unit Price: 7. 75 Totality: 155. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 18 Unit Price: 13. 0 Total: 234. 0 Total Price: Entire Price: 569. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Ship Name: Trail-s Head Gourmet Provisioners. Ship Address: 722 DaVinci Blvd. in Kirkland, U.S.C. Postal Code: 98034. Country: USA. Customer ID: TRAIH. Shipper: United Package. Order: 10577."
+}

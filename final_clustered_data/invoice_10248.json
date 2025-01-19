@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10248.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10248\nCustomer ID: VINET\nOrder Date: 2016-07-04\nCustomer Details:\nContact Name:\nPaul Henriot\nAddress:\n59 rue de l'Abbaye\nCity:\nReims\nPostal Code:\n51100\nCountry:\nFrance\nPhone:\n26.47.15.10\nFax:\n26.47.15.11\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n11\nQueso Cabrales\n12\n14.0\n42\nSingaporean Hokkien Fried Mee\n10\n9.8\n72\nMozzarella di Giovanni\n5\n34.8\n \n \nTotalPrice\n440.0\nPage 1\n",
+    "augmented_texts": [
+        "Account Order ID: 10248 Customer ID: VINET Order Date: 2016 - 07 - 04 Customer Point: Contact Name: Saul Henriot Address: 59 regret de l ' Abbaye City: Reims Postal Code: 51100 Country: France Phone: 26. 47. 15. 10 Fax: twenty six. xlvii. 15. 11 Product Details: Product ID Product Public figure Quantity Unit Price 11 Queso Cabrales 12 xiv. 0 42 Singaporean Hokkien Fried Mee 10 9. 8 72 Mozzarella di Giovanni 5 34. 8 TotalPrice 440. 0 Page 1",
+        "Invoice Order ID: 10248 Customer ID: VINET Order Date: 2016 - 07 - 04 Customer Details: Contact Name: Paul Henriot Address: 59 regret de l ' Abbaye City: Reims Postal Code: 51100 Nation: France Phone: 26. 47. 15. 10 Fax: 26. 47. 15. 11 Product Details: Product ID Mathematical product Name Quantity Building block Price 11 Queso Cabrales 12 xiv. 0 42 Singaporean Hokkien Fried Mee 10 9. octonary seventy two Mozzarella di Giovanni 5 34. viii TotalPrice 440. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: VINET. Order Date: 2016-07-04. Customer: Paul Henriot. Address: 59 rue de l'Abbaye, Reims. Postal Code:51100. Country: France. Phone: 26.47.15.10.Fax:26. 47. 15.11. Product: 10248. Unit Price: 440."
+}

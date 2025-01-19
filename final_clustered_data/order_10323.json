@@ -1,0 +1,24 @@
+{
+    "filename": "order_10323.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10323\nShipping Details:\nShip Name: Königlich Essen\nShip Address: Maubelstr. 90\nShip City: Brandenburg\nShip Region: Western Europe\nShip Postal Code: 14776\nShip Country: Germany\nCustomer Details:\nCustomer ID: KOENE\nCustomer Name: Königlich Essen\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-10-07\nShipped Date: 2016-10-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Genen Shouyu\nQuantity: 5\nUnit Price: 12.4\nTotal: 62.0\n--------------------------------------------------------------------------------------------------\nProduct: NuNuCa Nuß-Nougat-Creme\nQuantity: 4\nUnit Price: 11.2\nTotal: 44.8\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 4\nUnit Price: 14.4\nTotal: 57.6\nTotal Price:\nTotal Price: 164.4\n",
+    "augmented_texts": [
+        "Order ID: 10323 Shipping Details: Ship Name: Königlich Essen Ship Address: Maubelstr. 90 Ship City: Brandenburg Ship Region: Western Europe Ship Postal Code: 14776 Ship Country: Germany Customer Details: Customer gem state: KOENE Customer Name: Königlich Essen Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: i Shipper Name: Speedy Express Order Details: Order Date: 2016 - 10 - 07 Shipped Date: 2016 - 10 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Genen Shouyu Quantity: 5 Building block Price: 12. iv Total: 62. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: NuNuCa Nuß - Nougat - Creme Quantity: 4 Unit Price: 11. 2 Total: 44. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 4 Unit Price: 14. 4 Total: 57. 6 Total Price: Total Price: 164. 4",
+        "Order ID: 10323 Shipping Contingent: Ship Name: Königlich Essen Ship Address: Maubelstr. 90 Ship City: Brandenburg Ship Region: Western European economic community Ship Postal Computer code: 14776 Ship Country: Germany Customer Details: Customer ID: KOENE Customer Name: Königlich Essen Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper i.d.: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 10 - 07 Shipped Date: 2016 - 10 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Genen Shouyu Quantity: 5 Unit Price: 12. 4 Total: 62. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: NuNuCa Nuß - Nougat - Creme Quantity: 4 Unit Price: 11. 2 Total: 44. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 4 Unit Price: 14. 4 Total: 57. captain hicks Total Price: Total Price: 164. 4"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10323. Order Name: Königlich Essen. Ship Address: Maubelstr. 90, Brandenburg. Postal Code: 14776. Country: Germany. Customer: KOENE. Employee: Margaret Peacock. Shipper: Speedy Express. Products: Genen Shouyu."
+}

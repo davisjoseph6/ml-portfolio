@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10583.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10583\nCustomer ID: WARTH\nOrder Date: 2017-06-30\nCustomer Details:\nContact Name:\nPirkko Koskitalo\nAddress:\nTorikatu 38\nCity:\nOulu\nPostal Code:\n90110\nCountry:\nFinland\nPhone:\n981-443655\nFax:\n981-443655\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n29\nThüringer Rostbratwurst\n10\n123.79\n60\nCamembert Pierrot\n24\n34.0\n69\nGudbrandsdalsost\n10\n36.0\n \n \nTotalPrice\n2413.9\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10583 Customer ID: WARTH Order Date: 2017 - 06 - 30 Customer Details: Contact Name: Pirkko Koskitalo Savoir faire: Torikatu thirty eight City: Oulu Postal Code: 90110 Country: Finland Phone: 981 - 443655 Facsimile: 981 - 443655 Intersection Details: Product ID Product Public figure Quantity Unit Price 29 Thüringer Rostbratwurst 10 123. 79 60 Camembert Pierrot 24 thirty four. cipher 69 Gudbrandsdalsost 10 36. 0 TotalPrice 2413. 9 Page one",
+        "Invoice Order ID: 10583 Customer ID: WARTH Order Date: 2017 - 06 - 30 Client Detail: Contact Name: Pirkko Koskitalo Address: Torikatu 38 City: Oulu Postal Code: 90110 Country: Finland Phone: 981 - 443655 Fax: 981 - 443655 Product Details: Product ID Product Epithet Quantity Unit Price 29 Thüringer Rostbratwurst 10 123. 79 60 Camembert Pierrot two dozen 34. 0 sixty nine Gudbrandsdalsost 10 36. 0 TotalPrice 2413. 9 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10583.Customer ID: WARTH. Order Date: 2017-06-30. Customer: Pirkko Koskitalo. Product: Camembert Pierrot. Price: 2413.9 euros per kilogram. The order was made on June 30, 2017."
+}

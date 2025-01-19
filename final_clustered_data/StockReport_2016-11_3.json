@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-11_3.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-11 \n Category : Confections  \n id category : 3  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nPavlova\n56\n29\n17.45\nTeatime Chocolate Biscuits\n80\n25\n9.2\nSir Rodney's Scones\n5\n3\n10\nNuNuCa Nuß-Nougat-Creme\n60\n76\n14\nGumbär Gummibärchen\n16\n15\n31.23\nMaxilaku\n35\n10\n20\nValkoinen suklaa\n15\n65\n16.25\n",
+    "augmented_texts": [
+        "Stock News report for 2016 - 11 Category: Confections id category: 3 Product Units Sold Units in Stock Unit Price Pavlova 56 29 17. 45 Afternoon tea Chocolate Biscuits 80 25 9. 2 Sir Rodney ' s Scones five 3 10 NuNuCa Nuß - Nougat - Creme 60 76 14 Gumbär Gummibärchen 16 15 31. 23 Maxilaku 35 10 20 Valkoinen suklaa 15 65 16. 25",
+        "Stock Report for 2016 - 11 Category: Confections id category: 3 Product Units Sold Units in Stock Unit Price Pavlova 56 xxix 17. 45 Teatime Chocolate Biscuits 80 25 9. 2 Sir Rodney ' s Scones 5 3 ten NuNuCa Nuß - Nougat - Creme sixty lxxvi 14 Gumbär Gummibärchen 16 15 31. 23 Maxilaku 35 10 20 Valkoinen suklaa 15 65 16. 25"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-11. Category : Confections. id category : 3. Product: Chocolate Biscuits. Unit price: £1.25 per pack. Price per unit:£1,200. Unweighted weight: 2.5g. Weight: 1.2g per pound."
+}

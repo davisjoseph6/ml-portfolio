@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10301.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10301\nCustomer ID: WANDK\nOrder Date: 2016-09-09\nCustomer Details:\nContact Name:\nRita Müller\nAddress:\nAdenauerallee 900\nCity:\nStuttgart\nPostal Code:\n70563\nCountry:\nGermany\nPhone:\n0711-020361\nFax:\n0711-035428\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n40\nBoston Crab Meat\n10\n14.7\n56\nGnocchi di nonna Alice\n20\n30.4\n \n \nTotalPrice\n755.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10301 Customer ID: WANDK Order Date: 2016 - 09 - 09 Customer Item: Contact Name: Rita Müller Address: Adenauerallee 900 City: Stuttgart Postal Code: 70563 Country: Germany Phone: 0711 - 020361 Fax: 0711 - 035428 Product Details: Product gem state Product Name Quantity Unit Price 40 Boston Crab Meat 10 fourteen. 7 56 Gnocchi di nonna Alice 20 30. 4 TotalPrice 755. 0 Page 1",
+        "Invoice Order ID: 10301 Customer ID: WANDK Order Date: 2016 - 09 - 09 Customer Details: Contact Name: Rita Müller Address: Adenauerallee 900 City: Stuttgart Postal Code: 70563 Country: Germany Phone: 0711 - 020361 Fax: 0711 - 035428 Merchandise Contingent: Product ID Product Name Quantity Unit Mary leontyne price 40 Boston Crab Meat 10 14. 7 56 Gnocchi di nonna Alice xx 30. 4 TotalPrice 755. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: WANDK. Order Date: 2016-09- 09.Customer Details: contact name: Rita Müller. Product Name is Boston Crab Meat. Price is $.40 for a pound of the meat. The price includes shipping and handling. For confidential support call the Samaritans on 08457 909090 or click here for details."
+}

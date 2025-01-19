@@ -1,0 +1,24 @@
+{
+    "filename": "order_10602.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10602\nShipping Details:\nShip Name: Vaffeljernet\nShip Address: Smagsloget 45\nShip City: Århus\nShip Region: Northern Europe\nShip Postal Code: 8200\nShip Country: Denmark\nCustomer Details:\nCustomer ID: VAFFE\nCustomer Name: Vaffeljernet\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-07-17\nShipped Date: 2017-07-22\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 5\nUnit Price: 13.0\nTotal: 65.0\nTotal Price:\nTotal Price: 65.0\n",
+    "augmented_texts": [
+        "Fiat gem state: 10602 Shipping Details: Ship Name: Vaffeljernet Ship Address: Smagsloget forty five Ship City: Århus Ship Region: Northern Europe Ship Postal Code: 8200 Ship Country: Denmark Customer Details: Customer ID: VAFFE Customer Name: Vaffeljernet Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Software system Guild Details: Order Day of the month: 2017 - 07 - 17 Shipped Date: 2017 - 07 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 5 Unit Price: 13. 0 Total: 65. 0 Total Price: Total Price: 65. 0",
+        "Order idaho: 10602 Shipping Details: Ship Name: Vaffeljernet Ship Address: Smagsloget 45 Ship City: Århus Ship Region: Northern Europe Ship Postal Code: 8200 Ship Country: Denmark Customer Details: Customer ID: VAFFE Customer Name: Vaffeljernet Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper i.d.: 2 Shipper Name: United Software system Order Details: Order Date: 2017 - 07 - 17 Shipped Date: 2017 - 07 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 5 Unit Price: 13. 0 Total: 65. cipher Total Price: Total Price: 65. cypher"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10602. Order Name: Vaffeljernet. Ship Address: Smagsloget 45. Postal Code: 8200. Customers: VAFFE. Shipper: United Package. Product: Original Frankfurter grüne Soße.Unit Price: 13.0 pounds. Unit Quantity: 5."
+}

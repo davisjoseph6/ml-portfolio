@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10279.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10279\nCustomer ID: LEHMS\nOrder Date: 2016-08-13\nCustomer Details:\nContact Name:\nRenate Messner\nAddress:\nMagazinweg 7\nCity:\nFrankfurt a.M.\nPostal Code:\n60528\nCountry:\nGermany\nPhone:\n069-0245984\nFax:\n069-0245874\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n17\nAlice Mutton\n15\n31.2\n \n \nTotalPrice\n468.0\nPage 1\n",
+    "augmented_texts": [
+        "Account Order gem state: 10279 Customer ID: LEHMS Order Date: 2016 - 08 - 13 Customer Details: Contact Name: Renate Messner Savoir faire: Magazinweg seven City: Frankfurt a. M. Postal Code: 60528 Country: Germany Phone: 069 - 0245984 Fax: 069 - 0245874 Product Details: Product ID Product Name Quantity Unit Price 17 Alice Mutton 15 31. 2 TotalPrice 468. 0 Thomas nelson page 1",
+        "Invoice Order ID: 10279 Customer i.d.: LEHMS Order Day of the month: 2016 - 08 - 13 Customer Details: Contact Figure: Renate Messner Address: Magazinweg seven City: Frankfurt a. M. Postal Code: 60528 Country: Germany Phone: 069 - 0245984 Fax: 069 - 0245874 Product Details: Product ID Product Name Quantity Unit Price xvii Alice Mutton fifteen thirty one. 2 TotalPrice 468. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: LEHMS. Order Date: 2016-08-13. Customer: Renate Messner. Postal Code: 2060528. Country: Germany. Phone: 069-0245984.Fax: 6069 -0245874. Product ID: 10279. Unit Price: 1,468.0."
+}

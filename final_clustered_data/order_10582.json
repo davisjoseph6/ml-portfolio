@@ -1,0 +1,24 @@
+{
+    "filename": "order_10582.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10582\nShipping Details:\nShip Name: Blauer See Delikatessen\nShip Address: Forsterstr. 57\nShip City: Mannheim\nShip Region: Western Europe\nShip Postal Code: 68306\nShip Country: Germany\nCustomer Details:\nCustomer ID: BLAUS\nCustomer Name: Blauer See Delikatessen\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-06-27\nShipped Date: 2017-07-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Ravioli Angelo\nQuantity: 4\nUnit Price: 19.5\nTotal: 78.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 14\nUnit Price: 18.0\nTotal: 252.0\nTotal Price:\nTotal Price: 330.0\n",
+    "augmented_texts": [
+        "Order ID: 10582 Shipping Details: Ship Name: Blauer See Delikatessen Ship Address: Forsterstr. 57 Ship City: Mannheim Ship Region: Western Europe Ship Postal Code: 68306 Ship Country: Federal republic of germany Customer Details: Customer ID: BLAUS Customer Name: Blauer See Delikatessen Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Gild Details: Order Date: 2017 - 06 - 27 Shipped Date: 2017 - 07 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 4 Unit Price: 19. 5 Sum: 78. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Amount: 14 Unit Price: 18. 0 Total: 252. 0 Total Damage: Total Price: 330. 0",
+        "Order ID: 10582 Shipping Details: Ship Name: Blauer See Delikatessen Ship Address: Forsterstr. lvii Ship Metropolis: Mannheim Ship Region: Western Europe Ship Postal Code: 68306 Ship Country: Germany Customer Details: Customer ID: BLAUS Customer Name: Blauer See Delikatessen Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Monastic order Details: Order Date: 2017 - 06 - xxvii Shipped Engagement: 2017 - 07 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 4 Unit Price: 19. 5 Total: 78. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 14 Unit Price: 18. 0 Aggregate: 252. 0 Total Price: Total Price: 330. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10582. Order Name: Blauer See Delikatessen. Ship Address: Forsterstr. 57, Mannheim, Germany. Postal Code: 68306. Customers: BLAUS. Shipper: United Package. Products: Ravioli Angelo, Lakkalikööri."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10292.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10292\nCustomer ID: TRADH\nOrder Date: 2016-08-28\nCustomer Details:\nContact Name:\nAnabela Domingues\nAddress:\nAv. Inês de Castro, 414\nCity:\nSao Paulo\nPostal Code:\n05634-030\nCountry:\nBrazil\nPhone:\n(11) 555-2167\nFax:\n(11) 555-2168\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n20\nSir Rodney's Marmalade\n20\n64.8\n \n \nTotalPrice\n1296.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10292 Customer i.d.: TRADH Order Date: 2016 - 08 - 28 Customer Details: Contact Name: Anabela Domingues Address: Av. Inês de Castro, 414 Metropolis: Sao Paulo Postal Code: 05634 - 030 Country: Brazil Phone: (11) 555 - 2167 Fax: (11) 555 - 2168 Product Details: Product ID Product Name Quantity Unit Price 20 Sir Rodney ' mho Marmalade 20 64. 8 TotalPrice 1296. 0 Page ane",
+        "Invoice Order gem state: 10292 Customer ID: TRADH Order Date: 2016 - 08 - 28 Customer Details: Contact Name: Anabela Domingues Address: Av. Inês de Fidel castro ruz, 414 Metropolis: Sao Paulo Postal Code: 05634 - 030 Country: Brazil Phone: (11) 555 - 2167 Fax: (11) 555 - 2168 Product Details: Product ID Ware Figure Quantity Unit Price 20 Sir Rodney ' s Marmalade 20 64. 8 TotalPrice 1296. 0 Varlet 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: TRADH. Order Date: 2016-08-28.Customer Details:         Anabela Domingues. Address: 414 Av. Inês de Castro, 414-414, Sao Paulo, Brazil. Postal Code:                           05634-030."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10529.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10529\nShipping Details:\nShip Name: Maison Dewey\nShip Address: Rue Joseph-Bens 532\nShip City: Bruxelles\nShip Region: Western Europe\nShip Postal Code: B-1180\nShip Country: Belgium\nCustomer Details:\nCustomer ID: MAISD\nCustomer Name: Maison Dewey\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-05-07\nShipped Date: 2017-05-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 14\nUnit Price: 24.0\nTotal: 336.0\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 20\nUnit Price: 12.5\nTotal: 250.0\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 10\nUnit Price: 36.0\nTotal: 360.0\nTotal Price:\nTotal Price: 946.0\n",
+    "augmented_texts": [
+        "Guild ID: 10529 Shipping Details: Ship Name: Maison Dewey Ship Address: Rue Joseph - Bens 532 Ship City: Bruxelles Ship Region: Western Europe Ship Postal Code: B - 1180 Ship Country: Belgium Customer Details: Customer ID: MAISD Customer Name: Maison Dewey Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Particular date: 2017 - 05 - 07 Shipped Date: 2017 - 05 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 14 Unit Price: 24. 0 Total: 336. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scotch Longbreads Quantity: 20 Unit Price: 12. 5 Sum: 250. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Gudbrandsdalsost Measure: 10 Unit Price: 36. 0 Total: 360. 0 Total Price: Total Price: 946. 0",
+        "Order ID: 10529 Shipping Details: Ship Name: Maison Dewey Ship Speech: Rue Joseph - Bens 532 Ship City: Bruxelles Ship Region: Western Europe Ship Postal Code: B - 1180 Ship Country: Belgium Customer Details: Customer ID: MAISD Customer Name: Maison Dewey Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper gem state: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 05 - 07 Shipped Date: 2017 - 05 - 09 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 14 Unit Cost: 24. 0 Total: 336. cypher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: twenty Unit Price: 12. 5 Total: 250. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 10 Unit Price: 36. 0 Total: 360. 0 Total Price: Total Price: 946. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10529. Ship Address: Rue Joseph-Bens 532, Bruxelles, Belgium. Postal Code: B-1180. Customer Name: Maison Dewey.Employee: Steven Buchanan. Shipper: United Package. Order Date: 2017-05-07."
+}

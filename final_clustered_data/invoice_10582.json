@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10582.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10582\nCustomer ID: BLAUS\nOrder Date: 2017-06-27\nCustomer Details:\nContact Name:\nHanna Moos\nAddress:\nForsterstr. 57\nCity:\nMannheim\nPostal Code:\n68306\nCountry:\nGermany\nPhone:\n0621-08460\nFax:\n0621-08924\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n57\nRavioli Angelo\n4\n19.5\n76\nLakkalikööri\n14\n18.0\n \n \nTotalPrice\n330.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10582 Customer ID: BLAUS Order Particular date: 2017 - 06 - xxvii Customer Details: Contact Name: Hanna Moos Address: Forsterstr. 57 City: Mannheim Postal Code: 68306 Country: Germany Phone: 0621 - 08460 Fax: 0621 - 08924 Product Details: Mathematical product ID Product Name Quantity Unit Price 57 Ravioli Angelo 4 19. 5 lxxvi Lakkalikööri 14 18. 0 TotalPrice 330. 0 Page 1",
+        "Invoice Order ID: 10582 Customer ID: BLAUS Order Date: 2017 - 06 - 27 Customer Details: Striking Name: Hanna Moos Name and address: Forsterstr. fifty seven City: Mannheim Postal Code: 68306 Area: Germany Phone: 0621 - 08460 Fax: 0621 - 08924 Product Details: Product ID Product Name Quantity Unit Price 57 Ravioli Angelo little joe 19. little phoebe 76 Lakkalikööri 14 18. 0 TotalPrice 330. cypher Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10582.Customer ID: BLAUS. Order Date: 2017-06-27. Customer Name: Hanna Moos. Address: Forsterstr. 57, Mannheim. Postal Code: 68306. Country: Germany. Product: Ravioli Angelo. Unit Price:330.0."
+}

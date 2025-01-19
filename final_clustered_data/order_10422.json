@@ -1,0 +1,24 @@
+{
+    "filename": "order_10422.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10422\nShipping Details:\nShip Name: Franchi S.p.A.\nShip Address: Via Monte Bianco 34\nShip City: Torino\nShip Region: Southern Europe\nShip Postal Code: 10100\nShip Country: Italy\nCustomer Details:\nCustomer ID: FRANS\nCustomer Name: Franchi S.p.A.\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-01-22\nShipped Date: 2017-01-31\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gumbär Gummibärchen\nQuantity: 2\nUnit Price: 24.9\nTotal: 49.8\nTotal Price:\nTotal Price: 49.8\n",
+    "augmented_texts": [
+        "Order ID: 10422 Shipping Details: Ship Name: Franchi S. phosphorus. A. Ship Address: Via Monte Bianco 34 Ship City: Torino Ship Region: Southern Europe Ship Postal Code: 10100 Ship Country: Italian republic Customer Inside information: Customer ID: FRANS Customer Name: Franchi S. p. A. Employee Inside information: Employee Name: Andrew Fuller Shipper Details: Shipper ID: one Shipper Name: Speedy Express Order Details: Order Date: 2017 - 01 - 22 Shipped Engagement: 2017 - 01 - 31 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Amount: 2 Unit Price: 24. 9 Total: 49. 8 Total Price: Total Price: 49. 8",
+        "Order ID: 10422 Shipping Details: Ship Name: Franchi S. p. A. Ship Address: Via Monte Bianco 34 Ship Urban center: Torino Ship Region: Southern Europe Ship Postal Codification: 10100 Ship Country: Italy Customer Details: Customer i.d.: FRANS Customer Name: Franchi S. p. A. Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper i.d.: 1 Shipper Name: Speedy Express Order Details: Ordination Date: 2017 - 01 - 22 Shipped Particular date: 2017 - 01 - 31 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Quantity: 2 Unit Price: twenty four. 9 Total: 49. 8 Total Price: Total Cost: 49. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Gumbär Gummibärchen is a brand of gummy bears sold in Italy. The company is based in Torino, Italy, and is part of the Franchi S.p.A. group of companies. Customers can order the product online and have it shipped to them."
+}

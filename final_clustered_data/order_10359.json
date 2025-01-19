@@ -1,0 +1,24 @@
+{
+    "filename": "order_10359.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10359\nShipping Details:\nShip Name: Seven Seas Imports\nShip Address: 90 Wadhurst Rd.\nShip City: London\nShip Region: British Isles\nShip Postal Code: OX15 4NB\nShip Country: UK\nCustomer Details:\nCustomer ID: SEVES\nCustomer Name: Seven Seas Imports\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-11-21\nShipped Date: 2016-11-26\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pavlova\nQuantity: 56\nUnit Price: 13.9\nTotal: 778.4\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 70\nUnit Price: 10.0\nTotal: 700.0\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 80\nUnit Price: 27.2\nTotal: 2176.0\nTotal Price:\nTotal Price: 3654.4\n",
+    "augmented_texts": [
+        "Order ID: 10359 Shipping Details: Ship Name: Seven Seas Imports Ship Address: 90 Wadhurst Rd. Ship City: London Ship Area: British Islet Ship Postal Code: OX15 4NB Ship Country: UK Customer Details: Customer ID: SEVES Customer Name: Seven Seas Imports Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper gem state: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 11 - 21 Shipped Date: 2016 - 11 - 26 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: 56 Unit Toll: 13. 9 Total: 778. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Measure: 70 Unit Price: 10. 0 Aggregate: 700. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 80 Unit Price: 27. 2 Amount: 2176. 0 Full Price: Total Price: 3654. 4",
+        "Order ID: 10359 Shipping Details: Ship Name: Seven Seas Imports Ship Address: 90 Wadhurst Rd. Ship City: London Ship Part: British Isles Ship Postal Code: OX15 4NB Ship Country: UK Customer Item: Customer ID: SEVES Customer Name: Seven Seas Imports Employee Details: Employee Gens: Steven Buchanan Shipper Details: Shipper ID: 3 Shipper Epithet: Federal Shipping Guild Details: Order Date: 2016 - 11 - 21 Shipped Date: 2016 - 11 - twenty six Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: 56 Unit Price: 13. 9 Total: 778. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 70 Unit Price: 10. 0 Total: 700. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Camembert Pierrot Quantity: 80 Unit Price: 27. 2 Total: 2176. 0 Total Price: Total Price: 3654. four"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10359. Ship Name: Seven Seas ImportsShip Address: 90 Wadhurst Rd.Ship Postal Code: OX15 4NBShip Country: UK. Customers: SEVES. Shippers: Federal Shipping. Products: Pavlova, Gorgonzola Telino, Camembert Pierrot."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10287.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10287\nShipping Details:\nShip Name: Ricardo Adocicados\nShip Address: Av. Copacabana, 267\nShip City: Rio de Janeiro\nShip Region: South America\nShip Postal Code: 02389-890\nShip Country: Brazil\nCustomer Details:\nCustomer ID: RICAR\nCustomer Name: Ricardo Adocicados\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-08-22\nShipped Date: 2016-08-28\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pavlova\nQuantity: 40\nUnit Price: 13.9\nTotal: 556.0\n--------------------------------------------------------------------------------------------------\nProduct: Sasquatch Ale\nQuantity: 20\nUnit Price: 11.2\nTotal: 224.0\n--------------------------------------------------------------------------------------------------\nProduct: Spegesild\nQuantity: 15\nUnit Price: 9.6\nTotal: 144.0\nTotal Price:\nTotal Price: 924.0\n",
+    "augmented_texts": [
+        "Order gem state: 10287 Shipping Details: Ship Name: Ricardo Adocicados Ship Address: Av. Copacabana, 267 Ship City: Rio de Janeiro Ship Region: Confederate states America Ship Postal Code: 02389 - 890 Ship Nation: Brazil Customer Details: Customer ID: RICAR Customer Name: Ricardo Adocicados Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal soldier Shipping Order Particular: Order Date: 2016 - 08 - 22 Shipped Date: 2016 - 08 - 28 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: 40 Unit Monetary value: 13. 9 Total: 556. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 20 Unit Price: 11. 2 Total: 224. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Spegesild Quantity: 15 Building block Price: 9. 6 Total: 144. 0 Total Price: Total Price: 924. 0",
+        "Order ID: 10287 Shipping Details: Ship Name: Ricardo Adocicados Ship Address: Av. Copacabana, 267 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 02389 - 890 Ship Country: Brazil Customer Detail: Customer ID: RICAR Customer Name: Ricardo Adocicados Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 08 - 22 Shipped Date: 2016 - 08 - 28 Mathematical product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Measure: twoscore Unit Price: 13. 9 Total: 556. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 20 Unit Price: 11. 2 Sum: 224. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Spegesild Quantity: xv Unit Price: 9. 6 Total: 144. zero Total Price: Total Price: 924. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10287. Ship Address: Av. Copacabana, 267, Rio de Janeiro. Postal Code: 02389-890. Country: Brazil. Customer: Ricardo Adocicados. Employee: Laura Callahan. Shipper: Federal Shipping. Order Date: 2016-08-22."
+}

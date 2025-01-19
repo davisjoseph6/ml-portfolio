@@ -1,0 +1,24 @@
+{
+    "filename": "order_10438.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10438\nShipping Details:\nShip Name: Toms Spezialitäten\nShip Address: Luisenstr. 48\nShip City: Münster\nShip Region: Western Europe\nShip Postal Code: 44087\nShip Country: Germany\nCustomer Details:\nCustomer ID: TOMSP\nCustomer Name: Toms Spezialitäten\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-02-06\nShipped Date: 2017-02-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Teatime Chocolate Biscuits\nQuantity: 15\nUnit Price: 7.3\nTotal: 109.5\n--------------------------------------------------------------------------------------------------\nProduct: Sasquatch Ale\nQuantity: 20\nUnit Price: 11.2\nTotal: 224.0\n--------------------------------------------------------------------------------------------------\nProduct: Ravioli Angelo\nQuantity: 15\nUnit Price: 15.6\nTotal: 234.0\nTotal Price:\nTotal Price: 567.5\n",
+    "augmented_texts": [
+        "Order ID: 10438 Shipping Details: Ship Name: Toms Spezialitäten Ship Address: Luisenstr. 48 Ship City: Münster Ship Region: Western Europe Ship Postal Code: 44087 Ship Country: Germany Customer Details: Customer ID: TOMSP Customer Name: Toms Spezialitäten Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 02 - 06 Shipped Date: 2017 - 02 - 14 Merchandise: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Biscuits Quantity: 15 Unit Price: 7. 3 Total: 109. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Sasquatch Ale Quantity: 20 Unit Price: 11. 2 Total: 224. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Amount: 15 Unit Price: xv. 6 Total: 234. 0 Total Price: Total Price: 567. 5",
+        "Order ID: 10438 Shipping Details: Ship Name: Toms Spezialitäten Ship Address: Luisenstr. 48 Ship City: Münster Ship Realm: Westerly Europe Ship Postal Code: 44087 Ship Country: Germany Customer Point: Customer ID: TOMSP Customer Name: Toms Spezialitäten Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 02 - 06 Shipped Date: 2017 - 02 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Biscuits Quantity: 15 Unit Price: septenary. 3 Total: 109. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 20 Unit Monetary value: 11. 2 Total: 224. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Cappelletti Angelo Quantity: 15 Whole Price: 15. 6 Total: 234. cypher Total Price: Total Price: 567. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10438. Order Name: Toms Spezialitäten. Ship Address: Luisenstr. 48, Münster, Germany. Postal Code: 44087. Customers: TOMSP, Janet Leverling. Shipper: United Package. Products: Teatime Chocolate Biscuits."
+}

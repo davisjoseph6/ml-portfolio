@@ -1,0 +1,24 @@
+{
+    "filename": "order_10426.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10426\nShipping Details:\nShip Name: Galería del gastronómo\nShip Address: Rambla de Cataluña, 23\nShip City: Barcelona\nShip Region: Southern Europe\nShip Postal Code: 8022\nShip Country: Spain\nCustomer Details:\nCustomer ID: GALED\nCustomer Name: Galería del gastrónomo\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-01-27\nShipped Date: 2017-02-06\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 5\nUnit Price: 30.4\nTotal: 152.0\n--------------------------------------------------------------------------------------------------\nProduct: Wimmers gute Semmelknödel\nQuantity: 7\nUnit Price: 26.6\nTotal: 186.20000000000002\nTotal Price:\nTotal Price: 338.20000000000005\n",
+    "augmented_texts": [
+        "Order ID: 10426 Shipping Details: Ship Name: Galería del gastronómo Ship Address: Rambla de Cataluña, 23 Ship City: Barcelona Ship Region: Southern Europe Ship Postal Code: 8022 Ship Body politic: Spain Customer Details: Customer ID: GALED Customer Name: Galería del gastrónomo Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Gild Date: 2017 - 01 - twenty seven Shipped Date: 2017 - 02 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 5 Unit Leontyne price: 30. quaternion Total: 152. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Wimmers gute Semmelknödel Quantity: 7 Unit Price: 26. 6 Total: 186. 20000000000002 Total Price: Total Price: 338. 20000000000005",
+        "Order ID: 10426 Shipping Details: Ship Name: Galería del gastronómo Ship Address: Rambla de Cataluña, 23 Ship City: Barcelona Ship Region: Southern Europe Ship Postal Code: 8022 Ship Country: Spain Customer Details: Client ID: GALED Customer Name: Galería del gastrónomo Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Figure: Speedy Express Order Details: Order Particular date: 2017 - 01 - 27 Shipped Date: 2017 - 02 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 5 Unit Price: xxx. 4 Total: 152. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Wimmers gute Semmelknödel Quantity: 7 Building block Price: 26. six Total: 186. 20000000000002 Entire Price: Total Price: 338. 20000000000005"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10426. Order Name: Galería del gastronómo. Ship Address: Rambla de Cataluña, 23. City: Barcelona. Region: Southern Europe. Postal Code: 8022. Country: Spain. Customer: GALED. Shipper: Speedy Express."
+}

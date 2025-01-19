@@ -1,0 +1,24 @@
+{
+    "filename": "order_10370.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10370\nShipping Details:\nShip Name: Chop-suey Chinese\nShip Address: Hauptstr. 31\nShip City: Bern\nShip Region: Western Europe\nShip Postal Code: 3012\nShip Country: Switzerland\nCustomer Details:\nCustomer ID: CHOPS\nCustomer Name: Chop-suey Chinese\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-12-03\nShipped Date: 2016-12-27\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 15\nUnit Price: 14.4\nTotal: 216.0\n--------------------------------------------------------------------------------------------------\nProduct: Wimmers gute Semmelknödel\nQuantity: 30\nUnit Price: 26.6\nTotal: 798.0\n--------------------------------------------------------------------------------------------------\nProduct: Longlife Tofu\nQuantity: 20\nUnit Price: 8.0\nTotal: 160.0\nTotal Price:\nTotal Price: 1174.0\n",
+    "augmented_texts": [
+        "Order ID: 10370 Shipping Details: Ship Epithet: Chop - suey Chinese Ship Address: Hauptstr. 31 Ship City: Bern Ship Region: Westerly Europe Ship Postal Code: 3012 Ship Country: Swiss confederation Customer Details: Customer ID: CHOPS Customer Name: Chop - suey Chinese Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: ii Shipper Name: United Package Order Details: Order Date: 2016 - xii - 03 Shipped Date: 2016 - 12 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 15 Unit Price: 14. 4 Total: 216. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Wimmers gute Semmelknödel Quantity: 30 Unit Price: 26. 6 Total: 798. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Longlife Tofu Quantity: 20 Unit Price: 8. 0 Totality: 160. 0 Total Price: Total Price: 1174. 0",
+        "Order ID: 10370 Shipping Details: Ship Name: Chop - suey Chinese Ship Address: Hauptstr. 31 Ship City: Bern Ship Region: Western Europe Ship Postal Code: 3012 Ship Country: Switzerland Customer Details: Customer ID: CHOPS Customer Name: Chop - suey Chinese Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Figure: United Package Rescript Details: Ordination Date: 2016 - 12 - 03 Shipped Date: 2016 - 12 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 15 Social unit Price: 14. 4 Total: 216. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Wimmers gute Semmelknödel Quantity: 30 Unit Price: 26. 6 Total: 798. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Longlife Tofu Quantity: 20 Unit Price: 8. 0 Total: 160. 0 Total Toll: Total Price: 1174. zero"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10370.Ship Name: Chop-suey Chinese. Ship Address: Hauptstr. 31. City: Bern. Region: Western Europe. Postal Code: 3012. Country: Switzerland. Customers: CHOPS. Shipper: United Package. Product: Longlife Tofu."
+}

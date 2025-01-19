@@ -1,0 +1,24 @@
+{
+    "filename": "order_10383.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10383\nShipping Details:\nShip Name: Around the Horn\nShip Address: Brook Farm Stratford St. Mary\nShip City: Colchester\nShip Region: British Isles\nShip Postal Code: CO7 6JX\nShip Country: UK\nCustomer Details:\nCustomer ID: AROUT\nCustomer Name: Around the Horn\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-16\nShipped Date: 2016-12-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Konbu\nQuantity: 20\nUnit Price: 4.8\nTotal: 96.0\n--------------------------------------------------------------------------------------------------\nProduct: Valkoinen suklaa\nQuantity: 15\nUnit Price: 13.0\nTotal: 195.0\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 20\nUnit Price: 30.4\nTotal: 608.0\nTotal Price:\nTotal Price: 899.0\n",
+    "augmented_texts": [
+        "Order ID: 10383 Shipping Details: Ship Name: Around the Horn Ship Address: Brook Farm Stratford St. Mary Ship Urban center: Colchester Ship Region: British Isles Ship Postal Code: CO7 6JX Ship Country: UK Customer Contingent: Customer ID: AROUT Customer Name: Around the Horn Employee Point: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Society Date: 2016 - 12 - 16 Shipped Date: 2016 - twelve - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 20 Unit Price: 4. 8 Total: 96. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Valkoinen suklaa Quantity: fifteen Unit Price: 13. 0 Total: 195. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: xx Unit Price: 30. 4 Total: 608. 0 Total Price: Full Price: 899. 0",
+        "Order ID: 10383 Send Item: Ship Name: Around the Horn Ship Address: Brook Farm Stratford St. The virgin Ship City: Colchester Ship Region: British Isles Ship Postal Code: CO7 6JX Ship Country: UK Customer Particular: Client ID: AROUT Customer Name: Around the Horn Employee Details: Employee Public figure: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - 16 Shipped Date: 2016 - 12 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 20 Unit Price: 4. 8 Total: 96. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Valkoinen suklaa Quantity: 15 Unit Price: xiii. 0 Total: 195. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Gnocchi di nonna Alice Quantity: 20 Unit Price: 30. 4 Total: 608. 0 Total Price: Total Price: 899. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10383. Ship Address: Brook Farm Stratford St. Mary, Colchester, UK. Postal Code: CO7 6JX. Customer Name: Around the Horn. Shipper: Federal Shipping. Order Date: 2016-12-16. shipper name: aroundthehorns.com."
+}

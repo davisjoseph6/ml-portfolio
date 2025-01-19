@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-02_4.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-02 \n Category : Dairy Products  \n id category : 4  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nQueso Cabrales\n42\n22\n21\nQueso Manchego La Pastora\n15\n86\n38\nGorgonzola Telino\n3\n0\n12.5\nGeitost\n20\n112\n2.5\nRaclette Courdavault\n36\n79\n55\nFlotemysost\n82\n26\n21.5\nMozzarella di Giovanni\n50\n14\n34.8\n",
+    "augmented_texts": [
+        "Stock Report for 2017 - 02 Category: Dairy Products id category: 4 Ware Units Sold Units in Stock Unit Price Queso Cabrales 42 22 xxi Queso Manchego La Pastora 15 86 38 Gorgonzola Telino tierce 0 12. 5 Geitost twenty 112 2. 5 Raclette Courdavault xxxvi 79 55 Flotemysost 82 26 21. 5 Mozzarella di Giovanni 50 14 34. 8",
+        "Stock Report for 2017 - 02 Family: Dairy Products id category: 4 Product Units Sold Units in Stock Unit Price Queso Cabrales 42 22 21 Queso Manchego La Pastora 15 lxxxvi 38 Gorgonzola Telino 3 0 12. 5 Geitost 20 112 2. 5 Raclette Courdavault 36 79 55 Flotemysost lxxxii xxvi 21. 5 Mozzarella di Giovanni 50 14 thirty four. octad"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-02. Category : Dairy Products. id category : 4. Product name : Queso Cabrales. Unit price: $2.99 per kilogram. Price for a kilo of milk is $1.49. The price of a kg of cheese is about $3.50."
+}

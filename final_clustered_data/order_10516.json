@@ -1,0 +1,24 @@
+{
+    "filename": "order_10516.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10516\nShipping Details:\nShip Name: Hungry Owl All-Night Grocers\nShip Address: 8 Johnstown Road\nShip City: Cork\nShip Region: British Isles\nShip Postal Code: None\nShip Country: Ireland\nCustomer Details:\nCustomer ID: HUNGO\nCustomer Name: Hungry Owl All-Night Grocers\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-04-24\nShipped Date: 2017-05-01\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Carnarvon Tigers\nQuantity: 25\nUnit Price: 62.5\nTotal: 1562.5\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 80\nUnit Price: 9.65\nTotal: 772.0\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 20\nUnit Price: 14.0\nTotal: 280.0\nTotal Price:\nTotal Price: 2614.5\n",
+    "augmented_texts": [
+        "Order ID: 10516 Shipping Details: Ship Name: Thirsty Owl All - Night Grocers Ship Address: 8 Johnstown Road Ship City: Cork Ship Realm: British Isles Ship Postal Code: None Ship Country: Ireland Customer Details: Customer ID: HUNGO Customer Name: Hungry Owl All - Night Grocers Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 04 - 24 Shipped Date: 2017 - 05 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Tigers Measure: 25 Unit Price: 62. 5 Total: 1562. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: lxxx Whole Price: 9. 65 Totality: 772. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: twenty Unit Price: 14. 0 Total: 280. 0 Total Price: Total Price: 2614. 5",
+        "Order ID: 10516 Shipping Details: Ship Name: Hungry Owl All - Night Grocers Ship Address: 8 Johnstown Road Ship City: Bob Ship Region: British Islet Ship Postal Code: None Ship Country: Ireland Customer Details: Customer ID: HUNGO Customer Name: Hungry Owl All - Night Grocers Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 04 - 24 Shipped Date: 2017 - 05 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Tiger Quantity: 25 Unit Price: lxii. 5 Total: 1562. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 80 Unit Price: 9. 65 Total: 772. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Singaporean Hokkien Fried Mee Quantity: twenty Unit Price: 14. 0 Total: 280. 0 Total Price: Total Price: 2614. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10516. Order name: Hungry Owl All-Night Grocers. Ship address: 8 Johnstown Road, Cork, Ireland. Shipper: Federal Shipping. Postal Code: None. Customer: HUNGO. Country: Ireland, Region: British Isles. Price: 2614.5."
+}

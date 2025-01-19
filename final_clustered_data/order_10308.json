@@ -1,0 +1,24 @@
+{
+    "filename": "order_10308.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10308\nShipping Details:\nShip Name: Ana Trujillo Emparedados y helados\nShip Address: Avda. de la Constitución 2222\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5021\nShip Country: Mexico\nCustomer Details:\nCustomer ID: ANATR\nCustomer Name: Ana Trujillo Emparedados y helados\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-09-18\nShipped Date: 2016-09-24\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 1\nUnit Price: 28.8\nTotal: 28.8\n--------------------------------------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 5\nUnit Price: 12.0\nTotal: 60.0\nTotal Price:\nTotal Price: 88.8\n",
+    "augmented_texts": [
+        "Order ID: 10308 Shipping Details: Ship Name: Ana Trujillo Emparedados y helados Ship Address: Avda. de lah Constitución 2222 Ship City: México D. F. Ship Region: Telephone exchange America Ship Postal Code: 5021 Ship Country: Mexico Customer Details: Customer ID: ANATR Customer Name: Ana Trujillo Emparedados y helados Employee Details: Employee Name: Robert King Shipper Details: Shipper gem state: 3 Shipper Name: Federal Shipping Order Particular: Order Date: 2016 - 09 - xviii Shipped Date: 2016 - 09 - 24 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 1 Unit Price: 28. 8 Total: twenty eight. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 5 Unit Price: 12. 0 Total: 60. 0 Total Price: Total Price: 88. 8",
+        "Order ID: 10308 Shipping Details: Ship Name: Ana Trujillo Emparedados y helados Ship Address: Avda. de la Constitución 2222 Ship City: México D. Farad. Ship Region: Central America Ship Postal Code: 5021 Ship Country: Mexico Client Details: Customer ID: ANATR Customer Name: Ana Trujillo Emparedados y helados Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 3 Shipper Name: Union soldier Shipping Order Details: Order Date: 2016 - 09 - 18 Shipped Date: 2016 - 09 - 24 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: one Unit Price: 28. 8 Sum: 28. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: cinque Unit Price: 12. 0 Total: 60. cypher Total Price: Total Price: lxxxviii. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10308. Order Name: Ana Trujillo Emparedados y helados. Ship Address: Avda. de la Constitución 2222Ship City: México D.F.Ship Region: Central America. Postal Code: 5021. Country: Mexico."
+}

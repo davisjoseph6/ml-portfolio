@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10304.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10304\nCustomer ID: TORTU\nOrder Date: 2016-09-12\nCustomer Details:\nContact Name:\nMiguel Angel Paolino\nAddress:\nAvda. Azteca 123\nCity:\nMéxico D.F.\nPostal Code:\n05033\nCountry:\nMexico\nPhone:\n(5) 555-2933\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n49\nMaxilaku\n30\n16.0\n59\nRaclette Courdavault\n10\n44.0\n71\nFlotemysost\n2\n17.2\n \n \nTotalPrice\n954.4\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10304 Customer gem state: TORTU Order Date: 2016 - 09 - dozen Customer Details: Contact Name: Miguel Saint Paolino Address: Avda. Azteca 123 Metropolis: México D. F. Postal Codification: 05033 Country: Mexico Headphone: (5) 555 - 2933 Fax: None Product Details: Product ID Product Name Quantity Unit Price 49 Maxilaku 30 xvi. 0 59 Raclette Courdavault 10 44. 0 71 Flotemysost 2 17. 2 TotalPrice 954. 4 Thomas nelson page 1",
+        "Invoice Order ID: 10304 Customer ID: TORTU Order Date: 2016 - 09 - 12 Client Detail: Middleman Name: Miguel Angel falls Paolino Address: Avda. Azteca 123 City: México D. Degree fahrenheit. Postal Code: 05033 Country: United mexican states Phone: (5) 555 - 2933 Fax: None Product Details: Product ID Product Gens Quantity Unit Price forty nine Maxilaku 30 16. 0 59 Raclette Courdavault 10 44. 0 lxxi Flotemysost 2 17. 2 TotalPrice 954. 4 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 10304 grotesquely-pronounced \"TORTU\" Order Date: 2016-09-12.Customer Details:                Contact Name: Miguel Angel Paolino address:  Avda. Azteca 123 city: México D.F. postal code: 045-05033. Country: Mexico phone: 5555-2933Phone:(5) 555- 2933Fax:None product name: \"Gloria\" product quantity: 4949.4949Maxilaku 303030.30Unit Price: 1,954.4Page 1."
+}

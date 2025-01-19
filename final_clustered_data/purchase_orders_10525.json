@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10525.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10525\n2017-05-02\nLaurence Lebihan\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n36\nInlagd Sill\n30\n19\n40\nBoston Crab Meat\n15\n18.4\nPage 1\n",
+    "augmented_texts": [
+        "Leverage Orders Order ID Order Date Customer Name 10525 2017 - 05 - 02 Laurence Lebihan Products Product ID: Product: Amount: Unit Price: xxxvi Inlagd Sill 30 19 40 Boston Crab Meat 15 18. 4 Page 1",
+        "Leverage Orders Order ID Order Date Customer Name 10525 2017 - 05 - 02 Laurence Lebihan Products Intersection ID: Cartesian product: Measure: Unit Price: 36 Inlagd Sill 30 19 40 Boston Crab Meat xv 18. 4 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than just Boston Crab Meat. Buyers can choose from a range of products, including meat, fish, and vegetables. Customers can pay by cash, check, credit card, or debit card. For more information, go to BostonCrabMeat.com."
+}

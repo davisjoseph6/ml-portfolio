@@ -1,0 +1,24 @@
+{
+    "filename": "order_10497.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10497\nShipping Details:\nShip Name: Lehmanns Marktstand\nShip Address: Magazinweg 7\nShip City: Frankfurt a.M.\nShip Region: Western Europe\nShip Postal Code: 60528\nShip Country: Germany\nCustomer Details:\nCustomer ID: LEHMS\nCustomer Name: Lehmanns Marktstand\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-04-04\nShipped Date: 2017-04-07\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 14\nUnit Price: 30.4\nTotal: 425.59999999999997\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 25\nUnit Price: 27.8\nTotal: 695.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 25\nUnit Price: 10.4\nTotal: 260.0\nTotal Price:\nTotal Price: 1380.6\n",
+    "augmented_texts": [
+        "Order ID: 10497 Shipping Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfurt a. M. Ship Region: Western Europe Ship Postal Code: 60528 Ship Country: Germany Customer Details: Customer ID: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 04 - 04 Shipped Date: 2017 - 04 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 14 Unit Price: xxx. 4 Total: 425. 59999999999997 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 25 Unit Price: 27. 8 Total: 695. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 25 Unit Price: 10. iv Aggregate: 260. 0 Total Price: Total Price: 1380. 6",
+        "Order ID: 10497 Shipping Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfort a. M. Ship Region: Western Eu Ship Postal Code: 60528 Ship State: Germany Customer Details: Customer ID: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Name: Robert King Shipper Detail: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Decree Date: 2017 - 04 - 04 Shipped Date: 2017 - 04 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 14 Unit Price: 30. 4 Total: 425. 59999999999997 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 25 Unit Price: 27. 8 Total: 695. cypher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 25 Unit Price: 10. 4 Total: 260. 0 Total Leontyne price: Total Price: 1380. 6"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10497. Ship Address: Magazinweg 7, Frankfurt a.M., Germany. Postal Code: 60528. Customer Name: Lehmanns Marktstand. Shipper: Speedy Express. Products: Gnocchi di nonna Alice, Mozzarella di Giovanni."
+}

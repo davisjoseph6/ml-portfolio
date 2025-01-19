@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10550.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10550\nCustomer ID: GODOS\nOrder Date: 2017-05-28\nCustomer Details:\nContact Name:\nJosé Pedro Freyre\nAddress:\nC/ Romero, 33\nCity:\nSevilla\nPostal Code:\n41101\nCountry:\nSpain\nPhone:\n(95) 555 82 82\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n17\nAlice Mutton\n8\n39.0\n19\nTeatime Chocolate Biscuits\n10\n9.2\n21\nSir Rodney's Scones\n6\n10.0\n61\nSirop d'érable\n10\n28.5\n \n \nTotalPrice\n749.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10550 Customer ID: GODOS Club Date: 2017 - 05 - 28 Customer Item: Contact Name: José Pedro Freyre Address: C / Romero, 33 City: Sevilla Postal Code: 41101 Country: Spain Phone: (95) 555 82 82 Fax: None Product Details: Product ID Product Public figure Quantity Unit Mary leontyne price xvii Alice Mutton 8 thirty nine. 0 19 Teatime Hot chocolate Biscuits 10 9. 2 21 Sir Rodney ' s Scone 6 10. 0 61 Sirop d ' érable 10 xxviii. 5 TotalPrice 749. 0 Page 1",
+        "Invoice Order ID: 10550 Customer ID: GODOS Ordering Date: 2017 - 05 - 28 Customer Details: Inter group communication Name: José Pedro Freyre Address: C / Romero, 33 City: Sevilla Postal Code: 41101 Country: Spain Phone: (95) 555 82 82 Facsimile machine: None Mathematical product Details: Cartesian product ID Product Name Quantity Unit Price 17 Alice Mutton 8 thirty nine. 0 19 Teatime Chocolate Biscuits 10 9. 2 21 Sir Rodney ' s Scones 6 10. 0 61 Sirop d ' érable 10 twenty eight. 5 TotalPrice 749. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: GODOS. Order Date: 2017-05-28.Customer Details:                         José Pedro Freyre, 33 C/ Romero, Spain. Product ID: \"GODOS\" Price: $749.0. Page 1: Chocolate Biscuits."
+}

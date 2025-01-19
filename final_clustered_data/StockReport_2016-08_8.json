@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-08_8.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-08 \n Category : Seafood  \n id category : 8  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nIkura\n39\n31\n31\nKonbu\n30\n24\n6\nCarnarvon Tigers\n12\n42\n62.5\nNord-Ost Matjeshering\n6\n10\n25.89\nInlagd Sill\n30\n112\n19\nBoston Crab Meat\n100\n123\n18.4\nSpegesild\n15\n95\n12\nRöd Kaviar\n25\n101\n15\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 08 Category: Seafood id category: 8 Merchandise Units Sold Units in Stock Unit Price Ikura thirty nine 31 31 Konbu 30 24 6 Carnarvon Tigers 12 forty two 62. 5 Nord - Ost Matjeshering half a dozen 10 25. 89 Inlagd Sill 30 112 19 Capital of massachusetts Crab Meat 100 123 18. 4 Spegesild 15 95 12 Röd Kaviar 25 101 15",
+        "Stock Report for 2016 - 08 Category: Seafood id category: 8 Product Units Sold Units in Stock Unit Price Ikura thirty nine 31 31 Konbu 30 24 6 Carnarvon Tigers 12 forty two 62. 5 Nord - Ost Matjeshering 6 10 25. eighty nine Inlagd Sill 30 112 19 Boston Crab Meat 100 123 18. 4 Spegesild 15 95 12 Röd Kaviar 25 101 15"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-08. Category : Seafood. id category : 8                  Product.                Units Sold.   Units in StockUnit Price.         Ikura                39                31                 31                Konbu                30                24                 24                Carnarvon Tigers                12                42                62.5                Nord-Ost Matjeshering                6                10                25.89                Inlagd Sill  â€™€’ “Boston Crab Meat”."
+}

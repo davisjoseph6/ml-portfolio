@@ -1,0 +1,24 @@
+{
+    "filename": "order_10320.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10320\nShipping Details:\nShip Name: Wartian Herkku\nShip Address: Torikatu 38\nShip City: Oulu\nShip Region: Scandinavia\nShip Postal Code: 90110\nShip Country: Finland\nCustomer Details:\nCustomer ID: WARTH\nCustomer Name: Wartian Herkku\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-10-03\nShipped Date: 2016-10-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 30\nUnit Price: 17.2\nTotal: 516.0\nTotal Price:\nTotal Price: 516.0\n",
+    "augmented_texts": [
+        "Order ID: 10320 Shipping Details: Ship Name: Wartian Herkku Ship Address: Torikatu thirty eight Ship City: Oulu Ship Region: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Customer Details: Customer ID: WARTH Customer Name: Wartian Herkku Employee Detail: Employee Name: Steven Buchanan Shipper Details: Shipper idaho: 3 Shipper Figure: Federal Shipping Order Details: Order Date: 2016 - ten - 03 Shipped Date: 2016 - 10 - eighteen Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 30 Unit Price: 17. two Total: 516. 0 Total Price: Total Price: 516. 0",
+        "Order ID: 10320 Shipping Details: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Region: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Client Details: Customer ID: WARTH Customer Name: Wartian Herkku Employee Detail: Employee Name: Steven Buchanan Shipper Detail: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 10 - 03 Shipped Date: 2016 - 10 - 18 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Measure: 30 Unit Price: 17. 2 Total: 516. 0 Total Price: Total Terms: 516. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10320. Order Name: Wartian Herkku. Ship Address: Torikatu 38, Oulu. Postal Code: 90110. Country: Finland. Shipper: Federal Shipping. Product: Flotemysost. Unit Price: 17.2. Price per unit: 516.0."
+}

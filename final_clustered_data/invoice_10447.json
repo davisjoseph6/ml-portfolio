@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10447.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10447\nCustomer ID: RICAR\nOrder Date: 2017-02-14\nCustomer Details:\nContact Name:\nJanete Limeira\nAddress:\nAv. Copacabana, 267\nCity:\nRio de Janeiro\nPostal Code:\n02389-890\nCountry:\nBrazil\nPhone:\n(21) 555-3412\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n19\nTeatime Chocolate Biscuits\n40\n7.3\n65\nLouisiana Fiery Hot Pepper Sauce\n35\n16.8\n71\nFlotemysost\n2\n17.2\n \n \nTotalPrice\n914.4\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10447 Customer ID: RICAR Order Date: 2017 - 02 - 14 Customer Details: Contact Name: Janete Limeira Address: Av. Copacabana, 267 City: Rio de Janeiro Postal Code: 02389 - 890 Country: Brazil Earphone: (21) 555 - 3412 Fax: None Mathematical product Details: Product ID Product Name Quantity Unit Price 19 Teatime Hot chocolate Biscuits 40 7. 3 65 Louisiana Fiery Hot Pepper Sauce 35 16. 8 71 Flotemysost 2 seventeen. deuce TotalPrice 914. 4 Page 1",
+        "Invoice Edict ID: 10447 Customer ID: RICAR Order Date: 2017 - 02 - xiv Customer Details: Impinging Name: Janete Limeira Address: Av. Copacabana, 267 City: Rio de Janeiro Postal Code: 02389 - 890 Country: Brazil Telephone: (21) 555 - 3412 Fax: None Product Details: Product ID Product Name Quantity Unit Price 19 Teatime Chocolate Biscuits 40 7. 3 65 La Fiery Hot Pepper Sauce thirty five 16. 8 lxxi Flotemysost two 17. 2 TotalPrice 914. 4 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10447.Customer: Janete Limeira. Product ID: RICAR. Order Date: 2017-02-14. Price: $19.19 for a pack of two chocolate biscuits and $35 for the Louisiana Fiery Hot Pepper Sauce. Postal Code:02389-890."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10312.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10312\nCustomer ID: WANDK\nOrder Date: 2016-09-23\nCustomer Details:\nContact Name:\nRita Müller\nAddress:\nAdenauerallee 900\nCity:\nStuttgart\nPostal Code:\n70563\nCountry:\nGermany\nPhone:\n0711-020361\nFax:\n0711-035428\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n28\nRössle Sauerkraut\n4\n36.4\n43\nIpoh Coffee\n24\n36.8\n53\nPerth Pasties\n20\n26.2\n75\nRhönbräu Klosterbier\n10\n6.2\n \n \nTotalPrice\n1614.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10312 Client ID: WANDK Order Date: 2016 - 09 - 23 Customer Details: Contact Name: Rita Müller Address: Adenauerallee 900 City: Stuttgart Postal Code: 70563 Country: Germany Phone: 0711 - 020361 Fax: 0711 - 035428 Product Details: Product ID Product Name Quantity Unit Price 28 Rössle Sauerkraut 4 36. 4 forty three Ipoh Coffee 24 xxxvi. 8 53 Perth Pasty twenty 26. 2 75 Rhönbräu Klosterbier tenner 6. 2 TotalPrice 1614. 8 Page 1",
+        "Invoice Order ID: 10312 Client i.d.: WANDK Order Date: 2016 - 09 - 23 Client Details: Contact Name: Rita Müller Address: Adenauerallee 900 City: Stuttgart Postal Code: 70563 Res publica: Germany Phone: 0711 - 020361 Fax: 0711 - 035428 Product Details: Product ID Product Name Quantity Building block Price 28 Rössle Sauerkraut 4 36. 4 43 Ipoh Coffee 24 36. 8 53 Perth Pasties 20 26. ii 75 Rhönbräu Klosterbier 10 6. 2 TotalPrice 1614. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: WANDK. Customer ID: Rita Müller. Order Date: 2016-09-23.Customer Details: contact. name, address, phone number, fax number. Product name: Rössle Sauerkraut. Unit Price: $1614.8."
+}

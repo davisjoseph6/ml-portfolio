@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10576.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10576\nCustomer ID: TORTU\nOrder Date: 2017-06-23\nCustomer Details:\nContact Name:\nMiguel Angel Paolino\nAddress:\nAvda. Azteca 123\nCity:\nMéxico D.F.\nPostal Code:\n05033\nCountry:\nMexico\nPhone:\n(5) 555-2933\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n1\nChai\n10\n18.0\n31\nGorgonzola Telino\n20\n12.5\n44\nGula Malacca\n21\n19.45\n \n \nTotalPrice\n838.45\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10576 Customer ID: TORTU Order Date: 2017 - 06 - 23 Customer Details: Contact Name: Miguel Angel Paolino Address: Avda. Azteca 123 City: México D. F. Postal Code: 05033 Nation: Mexico Phone: (quint) 555 - 2933 Fax: None Product Details: Product gem state Intersection Name Quantity Unit of measurement Price 1 Chai 10 18. 0 31 Gorgonzola Telino 20 12. 5 44 Gula Malacca xxi 19. 45 TotalPrice 838. 45 Thomas nelson page 1",
+        "Invoice Fiat ID: 10576 Customer gem state: TORTU Order Date: 2017 - 06 - 23 Customer Details: Contact Name: Miguel Angel Paolino Computer address: Avda. Azteca 123 Metropolis: México D. F. Postal Code: 05033 Area: Mexico Phone: (5) 555 - 2933 Fax: None Product Details: Product ID Mathematical product Name Quantity Unit Mary leontyne price one Chai 10 xviii. 0 31 Gorgonzola Telino 20 12. 5 44 Gula Malacca 21 19. 45 TotalPrice 838. 45 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: TORTU. Invoice Order ID: 10576.Customer ID : Tortu. Order Date: 2017-06-23. Customers: Miguel Angel Paolino. Address: Avda. Azteca 123. Postal Code: 055-05033. Country: México D.F. Phone: 555-2933;Fax: None."
+}

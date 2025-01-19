@@ -1,0 +1,24 @@
+{
+    "filename": "order_10442.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10442\nShipping Details:\nShip Name: Ernst Handel\nShip Address: Kirchgasse 6\nShip City: Graz\nShip Region: Western Europe\nShip Postal Code: 8010\nShip Country: Austria\nCustomer Details:\nCustomer ID: ERNSH\nCustomer Name: Ernst Handel\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-02-11\nShipped Date: 2017-02-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 30\nUnit Price: 16.8\nTotal: 504.0\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 80\nUnit Price: 5.9\nTotal: 472.0\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Hot Spiced Okra\nQuantity: 60\nUnit Price: 13.6\nTotal: 816.0\nTotal Price:\nTotal Price: 1792.0\n",
+    "augmented_texts": [
+        "Order ID: 10442 Shipping Detail: Ship Name: Max ernst George frideric handel Ship Address: Kirchgasse 6 Ship City: Graz Ship Region: Western Europe Ship Postal Code: 8010 Ship Country: Austria Customer Details: Customer ID: ERNSH Customer Name: Ernst Handel Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 02 - xi Shipped Date: 2017 - 02 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 30 Unit Price: 16. 8 Total: 504. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 80 Unit Price: 5. 9 Total: 472. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Hot Spiced Okra Amount: 60 Unit Price: thirteen. 6 Totality: 816. 0 Full Price: Total Price: 1792. 0",
+        "Order ID: 10442 Shipping Details: Ship Name: Ernst Handel Ship Address: Kirchgasse 6 Ship Metropolis: Graz Ship Region: Western Europe Ship Postal Code: 8010 Ship Country: Austria Customer Details: Customer ID: ERNSH Client Name: Ernst Handel Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 02 - 11 Shipped Date: 2017 - 02 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 30 Unit Price: sixteen. 8 Total: 504. nought - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: lxxx Unit Price: 5. 9 Total: 472. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pelican state Hot Spiced Gumbo Amount: 60 Unit Price: 13. 6 Total: 816. 0 Total Price: Total Price: 1792. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10442. Ship Address: Kirchgasse 6, Graz, Austria. Postal Code: 8010. Country: Austria, Region: Western Europe. Customer: Ernst Handel. Employee: Janet Leverling. Shipper: United Package. Order Date: 2017-02-11."
+}

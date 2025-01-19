@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10464.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10464\nCustomer ID: FURIB\nOrder Date: 2017-03-04\nCustomer Details:\nContact Name:\nLino Rodriguez\nAddress:\nJardim das rosas n. 32\nCity:\nLisboa\nPostal Code:\n1675\nCountry:\nPortugal\nPhone:\n(1) 354-2534\nFax:\n(1) 354-2535\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n4\nChef Anton's Cajun Seasoning\n16\n17.6\n43\nIpoh Coffee\n3\n36.8\n56\nGnocchi di nonna Alice\n30\n30.4\n60\nCamembert Pierrot\n20\n27.2\n \n \nTotalPrice\n1848.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Ordering ID: 10464 Customer ID: FURIB Orderliness Date: 2017 - 03 - 04 Customer Details: Contact Gens: Lino Rodriguez Address: Jardim das rosas n. 32 City: Lisboa Postal Code: 1675 Country: Portugal Phone: (1) 354 - 2534 Fax: (1) 354 - 2535 Product Details: Product ID Product Name Quantity Unit Price iv Chef Anton ' atomic number 16 Cajun Seasoning 16 17. 6 xliii Ipoh Coffee 3 36. 8 56 Gnocchi di nonna Alice 30 30. 4 60 Camembert Pierrot 20 27. 2 TotalPrice 1848. 0 Page one",
+        "Invoice Order i.d.: 10464 Customer ID: FURIB Order Date: 2017 - 03 - 04 Customer Details: Contact Name: Lino Rodriguez Address: Jardim das rosas n. xxxii Metropolis: Lisboa Postal Code: 1675 Country: Portugal Phone: (1) 354 - 2534 Fax: (1) 354 - 2535 Product Details: Product idaho Product Name Amount Unit Price 4 Chef Anton ' randomness Cajun Seasoning 16 17. 6 43 Ipoh Coffee trine 36. 8 56 Gnocchi di nonna Alice 30 30. 4 sixty Camembert Pierrot 20 27. 2 TotalPrice 1848. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: FURIB. Order Date: 2017-03-04. Customer Details: Lino Rodriguez. Product ID: Cajun Seasoning. Unit Price: Coffee. Postal Code: 1675. Phone Number: 354-2534.Fax number: 352-3535."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10356.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10356\nCustomer ID: WANDK\nOrder Date: 2016-11-18\nCustomer Details:\nContact Name:\nRita Müller\nAddress:\nAdenauerallee 900\nCity:\nStuttgart\nPostal Code:\n70563\nCountry:\nGermany\nPhone:\n0711-020361\nFax:\n0711-035428\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n31\nGorgonzola Telino\n30\n10.0\n55\nPâté chinois\n12\n19.2\n69\nGudbrandsdalsost\n20\n28.8\n \n \nTotalPrice\n1106.4\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10356 Customer ID: WANDK Edict Date: 2016 - xi - 18 Customer Details: Contact Name: Rita Müller Address: Adenauerallee 900 Metropolis: Stuttgart Postal Code: 70563 Country: Frg Phone: 0711 - 020361 Fax: 0711 - 035428 Product Details: Product ID Product Name Amount Unit Price 31 Gorgonzola Telino 30 10. 0 fifty five Pâté chinois 12 19. 2 69 Gudbrandsdalsost 20 28. 8 TotalPrice 1106. 4 Sir frederick handley page 1",
+        "Invoice Order ID: 10356 Customer ID: WANDK Order Date: 2016 - 11 - 18 Customer Details: Contact Name: Rita Müller Address: Adenauerallee 900 City: Stuttgart Postal Code: 70563 Country: Deutschland Phone: 0711 - 020361 Fax: 0711 - 035428 Product Details: Product ID Product Figure Amount Unit Price thirty one Gorgonzola Telino 30 10. 0 55 Pâté chinois 12 19. 2 sixty nine Gudbrandsdalsost 20 28. 8 TotalPrice 1106. 4 Thomas nelson page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: WANDK Order ID: 10356 Order Date: 2016-11-18Customer Details: contact name: Rita Müller. Product Name is: Pâté chinois. Unit Price: Gorgonzola Telino. Total Price is Gudbrandsdalsost."
+}

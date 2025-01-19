@@ -1,0 +1,12 @@
+{
+    "filename": "04003207.jpg",
+    "metadata": {},
+    "text": "_ 2 DETACH BEFORE DEPOSITING NOOTHER RECEIPT REQUIRED\n\n. | T)!\nTHE TOBACCO INSTITUTE ava | aswaal SSQARAL |\n\n    \n\nCITIZENS FOR HARTKE\n\n \n\n200.00 200.00\n\nTHE TOBACCO INSTITUTE, INC\n\nTHLBC 014119\n\f",
+    "augmented_texts": [
+        "_ deuce DETACH BEFORE DEPOSITING NOOTHER RECEIPT REQUIRED. | T )! THE TOBACCO INSTITUTE ava | aswaal SSQARAL | CITIZENS FOR HARTKE 200. 00 cc. 00 THE TOBACCO INSTITUTE, iraqi national congress THLBC 014119",
+        "_ 2 DETACH BEFORE DEPOSITING NOOTHER RECEIPT REQUIRED. | T )! THE TOBACCO INSTITUTE ava | aswaal SSQARAL | citizen FOR HARTKE 200. 00 200. 00 THE TOBACCO INSTITUTE, INC THLBC 014119"
+    ],
+    "predicted_cluster": 1,
+    "predicted_label": "cluster_1",
+    "summary": "_ 2 DETACH BEFORE DEPOSITING. NOOTHER RECEIPT REQUIRED. The TOBACCO INSTITUTE ava | aswaal SSQARAL. | T)! The ToBacco Institute is a non-profit organization based in London, England."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-12_2.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-12 \n Category : Condiments  \n id category : 2  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nChef Anton's Gumbo Mix\n32\n0\n21.35\nVegie-spread\n16\n24\n43.9\nLouisiana Fiery Hot Pepper Sauce\n20\n76\n21.05\nOriginal Frankfurter grüne Soße\n14\n32\n13\n",
+    "augmented_texts": [
+        "Stock Composition for 2016 - 12 Category: Condiments id family: 2 Product Units Sold Units in Stock Unit Price Chef Anton ' s Gumbo Mix 32 0 21. 35 Vegie - spread sixteen 24 43. 9 Louisiana Fiery Hot Pepper Sauce 20 lxxvi 21. 05 Original Frankfurter grüne Soße 14 32 13",
+        "Stock Reputation for 2016 - 12 Category: Condiments id category: 2 Product Units Sold Units in Stock Unit Price Chef Anton ' s Gumbo Mix 32 0 21. 35 Vegie - spread 16 24 43. 9 Louisiana Fiery Hot Pepper Sauce 20 76 21. 05 Original Frankfurter grüne Soße 14 thirty two 13"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-12. Category : Condiments. id category : 2. Price: $1.99 per bottle. Number of units sold: 1. The price of the product is $2.50 per container. It is sold for a total of $3.2 million."
+}

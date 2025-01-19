@@ -1,0 +1,24 @@
+{
+    "filename": "order_10341.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10341\nShipping Details:\nShip Name: Simons bistro\nShip Address: Vinbæltet 34\nShip City: Kobenhavn\nShip Region: Northern Europe\nShip Postal Code: 1734\nShip Country: Denmark\nCustomer Details:\nCustomer ID: SIMOB\nCustomer Name: Simons bistro\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-10-29\nShipped Date: 2016-11-05\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 8\nUnit Price: 2.0\nTotal: 16.0\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 9\nUnit Price: 44.0\nTotal: 396.0\nTotal Price:\nTotal Price: 412.0\n",
+    "augmented_texts": [
+        "Order ID: 10341 Shipping Item: Ship Name: Simons bistro Ship Address: Vinbæltet 34 Ship City: Kobenhavn Ship Region: Northern Europe Ship Postal Code: 1734 Ship Area: Denmark Customer Details: Customer ID: SIMOB Customer Name: Simons bistro Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: iii Shipper Name: Federal Shipping Order Details: Order Date: 2016 - ten - 29 Shipped Date: 2016 - 11 - 05 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Measure: 8 Unit Cost: 2. 0 Total: 16. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 9 Unit Price: xliv. 0 Total: 396. 0 Total Price: Total Price: 412. 0",
+        "Order gem state: 10341 Shipping Details: Ship Name: Simons bistro Ship Address: Vinbæltet 34 Ship City: Kobenhavn Ship Region: Northern Europe Ship Postal Code: 1734 Ship Country: Denmark Client Details: Customer ID: SIMOB Customer Name: Simons bistro Employee Details: Employee Name: Robert Riley b king Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 10 - 29 Shipped Day of the month: 2016 - 11 - 05 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 8 Unit Price: 2. 0 Total: 16. cypher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Raclette Courdavault Quantity: 9 Unit of measurement Price: 44. 0 Total: 396. 0 Total Price: Total Price: 412. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10341 and shipping date: 2016-11-05. Order name: Simons bistro. Ship address: Vinbæltet 34, City: Kobenhavn, Region: Northern Europe. Postal Code: 1734. Customers: SIMOB and Federal Shipping."
+}

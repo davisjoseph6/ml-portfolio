@@ -1,0 +1,24 @@
+{
+    "filename": "order_10493.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10493\nShipping Details:\nShip Name: La maison d-Asie\nShip Address: 1 rue Alsace-Lorraine\nShip City: Toulouse\nShip Region: Western Europe\nShip Postal Code: 31000\nShip Country: France\nCustomer Details:\nCustomer ID: LAMAI\nCustomer Name: La maison d'Asie\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-04-02\nShipped Date: 2017-04-10\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper Sauce\nQuantity: 15\nUnit Price: 16.8\nTotal: 252.0\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Hot Spiced Okra\nQuantity: 10\nUnit Price: 13.6\nTotal: 136.0\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 10\nUnit Price: 28.8\nTotal: 288.0\nTotal Price:\nTotal Price: 676.0\n",
+    "augmented_texts": [
+        "Order ID: 10493 Shipping Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship Metropolis: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Country: France Client Details: Customer ID: LAMAI Customer Name: La maison vitamin d ' Asie Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Detail: Rules of order Date: 2017 - 04 - 02 Shipped Date: 2017 - 04 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot White pepper Sauce Quantity: 15 Unit Price: 16. 8 Total: 252. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Hot Spiced Okra Quantity: 10 Unit Price: 13. 6 Total: 136. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: tenner Unit Price: 28. 8 Total: 288. 0 Total Price: Total Price: 676. 0",
+        "Order ID: 10493 Shipping Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Westerly Europe Ship Postal Code: 31000 Ship Land: France Customer Details: Customer ID: LAMAI Customer Name: Lah maison d ' Asie Employee Item: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Merchant marine Order Detail: Order Date: 2017 - 04 - 02 Shipped Date: 2017 - 04 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot White pepper Sauce Quantity: 15 Unit Price: 16. 8 Total: 252. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Hot Spiced Okra Quantity: 10 Unit Price: 13. 6 Totality: 136. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 10 Unit Price: 28. 8 Total: 288. 0 Total Price: Total Price: 676. zero"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10493. Order Name: La maison d-Asie. Ship Address: 1 rue Alsace-Lorraine, Toulouse, France. Postal Code: 31000. Customers: LAMAI, Gudbrandsdalsost, Federal Shipping."
+}

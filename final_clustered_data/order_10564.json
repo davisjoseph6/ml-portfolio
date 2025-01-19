@@ -1,0 +1,24 @@
+{
+    "filename": "order_10564.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10564\nShipping Details:\nShip Name: Rattlesnake Canyon Grocery\nShip Address: 2817 Milton Dr.\nShip City: Albuquerque\nShip Region: North America\nShip Postal Code: 87110\nShip Country: USA\nCustomer Details:\nCustomer ID: RATTC\nCustomer Name: Rattlesnake Canyon Grocery\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-06-10\nShipped Date: 2017-06-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Alice Mutton\nQuantity: 16\nUnit Price: 39.0\nTotal: 624.0\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 6\nUnit Price: 12.5\nTotal: 75.0\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 25\nUnit Price: 24.0\nTotal: 600.0\nTotal Price:\nTotal Price: 1299.0\n",
+    "augmented_texts": [
+        "Order ID: 10564 Shipping Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship City: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Customer Name: Rattlesnake Canyon Grocery Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 06 - x Shipped Date: 2017 - 06 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 16 Unit Price: 39. 0 Total: 624. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 6 Unit Price: 12. 5 Total: 75. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 25 Unit Price: 24. nought Total: 600. 0 Total Price: Total Price: 1299. 0",
+        "Order ID: 10564 Shipping Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship Urban center: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Land: USA Client Details: Customer ID: RATTC Customer Name: Rattler Canyon Grocery Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Gens: Federal Shipping Order Details: Order Date: 2017 - 06 - 10 Shipped Date: 2017 - 06 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 16 Unit Price: 39. 0 Total: 624. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Amount: 6 Unit Price: twelve. 5 Total: lxxv. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 25 Unit Price: 24. cipher Total: 600. 0 Total Price: Total Price: 1299. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10564. Ship Name: Rattlesnake Canyon Grocery. Address: 2817 Milton Dr. Shipper: Federal Shipping. Postal Code: 87110. Customer: RATTC. Employee: Margaret Peacock. Product: Alice Mutton. Price: 1299.0."
+}

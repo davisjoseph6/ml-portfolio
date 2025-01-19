@@ -1,0 +1,24 @@
+{
+    "filename": "order_10622.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10622\nShipping Details:\nShip Name: Ricardo Adocicados\nShip Address: Av. Copacabana, 267\nShip City: Rio de Janeiro\nShip Region: South America\nShip Postal Code: 02389-890\nShip Country: Brazil\nCustomer Details:\nCustomer ID: RICAR\nCustomer Name: Ricardo Adocicados\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-08-06\nShipped Date: 2017-08-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chang\nQuantity: 20\nUnit Price: 19.0\nTotal: 380.0\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 18\nUnit Price: 12.5\nTotal: 225.0\nTotal Price:\nTotal Price: 605.0\n",
+    "augmented_texts": [
+        "Order ID: 10622 Shipping Details: Ship Name: Ricardo Adocicados Ship Savoir faire: Ab. Copacabana, 267 Ship Metropolis: Rio de Janeiro Ship Region: South America Ship Postal Code: 02389 - 890 Ship Country: Brazil Customer Details: Customer ID: RICAR Customer Name: Ricardo Adocicados Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 08 - 06 Shipped Date: 2017 - 08 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Quantity: 20 Unit Monetary value: 19. 0 Total: 380. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scotch Longbreads Quantity: 18 Unit Price: 12. 5 Total: 225. 0 Total Price: Total Price: 605. zero",
+        "Order ID: 10622 Shipping Details: Ship Name: Ricardo Adocicados Ship Address: Av. Copacabana, 267 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 02389 - 890 Ship Country: Brazil Customer Details: Customer ID: RICAR Customer Name: Ricardo Adocicados Employee Detail: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 08 - 06 Shipped Date: 2017 - 08 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Amount: 20 Unit Price: nineteen. 0 Total: 380. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Amount: 18 Unit Price: 12. 5 Total: 225. 0 Total Price: Total Price: 605. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10622. Ship Address: Av. Copacabana, 267, Rio de Janeiro. Postal Code: 02389-890. Country: Brazil. Customer: Ricardo Adocicados. Employee: Margaret Peacock. Shipper: Federal Shipping. Product: Scottish Longbreads."
+}

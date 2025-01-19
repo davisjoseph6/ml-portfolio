@@ -1,0 +1,24 @@
+{
+    "filename": "order_10563.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10563\nShipping Details:\nShip Name: Ricardo Adocicados\nShip Address: Av. Copacabana, 267\nShip City: Rio de Janeiro\nShip Region: South America\nShip Postal Code: 02389-890\nShip Country: Brazil\nCustomer Details:\nCustomer ID: RICAR\nCustomer Name: Ricardo Adocicados\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-06-10\nShipped Date: 2017-06-24\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Inlagd Sill\nQuantity: 25\nUnit Price: 19.0\nTotal: 475.0\n--------------------------------------------------------------------------------------------------\nProduct: Filo Mix\nQuantity: 70\nUnit Price: 7.0\nTotal: 490.0\nTotal Price:\nTotal Price: 965.0\n",
+    "augmented_texts": [
+        "Order ID: 10563 Shipping Details: Ship Name: Ricardo Adocicados Ship Address: Av. Copacabana, 267 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 02389 - 890 Ship Country: Federative republic of brazil Client Details: Customer idaho: RICAR Customer Name: Ricardo Adocicados Employee Details: Employee Name: Andrew Melville w. fuller Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 06 - 10 Shipped Date: 2017 - 06 - 24 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 25 Unit Price: 19. 0 Total: 475. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Filo Mix Measure: lxx Unit Price: 7. 0 Total: 490. 0 Total Price: Total Price: 965. 0",
+        "Order ID: 10563 Shipping Details: Ship Name: Ricardo Adocicados Ship Address: Av. Copacabana, 267 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 02389 - 890 Ship Area: Brazil Client Details: Customer ID: RICAR Customer Name: Ricardo Adocicados Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Point: Parliamentary law Date: 2017 - 06 - 10 Shipped Date: 2017 - 06 - 24 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 25 Unit Price: 19. 0 Total: 475. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Filo Mix Quantity: 70 Unit Price: 7. 0 Total: 490. 0 Total Price: Entire Price: 965. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10563. Order Name: Ricardo Adocicados. Ship Address: Av. Copacabana, 267, Rio de Janeiro. Postal Code: 02389-890. Country: Brazil. Customer: RICAR. Employee: Andrew Fuller. Shipper: United Package."
+}

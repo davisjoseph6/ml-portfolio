@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10377.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10377\nCustomer ID: SEVES\nOrder Date: 2016-12-09\nCustomer Details:\nContact Name:\nHari Kumar\nAddress:\n90 Wadhurst Rd.\nCity:\nLondon\nPostal Code:\nOX15 4NB\nCountry:\nUK\nPhone:\n(171) 555-1717\nFax:\n(171) 555-5646\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n28\nRössle Sauerkraut\n20\n36.4\n39\nChartreuse verte\n20\n14.4\n \n \nTotalPrice\n1016.0\nPage 1\n",
+    "augmented_texts": [
+        "Bill Order ID: 10377 Customer ID: SEVES Order Date: 2016 - 12 - 09 Customer Details: Contact Name: Hari Kumar Address: 90 Wadhurst Rd. City: London Postal Code: OX15 4NB Country: UK Telephone set: (171) 555 - 1717 Fax: (171) 555 - 5646 Product Details: Cartesian product ID Product Name Amount Unit Price 28 Rössle Sauerkraut 20 36. 4 39 Chartreuse verte 20 14. 4 TotalPrice 1016. 0 Sir frederick handley page 1",
+        "Invoice Order idaho: 10377 Customer ID: SEVES Order Date: 2016 - 12 - 09 Customer Details: Contact Name: Hari Kumar Address: 90 Wadhurst Rd. Metropolis: London Postal Code: OX15 4NB Country: UK Phone: (171) 555 - 1717 Fax: (171) 555 - 5646 Product Detail: Product ID Product Name Quantity Unit Price 28 Rössle Sauerkraut twenty 36. 4 39 Chartreuse verte 20 14. 4 TotalPrice 1016. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: SEVES.Customer ID: 10377.Order Date: 2016-12-09.Phone:(171) 555-1717.Fax: (171), 555,5646.Product ID product nameProduct NameProduct PriceUnit Price: 20.4 euros per unit."
+}

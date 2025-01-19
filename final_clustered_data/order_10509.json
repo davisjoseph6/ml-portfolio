@@ -1,0 +1,24 @@
+{
+    "filename": "order_10509.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10509\nShipping Details:\nShip Name: Blauer See Delikatessen\nShip Address: Forsterstr. 57\nShip City: Mannheim\nShip Region: Western Europe\nShip Postal Code: 68306\nShip Country: Germany\nCustomer Details:\nCustomer ID: BLAUS\nCustomer Name: Blauer See Delikatessen\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-04-17\nShipped Date: 2017-04-29\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Rössle Sauerkraut\nQuantity: 3\nUnit Price: 45.6\nTotal: 136.8\nTotal Price:\nTotal Price: 136.8\n",
+    "augmented_texts": [
+        "Purchase order gem state: 10509 Shipping Details: Ship Name: Blauer See Delikatessen Ship Address: Forsterstr. 57 Ship Urban center: Mannheim Ship Region: Western Europe Ship Postal Code: 68306 Ship Country: Germany Customer Details: Customer ID: BLAUS Customer Name: Blauer See Delikatessen Employee Detail: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Fiat Details: Order Date: 2017 - 04 - 17 Shipped Date: 2017 - 04 - 29 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 3 Unit Mary leontyne price: 45. 6 Total: 136. 8 Total Damage: Total Price: 136. eight",
+        "Order ID: 10509 Ship Details: Ship Epithet: Blauer See Delikatessen Ship Address: Forsterstr. 57 Ship Urban center: Mannheim Ship Region: Western Europe Ship Postal Computer code: 68306 Ship Country: Germany Customer Details: Customer ID: BLAUS Customer Name: Blauer See Delikatessen Employee Details: Employee Name: Margaret Peacock butterfly Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Particular: Order Date: 2017 - 04 - 17 Shipped Date: 2017 - 04 - 29 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 3 Unit Damage: 45. 6 Total: 136. 8 Total Price: Total Price: 136. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10509. Order Name: Blauer See Delikatessen. Ship Address: Forsterstr. 57, Mannheim, Germany. Postal Code: 68306. Customers: BLAUS. Shipper: Speedy Express. Product: Rössle Sauerkraut. Unit Price: 45.6 euros.Unit Quantity: 3."
+}

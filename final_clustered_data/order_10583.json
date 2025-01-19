@@ -1,0 +1,24 @@
+{
+    "filename": "order_10583.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10583\nShipping Details:\nShip Name: Wartian Herkku\nShip Address: Torikatu 38\nShip City: Oulu\nShip Region: Scandinavia\nShip Postal Code: 90110\nShip Country: Finland\nCustomer Details:\nCustomer ID: WARTH\nCustomer Name: Wartian Herkku\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-06-30\nShipped Date: 2017-07-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Thüringer Rostbratwurst\nQuantity: 10\nUnit Price: 123.79\nTotal: 1237.9\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 24\nUnit Price: 34.0\nTotal: 816.0\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 10\nUnit Price: 36.0\nTotal: 360.0\nTotal Price:\nTotal Price: 2413.9\n",
+    "augmented_texts": [
+        "Order ID: 10583 Shipping Details: Ship Figure: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Region: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Client Details: Customer ID: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Purchase order Appointment: 2017 - 06 - 30 Shipped Date: 2017 - 07 - 04 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Quantity: 10 Unit Leontyne price: 123. 79 Total: 1237. 9 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 24 Unit Cost: 34. 0 Total: 816. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 10 Unit Price: 36. 0 Total: 360. 0 Total Price: Total Terms: 2413. 9",
+        "Order ID: 10583 Ship Details: Ship Figure: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Region: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Customer Details: Customer ID: WARTH Customer Name: Wartian Herkku Employee Detail: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 2 Shipper Name: United Package Ordering Details: Order Date: 2017 - 06 - 30 Shipped Date: 2017 - 07 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Quantity: 10 Unit Price: 123. 79 Total: 1237. 9 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Camembert Pierrot Quantity: 24 Social unit Price: 34. 0 Total: 816. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Gudbrandsdalsost Quantity: 10 Unit Price: 36. 0 Total: 360. 0 Total Price: Total Price: 2413. nine"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10583. Ship Name: Wartian Herkku. Address: Torikatu 38. Postal Code: 90110. Country: Finland. Customers: WARTH. Shipper: United Package. Products: Thüringer Rostbratwurst, Gudbrandsdalsost."
+}

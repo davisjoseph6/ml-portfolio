@@ -1,0 +1,24 @@
+{
+    "filename": "order_10253.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10253\nShipping Details:\nShip Name: Hanari Carnes\nShip Address: Rua do Paço, 67\nShip City: Rio de Janeiro\nShip Region: South America\nShip Postal Code: 05454-876\nShip Country: Brazil\nCustomer Details:\nCustomer ID: HANAR\nCustomer Name: Hanari Carnes\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-07-10\nShipped Date: 2016-07-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 20\nUnit Price: 10.0\nTotal: 200.0\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 42\nUnit Price: 14.4\nTotal: 604.8000000000001\n--------------------------------------------------------------------------------------------------\nProduct: Maxilaku\nQuantity: 40\nUnit Price: 16.0\nTotal: 640.0\nTotal Price:\nTotal Price: 1444.8000000000002\n",
+    "augmented_texts": [
+        "Order ID: 10253 Shipping Details: Ship Name: Hanari Carnes Ship Address: Rua do Paço, 67 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 05454 - 876 Ship Country: Brazil Customer Details: Customer ID: HANAR Customer Name: Hanari Carnes Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper i.d.: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 07 - 10 Shipped Date: 2016 - 07 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 20 Unit Price: 10. 0 Total: two hundred. nought - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 42 Unit Price: 14. 4 Total: 604. 8000000000001 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Quantity: 40 Unit of measurement Price: 16. 0 Total: 640. zero Total Price: Total Price: 1444. 8000000000002",
+        "Order ID: 10253 Shipping Details: Ship Name: Hanari Carnes Ship Computer address: Rua do Paço, 67 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 05454 - 876 Ship Country: Brazil Customer Details: Customer ID: HANAR Customer Name: Hanari Carnes Employee Details: Employee Name: Janet Leverling Shipper Detail: Shipper ID: 2 Shipper Name: United Package Order Detail: Order Date: 2016 - 07 - 10 Shipped Date: 2016 - 07 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 20 Unit Price: 10. 0 Total: cc. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Chartreuse verte Quantity: 42 Unit Price: 14. tetrad Total: 604. 8000000000001 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Quantity: 40 Unit Price: 16. 0 Total: 640. 0 Total Price: Total Price: 1444. 8000000000002"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10253. Order Name: Hanari Carnes. Ship Address: Rua do Paço, 67. Pronunciation: HANAR. Postal Code: 05454-876. Shipper: United Package. Customer: Janet Leverling."
+}

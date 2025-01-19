@@ -1,0 +1,24 @@
+{
+    "filename": "order_10587.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10587\nShipping Details:\nShip Name: Que Delícia\nShip Address: Rua da Panificadora, 12\nShip City: Rio de Janeiro\nShip Region: South America\nShip Postal Code: 02389-673\nShip Country: Brazil\nCustomer Details:\nCustomer ID: QUEDE\nCustomer Name: Que Delícia\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-07-02\nShipped Date: 2017-07-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gumbär Gummibärchen\nQuantity: 6\nUnit Price: 31.23\nTotal: 187.38\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 20\nUnit Price: 18.0\nTotal: 360.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 20\nUnit Price: 13.0\nTotal: 260.0\nTotal Price:\nTotal Price: 807.38\n",
+    "augmented_texts": [
+        "Gild ID: 10587 Shipping Details: Ship Name: Que Delícia Ship Address: Rua da Panificadora, 12 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 02389 - 673 Ship Country: Brazil Customer Details: Customer ID: QUEDE Customer Name: Que Delícia Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Particular date: 2017 - 07 - 02 Shipped Date: 2017 - 07 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Quantity: 6 Unit Price: 31. 23 Total: 187. 38 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 20 Unit Price: 18. 0 Total: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 20 Unit Price: thirteen. 0 Total: 260. zero Total Price: Total Cost: 807. 38",
+        "Order ID: 10587 Shipping Details: Ship Name: Que Delícia Ship Address: Rua district attorney Panificadora, 12 Ship City: Rio de Janeiro Ship Region: South The states Ship Postal Code: 02389 - 673 Ship Country: Brazil nut Customer Details: Customer ID: QUEDE Customer Name: Que Delícia Employee Inside information: Employee Epithet: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 07 - 02 Shipped Date: 2017 - 07 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Quantity: 6 Unit Price: 31. twenty three Total: 187. 38 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 20 Unit Price: 18. 0 Total: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 20 Unit Price: 13. 0 Total: 260. 0 Total Price: Total Toll: 807. 38"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10587. Ship Address: Rua da Panificadora, 12. Gumbär Gummibärchen, Rio de Janeiro. Postal Code: 02389-673. Country: Brazil. Customer: Que Delícia. Employee: Nancy Davolio. Shipper: Speedy Express."
+}

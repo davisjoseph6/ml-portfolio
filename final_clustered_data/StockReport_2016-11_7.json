@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-11_7.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-11 \n Category : Produce  \n id category : 7  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nRössle Sauerkraut\n43\n26\n45.6\nManjimup Dried Apples\n20\n20\n53\n",
+    "augmented_texts": [
+        "Stock Theme for 2016 - 11 Category: Produce id family: 7 Product Units Sold Units in Stock Unit Damage Rössle Sauerkraut 43 26 45. 6 Manjimup Dried Apples xx 20 53",
+        "Stock Report for 2016 - xi Category: Produce id category: 7 Product Units Sold Units in Stock Unit Price Rössle Sauerkraut 43 26 45. 6 Manjimup Dried Apples 20 20 liii"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-11. Category : Produce. id category : 7                   Product: Sauerkraut. Id category: Dried Apples. Type: Fruit. Price: $1.50 per kilogram. For more information, visit: http://www.dailymailonline.co.uk/news/article-261538/Stock-Report-for-2016-12-Rössle-sauerkRAut-and-dried-apples-report.html#storylink=cpy."
+}

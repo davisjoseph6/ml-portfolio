@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10388.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10388\nCustomer ID: SEVES\nOrder Date: 2016-12-19\nCustomer Details:\nContact Name:\nHari Kumar\nAddress:\n90 Wadhurst Rd.\nCity:\nLondon\nPostal Code:\nOX15 4NB\nCountry:\nUK\nPhone:\n(171) 555-1717\nFax:\n(171) 555-5646\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n45\nRogede sild\n15\n7.6\n52\nFilo Mix\n20\n5.6\n53\nPerth Pasties\n40\n26.2\n \n \nTotalPrice\n1274.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10388 Customer ID: SEVES Order Date: 2016 - 12 - 19 Client Details: Contact Name: Hari Kumar Address: 90 Wadhurst Rd. City: London Postal Code: OX15 4NB Country: UK Phone: (171) 555 - 1717 Fax: (171) 555 - 5646 Product Details: Product ID Merchandise Name Quantity Unit of measurement Monetary value 45 Rogede sild 15 sevener. 6 52 Filo Mix twenty 5. 6 53 Perth Pasty 40 26. 2 TotalPrice 1274. 0 Sir frederick handley page 1",
+        "Invoice Order gem state: 10388 Customer gem state: SEVES Order Date: 2016 - 12 - nineteen Customer Details: Contact Name: Hari Kumar Address: 90 Wadhurst Rd. City: John griffith chaney Postal Code: OX15 4NB Area: UK Phone: (171) 555 - 1717 Fax: (171) 555 - 5646 Product Details: Product ID Product Name Quantity Unit Price 45 Rogede sild 15 7. 6 52 Filo Mix xx 5. 6 53 Perth Pasty 40 26. 2 TotalPrice 1274. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 10388 grotesque customer name: SEVES. Order Date: 2016-12-19.Customer Details:                Contact Name: Hari Kumar. Address: 20 Wadhurst Rd, Wadsurst, Perth, Australia. Phone: (171) 555-1717.Fax:(171), (5646) 5646. Product ID product name product price product volume product quantity product mix product cost."
+}

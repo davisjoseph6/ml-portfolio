@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10282.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10282\nCustomer ID: ROMEY\nOrder Date: 2016-08-15\nCustomer Details:\nContact Name:\nAlejandra Camino\nAddress:\nGran Vía, 1\nCity:\nMadrid\nPostal Code:\n28001\nCountry:\nSpain\nPhone:\n(91) 745 6200\nFax:\n(91) 745 6210\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n30\nNord-Ost Matjeshering\n6\n20.7\n57\nRavioli Angelo\n2\n15.6\n \n \nTotalPrice\n155.39999999999998\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10282 Client ID: ROMEY Order Date: 2016 - 08 - xv Customer Details: Contact Name: Alejandra Camino Address: Grandma Vía, unity Urban center: Madrid Postal Code: 28001 Country: Spain Sound: (91) 745 6200 Fax: (91) 745 6210 Product Details: Product ID Product Name Quantity Unit Price 30 Nord - Ost Matjeshering 6 20. 7 57 Ravioli Angelo deuce 15. 6 TotalPrice 155. 39999999999998 Page 1",
+        "Bill Lodge ID: 10282 Customer ID: ROMEY Holy order Date: 2016 - 08 - 15 Client Details: Contact Name: Alejandra Camino Address: Gran Vía, ane Metropolis: Madrid Postal Code: 28001 Country: Spain Phone: (91) 745 6200 Fax: (91) 745 6210 Product Details: Product i.d. Product Name Quantity Unit of measurement Price 30 Nord - Ost Matjeshering 6 20. 7 57 Ravioli Angelo 2 15. 6 TotalPrice 155. 39999999999998 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10282.Customer ID: ROMEY. Order Date: 2016-08-15. Customer: Alejandra Camino. Contact Name: \"Alej Sandra\" Email:  \"Alicia.Camino@mailonline.co.uk\""
+}

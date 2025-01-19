@@ -1,0 +1,24 @@
+{
+    "filename": "order_10519.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10519\nShipping Details:\nShip Name: Chop-suey Chinese\nShip Address: Hauptstr. 31\nShip City: Bern\nShip Region: Western Europe\nShip Postal Code: 3012\nShip Country: Switzerland\nCustomer Details:\nCustomer ID: CHOPS\nCustomer Name: Chop-suey Chinese\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-04-28\nShipped Date: 2017-05-01\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Ikura\nQuantity: 16\nUnit Price: 31.0\nTotal: 496.0\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 40\nUnit Price: 38.0\nTotal: 1520.0\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 10\nUnit Price: 34.0\nTotal: 340.0\nTotal Price:\nTotal Price: 2356.0\n",
+    "augmented_texts": [
+        "Order ID: 10519 Shipping Details: Ship Name: Chop - suey Chinese Ship Address: Hauptstr. 31 Ship Urban center: Bern Ship Region: Western Europe Ship Postal Code: 3012 Ship Country: Switzerland Customer Details: Customer ID: CHOPS Customer Name: Chop - suey Chinese Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Day of the month: 2017 - 04 - 28 Shipped Date: 2017 - 05 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: 16 Unit Price: 31. 0 Total: 496. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 40 Unit Price: 38. 0 Total: 1520. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 10 Unit Price: 34. 0 Total: 340. 0 Full Cost: Total Cost: 2356. 0",
+        "Order idaho: 10519 Shipping Point: Ship Name: Chop shot - suey Chinese Ship Address: Hauptstr. 31 Ship City: Bern Ship Region: Western Europe Ship Postal Code: 3012 Ship Country: Switzerland Customer Details: Customer ID: CHOPS Customer Name: Chop shot - suey Chinese Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper gem state: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 04 - 28 Shipped Date: 2017 - 05 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Amount: 16 Unit Price: 31. 0 Total: 496. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Amount: 40 Unit Price: 38. 0 Amount: 1520. cipher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Camembert Pierrot Quantity: 10 Unit Price: 34. 0 Total: 340. 0 Total Price: Total Price: 2356. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10519. Order Name: Chop-suey Chinese. Ship Address: Hauptstr. 31. City: Bern. Region: Western Europe. Postal Code: 3012. Country: Switzerland. Customers: CHOPS. Shipper: Federal Shipping. Products: Camembert Pierrot."
+}

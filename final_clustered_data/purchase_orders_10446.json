@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10446.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10446\n2017-02-14\nKarin Josephs\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n19\nTeatime Chocolate Biscuits\n12\n7.3\n24\nGuaraná Fantástica\n20\n3.6\n31\nGorgonzola Telino\n3\n10\n52\nFilo Mix\n15\n5.6\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Client Name 10446 2017 - 02 - 14 Karin Josephs Products Product ID: Product: Measure: Unit Price: 19 Teatime Chocolate Biscuits 12 sevener. 3 24 Guaraná Fantástica 20 3. 6 xxxi Gorgonzola Telino 3 10 52 Filo Mix 15 5. 6 Page 1",
+        "Purchase Orders Regularise ID Guild Date Client Name 10446 2017 - 02 - 14 Karin Josephs Products Merchandise ID: Product: Amount: Unit Price: 19 Teatime Chocolate Biscuits 12 7. 3 24 Guaraná Fantástica 20 3. 6 31 Gorgonzola Telino 3 10 52 Filo Mix 15 5. 6 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: Chocolate Biscuits, Filo Mix, Gorgonzola Telino, and Guaraná Fantástica. All products are sold by Karin Josephs at a cost of $19.99 per pack. For more information, visitarinjosephs.com."
+}

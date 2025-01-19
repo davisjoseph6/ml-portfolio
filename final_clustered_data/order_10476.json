@@ -1,0 +1,24 @@
+{
+    "filename": "order_10476.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10476\nShipping Details:\nShip Name: HILARION-Abastos\nShip Address: Carrera 22 con Ave. Carlos Soublette #8-35\nShip City: San Cristóbal\nShip Region: South America\nShip Postal Code: 5022\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: HILAA\nCustomer Name: HILARION-Abastos\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-03-17\nShipped Date: 2017-03-24\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 2\nUnit Price: 19.2\nTotal: 38.4\n--------------------------------------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 12\nUnit Price: 12.0\nTotal: 144.0\nTotal Price:\nTotal Price: 182.4\n",
+    "augmented_texts": [
+        "Order idaho: 10476 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 03 - 17 Shipped Date: 2017 - 03 - two dozen Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 2 Unit Price: 19. 2 Total: 38. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Outback Lager Amount: twelve Unit Price: 12. zero Total: 144. 0 Total Price: Total Price: 182. 4",
+        "Club ID: 10476 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Epithet: Federal Shipping Order Details: Order Date: 2017 - 03 - 17 Shipped Particular date: 2017 - 03 - 24 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Pâté chinois Quantity: 2 Social unit Price: 19. 2 Total: 38. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 12 Unit Price: 12. nought Amount: 144. 0 Total Price: Total Price: 182. 4"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10476. Ship Address: Carrera 22 con Ave. Carlos Soublette #8-35. Postal Code: 5022. Country: Venezuela. Customer: HILARION-Abastos. Employee: Laura Callahan. Shipper: Federal Shipping. Product: Pâté chinois."
+}

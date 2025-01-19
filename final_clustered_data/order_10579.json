@@ -1,0 +1,24 @@
+{
+    "filename": "order_10579.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10579\nShipping Details:\nShip Name: Let-s Stop N Shop\nShip Address: 87 Polk St. Suite 5\nShip City: San Francisco\nShip Region: North America\nShip Postal Code: 94117\nShip Country: USA\nCustomer Details:\nCustomer ID: LETSS\nCustomer Name: Let's Stop N Shop\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-06-25\nShipped Date: 2017-07-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Genen Shouyu\nQuantity: 10\nUnit Price: 15.5\nTotal: 155.0\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 21\nUnit Price: 7.75\nTotal: 162.75\nTotal Price:\nTotal Price: 317.75\n",
+    "augmented_texts": [
+        "Order ID: 10579 Shipping Details: Ship Name: Let - s Stop N Shop Ship Address: 87 James polk St. Retinue 5 Ship City: San Francisco Ship Region: North America Ship Postal Code: 94117 Ship Country: USA Customer Details: Customer ID: LETSS Customer Name: Let ' s Stop N Shop Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Rescript Date: 2017 - 06 - 25 Shipped Date: 2017 - 07 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Genen Shouyu Measure: 10 Unit Price: 15. 5 Total: 155. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Rhönbräu Klosterbier Quantity: 21 Unit Price: 7. 75 Total: 162. 75 Total Cost: Total Price: 317. 75",
+        "Order ID: 10579 Shipping Details: Ship Name: Let - s Stop N Shop Ship Address: 87 Polk St. Suite 5 Ship City: San Francisco Ship Region: North America Ship Postal Code: 94117 Ship Country: USA Customer Details: Client ID: LETSS Customer Name: Let ' s Stop N Shop Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper gem state: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 06 - 25 Shipped Date: 2017 - 07 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Genen Shouyu Quantity: 10 Unit Price: 15. 5 Total: one hundred fifty five. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 21 Unit Price: 7. 75 Total: 162. 75 Total Price: Full Price: 317. 75"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10579. Order Name: Let-s Stop N Shop. Ship Address: 87 Polk St. Suite 5, San Francisco. Postal Code: 94117. Country: USA. Shipper: United Package. Product: Rhönbräu Klosterbier. Price: 7.75."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10462.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10462\nShipping Details:\nShip Name: Consolidated Holdings\nShip Address: Berkeley Gardens 12  Brewery\nShip City: London\nShip Region: British Isles\nShip Postal Code: WX1 6LT\nShip Country: UK\nCustomer Details:\nCustomer ID: CONSH\nCustomer Name: Consolidated Holdings\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-03-03\nShipped Date: 2017-03-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Konbu\nQuantity: 1\nUnit Price: 4.8\nTotal: 4.8\n--------------------------------------------------------------------------------------------------\nProduct: Tunnbröd\nQuantity: 21\nUnit Price: 7.2\nTotal: 151.20000000000002\nTotal Price:\nTotal Price: 156.00000000000003\n",
+    "augmented_texts": [
+        "Order ID: 10462 Shipping Details: Ship Name: Consolidated Holdings Ship Address: Berkeley Gardens 12 Brewery Ship City: London Ship Neighborhood: British Isles Ship Postal Code: WX1 6LT Ship Country: UK Customer Details: Customer ID: CONSH Customer Name: Consolidated Holdings Employee Details: Employee Epithet: Andrew Fuller Shipper Detail: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Appointment: 2017 - 03 - 03 Shipped Date: 2017 - 03 - eighteen Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Konbu Quantity: 1 Unit Toll: 4. 8 Total: 4. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Tunnbröd Quantity: xxi Unit Price: 7. 2 Total: 151. 20000000000002 Total Price: Total Price: 156. 00000000000003",
+        "Order ID: 10462 Shipping Details: Ship Name: Consolidated Property Ship Address: Berkeley Gardens 12 Brewery Ship City: London Ship Region: British Isles Ship Postal Code: WX1 6LT Ship Body politic: UK Customer Item: Customer ID: CONSH Customer Name: Consolidated Holdings Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 03 - 03 Shipped Date: 2017 - 03 - 18 Cartesian product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 1 Unit Price: 4. 8 Total: 4. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tunnbröd Quantity: 21 Unit Damage: 7. two Total: 151. 20000000000002 Total Price: Full Price: 156. 00000000000003"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10462. Ship Address: Berkeley Gardens 12, London. Postal Code: WX1 6LT. Country: UK. Customer: Consolidated Holdings. Employee: Andrew Fuller. Shipper: Speedy Express. Product: Konbu, Tunnbröd. Price: 4.8."
+}

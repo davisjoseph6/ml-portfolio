@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10316.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10316\n2016-09-27\nPaula Wilson\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n41\nJack's New England Clam Chowder\n10\n7.7\n62\nTarte au sucre\n70\n39.4\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Regularize ID Order Date Customer Name 10316 2016 - 09 - 27 Paula Wilson Products Product i.d.: Product: Quantity: Unit Price: 41 Jack ' s New England Clam Chowder 10 seven. 7 62 Tarte au sucre 70 39. 4 Page 1",
+        "Leverage Orders Order ID Order Date Customer Name 10316 2016 - 09 - 27 Paula Wilson Products Mathematical product ID: Product: Quantity: Unit Damage: 41 Jack ' s New England Clam Chowder 10 7. 7 62 Tarte au sucre lxx 39. 4 Page ane"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than just clam chowder. Customers can choose from a variety of products. The price for each product is determined by the product's quantity and weight. For more information on the products, visit the company's website at www.Jack's New England Clam Chowder Company."
+}

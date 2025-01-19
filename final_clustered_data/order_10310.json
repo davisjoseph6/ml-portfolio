@@ -1,0 +1,24 @@
+{
+    "filename": "order_10310.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10310\nShipping Details:\nShip Name: The Big Cheese\nShip Address: 89 Jefferson Way Suite 2\nShip City: Portland\nShip Region: North America\nShip Postal Code: 97201\nShip Country: USA\nCustomer Details:\nCustomer ID: THEBI\nCustomer Name: The Big Cheese\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-09-20\nShipped Date: 2016-09-27\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pavlova\nQuantity: 10\nUnit Price: 13.9\nTotal: 139.0\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 5\nUnit Price: 39.4\nTotal: 197.0\nTotal Price:\nTotal Price: 336.0\n",
+    "augmented_texts": [
+        "Order ID: 10310 Shipping Details: Ship Name: The Big Cheese Ship Savoir faire: 89 President jefferson Way Suite 2 Ship Metropolis: Portland Ship Region: North America Ship Postal Code: 97201 Ship Country: USA Client Details: Client ID: THEBI Customer Name: The Big Cheese Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Software package Order Details: Order Date: 2016 - 09 - 20 Shipped Date: 2016 - 09 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: 10 Unit Price: 13. 9 Total: 139. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 5 Unit Price: 39. 4 Total: 197. 0 Total Price: Total Price: 336. 0",
+        "Order ID: 10310 Shipping Details: Ship Name: The Big Cheese Ship Address: 89 Jefferson Way Suite 2 Ship City: Portland Ship Region: North America Ship Postal Code: 97201 Ship Nation: USA Customer Details: Customer ID: THEBI Customer Name: The Big Cheese Employee Details: Employee Public figure: Laura Callahan Shipper Details: Shipper gem state: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 20 Shipped Date: 2016 - 09 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: x Unit Price: 13. 9 Total: 139. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 5 Unit Price: 39. 4 Total: 197. 0 Total Price: Total Cost: 336. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "The Big Cheese is based in Portland, Oregon, USA. The company is owned by a company called The Big cheese. It sells cheese and other cheese-related products. For more information, visit the company's website at: www.thebigcheese.com."
+}

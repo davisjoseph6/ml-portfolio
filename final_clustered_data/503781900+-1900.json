@@ -1,0 +1,12 @@
+{
+    "filename": "503781900+-1900.jpg",
+    "metadata": {},
+    "text": "3\n2\n$\n$8\n\n \n\f",
+    "augmented_texts": [
+        "three 2 $ $ 8",
+        "3 two $ $ 8"
+    ],
+    "predicted_cluster": 3,
+    "predicted_label": "cluster_3",
+    "summary": "3.22$2 $1.8 $2.3 $0.7 $ 0.1 $ 1.5 $ 2.0 $ 3.4 $ 4.6 $ 5.9 $ 6.10 $ 7.75 $ 8.25 $ 9."
+}

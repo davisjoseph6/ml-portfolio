@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10458.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10458\nCustomer ID: SUPRD\nOrder Date: 2017-02-26\nCustomer Details:\nContact Name:\nPascale Cartrain\nAddress:\nBoulevard Tirou, 255\nCity:\nCharleroi\nPostal Code:\nB-6000\nCountry:\nBelgium\nPhone:\n(071) 23 67 22 20\nFax:\n(071) 23 67 22 21\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n26\nGumbär Gummibärchen\n30\n24.9\n28\nRössle Sauerkraut\n30\n36.4\n43\nIpoh Coffee\n20\n36.8\n56\nGnocchi di nonna Alice\n15\n30.4\n71\nFlotemysost\n50\n17.2\n \n \nTotalPrice\n3891.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10458 Customer ID: SUPRD Order Date: 2017 - 02 - 26 Customer Details: Contact Name: Pascale Cartrain Address: Boulevard Tirou, 255 Metropolis: Charleroi Postal Code: B - 6000 Country: Belgium Earphone: (071) 23 67 twenty two twenty Fax: (071) 23 67 22 21 Product Detail: Product ID Product Name Quantity Unit Price 26 Gumbär Gummibärchen 30 24. 9 28 Rössle Sauerkraut 30 36. 4 43 Ipoh Coffee twenty 36. 8 56 Gnocchi di nonna Alice 15 30. 4 71 Flotemysost 50 17. 2 TotalPrice 3891. 0 Page 1",
+        "Invoice Order idaho: 10458 Customer ID: SUPRD Order Date: 2017 - 02 - 26 Client Contingent: Contact Name: Pascale Cartrain Address: Boulevard Tirou, 255 City: Charleroi Postal Computer code: B - 6000 Country: Belgium Phone: (071) twenty three 67 22 20 Fax: (071) 23 67 22 21 Product Details: Product ID Product Name Quantity Unit Price 26 Gumbär Gummibärchen 30 24. 9 28 Rössle Sauerkraut 30 36. 4 43 Ipoh Coffee twenty 36. 8 56 Gnocchi di nonna Alice 15 30. 4 71 Flotemysost 50 17. 2 TotalPrice 3891. 0 Varlet ace"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10458.Customer ID: SUPRD. Order Date: 2017-02-26.Product: Gumbär Gummibärchen, Rössle Sauerkraut, Ipoh Coffee. Price: $3891.0."
+}

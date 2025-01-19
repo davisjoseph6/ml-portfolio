@@ -1,0 +1,24 @@
+{
+    "filename": "order_10249.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10249\nShipping Details:\nShip Name: Toms Spezialitäten\nShip Address: Luisenstr. 48\nShip City: Münster\nShip Region: Western Europe\nShip Postal Code: 44087\nShip Country: Germany\nCustomer Details:\nCustomer ID: TOMSP\nCustomer Name: Toms Spezialitäten\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-07-05\nShipped Date: 2016-07-10\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 9\nUnit Price: 18.6\nTotal: 167.4\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 40\nUnit Price: 42.4\nTotal: 1696.0\nTotal Price:\nTotal Price: 1863.4\n",
+    "augmented_texts": [
+        "Order ID: 10249 Ship Details: Ship Name: Toms Spezialitäten Ship Address: Luisenstr. 48 Ship City: Münster Ship Neighborhood: Western Europe Ship Postal Code: 44087 Ship Country: Germany Customer Details: Customer gem state: TOMSP Customer Name: Toms Spezialitäten Employee Point: Employee Name: Michael Suyama Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Detail: Order Date: 2016 - 07 - 05 Shipped Date: 2016 - 07 - ten Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 9 Unit Price: 18. 6 Total: 167. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 40 Unit Price: 42. 4 Totality: 1696. 0 Total Price: Full Price: 1863. 4",
+        "Order ID: 10249 Shipping Details: Ship Name: Tom Spezialitäten Ship Address: Luisenstr. 48 Ship City: Münster Ship Region: Western Europe Ship Postal Code: 44087 Ship Country: Germany Customer Details: Customer ID: TOMSP Customer Name: Toms Spezialitäten Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Escort: 2016 - 07 - 05 Shipped Day of the month: 2016 - 07 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 9 Social unit Price: 18. 6 Total: 167. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 40 Unit Price: 42. four Total: 1696. 0 Total Price: Total Price: 1863. 4"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10249. Order Name: Toms Spezialitäten. Ship Address: Luisenstr. 48, Münster. Postal Code: 44087. Country: Germany. Customer: TOMSP. Shipper: Speedy Express. Product: Manjimup Dried Apples."
+}

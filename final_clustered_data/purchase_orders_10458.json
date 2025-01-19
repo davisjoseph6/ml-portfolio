@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10458.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10458\n2017-02-26\nPascale Cartrain\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n26\nGumbär Gummibärchen\n30\n24.9\n28\nRössle Sauerkraut\n30\n36.4\n43\nIpoh Coffee\n20\n36.8\n56\nGnocchi di nonna Alice\n15\n30.4\n71\nFlotemysost\n50\n17.2\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Monastic order Order ID Order Date Client Name 10458 2017 - 02 - 26 Pascale Cartrain Products Product ID: Product: Quantity: Unit Price: 26 Gumbär Gummibärchen 30 24. 9 28 Rössle Sauerkraut 30 thirty six. 4 43 Ipoh Coffee 20 xxxvi. 8 56 Gnocchi di nonna Alice 15 thirty. 4 71 Flotemysost 50 17. 2 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10458 2017 - 02 - xxvi Pascale Cartrain Products Product ID: Product: Measure: Unit Price: 26 Gumbär Gummibärchen 30 24. 9 28 Rössle Sauerkraut 30 36. 4 43 Ipoh Coffee 20 36. eighter from decatur 56 Gnocchi di nonna Alice 15 30. 4 seventy one Flotemysost 50 17. ii Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass items such as coffee, gummibärchen, sausages, and coffee. Customers can order by phone, email, or in person. The price of each item is determined by the customer's order quantity and the price per unit. For more information, visit www.pascale.com."
+}

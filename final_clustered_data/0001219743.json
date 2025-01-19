@@ -1,0 +1,12 @@
+{
+    "filename": "0001219743.jpg",
+    "metadata": {},
+    "text": "_AD STAT COMPAN\n * 666 FIFTH AVE, =\nNEW YORK. N. ¥. 10019\nuson 6080\n\nSal\nne. 7\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nwo)\n\n \n\f",
+    "augmented_texts": [
+        "_AD STAT COMPAN * 666 FIFTH AVE, = NEW YORK. Newton. ¥. 10019 uson 6080 Sal ne. 7 wo )",
+        "_AD STAT COMPAN * 666 FIFTH AVE, = NEW YORK. N. ¥. 10019 uson 6080 Sal ne. seven wo )"
+    ],
+    "predicted_cluster": 3,
+    "predicted_label": "cluster_3",
+    "summary": "_AD STAT COMPAN                 * 666 FIFTH AVE, =. =                NEW YORK. N. ¥. 10019.uson 6080 grotesquely-pronounced \"Sal-researcher\" (N.S.A. S.R.E. 7)"
+}

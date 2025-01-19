@@ -1,0 +1,24 @@
+{
+    "filename": "order_10414.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10414\nShipping Details:\nShip Name: Familia Arquibaldo\nShip Address: Rua Orós, 92\nShip City: Sao Paulo\nShip Region: South America\nShip Postal Code: 05442-030\nShip Country: Brazil\nCustomer Details:\nCustomer ID: FAMIA\nCustomer Name: Familia Arquibaldo\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-01-14\nShipped Date: 2017-01-17\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Teatime Chocolate Biscuits\nQuantity: 18\nUnit Price: 7.3\nTotal: 131.4\n--------------------------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 50\nUnit Price: 2.0\nTotal: 100.0\nTotal Price:\nTotal Price: 231.4\n",
+    "augmented_texts": [
+        "Order ID: 10414 Shipping Details: Ship Name: Familia Arquibaldo Ship Address: Rua Orós, 92 Ship City: Sao Paulo Ship Realm: South America Ship Postal Code: 05442 - 030 Ship Country: Brazil Customer Details: Customer ID: FAMIA Customer Name: Familia Arquibaldo Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper i.d.: trio Shipper Gens: Federal Shipping Order Details: Order Day of the month: 2017 - 01 - 14 Shipped Date: 2017 - 01 - xvii Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Biscuits Quantity: 18 Unit Price: 7. 3 Total: 131. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 50 Unit Price: 2. 0 Total: 100. 0 Total Price: Total Leontyne price: 231. 4",
+        "Order ID: 10414 Shipping Details: Ship Name: Familia Arquibaldo Ship Address: Rua Orós, 92 Ship City: Sao Paulo Ship Region: Confederate states of america America Ship Postal Code: 05442 - 030 Ship Country: Brazil Customer Details: Customer ID: FAMIA Customer Name: Familia Arquibaldo Employee Details: Employee Name: Andrew Buckminster fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Transportation Holy order Details: Order Date: 2017 - 01 - 14 Shipped Date: 2017 - 01 - 17 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Teatime Chocolate Biscuits Amount: 18 Unit Price: 7. 3 Total: 131. iv - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 50 Unit Price: 2. 0 Total: 100. 0 Total Price: Total Cost: 231. 4"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10414. Order Name: Familia Arquibaldo. Ship Address: Rua Orós, 92. City: Sao Paulo. Region: South America. Postal Code: 05442-030Ship Country: Brazil. Customer: FAMIA. Employee: Andrew Fuller. Shipper: Federal Shipping."
+}

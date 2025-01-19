@@ -1,0 +1,24 @@
+{
+    "filename": "order_10437.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10437\nShipping Details:\nShip Name: Wartian Herkku\nShip Address: Torikatu 38\nShip City: Oulu\nShip Region: Scandinavia\nShip Postal Code: 90110\nShip Country: Finland\nCustomer Details:\nCustomer ID: WARTH\nCustomer Name: Wartian Herkku\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-02-05\nShipped Date: 2017-02-12\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Perth Pasties\nQuantity: 15\nUnit Price: 26.2\nTotal: 393.0\nTotal Price:\nTotal Price: 393.0\n",
+    "augmented_texts": [
+        "Order ID: 10437 Ship Details: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Region: Scandinavian peninsula Ship Postal Code: 90110 Ship Land: Finland Customer Details: Client ID: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 02 - 05 Shipped Date: 2017 - 02 - 12 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Perth Pasties Quantity: fifteen Building block Monetary value: 26. 2 Total: 393. nought Total Price: Total Price: 393. 0",
+        "Order ID: 10437 Shipping Details: Ship Figure: Wartian Herkku Ship Address: Torikatu 38 Ship Metropolis: Oulu Ship Neighborhood: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Customer Details: Client ID: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 02 - 05 Shipped Date: 2017 - 02 - 12 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 15 Unit Price: 26. deuce Total: 393. 0 Total Price: Total Price: 393. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10437. Order Name: Wartian Herkku. Ship Address: Torikatu 38. City: Oulu. Region: Scandinavia. Postal Code: 90110. Country: Finland. Customer: Laura Callahan. Shipper: Speedy Express. Product: Perth Pasties. Quantity: 15. Unit Price: 26.2 pounds.Unit price: 393.0 euros."
+}

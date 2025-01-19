@@ -1,0 +1,24 @@
+{
+    "filename": "order_10596.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10596\nShipping Details:\nShip Name: White Clover Markets\nShip Address: 1029 - 12th Ave. S.\nShip City: Seattle\nShip Region: North America\nShip Postal Code: 98124\nShip Country: USA\nCustomer Details:\nCustomer ID: WHITC\nCustomer Name: White Clover Markets\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-07-11\nShipped Date: 2017-08-12\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 5\nUnit Price: 38.0\nTotal: 190.0\n--------------------------------------------------------------------------------------------------\nProduct: Vegie-spread\nQuantity: 24\nUnit Price: 43.9\nTotal: 1053.6\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 30\nUnit Price: 7.75\nTotal: 232.5\nTotal Price:\nTotal Price: 1476.1\n",
+    "augmented_texts": [
+        "Order ID: 10596 Shipping Details: Ship Name: White Clover Markets Ship Address: 1029 - 12th Ave. Sulphur. Ship City: Seattle Ship Region: North America Ship Postal Code: 98124 Ship Country: USA Customer Details: Customer ID: WHITC Customer Gens: Tweed Clover Markets Employee Detail: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 07 - 11 Shipped Date: 2017 - 08 - 12 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: five Unit Price: 38. 0 Total: 190. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Vegie - spread Quantity: 24 Unit Price: 43. 9 Total: 1053. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 30 Unit Price: 7. 75 Total: 232. 5 Total Price: Total Price: 1476. 1",
+        "Order ID: 10596 Shipping Details: Ship Name: White Clover Markets Ship Address: 1029 - 12th Ave. S. Ship City: Seattle Ship Region: North America Ship Postal Code: 98124 Ship Country: USA Customer Details: Customer ID: WHITC Customer Name: White Clover Markets Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Gens: Speedy Express Ordering Details: Order Date: 2017 - 07 - 11 Shipped Date: 2017 - 08 - 12 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 5 Unit Price: xxxviii. 0 Total: 190. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Vegie - spread Quantity: 24 Unit Price: 43. 9 Total: 1053. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 30 Unit Price: 7. 75 Total: 232. 5 Total Price: Total Price: 1476. 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10596. Order Name: White Clover Markets. Ship Address:  1029 - 12th Ave. S. Seattle, Washington. Postal Code: 98124. Country: USA. Customers: WHITC. Shipper: Speedy Express. Products: Vegie-spread."
+}

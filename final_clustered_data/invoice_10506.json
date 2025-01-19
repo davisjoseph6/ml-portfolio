@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10506.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10506\nCustomer ID: KOENE\nOrder Date: 2017-04-15\nCustomer Details:\nContact Name:\nPhilip Cramer\nAddress:\nMaubelstr. 90\nCity:\nBrandenburg\nPostal Code:\n14776\nCountry:\nGermany\nPhone:\n0555-09876\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n25\nNuNuCa Nuß-Nougat-Creme\n18\n14.0\n70\nOutback Lager\n14\n15.0\n \n \nTotalPrice\n462.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10506 Customer ID: KOENE Order Date: 2017 - 04 - 15 Customer Details: Contact Name: Duke of edinburgh Cramer Address: Maubelstr. 90 City: Brandenburg Postal Code: 14776 Country: Frg Phone: 0555 - 09876 Facsimile machine: None Product Details: Ware ID Mathematical product Name Quantity Unit Price 25 NuNuCa Nuß - Nougat - Creme 18 14. cipher lxx Outback Lager 14 15. 0 TotalPrice 462. 0 Page 1",
+        "Account Order ID: 10506 Client ID: KOENE Order Date: 2017 - 04 - 15 Customer Details: Contact Name: Philip Cramer Address: Maubelstr. 90 Metropolis: Brandenburg Postal Code: 14776 Country: Federal republic of germany Phone: 0555 - 09876 Fax: None Product Details: Product ID Product Name Quantity Unit Price 25 NuNuCa Nuß - Nougat - Creme 18 14. 0 70 Outback Lager 14 15. cypher TotalPrice 462. 0 Sir frederick handley page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10506.Customer ID: KOENE. Order Date: 2017-04-15. Customers: Philip Cramer. Product Name: Nuß-Nougat-Creme. Unit Price: $25.0. Price per ounce: £1.45."
+}

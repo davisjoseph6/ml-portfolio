@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10526.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10526\nCustomer ID: WARTH\nOrder Date: 2017-05-05\nCustomer Details:\nContact Name:\nPirkko Koskitalo\nAddress:\nTorikatu 38\nCity:\nOulu\nPostal Code:\n90110\nCountry:\nFinland\nPhone:\n981-443655\nFax:\n981-443655\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n1\nChai\n8\n18.0\n13\nKonbu\n10\n6.0\n56\nGnocchi di nonna Alice\n30\n38.0\n \n \nTotalPrice\n1344.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10526 Customer i.d.: WARTH Order Date: 2017 - 05 - 05 Customer Inside information: Contact Name: Pirkko Koskitalo Address: Torikatu 38 City: Oulu Postal Code: 90110 Country: Finland Phone: 981 - 443655 Fax: 981 - 443655 Product Details: Product ID Merchandise Name Quantity Social unit Price 1 Chai 8 18. 0 13 Konbu 10 6. 0 56 Gnocchi di nonna Alice 30 38. 0 TotalPrice 1344. 0 Sir frederick handley page 1",
+        "Invoice Order ID: 10526 Customer gem state: WARTH Order Day of the month: 2017 - 05 - 05 Customer Details: Contact Name: Pirkko Koskitalo Address: Torikatu 38 City: Oulu Postal Code: 90110 Country: Finland Phone: 981 - 443655 Fax: 981 - 443655 Product Detail: Mathematical product ID Product Name Quantity Unit Mary leontyne price 1 Chai 8 18. 0 long dozen Konbu 10 6. cipher 56 Gnocchi di nonna Alice 30 38. 0 TotalPrice 1344. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10526.Customer ID: WARTH. Order Date: 2017-05-5. Customer: Pirkko Koskitalo. Address: Torikatu 38. City: Oulu. Postal Code: 90110. Country:Finland. Phone: 981-443655. fax: 9445. Product: 1344."
+}

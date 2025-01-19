@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10348.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10348\nCustomer ID: WANDK\nOrder Date: 2016-11-07\nCustomer Details:\nContact Name:\nRita Müller\nAddress:\nAdenauerallee 900\nCity:\nStuttgart\nPostal Code:\n70563\nCountry:\nGermany\nPhone:\n0711-020361\nFax:\n0711-035428\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n1\nChai\n15\n14.4\n23\nTunnbröd\n25\n7.2\n \n \nTotalPrice\n396.0\nPage 1\n",
+    "augmented_texts": [
+        "Account Order ID: 10348 Customer ID: WANDK Order Date: 2016 - 11 - 07 Customer Details: Contact Name: Rita Müller Address: Adenauerallee 900 City: Stuttgart Postal Code: 70563 Country: Germany Telephone set: 0711 - 020361 Fax: 0711 - 035428 Product Details: Product ID Cartesian product Figure Quantity Unit Damage 1 Chai 15 14. quaternion 23 Tunnbröd 25 7. 2 TotalPrice 396. 0 Sir frederick handley page 1",
+        "Invoice Order ID: 10348 Customer ID: WANDK Rules of order Date: 2016 - 11 - 07 Customer Details: Impinging Name: Rita Müller Address: Adenauerallee 900 City: Stuttgart Postal Computer code: 70563 Country: Germany Phone: 0711 - 020361 Fax: 0711 - 035428 Product Details: Product ID Product Name Quantity Unit Price 1 Chai 15 fourteen. quadruplet 23 Tunnbröd 25 7. 2 TotalPrice 396. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: WANDK Order ID: 10348 Order Date: 2016-11-07 Order Details: contact name: Rita Müller, address: Adenauerallee, postal code: 70563, phone number: 7020-020361. Product Name quantity: 1,000, unit price: $396.0, page number is 1."
+}

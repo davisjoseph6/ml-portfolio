@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10442.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10442\nCustomer ID: ERNSH\nOrder Date: 2017-02-11\nCustomer Details:\nContact Name:\nRoland Mendel\nAddress:\nKirchgasse 6\nCity:\nGraz\nPostal Code:\n8010\nCountry:\nAustria\nPhone:\n7675-3425\nFax:\n7675-3426\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n11\nQueso Cabrales\n30\n16.8\n54\nTourtière\n80\n5.9\n66\nLouisiana Hot Spiced Okra\n60\n13.6\n \n \nTotalPrice\n1792.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order gem state: 10442 Customer ID: ERNSH Order Date: 2017 - 02 - 11 Customer Details: Contact Name: Roland Mendel Address: Kirchgasse 6 City: Graz Postal Code: 8010 Land: Austria Phone: 7675 - 3425 Fax: 7675 - 3426 Product Details: Product idaho Product Name Quantity Unit Price 11 Queso Cabrales 30 16. 8 fifty four Tourtière 80 5. 9 66 Louisiana Hot Spiced Okra 60 xiii. 6 TotalPrice 1792. 0 Page 1",
+        "Invoice Order ID: 10442 Customer i.d.: ERNSH Order Appointment: 2017 - 02 - 11 Customer Details: Contact Epithet: Roland Mendel Address: Kirchgasse six City: Graz Postal Code: 8010 Country: Austria Phone: 7675 - 3425 Fax: 7675 - 3426 Product Details: Product gem state Product Epithet Quantity Unit Price 11 Queso Cabrales 30 16. 8 54 Tourtière 80 5. 9 66 Louisiana Hot Spiced Okra 60 13. 6 TotalPrice 1792. 0 Page unity"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: ERNSH. Order Date: 2017-02-11.Customer Details:         Roland Mendel. Address:  Kirchgasse 6, Graz, Austria. Postal Code:    8010. Phone:        7675-3425.Fax:        1976-3626. Product ID is \"Graz Spiced Okra\""
+}

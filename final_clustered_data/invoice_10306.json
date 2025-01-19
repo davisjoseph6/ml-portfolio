@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10306.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10306\nCustomer ID: ROMEY\nOrder Date: 2016-09-16\nCustomer Details:\nContact Name:\nAlejandra Camino\nAddress:\nGran Vía, 1\nCity:\nMadrid\nPostal Code:\n28001\nCountry:\nSpain\nPhone:\n(91) 745 6200\nFax:\n(91) 745 6210\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n30\nNord-Ost Matjeshering\n10\n20.7\n53\nPerth Pasties\n10\n26.2\n54\nTourtière\n5\n5.9\n \n \nTotalPrice\n498.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10306 Client ID: ROMEY Order Date: 2016 - 09 - 16 Customer Details: Contact Name: Alejandra Camino Address: Gran Vía, single City: Madrid Postal Code: 28001 Country: Spain Phone: (ninety one) 745 6200 Fax: (91) 745 6210 Product Details: Product i.d. Product Public figure Quantity Unit Price 30 Nord - Ost Matjeshering 10 20. 7 53 Perth Pasties 10 26. 2 54 Tourtière 5 5. 9 TotalPrice 498. 5 Page 1",
+        "Invoice Order ID: 10306 Client ID: ROMEY Order Date: 2016 - 09 - 16 Customer Details: Contact Name: Alejandra Camino Address: Gran Vía, 1 City: Madrid Postal Code: 28001 Country: Spain Phone: (91) 745 6200 Fax: (91) 745 6210 Product Details: Product gem state Product Name Quantity Whole Price 30 Nord - Ost Matjeshering 10 20. seven 53 Perth Pasties 10 26. 2 54 Tourtière 5 5. nine TotalPrice 498. pentad Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10306.Customer ID: ROMEY. Order Date: 2016-09-16. Customer Name:Alejandra Camino. Address: 1 Gran Vía, 1, Madrid. Postal Code: 28001. Country: Spain. Phone:(91) 745 6200.Fax: (91), 7 45 6210. Product: \"Perth Pasties\""
+}

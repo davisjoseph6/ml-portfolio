@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10618.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10618\nCustomer ID: MEREP\nOrder Date: 2017-08-01\nCustomer Details:\nContact Name:\nJean Fresnière\nAddress:\n43 rue St. Laurent\nCity:\nMontréal\nPostal Code:\nH1J 1C3\nCountry:\nCanada\nPhone:\n(514) 555-8054\nFax:\n(514) 555-8055\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n6\nGrandma's Boysenberry Spread\n70\n25.0\n56\nGnocchi di nonna Alice\n20\n38.0\n68\nScottish Longbreads\n15\n12.5\n \n \nTotalPrice\n2697.5\nPage 1\n",
+    "augmented_texts": [
+        "Account Order ID: 10618 Customer ID: MEREP Order Particular date: 2017 - 08 - 01 Customer Details: Contact Name: Jean Fresnière Address: 43 herb of grace St. Laurent City: Montréal Postal Code: H1J 1C3 Country: Canada Phone: (514) 555 - 8054 Fax: (514) 555 - 8055 Product Details: Product idaho Product Name Quantity Building block Price half a dozen Grandma ' s Boysenberry Spread lxx 25. 0 56 Gnocchi di nonna Alice 20 38. 0 68 Scots Longbreads fifteen 12. 5 TotalPrice 2697. cinque Page 1",
+        "Invoice Order ID: 10618 Customer ID: MEREP Ordering Date: 2017 - 08 - 01 Customer Details: Contact Name: Jean Fresnière Address: 43 rue St. Laurent City: Montréal Postal Code: H1J 1C3 Country: Canada Sound: (514) 555 - 8054 Facsimile: (514) 555 - 8055 Product Details: Product ID Ware Name Quantity Unit Price 6 Grandma ' s Boysenberry Spread 70 25. 0 56 Gnocchi di nonna Alice 20 38. cypher 68 Scottish Longbreads 15 xii. 5 TotalPrice 2697. 5 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10618.Customer: Jean Fresnière. Product: Boysenberry Spread, Scottish Longbreads, Gnocchi di nonna Alice. Order: 2017-08-01. Customer: MEREP.Product: \"Boysen Berry Spread,\" \"Scottish Long Breads\""
+}

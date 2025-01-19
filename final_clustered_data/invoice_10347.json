@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10347.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10347\nCustomer ID: FAMIA\nOrder Date: 2016-11-06\nCustomer Details:\nContact Name:\nAria Cruz\nAddress:\nRua Orós, 92\nCity:\nSao Paulo\nPostal Code:\n05442-030\nCountry:\nBrazil\nPhone:\n(11) 555-9857\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n25\nNuNuCa Nuß-Nougat-Creme\n10\n11.2\n39\nChartreuse verte\n50\n14.4\n40\nBoston Crab Meat\n4\n14.7\n75\nRhönbräu Klosterbier\n6\n6.2\n \n \nTotalPrice\n928.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10347 Customer gem state: FAMIA Order Date: 2016 - 11 - 06 Customer Details: Contact Name: Aria Cruz Address: Rua Orós, 92 City: Sao Paulo Postal Code: 05442 - 030 Country: Federative republic of brazil Phone: (11) 555 - 9857 Fax: None Product Details: Ware ID Merchandise Name Quantity Unit Price 25 NuNuCa Nuß - Nougat - Creme 10 11. 2 39 Chartreuse verte 50 14. 4 40 Beantown Crab Heart and soul 4 14. 7 lxxv Rhönbräu Klosterbier 6 sixer. 2 TotalPrice 928. cipher Page 1",
+        "Invoice Order ID: 10347 Customer ID: FAMIA Order Date: 2016 - 11 - 06 Customer Details: Contact Epithet: Aria Cruz Address: Rua Orós, xcii City: Sao Paulo Postal Computer code: 05442 - 030 Nation: Brazil Phone: (11) 555 - 9857 Fax: None Product Details: Product ID Product Name Quantity Unit of measurement Price 25 NuNuCa Nuß - Nougat - Creme 10 11. 2 39 Chartreuse verte fifty 14. 4 40 Boston Crab Meat 4 14. 7 75 Rhönbräu Klosterbier 6 six. 2 TotalPrice 928. 0 Page i"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10347.Customer ID: FAMIA. Order Date: 2016-11-06. Customer: Aria Cruz. Product: Nuß-Nougat-Creme. Unit Price: 928.0. Price per kilo: $1.99."
+}

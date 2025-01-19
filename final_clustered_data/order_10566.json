@@ -1,0 +1,24 @@
+{
+    "filename": "order_10566.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10566\nShipping Details:\nShip Name: Blondel père et fils\nShip Address: 24, place Kléber\nShip City: Strasbourg\nShip Region: Western Europe\nShip Postal Code: 67000\nShip Country: France\nCustomer Details:\nCustomer ID: BLONP\nCustomer Name: Blondesddsl père et fils\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-06-12\nShipped Date: 2017-06-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 35\nUnit Price: 21.0\nTotal: 735.0\n--------------------------------------------------------------------------------------------------\nProduct: Carnarvon Tigers\nQuantity: 18\nUnit Price: 62.5\nTotal: 1125.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 10\nUnit Price: 18.0\nTotal: 180.0\nTotal Price:\nTotal Price: 2040.0\n",
+    "augmented_texts": [
+        "Order ID: 10566 Shipping Details: Ship Name: Blondel père et fils Ship Computer address: 24, place Kléber Ship City: Strasbourg Ship Region: Western Europe Ship Postal Code: 67000 Ship Country: France Customer Details: Customer ID: BLONP Customer Name: Blondesddsl père et fils Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: single Shipper Name: Speedy Express Order Details: Orderliness Date: 2017 - 06 - 12 Shipped Particular date: 2017 - 06 - xviii Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 35 Unit Price: 21. 0 Total: 735. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Tigers Quantity: 18 Unit Price: lxii. 5 Total: 1125. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 10 Social unit Price: 18. 0 Total: 180. 0 Total Price: Total Price: 2040. 0",
+        "Order ID: 10566 Shipping Detail: Ship Name: Blondel père et fils Ship Address: 24, place Kléber Ship Metropolis: Strassburg Ship Region: Western Europe Ship Postal Code: 67000 Ship Country: Jacques anatole francois thibault Customer Details: Client gem state: BLONP Client Name: Blondesddsl père et fils Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Ordination Details: Order Date: 2017 - 06 - 12 Shipped Date: 2017 - 06 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 35 Unit Price: 21. 0 Total: 735. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Tigers Quantity: 18 Unit Price: 62. 5 Total: 1125. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 10 Unit Cost: 18. 0 Total: 180. 0 Total Price: Total Price: 2040. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10566. Order Name: Blondel père et fils. Ship Address: 24, place Kléber, Strasbourg. Postal Code: 67000. Country: France. Customers: BLONP. Shippers: Speedy Express."
+}

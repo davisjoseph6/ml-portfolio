@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10482.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10482\nCustomer ID: LAZYK\nOrder Date: 2017-03-21\nCustomer Details:\nContact Name:\nJohn Steel\nAddress:\n12 Orchestra Terrace\nCity:\nWalla Walla\nPostal Code:\n99362\nCountry:\nUSA\nPhone:\n(509) 555-7969\nFax:\n(509) 555-6221\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n40\nBoston Crab Meat\n10\n14.7\n \n \nTotalPrice\n147.0\nPage 1\n",
+    "augmented_texts": [
+        "Bill Order ID: 10482 Customer ID: LAZYK Order Date: 2017 - 03 - 21 Client Details: Contact Name: Toilet Steel Address: 12 Orchestra Terrace City: Walla Walla Postal Code: 99362 Country: USA Phone: (509) 555 - 7969 Fax: (509) 555 - 6221 Product Details: Product ID Product Name Quantity Unit Price 40 Boston Crab Kernel 10 14. 7 TotalPrice 147. zero Varlet 1",
+        "Invoice Order ID: 10482 Client ID: LAZYK Order Date: 2017 - 03 - 21 Customer Inside information: Contact Name: John Steel Address: dozen Orchestra Terrace City: Walla Walla Postal Code: 99362 Country: the states Phone: (509) 555 - 7969 Fax: (509) 555 - 6221 Product Details: Product ID Merchandise Name Quantity Unit Price 40 Boston Crab Meat 10 14. vii TotalPrice 147. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: LAZYK Order ID: 10482 Order Date: 2017-03-21 Customer: John Steel Address: Olympic Terrace, Walla Wallas, WA. Phone Number: 505-555-7969 fax number:509- 555-6221. Product ID is \"Boston Crab Meat\" Unit Price is $10.10 per pound."
+}

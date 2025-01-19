@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-08_2.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-08 \n Category : Condiments  \n id category : 2  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nAniseed Syrup\n30\n13\n10\nChef Anton's Gumbo Mix\n20\n0\n21.35\nGenen Shouyu\n20\n39\n15.5\nGula Malacca\n61\n27\n19.45\nVegie-spread\n13\n24\n43.9\nOriginal Frankfurter grüne Soße\n10\n32\n13\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 08 Category: Condiments id category: 2 Product Unit of measurement Sold Unit in Stock Unit Price Anise seed Sirup 30 13 10 Chef Anton ' s Gumbo Mix 20 0 21. 35 Genen Shouyu 20 39 15. v Gula Malacca 61 27 19. forty five Vegie - spread 13 24 43. 9 Original Frankfurter grüne Soße ten 32 13",
+        "Stock Report for 2016 - 08 Category: Condiments id category: 2 Product Units Sold Units in Stock Unit Price Anise Syrup 30 13 10 Chef Anton ' s Gumbo Mix 20 0 21. 35 Genen Shouyu 20 39 15. 5 Overeating Malacca 61 27 19. 45 Vegie - spread 13 24 xliii. 9 Original Frankfurter grüne Soße ten xxxii 13"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-08. Category : Condiments. id category : 2. Units Sold: 2,000. Units in Stock: 1,400. Unit Price: $1,500. Price per Unit: £1.50. The price per unit is £2.00."
+}

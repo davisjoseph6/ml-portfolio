@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10511.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10511\nCustomer ID: BONAP\nOrder Date: 2017-04-18\nCustomer Details:\nContact Name:\nLaurence Lebihan\nAddress:\n12, rue des Bouchers\nCity:\nMarseille\nPostal Code:\n13008\nCountry:\nFrance\nPhone:\n91.24.45.40\nFax:\n91.24.45.41\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n4\nChef Anton's Cajun Seasoning\n50\n22.0\n7\nUncle Bob's Organic Dried Pears\n50\n30.0\n8\nNorthwoods Cranberry Sauce\n10\n40.0\n \n \nTotalPrice\n3000.0\nPage 1\n",
+    "augmented_texts": [
+        "Account Order ID: 10511 Customer ID: BONAP Order Date: 2017 - 04 - eighteen Customer Item: Contact Name: Laurence Lebihan Address: 12, rue des Bouchers City: Marseille Postal Code: 13008 Country: Anatole france Phone: 91. 24. 45. 40 Fax: 91. 24. 45. 41 Merchandise Detail: Product i.d. Product Name Quantity Unit of measurement Price 4 Chef Anton ' s Cajun Seasoning 50 22. 0 7 Uncle Bob ' randomness Organic Dried Pears 50 30. 0 8 Northwoods Cranberry Sauce 10 40. 0 TotalPrice 3000. 0 Page 1",
+        "Invoice Order ID: 10511 Customer ID: BONAP Order Date: 2017 - 04 - 18 Client Details: Contact Name: Laurence Lebihan Address: 12, herb of grace des Bouchers City: Marseille Postal Code: 13008 Country: France Phone: 91. twenty four. 45. 40 Fax: xci. 24. forty five. 41 Product Details: Product ID Product Name Quantity Unit Price 4 Chef Anton ' s Cajun Seasoning 50 22. 0 sevener Uncle Bob ' s Organic Dried Pears 50 thirty. 0 octet Northwoods Cranberry Sauce 10 40. zero TotalPrice 3000. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10511.Customer: Laurence Lebihan. Product: Cajun Seasoning, Uncle Bob's Organic Dried Pears, Northwoods Cranberry Sauce. Customer: BONAP. Order date: 2017-04-18.Product name: \"Chef Anton's\" Product quantity: 50. Unit price: $3000."
+}

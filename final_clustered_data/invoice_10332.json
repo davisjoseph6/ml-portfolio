@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10332.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10332\nCustomer ID: MEREP\nOrder Date: 2016-10-17\nCustomer Details:\nContact Name:\nJean Fresnière\nAddress:\n43 rue St. Laurent\nCity:\nMontréal\nPostal Code:\nH1J 1C3\nCountry:\nCanada\nPhone:\n(514) 555-8054\nFax:\n(514) 555-8055\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n18\nCarnarvon Tigers\n40\n50.0\n42\nSingaporean Hokkien Fried Mee\n10\n11.2\n47\nZaanse koeken\n16\n7.6\n \n \nTotalPrice\n2233.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order idaho: 10332 Customer idaho: MEREP Guild Date: 2016 - 10 - 17 Customer Details: Contact Name: Jean Fresnière Address: 43 rue St. Laurent Metropolis: Montréal Postal Code: H1J 1C3 Country: Canada Phone: (514) 555 - 8054 Fax: (514) 555 - 8055 Cartesian product Details: Product ID Product Name Quantity Unit Price 18 Carnarvon Tigers forty 50. 0 42 Singaporean Hokkien Fried Mee 10 11. ii 47 Zaanse koeken 16 7. 6 TotalPrice 2233. 6 Thomas nelson page 1",
+        "Invoice Order ID: 10332 Customer gem state: MEREP Parliamentary law Date: 2016 - 10 - 17 Client Details: Contact Name: Jean Fresnière Address: forty three rue St. Laurent City: Montréal Postal Code: H1J 1C3 Country: Canada Phone: (514) 555 - 8054 Facsimile: (514) 555 - 8055 Product Details: Production ID Product Name Quantity Unit Price 18 Carnarvon Tigers 40 50. 0 42 Singaporean Hokkien Fried Mee 10 11. 2 47 Zaanse koeken 16 7. 6 TotalPrice 2233. captain hicks Sir frederick handley page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10332.Customer ID: MEREP. Order Date: 2016-10-17. Customer:Jean Fresnière. Address: 43 rue St. Laurent. Postal Code: H1J 1C3. Country: Canada. Phone: (514) 555-8054."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10553.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10553\n2017-05-30\nPirkko Koskitalo\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n11\nQueso Cabrales\n15\n21\n16\nPavlova\n14\n17.45\n22\nGustaf's Knäckebröd\n24\n21\n31\nGorgonzola Telino\n30\n12.5\n35\nSteeleye Stout\n6\n18\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Gild Date Client Name 10553 2017 - 05 - 30 Pirkko Koskitalo Product Product ID: Product: Quantity: Unit Price: 11 Queso Cabrales 15 21 16 Pavlova 14 17. 45 xxii Gustaf ' s Knäckebröd 24 21 31 Gorgonzola Telino 30 xii. 5 35 Steeleye Stout 6 18 Page 1",
+        "Purchase Lodge Order ID Order Particular date Customer Name 10553 2017 - 05 - 30 Pirkko Koskitalo Products Product ID: Product: Quantity: Unit Price: 11 Queso Cabrales 15 21 16 Anna pavlova 14 17. 45 22 Gustaf ' s Knäckebröd 24 21 31 Gorgonzola Telino 30 12. 5 35 Steeleye Stout 6 18 Page ane"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders are ordered by a customer's order number. Customers can choose to pay by cash or by credit card. All orders must be paid in Swedish kronor, not euros or dollars. Order ID is: \"Gustaf's Knäckebröd\" Order Date: 2017-05-30."
+}

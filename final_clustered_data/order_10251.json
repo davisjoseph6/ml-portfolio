@@ -1,0 +1,24 @@
+{
+    "filename": "order_10251.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10251\nShipping Details:\nShip Name: Victuailles en stock\nShip Address: 2, rue du Commerce\nShip City: Lyon\nShip Region: Western Europe\nShip Postal Code: 69004\nShip Country: France\nCustomer Details:\nCustomer ID: VICTE\nCustomer Name: Victuailles en stock\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-07-08\nShipped Date: 2016-07-15\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gustaf's Knäckebröd\nQuantity: 6\nUnit Price: 16.8\nTotal: 100.80000000000001\n--------------------------------------------------------------------------------------------------\nProduct: Ravioli Angelo\nQuantity: 15\nUnit Price: 15.6\nTotal: 234.0\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper Sauce\nQuantity: 20\nUnit Price: 16.8\nTotal: 336.0\nTotal Price:\nTotal Price: 670.8\n",
+    "augmented_texts": [
+        "Order ID: 10251 Shipping Details: Ship Name: Victuailles en stock Ship Address: 2, rue du Commerce Ship City: Lyon Ship Region: Western Europe Ship Postal Code: 69004 Ship Country: France Customer Details: Client ID: VICTE Customer Name: Victuailles en stock Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 07 - 08 Shipped Date: 2016 - 07 - 15 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Gustaf ' s Knäckebröd Quantity: 6 Unit Price: 16. eight Total: 100. 80000000000001 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 15 Social unit Price: 15. 6 Total: 234. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Amount: 20 Unit Price: 16. 8 Total: 336. 0 Total Toll: Total Price: 670. 8",
+        "Order ID: 10251 Shipping Details: Ship Name: Victuailles en stock Ship Address: 2, rue du Commerce Ship Metropolis: Lyon Ship Region: Western Europe Ship Postal Code: 69004 Ship Country: France Customer Details: Customer ID: VICTE Customer Name: Victuailles en blood line Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: unity Shipper Name: Speedy Express Order Details: Order Date: 2016 - 07 - 08 Shipped Date: 2016 - 07 - 15 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gustaf ' s Knäckebröd Measure: 6 Unit Price: 16. 8 Total: 100. 80000000000001 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 15 Unit Price: 15. 6 Total: 234. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Measure: 20 Unit Price: 16. 8 Total: 336. 0 Total Price: Total Price: 670. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10251. Ship Address: 2, rue du Commerce, Lyon. Postal Code: 69004. Country: France. Customer Name: Victuailles en stock. Shipper: Speedy Express. Product: Louisiana Fiery Hot Pepper Sauce. Price: 16.8."
+}

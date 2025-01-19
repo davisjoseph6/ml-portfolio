@@ -1,0 +1,24 @@
+{
+    "filename": "order_10538.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10538\nShipping Details:\nShip Name: B-s Beverages\nShip Address: Fauntleroy Circus\nShip City: London\nShip Region: British Isles\nShip Postal Code: EC2 5NT\nShip Country: UK\nCustomer Details:\nCustomer ID: BSBEV\nCustomer Name: B's Beverages\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-05-15\nShipped Date: 2017-05-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 7\nUnit Price: 15.0\nTotal: 105.0\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 1\nUnit Price: 34.8\nTotal: 34.8\nTotal Price:\nTotal Price: 139.8\n",
+    "augmented_texts": [
+        "Order ID: 10538 Shipping Details: Ship Name: B - s Beverages Ship Address: Fauntleroy Circus Ship City: London Ship Region: British Isles Ship Postal Code: EC2 5NT Ship Country: UK Customer Details: Customer ID: BSBEV Customer Name: B ' s Beverages Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Item: Order Date: 2017 - 05 - 15 Shipped Date: 2017 - 05 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 7 Whole Price: 15. 0 Aggregate: 105. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Mozzarella di Giovanni Quantity: one Unit Price: xxxiv. 8 Total: 34. 8 Full Price: Total Price: 139. 8",
+        "Order ID: 10538 Shipping Detail: Ship Name: B - s Beverages Ship Address: Little lord fauntleroy Circus Ship City: Capital of the united kingdom Ship Region: British Isles Ship Postal Code: EC2 5NT Ship Country: UK Customer Details: Customer idaho: BSBEV Client Name: B ' s Beverages Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Detail: Order Date: 2017 - 05 - 15 Shipped Date: 2017 - 05 - xvi Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 7 Unit Price: 15. 0 Total: 105. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 1 Unit Price: 34. 8 Total: 34. eight Total Price: Total Price: 139. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10538. Order Name: B-s Beverages. Ship Address: Fauntleroy Circus. Postal Code: EC2 5NT. Country: UK. Shipper: Federal Shipping. Product: Outback Lager.Unit Price: 15.0 pounds. Unit Cost: 34.8 euros."
+}

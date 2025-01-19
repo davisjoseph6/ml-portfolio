@@ -1,0 +1,24 @@
+{
+    "filename": "order_10489.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10489\nShipping Details:\nShip Name: Piccolo und mehr\nShip Address: Geislweg 14\nShip City: Salzburg\nShip Region: Western Europe\nShip Postal Code: 5020\nShip Country: Austria\nCustomer Details:\nCustomer ID: PICCO\nCustomer Name: Piccolo und mehr\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-03-28\nShipped Date: 2017-04-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 15\nUnit Price: 16.8\nTotal: 252.0\n--------------------------------------------------------------------------------------------------\nProduct: Pavlova\nQuantity: 18\nUnit Price: 13.9\nTotal: 250.20000000000002\nTotal Price:\nTotal Price: 502.20000000000005\n",
+    "augmented_texts": [
+        "Edict ID: 10489 Ship Details: Ship Figure: Piccolo und mehr Ship Address: Geislweg 14 Ship Metropolis: Salzburg Ship Region: Western Europe Ship Postal Code: 5020 Ship Country: Austria Customer Details: Customer ID: PICCO Customer Name: Piccolo und mehr Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Guild Details: Order Date: 2017 - 03 - 28 Shipped Day of the month: 2017 - 04 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Queso Cabrales Quantity: 15 Unit Price: 16. 8 Sum: 252. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: 18 Unit Price: 13. 9 Total: 250. 20000000000002 Total Price: Total Price: 502. 20000000000005",
+        "Order ID: 10489 Shipping Details: Ship Name: Piccolo und mehr Ship Address: Geislweg 14 Ship City: Salzburg Ship Region: Western Europe Ship Postal Computer code: 5020 Ship Country: Austria Client Details: Customer ID: PICCO Customer Name: Piccolo und mehr Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Ordering Details: Order Date: 2017 - 03 - twenty eight Shipped Date: 2017 - 04 - 09 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 15 Unit Price: 16. 8 Total: 252. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: 18 Unit Price: 13. 9 Total: 250. 20000000000002 Total Price: Total Monetary value: 502. 20000000000005"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10489. Order Name: Piccolo und mehr. Ship Address: Geislweg 14. Postal Code: 5020. Country: Austria. Customers: PICCO. Shipper: United Package. Products: Pavlova, Queso Cabrales."
+}

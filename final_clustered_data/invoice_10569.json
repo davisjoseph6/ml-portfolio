@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10569.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10569\nCustomer ID: RATTC\nOrder Date: 2017-06-16\nCustomer Details:\nContact Name:\nPaula Wilson\nAddress:\n2817 Milton Dr.\nCity:\nAlbuquerque\nPostal Code:\n87110\nCountry:\nUSA\nPhone:\n(505) 555-5939\nFax:\n(505) 555-3620\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n31\nGorgonzola Telino\n35\n12.5\n76\nLakkalikööri\n30\n18.0\n \n \nTotalPrice\n977.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10569 Customer ID: RATTC Order Escort: 2017 - 06 - 16 Customer Particular: Tangency Name: Paula Wilson Address: 2817 Milton Dr. City: Albuquerque Postal Code: 87110 Country: USA Phone: (505) 555 - 5939 Fax: (505) 555 - 3620 Product Details: Product ID Product Name Quantity Unit Cost thirty one Gorgonzola Telino xxxv 12. 5 76 Lakkalikööri thirty 18. 0 TotalPrice 977. 5 Page 1",
+        "Invoice Order ID: 10569 Customer ID: RATTC Order Date: 2017 - 06 - 16 Customer Point: Contact Name: Paula Mount wilson Address: 2817 Milton Dr. City: Albuquerque Postal Code: 87110 Country: USA Earphone: (505) 555 - 5939 Fax: (505) 555 - 3620 Product Details: Product ID Product Epithet Quantity Unit Price 31 Gorgonzola Telino 35 12. 5 76 Lakkalikööri 30 eighteen. 0 TotalPrice 977. 5 Thomas nelson page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: RATTC. Order Date: 2017-06-16.Customer Details:                                         Paula Wilson. Address:           2817 Milton Dr. Albuquerque, New Mexico. Phone Number: (505) 555-5939."
+}

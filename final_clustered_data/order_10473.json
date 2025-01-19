@@ -1,0 +1,24 @@
+{
+    "filename": "order_10473.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10473\nShipping Details:\nShip Name: Island Trading\nShip Address: Garden House Crowther Way\nShip City: Cowes\nShip Region: British Isles\nShip Postal Code: PO31 7PJ\nShip Country: UK\nCustomer Details:\nCustomer ID: ISLAT\nCustomer Name: Island Trading\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-03-13\nShipped Date: 2017-03-21\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 12\nUnit Price: 2.0\nTotal: 24.0\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 12\nUnit Price: 17.2\nTotal: 206.39999999999998\nTotal Price:\nTotal Price: 230.39999999999998\n",
+    "augmented_texts": [
+        "Order ID: 10473 Shipping Details: Ship Name: Island Trading Ship Name and address: Garden House Crowther Way Ship City: Cowes Ship Region: British Isles Ship Postal Code: PO31 7PJ Ship Country: UK Customer Details: Customer i.d.: ISLAT Customer Name: Island Trading Employee Details: Employee Name: Nancy Davolio Shipper Detail: Shipper gem state: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 03 - 13 Shipped Date: 2017 - 03 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 12 Unit Price: 2. 0 Total: 24. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: dozen Unit Price: 17. 2 Total: 206. 39999999999998 Entire Price: Total Price: 230. 39999999999998",
+        "Order ID: 10473 Shipping Item: Ship Name: Island Trading Ship Address: Garden House Crowther Way Ship City: Cowes Ship Region: British Isles Ship Postal Code: PO31 7PJ Ship Country: UK Customer Details: Customer ID: ISLAT Customer Name: Island Trading Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 03 - 13 Shipped Date: 2017 - 03 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 12 Unit Price: 2. 0 Amount: xxiv. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 12 Unit Price: 17. 2 Total: 206. 39999999999998 Total Price: Total Price: 230. 39999999999998"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10473. Ship Address: Garden House Crowther Way, Cowes. Postal Code: PO31 7PJ. Country: UK. Customer: Island Trading. Shipper: Federal Shipping. Product: Flotemysost. Unit Price: 2.0."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-10_6.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-10 \n Category : Meat/Poultry  \n id category : 6  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nAlice Mutton\n98\n0\n39\nTourtière\n15\n21\n7.45\nPâté chinois\n40\n115\n24\n",
+    "augmented_texts": [
+        "Gillyflower Report for 2016 - 10 Category: Meat / Poultry id family: 6 Product Units Sold Units in Stock Unit Price Alice Mutton 98 0 39 Tourtière 15 21 seven. 45 Pâté chinois 40 115 24",
+        "Stock Report for 2016 - 10 Category: Meat / Poultry id category: 6 Product Units Sold Units in Stock Unit Price Alice Mouton 98 0 39 Tourtière 15 21 7. forty five Pâté chinois 40 115 24"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-10. Category : Meat/Poultry. id category : 6                  Product.                Units Sold.   Units in Stock                Unit Price                Alice Mutton                98                0.39                Tourtière                15                21                7.45                Pâté chinois                40                115                24."
+}

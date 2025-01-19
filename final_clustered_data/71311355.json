@@ -1,0 +1,12 @@
+{
+    "filename": "71311355.jpg",
+    "metadata": {},
+    "text": "‘SURGEON GENERAL'S WARNING: Cigarette\nSmoke Contains Carbon Monoxide.\n\n \n\f",
+    "augmented_texts": [
+        "‘ sawbones GENERAL ' S WARNING: Cigarette Weed Contains Carbon Monoxide.",
+        "‘ SURGEON GENERAL ' Second WARNING: Cigarette Hummer Contains Carbon Monoxide."
+    ],
+    "predicted_cluster": 1,
+    "predicted_label": "cluster_1",
+    "summary": "‘SURGEON GENERAL'S WARNING: CigaretteSmoke Contains Carbon Monoxide.’ ‘Cigarette Smokes contain carbon monoxide, a gas that can kill people in their sleep, and can also cause heart attacks and strokes. Cigarettes are not safe to smoke."
+}

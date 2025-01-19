@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10301.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10301\n2016-09-09\nRita Müller\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n40\nBoston Crab Meat\n10\n14.7\n56\nGnocchi di nonna Alice\n20\n30.4\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10301 2016 - 09 - 09 Rita Müller Products Product ID: Product: Quantity: Unit Price: 40 Bean town Cancer Meat 10 fourteen. 7 56 Gnocchi di nonna Alice 20 30. 4 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10301 2016 - 09 - 09 Rita Müller Products Ware ID: Product: Quantity: Unit Price: 40 Boston Crab louse Meat ten 14. 7 56 Gnocchi di nonna Alice 20 30. 4 Page i"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than one product. The Boston Crab Meat is sold by Rita Müller at a price of $10.10 per kilogram. For more information, visit BostonCrabMeat.com or go to www.bostoncrabmeat.co.uk."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10336.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10336\nShipping Details:\nShip Name: Princesa Isabel Vinhos\nShip Address: Estrada da saúde n. 58\nShip City: Lisboa\nShip Region: Southern Europe\nShip Postal Code: 1756\nShip Country: Portugal\nCustomer Details:\nCustomer ID: PRINI\nCustomer Name: Princesa Isabel Vinhos\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-10-23\nShipped Date: 2016-10-25\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chef Anton's Cajun Seasoning\nQuantity: 18\nUnit Price: 17.6\nTotal: 316.8\nTotal Price:\nTotal Price: 316.8\n",
+    "augmented_texts": [
+        "Ordering ID: 10336 Shipping Details: Ship Name: Princesa Isabel Vinhos Ship Address: Estrada da saúde n. 58 Ship City: Lisboa Ship Region: Southern Europe Ship Postal Code: 1756 Ship Country: Portugal Client Details: Customer ID: PRINI Client Name: Princesa Isabel Vinhos Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 10 - 23 Shipped Date: 2016 - 10 - 25 Ware: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Flavoring Quantity: 18 Unit Price: 17. 6 Sum: 316. 8 Total Price: Total Price: 316. 8",
+        "Order ID: 10336 Embark Details: Ship Name: Princesa Isabel Vinhos Ship Savoir faire: Estrada da saúde n. 58 Ship City: Lisboa Ship Region: Southern Europe Ship Postal Code: 1756 Ship Country: Portuguese republic Customer Details: Customer ID: PRINI Customer Name: Princesa Isabel Vinhos Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Inside information: Order Date: 2016 - 10 - 23 Shipped Date: 2016 - 10 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Chef Anton ' s Cajun Seasoning Quantity: 18 Unit Price: 17. 6 Sum: 316. 8 Total Price: Total Price: 316. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10336. Ship address: Estrada da saúde n. 58, Lisboa, Portugal. Postal Code: 1756. Customers: PRINI. Shipper: United Package. Product: Chef Anton's Cajun Seasoning.Unit Price: 18.6 pounds. Unit price per pound: 316.8 euros. Order date: 2016-10-23."
+}

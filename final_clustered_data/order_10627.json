@@ -1,0 +1,24 @@
+{
+    "filename": "order_10627.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10627\nShipping Details:\nShip Name: Save-a-lot Markets\nShip Address: 187 Suffolk Ln.\nShip City: Boise\nShip Region: North America\nShip Postal Code: 83720\nShip Country: USA\nCustomer Details:\nCustomer ID: SAVEA\nCustomer Name: Save-a-lot Markets\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-08-11\nShipped Date: 2017-08-21\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 15\nUnit Price: 49.3\nTotal: 739.5\n--------------------------------------------------------------------------------------------------\nProduct: Röd Kaviar\nQuantity: 35\nUnit Price: 15.0\nTotal: 525.0\nTotal Price:\nTotal Price: 1264.5\n",
+    "augmented_texts": [
+        "Order ID: 10627 Shipping Details: Ship Name: Save - a - lot Markets Ship Address: 187 Suffolk Ln. Ship City: Boise Ship Region: North America Ship Postal Code: 83720 Ship Country: USA Client Details: Customer ID: SAVEA Customer Name: Save - a - lot Markets Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper gem state: trey Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 08 - 11 Shipped Particular date: 2017 - 08 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: fifteen Unit Price: 49. 3 Total: 739. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Röd Kaviar Quantity: 35 Unit Price: 15. 0 Total: 525. 0 Total Price: Total Price: 1264. 5",
+        "Order i.d.: 10627 Shipping Details: Ship Name: Save - a - lot Markets Ship Address: 187 Suffolk Ln. Ship City: Boise Ship Region: North America Ship Postal Code: 83720 Ship Country: USA Customer Details: Customer ID: SAVEA Customer Name: Save - a - lot Markets Employee Item: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Figure: Federal Shipping Order Details: Parliamentary procedure Date: 2017 - 08 - 11 Shipped Particular date: 2017 - 08 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 15 Unit Price: 49. 3 Total: 739. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Röd Kaviar Quantity: 35 Unit Price: 15. 0 Total: 525. 0 Total Price: Total Price: 1264. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Ship Name: Save-a-lot Markets.Ship Address: 187 Suffolk Ln. in Boise, Idaho. Ship Postal Code: 83720 20th Ave. U.S. A. Customers: SAVEA. Shippers: Federal Shipping. Products: Tarte au sucre, Röd Kaviar."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10415.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10415\nShipping Details:\nShip Name: Hungry Coyote Import Store\nShip Address: City Center Plaza 516 Main St.\nShip City: Elgin\nShip Region: North America\nShip Postal Code: 97827\nShip Country: USA\nCustomer Details:\nCustomer ID: HUNGC\nCustomer Name: Hungry Coyote Import Store\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-01-15\nShipped Date: 2017-01-24\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Alice Mutton\nQuantity: 2\nUnit Price: 31.2\nTotal: 62.4\n--------------------------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 20\nUnit Price: 2.0\nTotal: 40.0\nTotal Price:\nTotal Price: 102.4\n",
+    "augmented_texts": [
+        "Order ID: 10415 Shipping Details: Ship Figure: Hungry Coyote Import Store Ship Computer address: Metropolis Center Plaza 516 Main St. Ship City: Elgin Ship Region: Second earl of guilford America Ship Postal Codification: 97827 Ship Country: USA Customer Details: Client ID: HUNGC Customer Name: Hungry Coyote Import Store Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 01 - 15 Shipped Date: 2017 - 01 - 24 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 2 Unit Price: 31. 2 Total: 62. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 20 Unit Price: 2. 0 Aggregate: 40. 0 Total Price: Total Price: 102. 4",
+        "Order ID: 10415 Shipping Detail: Ship Name: Hungry Coyote Significance Store Ship Name and address: City Center Plaza 516 Main St. Ship Urban center: Elgin Ship Region: North America Ship Postal Code: 97827 Ship Country: USA Customer Details: Customer ID: HUNGC Customer Name: Hungry Coyote Import Store Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Parliamentary law Date: 2017 - 01 - 15 Shipped Date: 2017 - 01 - 24 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 2 Unit Price: 31. 2 Total: sixty two. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 20 Unit Price: 2. 0 Total: 40. 0 Total Monetary value: Total Price: 102. 4"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Ship Name: Hungry Coyote Import Store. Ship Address: City Center Plaza 516 Main St. in Elgin, Canada.Ship Postal Code: 97827. Customer ID: HUNGC. Shipper: Speedy Express. Order Date: 2017-01-15."
+}

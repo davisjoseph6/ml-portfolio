@@ -1,0 +1,24 @@
+{
+    "filename": "order_10256.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10256\nShipping Details:\nShip Name: Wellington Importadora\nShip Address: Rua do Mercado, 12\nShip City: Resende\nShip Region: South America\nShip Postal Code: 08737-363\nShip Country: Brazil\nCustomer Details:\nCustomer ID: WELLI\nCustomer Name: Wellington Importadora\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-07-15\nShipped Date: 2016-07-17\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Perth Pasties\nQuantity: 15\nUnit Price: 26.2\nTotal: 393.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 12\nUnit Price: 10.4\nTotal: 124.80000000000001\nTotal Price:\nTotal Price: 517.8\n",
+    "augmented_texts": [
+        "Order ID: 10256 Shipping Details: Ship Name: Wellington Importadora Ship Address: Rua do Mercado, 12 Ship City: Resende Ship Region: South America Ship Postal Computer code: 08737 - 363 Ship Country: Brazil Customer Details: Customer ID: WELLI Customer Name: Wellington Importadora Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 07 - 15 Shipped Date: 2016 - 07 - 17 Mathematical product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 15 Unit of measurement Price: 26. 2 Total: 393. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 12 Unit Price: 10. 4 Total: 124. 80000000000001 Total Price: Total Price: 517. ogdoad",
+        "Order ID: 10256 Shipping Details: Ship Name: Wellington Importadora Ship Address: Rua make Mercado, 12 Ship City: Resende Ship Region: South Usa Ship Postal Code: 08737 - 363 Ship Country: Brazil Client Details: Client ID: WELLI Customer Name: Wellington Importadora Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 07 - 15 Shipped Date: 2016 - 07 - 17 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 15 Unit Price: 26. 2 Total: 393. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 12 Unit Toll: decade. 4 Total: 124. 80000000000001 Total Price: Total Price: 517. viii"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10256. Order Name: Wellington Importadora. Ship Address: Rua do Mercado, 12. City: Resende. Region: South America. Postal Code: 08737-363Ship Country: Brazil. Customer ID is WELLI."
+}

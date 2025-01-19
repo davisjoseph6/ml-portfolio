@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10575.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10575\nCustomer ID: MORGK\nOrder Date: 2017-06-20\nCustomer Details:\nContact Name:\nAlexander Feuer\nAddress:\nHeerstr. 22\nCity:\nLeipzig\nPostal Code:\n04179\nCountry:\nGermany\nPhone:\n0342-023176\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n59\nRaclette Courdavault\n12\n55.0\n63\nVegie-spread\n6\n43.9\n72\nMozzarella di Giovanni\n30\n34.8\n76\nLakkalikööri\n10\n18.0\n \n \nTotalPrice\n2147.4\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order i.d.: 10575 Customer ID: MORGK Holy order Engagement: 2017 - 06 - 20 Customer Details: Contact Name: Smyrnium olusatrum Feuer Address: Heerstr. 22 City: Leipzig Postal Code: 04179 Country: Germany Phone: 0342 - 023176 Fax: None Product Inside information: Product ID Product Name Quantity Unit Price ilx Raclette Courdavault 12 55. 0 63 Vegie - spread 6 43. 9 72 Mozzarella di Giovanni 30 34. 8 76 Lakkalikööri 10 18. 0 TotalPrice 2147. 4 Page 1",
+        "Invoice Order ID: 10575 Customer ID: MORGK Order Date: 2017 - 06 - 20 Client Detail: Contact Name: Alexander Feuer Address: Heerstr. 22 City: Leipzig Postal Code: 04179 Commonwealth: Germany Phone: 0342 - 023176 Fax: None Product Details: Product ID Product Name Quantity Unit Price 59 Raclette Courdavault 12 55. 0 63 Vegie - spread 6 xliii. 9 72 Mozzarella di Giovanni 30 34. eight 76 Lakkalikööri ten 18. 0 TotalPrice 2147. 4 Pageboy 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: MORGK. Invoice ID: 10575. Customer ID is: \"Alexander Feuer\" Order Date: 2017-06-20.Customer Details:              \"Alexander Feuer\" Product Name is \"Raclette Courdavault\" Product Price is $2147.4."
+}

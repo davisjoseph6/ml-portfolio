@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10606.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10606\nCustomer ID: TRADH\nOrder Date: 2017-07-22\nCustomer Details:\nContact Name:\nAnabela Domingues\nAddress:\nAv. Inês de Castro, 414\nCity:\nSao Paulo\nPostal Code:\n05634-030\nCountry:\nBrazil\nPhone:\n(11) 555-2167\nFax:\n(11) 555-2168\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n4\nChef Anton's Cajun Seasoning\n20\n22.0\n55\nPâté chinois\n20\n24.0\n62\nTarte au sucre\n10\n49.3\n \n \nTotalPrice\n1413.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order of magnitude gem state: 10606 Customer ID: TRADH Order Engagement: 2017 - 07 - 22 Customer Details: Contact Name: Anabela Domingues Address: Av. Inês de Castro, 414 City: Sao Paulo Postal Code: 05634 - 030 Country: Brazil Phone: (xi) 555 - 2167 Fax: (11) 555 - 2168 Product Details: Product ID Ware Name Quantity Unit Price 4 Chef Anton ' s Cajun Seasoning 20 twenty two. 0 55 Pâté chinois 20 24. nought 62 Tarte au sucre 10 49. 3 TotalPrice 1413. 0 Page 1",
+        "Invoice Order ID: 10606 Customer ID: TRADH Order Date: 2017 - 07 - 22 Customer Details: Contact Name: Anabela Domingues Address: Av. Inês de Castro, 414 Metropolis: Sao Paulo Postal Codification: 05634 - 030 Country: Brazil Phone: (11) 555 - 2167 Fax: (11) 555 - 2168 Product Details: Product ID Product Name Quantity Unit Price 4 Chef Anton ' entropy Cajun Seasoning 20 22. 0 lv Pâté chinois 20 24. 0 62 Tarte au sucre 10 49. 3 TotalPrice 1413. zero Page ane"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: 10606.Customer ID: TRADH. Order Date: 2017-07-22. Customer Details:           Anabela Domingues. Address: 414 Av. Inês de Castro, 414, Sao Paulo, Brazil. Postal Code: 515.05634-030."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10614.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10614\nCustomer ID: BLAUS\nOrder Date: 2017-07-29\nCustomer Details:\nContact Name:\nHanna Moos\nAddress:\nForsterstr. 57\nCity:\nMannheim\nPostal Code:\n68306\nCountry:\nGermany\nPhone:\n0621-08460\nFax:\n0621-08924\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n11\nQueso Cabrales\n14\n21.0\n21\nSir Rodney's Scones\n8\n10.0\n39\nChartreuse verte\n5\n18.0\n \n \nTotalPrice\n464.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order i.d.: 10614 Customer ID: BLAUS Decree Date: 2017 - 07 - 29 Customer Detail: Contact Name: Hanna Moo Address: Forsterstr. 57 City: Mannheim Postal Code: 68306 Country: Germany Phone: 0621 - 08460 Fax: 0621 - 08924 Product Details: Product ID Production Name Quantity Unit Price 11 Queso Cabrales 14 21. 0 21 Sir Rodney ' s Scones 8 10. 0 ixl Chartreuse verte 5 18. 0 TotalPrice 464. 0 Page 1",
+        "Account Order ID: 10614 Customer ID: BLAUS Rules of order Date: 2017 - 07 - 29 Customer Details: Contact Name: Hanna Moos Address: Forsterstr. 57 City: Mannheim Postal Code: 68306 Country: Germany Sound: 0621 - 08460 Facsimile: 0621 - 08924 Product Details: Product ID Merchandise Name Quantity Unit Price 11 Queso Cabrales 14 21. 0 21 Sir Rodney ' s Scones 8 10. 0 39 Chartreuse verte 5 18. cypher TotalPrice 464. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10614.Customer ID: BLAUS. Order Date: 2017-07-29. Customers: Hanna Moos. Product: Sir Rodney's Scones. Price: $464.0. Customer Name: \"Hanna Moo\" Customer Address:  Forsterstr. 57, Mannheim, Germany."
+}

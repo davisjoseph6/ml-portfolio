@@ -1,0 +1,24 @@
+{
+    "filename": "order_10276.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10276\nShipping Details:\nShip Name: Tortuga Restaurante\nShip Address: Avda. Azteca 123\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5033\nShip Country: Mexico\nCustomer Details:\nCustomer ID: TORTU\nCustomer Name: Tortuga Restaurante\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-08-08\nShipped Date: 2016-08-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Ikura\nQuantity: 15\nUnit Price: 24.8\nTotal: 372.0\n--------------------------------------------------------------------------------------------------\nProduct: Konbu\nQuantity: 10\nUnit Price: 4.8\nTotal: 48.0\nTotal Price:\nTotal Price: 420.0\n",
+    "augmented_texts": [
+        "Order ID: 10276 Shipping Details: Ship Name: Tortuga Restaurante Ship Address: Avda. Azteca 123 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5033 Ship Country: Mexico Customer Details: Client ID: TORTU Customer Name: Tortuga Restaurante Employee Details: Employee Name: Laura Callahan Shipper Particular: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Parliamentary law Escort: 2016 - 08 - 08 Shipped Date: 2016 - 08 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: 15 Unit Price: 24. 8 Total: 372. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 10 Unit Price: 4. 8 Total: 48. 0 Total Price: Total Price: 420. 0",
+        "Order idaho: 10276 Shipping Details: Ship Name: Tortuga Restaurante Ship Address: Avda. Azteca 123 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5033 Ship Country: United mexican states Customer Details: Client ID: TORTU Customer Name: Tortuga Restaurante Employee Details: Employee Name: Laura Callahan Shipper Detail: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 08 - 08 Shipped Date: 2016 - 08 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: 15 Unit Price: 24. 8 Total: 372. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Konbu Quantity: 10 Unit Price: 4. 8 Total: 48. 0 Total Price: Total Price: 420. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10276. Order Name: Tortuga Restaurante. Ship Address: Avda. Azteca 123. Postal Code: 5033. Country: México D.F. G. F.Ship Region: Central America. Customers: TORTU. Shipper: Federal Shipping."
+}

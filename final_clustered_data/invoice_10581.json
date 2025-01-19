@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10581.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10581\nCustomer ID: FAMIA\nOrder Date: 2017-06-26\nCustomer Details:\nContact Name:\nAria Cruz\nAddress:\nRua Orós, 92\nCity:\nSao Paulo\nPostal Code:\n05442-030\nCountry:\nBrazil\nPhone:\n(11) 555-9857\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n75\nRhönbräu Klosterbier\n50\n7.75\n \n \nTotalPrice\n387.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10581 Customer i.d.: FAMIA Order Engagement: 2017 - 06 - 26 Customer Inside information: Contact Gens: Aria Cruz Address: Rua Orós, 92 City: Sao Paulo Postal Code: 05442 - 030 State: Brazil Phone: (xi) 555 - 9857 Fax: None Product Details: Product ID Merchandise Name Quantity Unit Price 75 Rhönbräu Klosterbier 50 7. 75 TotalPrice 387. 5 Varlet 1",
+        "Bill Order ID: 10581 Client ID: FAMIA Order Date: 2017 - 06 - 26 Customer Details: Contact Gens: Aria Cruz Address: Rua Orós, 92 City: Sao Paulo Postal Code: 05442 - 030 Country: Brazil Phone: (11) 555 - 9857 Fax: None Product Details: Product ID Merchandise Name Quantity Unit Price 75 Rhönbräu Klosterbier 50 7. 75 TotalPrice 387. 5 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10581.Customer ID: FAMIA. Order Date: 2017-06-26. Customer Name:Aria Cruz. Address: Rua Orós. Postal Code: 5442-030. Country: Brazil. Phone:(11) 555-9857.Fax:None. Product: Rhönbräu Klosterbier. Unit Price:387.5."
+}

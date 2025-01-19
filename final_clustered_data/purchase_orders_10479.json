@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10479.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10479\n2017-03-19\nPaula Wilson\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n38\nCôte de Blaye\n30\n210.8\n53\nPerth Pasties\n28\n26.2\n59\nRaclette Courdavault\n60\n44\n64\nWimmers gute Semmelknödel\n30\n26.6\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Put ID Order Date Customer Name 10479 2017 - 03 - 19 Paula Wilson Products Product ID: Product: Quantity: Unit Price: 38 Côte de Blaye 30 210. 8 53 Perth Pasties 28 26. 2 59 Raclette Courdavault 60 44 64 Wimmers gute Semmelknödel 30 26. sestet Varlet 1",
+        "Purchase Orders Order i.d. Order Date Customer Name 10479 2017 - 03 - 19 Paula Wilson Cartesian product Product ID: Production: Quantity: Unit Price: 38 Côte de Blaye 30 210. 8 53 Perth Pasties 28 26. 2 59 Raclette Courdavault threescore 44 64 Wimmers gute Semmelknödel 30 26. 6 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: Côte de Blaye, Perth Pasties, Wimmers gute Semmelknödel, and Wimmer's Pastries. All products are sold in a single batch of 10,000 units. Customers can choose to pay by cash or by credit card."
+}

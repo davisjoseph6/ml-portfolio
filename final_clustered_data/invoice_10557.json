@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10557.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10557\nCustomer ID: LEHMS\nOrder Date: 2017-06-03\nCustomer Details:\nContact Name:\nRenate Messner\nAddress:\nMagazinweg 7\nCity:\nFrankfurt a.M.\nPostal Code:\n60528\nCountry:\nGermany\nPhone:\n069-0245984\nFax:\n069-0245874\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n64\nWimmers gute Semmelknödel\n30\n33.25\n75\nRhönbräu Klosterbier\n20\n7.75\n \n \nTotalPrice\n1152.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10557 Customer ID: LEHMS Order Date: 2017 - 06 - 03 Customer Details: Contact Name: Renate Messner Address: Magazinweg 7 City: Frankfurt a. Chiliad. Postal Code: 60528 Land: Germany Phone: 069 - 0245984 Fax: 069 - 0245874 Ware Details: Product ID Product Name Quantity Unit Price 64 Wimmers gute Semmelknödel 30 33. 25 75 Rhönbräu Klosterbier 20 7. 75 TotalPrice 1152. 5 Page 1",
+        "Invoice Order ID: 10557 Client ID: LEHMS Order Date: 2017 - 06 - 03 Client Details: Contact Name: Renate Messner Address: Magazinweg 7 City: Frankfort a. M. Postal Code: 60528 Country: Germany Phone: 069 - 0245984 Fax: 069 - 0245874 Merchandise Details: Product ID Product Name Quantity Unit Price 64 Wimmers gute Semmelknödel 30 33. 25 75 Rhönbräu Klosterbier 20 7. 75 TotalPrice 1152. 5 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10557.Customer ID: LEHMS. Order Date: 2017-06-03. Customer Details:         Renate Messner. Address:    Magazinweg 7, Frankfurt a.M., Germany. Postal Code:                           60528. Country:  Germany. Phone:               069-0245984.Fax:      0245874. Product Name:                                                “Wimmers gute Semmelknödel”."
+}

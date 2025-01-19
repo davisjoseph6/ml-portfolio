@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10470.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10470\nCustomer ID: BONAP\nOrder Date: 2017-03-11\nCustomer Details:\nContact Name:\nLaurence Lebihan\nAddress:\n12, rue des Bouchers\nCity:\nMarseille\nPostal Code:\n13008\nCountry:\nFrance\nPhone:\n91.24.45.40\nFax:\n91.24.45.41\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n18\nCarnarvon Tigers\n30\n50.0\n23\nTunnbröd\n15\n7.2\n64\nWimmers gute Semmelknödel\n8\n26.6\n \n \nTotalPrice\n1820.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10470 Customer ID: BONAP Order Date: 2017 - 03 - xi Customer Details: Contact Name: Laurence Lebihan Reference: 12, rue des Bouchers City: Marseilles Postal Code: 13008 Country: France Phone: 91. 24. 45. 40 Fax: 91. xxiv. 45. forty one Product Details: Product ID Product Name Measure Unit Price 18 Carnarvon Tigers 30 l. cipher 23 Tunnbröd 15 7. 2 64 Wimmers gute Semmelknödel 8 26. 6 TotalPrice 1820. viii Page 1",
+        "Invoice Order ID: 10470 Customer ID: BONAP Order Date: 2017 - 03 - 11 Customer Details: Contact Name: Laurence Lebihan Address: dozen, ruta graveolens des Bouchers City: Marseilles Postal Code: 13008 Country: France Telephone set: 91. 24. 45. xl Facsimile: 91. 24. 45. 41 Product Details: Product ID Product Gens Quantity Unit Price 18 Carnarvon Tigers 30 50. cipher 23 Tunnbröd 15 7. 2 64 Wimmers gute Semmelknödel 8 26. 6 TotalPrice 1820. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: BONAP. Order Date: 2017-03-11. Customer: Laurence Lebihan. Address: rue des Bouchers, Marseille. Postal Code: 13008. Country: France. Price: 1820.8 euros."
+}

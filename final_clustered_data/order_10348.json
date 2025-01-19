@@ -1,0 +1,24 @@
+{
+    "filename": "order_10348.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10348\nShipping Details:\nShip Name: Die Wandernde Kuh\nShip Address: Adenauerallee 900\nShip City: Stuttgart\nShip Region: Western Europe\nShip Postal Code: 70563\nShip Country: Germany\nCustomer Details:\nCustomer ID: WANDK\nCustomer Name: Die Wandernde Kuh\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-11-07\nShipped Date: 2016-11-15\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 15\nUnit Price: 14.4\nTotal: 216.0\n--------------------------------------------------------------------------------------------------\nProduct: Tunnbröd\nQuantity: 25\nUnit Price: 7.2\nTotal: 180.0\nTotal Price:\nTotal Price: 396.0\n",
+    "augmented_texts": [
+        "Order ID: 10348 Shipping Details: Ship Name: Die Wandernde Kuh Ship Address: Adenauerallee 900 Ship City: Stuttgart Ship Region: Westerly Europe Ship Postal Code: 70563 Ship Country: Germany Customer Details: Customer i.d.: WANDK Client Figure: Die Wandernde Kuh Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 11 - 07 Shipped Date: 2016 - 11 - 15 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 15 Unit Price: 14. 4 Total: 216. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tunnbröd Quantity: twenty five Unit of measurement Price: 7. 2 Total: 180. 0 Total Price: Total Price: 396. 0",
+        "Order ID: 10348 Shipping Details: Ship Name: Dice Wandernde Kuh Ship Address: Adenauerallee 900 Ship City: Stuttgart Ship Part: Western Europe Ship Postal Code: 70563 Ship Country: Germany Customer Details: Client ID: WANDK Customer Name: Die Wandernde Kuh Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 11 - 07 Shipped Date: 2016 - 11 - 15 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Amount: 15 Unit Cost: 14. 4 Total: 216. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tunnbröd Quantity: 25 Unit Price: 7. 2 Total: 180. 0 Total Price: Full Price: 396. zero"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10348. Ship Address: Adenauerallee 900. Postal Code: 70563. Customer Name: Die Wandernde Kuh. Employee: Margaret Peacock. Shipper: United Package. Product: Tunnbröd. Price: $ 396.0."
+}

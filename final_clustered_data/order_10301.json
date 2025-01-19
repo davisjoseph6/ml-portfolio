@@ -1,0 +1,24 @@
+{
+    "filename": "order_10301.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10301\nShipping Details:\nShip Name: Die Wandernde Kuh\nShip Address: Adenauerallee 900\nShip City: Stuttgart\nShip Region: Western Europe\nShip Postal Code: 70563\nShip Country: Germany\nCustomer Details:\nCustomer ID: WANDK\nCustomer Name: Die Wandernde Kuh\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-09-09\nShipped Date: 2016-09-17\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Boston Crab Meat\nQuantity: 10\nUnit Price: 14.7\nTotal: 147.0\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 20\nUnit Price: 30.4\nTotal: 608.0\nTotal Price:\nTotal Price: 755.0\n",
+    "augmented_texts": [
+        "Order ID: 10301 Shipping Details: Ship Name: Die Wandernde Kuh Ship Address: Adenauerallee 900 Ship City: Stuttgart Ship Region: Western Europe Ship Postal Code: 70563 Ship Land: Germany Customer Details: Customer ID: WANDK Customer Name: Die Wandernde Kuh Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Ordering Detail: Order Date: 2016 - 09 - 09 Shipped Date: 2016 - 09 - 17 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Quantity: 10 Building block Price: 14. 7 Total: 147. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 20 Unit Price: 30. 4 Total: 608. 0 Total Price: Total Price: 755. 0",
+        "Order ID: 10301 Shipping Details: Ship Epithet: Dice Wandernde Kuh Ship Address: Adenauerallee 900 Ship City: Stuttgart Ship Region: Western Europe Ship Postal Code: 70563 Ship Country: Germany Customer Details: Customer ID: WANDK Customer Name: Die Wandernde Kuh Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 09 Shipped Escort: 2016 - 09 - 17 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Quantity: 10 Unit Price: 14. 7 Total: 147. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 20 Unit Price: 30. 4 Total: 608. zero Total Price: Total Price: 755. zero"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10301. Ship Address: Adenauerallee 900. Postal Code: 70563. Country: Germany. Shipper: Die Wandernde Kuh. Product: Gnocchi di nonna Alice. Unit Price: 30.4 euros."
+}

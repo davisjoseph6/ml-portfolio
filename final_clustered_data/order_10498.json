@@ -1,0 +1,24 @@
+{
+    "filename": "order_10498.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10498\nShipping Details:\nShip Name: HILARION-Abastos\nShip Address: Carrera 22 con Ave. Carlos Soublette #8-35\nShip City: San Cristóbal\nShip Region: South America\nShip Postal Code: 5022\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: HILAA\nCustomer Name: HILARION-Abastos\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-04-07\nShipped Date: 2017-04-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 14\nUnit Price: 4.5\nTotal: 63.0\n--------------------------------------------------------------------------------------------------\nProduct: Boston Crab Meat\nQuantity: 5\nUnit Price: 18.4\nTotal: 92.0\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 30\nUnit Price: 14.0\nTotal: 420.0\nTotal Price:\nTotal Price: 575.0\n",
+    "augmented_texts": [
+        "Order ID: 10498 Shipping Detail: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: South U.s. Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Ordering Date: 2017 - 04 - 07 Shipped Date: 2017 - 04 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 14 Unit Price: 4. 5 Total: 63. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Quantity: v Unit Price: xviii. four Total: xcii. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 30 Unit Price: 14. 0 Total: 420. 0 Total Cost: Total Price: 575. 0",
+        "Order ID: 10498 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Client ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 04 - 07 Shipped Date: 2017 - 04 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 14 Unit Price: 4. 5 Total: 63. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Quantity: 5 Unit Price: eighteen. 4 Total: 92. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 30 Unit Price: 14. zero Total: 420. 0 Entire Price: Total Price: 575. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10498. Ship Address: Carrera 22 con Ave. Carlos Soublette #8-35, San Cristóbal. Postal Code: 5022. Country: Venezuela. Customer: HILARION-Abastos. Employee: Laura Callahan. Shipper: United Package."
+}

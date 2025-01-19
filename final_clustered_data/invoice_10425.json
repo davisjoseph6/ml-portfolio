@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10425.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10425\nCustomer ID: LAMAI\nOrder Date: 2017-01-24\nCustomer Details:\nContact Name:\nAnnette Roulet\nAddress:\n1 rue Alsace-Lorraine\nCity:\nToulouse\nPostal Code:\n31000\nCountry:\nFrance\nPhone:\n61.77.61.10\nFax:\n61.77.61.11\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n55\nPâté chinois\n10\n19.2\n76\nLakkalikööri\n20\n14.4\n \n \nTotalPrice\n480.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10425 Customer gem state: LAMAI Order Date: 2017 - 01 - 24 Customer Detail: Contact Name: Annette Roulet Address: 1 rue Alsace - Lorraine City: Toulouse Postal Code: 31000 Country: France Phone: 61. 77. 61. 10 Fax: 61. 77. 61. 11 Production Details: Product ID Production Name Quantity Building block Price 55 Pâté chinois decade nineteen. 2 76 Lakkalikööri 20 14. 4 TotalPrice 480. 0 Thomas nelson page 1",
+        "Invoice Society ID: 10425 Customer ID: LAMAI Order Date: 2017 - 01 - 24 Client Details: Contact Name: Annette Roulet Address: ace rue Alsace - Lorraine City: Toulouse Postal Computer code: 31000 Country: France Phone: 61. 77. 61. 10 Fax: 61. lxxvii. 61. xi Product Details: Product ID Product Name Quantity Unit Price 55 Pâté chinois 10 19. ii 76 Lakkalikööri 20 14. 4 TotalPrice 480. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice. Name: LAMAI. Order Date: 2017-01-24.Customer Details:.Contact Name, Address, Postal Code, Phone Number, and Product ID. Product name is: \"Pâté chinois\" Product price is $480.0."
+}

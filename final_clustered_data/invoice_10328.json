@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10328.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10328\nCustomer ID: FURIB\nOrder Date: 2016-10-14\nCustomer Details:\nContact Name:\nLino Rodriguez\nAddress:\nJardim das rosas n. 32\nCity:\nLisboa\nPostal Code:\n1675\nCountry:\nPortugal\nPhone:\n(1) 354-2534\nFax:\n(1) 354-2535\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n59\nRaclette Courdavault\n9\n44.0\n65\nLouisiana Fiery Hot Pepper Sauce\n40\n16.8\n68\nScottish Longbreads\n10\n10.0\n \n \nTotalPrice\n1168.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10328 Client ID: FURIB Order Date: 2016 - 10 - 14 Customer Details: Inter group communication Name: Linoleum Rodriguez Address: Jardim das rosas n. 32 City: Lisboa Postal Code: 1675 Country: Portugal Phone: (1) 354 - 2534 Fax: (1) 354 - 2535 Product Details: Intersection idaho Cartesian product Name Quantity Social unit Cost 59 Raclette Courdavault 9 44. 0 65 Louisiana Fiery Hot Pepper Sauce 40 16. 8 68 Scottish Longbreads 10 tenner. 0 TotalPrice 1168. 0 Page 1",
+        "Invoice Order ID: 10328 Customer ID: FURIB Order Date: 2016 - 10 - 14 Customer Details: Contact Name: Lino Rodriguez Address: Jardim das rosas n. 32 Metropolis: Lisboa Postal Code: 1675 Country: Portugal Phone: (1) 354 - 2534 Fax: (ane) 354 - 2535 Product Details: Product i.d. Product Name Amount Unit Price 59 Raclette Courdavault 9 forty four. 0 65 Louisiana Fiery Hot Pepper Sauce xl 16. viii 68 Scottish Longbreads 10 10. 0 TotalPrice 1168. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: FURIB. Order Date: 2016-10-14. Customer: Lino Rodriguez. Product: Louisiana Fiery Hot Pepper Sauce. Price: $1168.0. Customers can order online by clicking on the link below: http://www.furib.com/product/FurIB-Lino-Rodriguez-Louisiana-Fiery-Hot-Pepper-Sauce."
+}

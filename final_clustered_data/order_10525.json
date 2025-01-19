@@ -1,0 +1,24 @@
+{
+    "filename": "order_10525.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10525\nShipping Details:\nShip Name: Bon app-\nShip Address: 12, rue des Bouchers\nShip City: Marseille\nShip Region: Western Europe\nShip Postal Code: 13008\nShip Country: France\nCustomer Details:\nCustomer ID: BONAP\nCustomer Name: Bon app'\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-05-02\nShipped Date: 2017-05-23\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Inlagd Sill\nQuantity: 30\nUnit Price: 19.0\nTotal: 570.0\n--------------------------------------------------------------------------------------------------\nProduct: Boston Crab Meat\nQuantity: 15\nUnit Price: 18.4\nTotal: 276.0\nTotal Price:\nTotal Price: 846.0\n",
+    "augmented_texts": [
+        "Order ID: 10525 Ship Details: Ship Epithet: Bon app - Ship Address: 12, rue des Bouchers Ship City: Marseille Ship Region: Western Eec Ship Postal Code: 13008 Ship Body politic: France Client Details: Customer ID: BONAP Client Name: Bon app ' Employee Detail: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 05 - 02 Shipped Date: 2017 - 05 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 30 Unit Price: 19. cipher Total: 570. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Quantity: xv Unit Price: 18. 4 Total: 276. 0 Total Price: Total Price: 846. 0",
+        "Order ID: 10525 Shipping Details: Ship Name: Bon app - Ship Address: 12, rue diethylstilbestrol Bouchers Ship Metropolis: Marseilles Ship Region: Western Europe Ship Postal Computer code: 13008 Ship Country: France Customer Details: Customer ID: BONAP Customer Figure: Bon app ' Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 05 - 02 Shipped Day of the month: 2017 - 05 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 30 Unit Price: 19. 0 Total: 570. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Beantown Crab Meat Quantity: 15 Unit Price: 18. 4 Total: 276. 0 Total Price: Total Price: 846. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10525. Ship Address: 12, rue des Bouchers, Marseille. Postal Code: 13008. Country: France. Customer: BONAP. Shipper: United Package. Product: Inlagd Sill. Price: 19.0."
+}

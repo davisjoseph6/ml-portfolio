@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10384.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10384\nCustomer ID: BERGS\nOrder Date: 2016-12-16\nCustomer Details:\nContact Name:\nChristina Berglund\nAddress:\nBerguvsvägen  8\nCity:\nLuleå\nPostal Code:\nS-958 22\nCountry:\nSweden\nPhone:\n0921-12 34 65\nFax:\n0921-12 34 67\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n20\nSir Rodney's Marmalade\n28\n64.8\n60\nCamembert Pierrot\n15\n27.2\n \n \nTotalPrice\n2222.3999999999996\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10384 Customer ID: BERGS Order Date: 2016 - 12 - 16 Client Details: Contact Name: Christina Berglund Address: Berguvsvägen 8 City: Luleå Postal Code: S - 958 22 Country: Sweden Phone: 0921 - 12 34 lxv Fax: 0921 - 12 34 67 Product Details: Product ID Product Name Amount Unit Damage 20 Sir Rodney ' s Marmalade 28 64. viii lx Camembert Pierrot 15 twenty seven. 2 TotalPrice 2222. 3999999999996 Page 1",
+        "Invoice Order ID: 10384 Customer ID: BERGS Order Date: 2016 - 12 - 16 Client Details: Middleman Name: Christina Berglund Address: Berguvsvägen eight City: Luleå Postal Code: S - 958 22 Area: Sweden Phone: 0921 - 12 34 65 Fax: 0921 - 12 34 67 Product Details: Product ID Product Name Quantity Unit Price 20 Sir Rodney ' s Marmalade 28 64. 8 threescore Camembert Pierrot 15 27. 2 TotalPrice 2222. 3999999999996 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: BERGS. Order Date: 2016-12-16. Customer Details:Christina Berglund. Address: Berguvsvägen, Luleå, Sweden. Postal Code: S-958 22. Phone: 921 34 65. fax: 34 67."
+}

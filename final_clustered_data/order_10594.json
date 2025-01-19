@@ -1,0 +1,24 @@
+{
+    "filename": "order_10594.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10594\nShipping Details:\nShip Name: Old World Delicatessen\nShip Address: 2743 Bering St.\nShip City: Anchorage\nShip Region: North America\nShip Postal Code: 99508\nShip Country: USA\nCustomer Details:\nCustomer ID: OLDWO\nCustomer Name: Old World Delicatessen\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-07-09\nShipped Date: 2017-07-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Filo Mix\nQuantity: 24\nUnit Price: 7.0\nTotal: 168.0\n--------------------------------------------------------------------------------------------------\nProduct: Escargots de Bourgogne\nQuantity: 30\nUnit Price: 13.25\nTotal: 397.5\nTotal Price:\nTotal Price: 565.5\n",
+    "augmented_texts": [
+        "Order ID: 10594 Shipping Details: Ship Name: Old World Delicatessen Ship Address: 2743 Bering St. Ship City: Anchorage Ship Region: North America Ship Postal Code: 99508 Ship Country: USA Client Details: Client ID: OLDWO Client Name: Old Earth Delicatessen Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Rules of order Details: Order Date: 2017 - 07 - 09 Shipped Date: 2017 - 07 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Filo Mix Quantity: 24 Unit Price: 7. 0 Total: 168. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Escargots de Bourgogne Quantity: 30 Unit Price: 13. 25 Total: 397. 5 Total Price: Total Price: 565. fin",
+        "Order ID: 10594 Shipping Details: Ship Name: Old World Delicatessen Ship Address: 2743 Bering St. Ship City: Anchorage Ship Neighborhood: North America Ship Postal Code: 99508 Ship Country: USA Customer Details: Customer ID: OLDWO Client Name: Old World Delicatessen Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 07 - 09 Shipped Date: 2017 - 07 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Filo Mix Quantity: 24 Unit Price: 7. zero Total: 168. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Snail de Bourgogne Quantity: 30 Unit Cost: 13. xxv Total: 397. 5 Total Price: Total Toll: 565. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10594. Order Name: Old World Delicatessen. Address: 2743 Bering St. Ship Postal Code: 99508. Customers: OLDWO. Shippers: United Package. Products: Filo Mix, Escargots de Bourgogne."
+}

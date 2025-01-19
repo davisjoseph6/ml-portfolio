@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10500.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10500\n2017-04-09\nAnnette Roulet\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n15\nGenen Shouyu\n12\n15.5\n28\nRössle Sauerkraut\n8\n45.6\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Social club Date Client Name 10500 2017 - 04 - 09 Annette Roulet Products Product ID: Product: Quantity: Unit Price: xv Genen Shouyu 12 fifteen. 5 28 Rössle Sauerkraut 8 45. 6 Varlet 1",
+        "Purchase Orders Order ID Order Date Client Name 10500 2017 - 04 - 09 Annette Roulet Products Product ID: Product: Quantity: Unit Mary leontyne price: 15 Genen Shouyu 12 15. 5 twenty eight Rössle Sauerkraut 8 45. 6 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: Rössle Sauerkraut, Genen Shouyu12, and Günnebrigkeit GmbH. All products are sold in Germany and are priced between €10,000 and €15,500."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10531.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10531\nShipping Details:\nShip Name: Océano Atlántico Ltda.\nShip Address: Ing. Gustavo Moncada 8585 Piso 20-A\nShip City: Buenos Aires\nShip Region: South America\nShip Postal Code: 1010\nShip Country: Argentina\nCustomer Details:\nCustomer ID: OCEAN\nCustomer Name: Océano Atlántico Ltda.\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-05-08\nShipped Date: 2017-05-19\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 2\nUnit Price: 55.0\nTotal: 110.0\nTotal Price:\nTotal Price: 110.0\n",
+    "augmented_texts": [
+        "Edict ID: 10531 Embark Details: Ship Name: Océano Atlántico Ltda. Ship Address: Ing. Gustavo Moncada 8585 Piso 20 - A Ship City: Buenos Aires Ship Part: South America Ship Postal Code: 1010 Ship Country: Argentina Customer Point: Customer ID: OCEAN Customer Name: Océano Atlántico Ltda. Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: single Shipper Name: Speedy Express Order Details: Order Date: 2017 - 05 - 08 Shipped Date: 2017 - 05 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Measure: ii Unit Price: 55. 0 Amount: 110. 0 Total Price: Total Price: 110. 0",
+        "Order ID: 10531 Shipping Details: Ship Name: Océano Atlántico Ltda. Ship Address: Ing. Gustavo Moncada 8585 Piso 20 - A Ship City: Buenos Aires Ship Region: Dixie America Ship Postal Code: 1010 Ship Country: Argentina Customer Details: Customer ID: OCEAN Customer Figure: Océano Atlántico Ltda. Employee Details: Employee Name: Henry m. robert King Shipper Details: Shipper ID: 1 Shipper Figure: Speedy Express Order Point: Order Date: 2017 - 05 - 08 Shipped Date: 2017 - 05 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 2 Unit Price: 55. 0 Total: 110. 0 Total Price: Total Price: 110. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10531. Ship Address: Ing. Gustavo Moncada 8585 Piso 20-A, Buenos Aires. Postal Code: 1010. Country: Argentina. Customer: Océano Atlántico Ltda. Order Date: 2017-05-08. Shipper Name: Speedy Express."
+}

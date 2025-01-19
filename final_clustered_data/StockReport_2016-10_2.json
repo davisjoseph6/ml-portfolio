@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-10_2.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-10 \n Category : Condiments  \n id category : 2  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nChef Anton's Cajun Seasoning\n52\n53\n22\nGrandma's Boysenberry Spread\n6\n120\n25\nGenen Shouyu\n5\n39\n15.5\nVegie-spread\n80\n24\n43.9\nLouisiana Fiery Hot Pepper Sauce\n40\n76\n21.05\n",
+    "augmented_texts": [
+        "Origin Report for 2016 - x Category: Condiments id category: 2 Product Units Sold Units in Breed Unit Price Chef Anton ' s Cajun Seasoning 52 53 22 Grandma ' s Boysenberry Spread 6 120 25 Genen Shouyu 5 39 15. 5 Vegie - unfold 80 24 43. 9 Louisiana Fiery Hot Pepper Sauce 40 lxxvi xxi. 05",
+        "Stock Report for 2016 - 10 Category: Condiments id category: 2 Product Units Sold Units in Stock Unit Price Chef Anton ' s Cajun Seasoning fifty two fifty three 22 Nanna ' s Boysenberry Spread 6 120 xxv Genen Shouyu 5 39 15. 5 Vegie - spread fourscore 24 43. 9 Pelican state Fiery Hot Madagascar pepper Sauce 40 76 21. 05"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-10. Category : Condiments. id category : 2                   Product : Condiment - Units Sold; Units in Stock; Unit Price: $1.05 per kilogram. Price for a kilo of hot pepper sauce is $4.99."
+}

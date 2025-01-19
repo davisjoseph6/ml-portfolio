@@ -1,0 +1,24 @@
+{
+    "filename": "order_10542.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10542\nShipping Details:\nShip Name: Königlich Essen\nShip Address: Maubelstr. 90\nShip City: Brandenburg\nShip Region: Western Europe\nShip Postal Code: 14776\nShip Country: Germany\nCustomer Details:\nCustomer ID: KOENE\nCustomer Name: Königlich Essen\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-05-20\nShipped Date: 2017-05-26\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 15\nUnit Price: 21.0\nTotal: 315.0\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 24\nUnit Price: 7.45\nTotal: 178.8\nTotal Price:\nTotal Price: 493.8\n",
+    "augmented_texts": [
+        "Order ID: 10542 Shipping Details: Ship Epithet: Königlich Essen Ship Name and address: Maubelstr. 90 Ship City: Brandenburg Ship Region: Western Europe Ship Postal Computer code: 14776 Ship Country: Germany Customer Details: Customer ID: KOENE Customer Name: Königlich Essen Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Fed Transportation Order Details: Order Date: 2017 - 05 - 20 Shipped Date: 2017 - 05 - 26 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 15 Unit Price: 21. 0 Total: 315. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 24 Unit Price: 7. 45 Total: 178. 8 Total Leontyne price: Total Price: 493. 8",
+        "Order ID: 10542 Shipping Details: Ship Gens: Königlich Essen Ship Address: Maubelstr. xc Ship City: Brandenburg Ship Neighborhood: Western Europe Ship Postal Code: 14776 Ship Country: Germany Customer Details: Customer ID: KOENE Client Name: Königlich Essen Employee Particular: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 05 - 20 Shipped Date: 2017 - 05 - 26 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: xv Unit Price: 21. 0 Total: 315. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 24 Unit Price: 7. 45 Total: 178. 8 Total Cost: Total Price: 493. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10542; Ship Address: Maubelstr. 90; Postal Code: 14776; City: Brandenburg; Region: Western Europe; Country: Germany. Customer: Königlich Essen; Employee: Nancy Davolio; Shipper: Federal Shipping. Order Date: 2017-05-20; shipment date: 2018-01-26; Price: 493.8."
+}

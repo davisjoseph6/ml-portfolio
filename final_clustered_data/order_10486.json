@@ -1,0 +1,24 @@
+{
+    "filename": "order_10486.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10486\nShipping Details:\nShip Name: HILARION-Abastos\nShip Address: Carrera 22 con Ave. Carlos Soublette #8-35\nShip City: San Cristóbal\nShip Region: South America\nShip Postal Code: 5022\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: HILAA\nCustomer Name: HILARION-Abastos\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-03-26\nShipped Date: 2017-04-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 5\nUnit Price: 16.8\nTotal: 84.0\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 25\nUnit Price: 42.4\nTotal: 1060.0\n--------------------------------------------------------------------------------------------------\nProduct: Longlife Tofu\nQuantity: 16\nUnit Price: 8.0\nTotal: 128.0\nTotal Price:\nTotal Price: 1272.0\n",
+    "augmented_texts": [
+        "Order ID: 10486 Shipping Details: Ship Name: HILARION - Abastos Ship Savoir faire: Carrera 22 confidence game Ave. Salim Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Detail: Order Date: 2017 - 03 - 26 Shipped Date: 2017 - 04 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 5 Social unit Price: 16. 8 Total: 84. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 25 Unit Price: 42. 4 Total: 1060. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Longlife Tofu Quantity: 16 Unit Price: 8. cipher Total: 128. 0 Entire Price: Total Price: 1272. 0",
+        "Order ID: 10486 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Taurus Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Customer ID: HILAA Customer Epithet: HILARION - Abastos Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 03 - 26 Shipped Date: 2017 - 04 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 5 Unit Price: 16. 8 Total: 84. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 25 Unit Price: 42. four Total: 1060. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Longlife Tofu Quantity: xvi Unit Price: 8. 0 Total: 128. 0 Total Price: Total Toll: 1272. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10486. Ship Address: Carrera 22 con Ave. Carlos Soublette #8-35, San Cristóbal. Postal Code: 5022. Country: Venezuela. Customer: HILARION-Abastos. Employee: Nancy Davolio. Shipper: United Package."
+}

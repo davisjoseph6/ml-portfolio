@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10622.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10622\nCustomer ID: RICAR\nOrder Date: 2017-08-06\nCustomer Details:\nContact Name:\nJanete Limeira\nAddress:\nAv. Copacabana, 267\nCity:\nRio de Janeiro\nPostal Code:\n02389-890\nCountry:\nBrazil\nPhone:\n(21) 555-3412\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n2\nChang\n20\n19.0\n68\nScottish Longbreads\n18\n12.5\n \n \nTotalPrice\n605.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10622 Customer ID: RICAR Order Date: 2017 - 08 - 06 Client Details: Contact Name: Janete Limeira Address: Av. Copacabana, 267 Metropolis: Rio de Janeiro Postal Code: 02389 - 890 Res publica: Brazil Phone: (21) 555 - 3412 Fax: None Merchandise Details: Product ID Product Name Measure Unit Price 2 Yangtze 20 19. 0 68 Scottish Longbreads 18 xii. 5 TotalPrice 605. 0 Page 1",
+        "Invoice Order ID: 10622 Customer ID: RICAR Order Date: 2017 - 08 - 06 Customer Details: Contact Name: Janete Limeira Address: Av. Copacabana, 267 City: Rio de janeiro de Janeiro Postal Code: 02389 - 890 Country: Brazil Phone: (21) 555 - 3412 Fax: None Merchandise Details: Product ID Product Name Amount Unit Price 2 Chang twenty 19. 0 lxviii Scottish Longbreads 18 12. 5 TotalPrice 605. 0 Pageboy 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10622.Customer ID: RICAR. Order Date: 2017-08-06. Customers: Janete Limeira. Product: Scottish Longbreads. Price: $605.0. Customer: J. Lomax.Product Name: Scottish Long Breads, $12.5 each."
+}

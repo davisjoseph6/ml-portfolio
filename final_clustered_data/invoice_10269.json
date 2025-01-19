@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10269.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10269\nCustomer ID: WHITC\nOrder Date: 2016-07-31\nCustomer Details:\nContact Name:\nKarl Jablonski\nAddress:\n305 - 14th Ave. S. Suite 3B\nCity:\nSeattle\nPostal Code:\n98128\nCountry:\nUSA\nPhone:\n(206) 555-4112\nFax:\n(206) 555-4115\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n33\nGeitost\n60\n2.0\n72\nMozzarella di Giovanni\n20\n27.8\n \n \nTotalPrice\n676.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Decree ID: 10269 Customer ID: WHITC Monastic order Date: 2016 - 07 - 31 Customer Details: Impinging Name: Karl Jablonski Address: 305 - 14th Ave. S. Suite 3B City: Seattle Postal Code: 98128 Country: USA Headphone: (206) 555 - 4112 Fax: (206) 555 - 4115 Product Details: Product ID Product Name Quantity Unit Price 33 Geitost sixty 2. 0 72 Mozzarella di Giovanni 20 27. 8 TotalPrice 676. 0 Page 1",
+        "Invoice Order gem state: 10269 Customer ID: WHITC Order Date: 2016 - 07 - 31 Customer Details: Contact Name: Karl Jablonski Address: 305 - 14th Ave. S. Suite 3B Metropolis: Seattle Postal Code: 98128 State: USA Earphone: (206) 555 - 4112 Fax: (206) 555 - 4115 Product Details: Product ID Product Name Quantity Unit Price 33 Geitost 60 two. 0 72 Mozzarella di Giovanni 20 27. eighter TotalPrice 676. cypher Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: WHITC. Invoice ID: 10269.Customer ID is: \"Karl Jablonski\" Product Name is \"Mozzarella di Giovanni\" Price is $676.0. Order Date is 2016-07-31 at 10:30 a.m. ET."
+}

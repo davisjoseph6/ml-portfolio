@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10335.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10335\nCustomer ID: HUNGO\nOrder Date: 2016-10-22\nCustomer Details:\nContact Name:\nPatricia McKenna\nAddress:\n8 Johnstown Road\nCity:\nCork\nPostal Code:\nNone\nCountry:\nIreland\nPhone:\n2967 542\nFax:\n2967 3333\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n2\nChang\n7\n15.2\n31\nGorgonzola Telino\n25\n10.0\n32\nMascarpone Fabioli\n6\n25.6\n51\nManjimup Dried Apples\n48\n42.4\n \n \nTotalPrice\n2545.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10335 Customer ID: HUNGO Order Date: 2016 - 10 - 22 Customer Details: Contact Gens: Patricia McKenna Address: 8 Johnstown Road City: Cork Postal Code: None Country: Ireland Phone: 2967 542 Fax: 2967 3333 Product Details: Product ID Product Name Quantity Whole Terms two Changjiang 7 15. 2 31 Gorgonzola Telino 25 10. cypher thirty two Mascarpone Fabioli 6 25. 6 51 Manjimup Dried Apples 48 42. 4 TotalPrice 2545. 2 Page 1",
+        "Invoice Orderliness ID: 10335 Customer ID: HUNGO Order Escort: 2016 - 10 - 22 Client Inside information: Contact Name: Patricia McKenna Address: 8 Johnstown Road City: Cork Postal Code: None Country: Ireland Phone: 2967 542 Fax: 2967 3333 Product Details: Intersection idaho Product Name Quantity Unit Price 2 Changjiang 7 fifteen. 2 thirty one Gorgonzola Telino 25 10. 0 32 Mascarpone Fabioli 6 25. 6 51 Manjimup Dried Apples 48 42. 4 TotalPrice 2545. 2 Pageboy 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10335.Customer ID: HUNGO. Order Date: 2016-10-22. Customers: Patricia McKenna, Johnstown, Ireland. Product: Manjimup Dried Apples. Price: $2545.2 for 25lbs of apples."
+}

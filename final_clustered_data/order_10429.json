@@ -1,0 +1,24 @@
+{
+    "filename": "order_10429.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10429\nShipping Details:\nShip Name: Hungry Owl All-Night Grocers\nShip Address: 8 Johnstown Road\nShip City: Cork\nShip Region: British Isles\nShip Postal Code: None\nShip Country: Ireland\nCustomer Details:\nCustomer ID: HUNGO\nCustomer Name: Hungry Owl All-Night Grocers\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-01-29\nShipped Date: 2017-02-07\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Valkoinen suklaa\nQuantity: 40\nUnit Price: 13.0\nTotal: 520.0\n--------------------------------------------------------------------------------------------------\nProduct: Vegie-spread\nQuantity: 35\nUnit Price: 35.1\nTotal: 1228.5\nTotal Price:\nTotal Price: 1748.5\n",
+    "augmented_texts": [
+        "Order ID: 10429 Shipping Details: Ship Name: Thirsty Owl All - Night Grocers Ship Address: 8 Johnstown Road Ship City: Cork Ship Region: British Isle Ship Postal Code: None Ship Country: Ireland Customer Point: Customer ID: HUNGO Customer Name: Hungry Owl All - Night Grocers Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: two Shipper Name: United Package Order Details: Order Day of the month: 2017 - 01 - 29 Shipped Date: 2017 - 02 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Valkoinen suklaa Quantity: 40 Unit Damage: 13. 0 Total: 520. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Vegie - spread Quantity: 35 Unit Price: 35. 1 Total: 1228. 5 Total Price: Total Cost: 1748. 5",
+        "Order ID: 10429 Shipping Contingent: Ship Epithet: Hungry Owl All - Night Grocers Ship Computer address: 8 Johnstown Road Ship City: Cork Ship Region: British Isles Ship Postal Code: None Ship Country: Irish republic Customer Details: Customer ID: HUNGO Customer Name: Hungry Owl All - Night Grocers Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 01 - 29 Shipped Date: 2017 - 02 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Valkoinen suklaa Quantity: 40 Unit Price: 13. 0 Total: 520. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Vegie - spread Quantity: 35 Unit Price: thirty five. 1 Total: 1228. 5 Full Terms: Total Price: 1748. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10429. Order name: Hungry Owl All-Night Grocers. Ship address: 8 Johnstown Road, Cork. Postal Code: None. Country: Ireland. Region: British Isles. Customer: HUNGO. Employee: Janet Leverling. Shipper: United Package. Product: Vegie-spread."
+}

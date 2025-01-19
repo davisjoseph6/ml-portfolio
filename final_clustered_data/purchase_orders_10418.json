@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10418.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10418\n2017-01-17\nHorst Kloss\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n2\nChang\n60\n15.2\n47\nZaanse koeken\n55\n7.6\n61\nSirop d'érable\n16\n22.8\n74\nLonglife Tofu\n15\n8\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10418 2017 - 01 - 17 Horst Kloss Products Product ID: Product: Quantity: Unit Price: 2 Chang 60 15. deuce 47 Zaanse koeken 55 7. 6 61 Sirop cholecalciferol ' érable 16 twenty two. 8 74 Longlife Bean curd 15 octad Page 1",
+        "Purchase Orders Govern ID Order Date Customer Name 10418 2017 - 01 - 17 Horst Kloss Products Product ID: Intersection: Quantity: Unit Price: 2 Chang 60 15. 2 forty seven Zaanse koeken 55 7. 6 61 Sirop d ' érable 16 twenty two. 8 74 Longlife Tofu 15 8 Thomas nelson page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders are delivered to the customer's home. Customers can choose to pay by cash or by credit card. The price of the product is determined by the amount of money paid. For more information, go to: http://www.kms.com/en-uk/purchasing/buy-a-product."
+}

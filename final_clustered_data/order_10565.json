@@ -1,0 +1,24 @@
+{
+    "filename": "order_10565.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10565\nShipping Details:\nShip Name: Mère Paillarde\nShip Address: 43 rue St. Laurent\nShip City: Montréal\nShip Region: North America\nShip Postal Code: H1J 1C3\nShip Country: Canada\nCustomer Details:\nCustomer ID: MEREP\nCustomer Name: Mère Paillarde\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-06-11\nShipped Date: 2017-06-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 25\nUnit Price: 4.5\nTotal: 112.5\n--------------------------------------------------------------------------------------------------\nProduct: Wimmers gute Semmelknödel\nQuantity: 18\nUnit Price: 33.25\nTotal: 598.5\nTotal Price:\nTotal Price: 711.0\n",
+    "augmented_texts": [
+        "Order ID: 10565 Shipping Details: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship City: Montréal Ship Region: North America Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Figure: Mère Paillarde Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Day of the month: 2017 - 06 - 11 Shipped Appointment: 2017 - 06 - 18 Mathematical product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 25 Unit Price: 4. quint Total: 112. quint - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Wimmers gute Semmelknödel Quantity: 18 Unit Price: 33. 25 Total: 598. 5 Total Price: Total Price: 711. 0",
+        "Order ID: 10565 Shipping Details: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship Urban center: Montréal Ship Region: North America Ship Postal Code: H1J 1C3 Ship Country: Canada Client Details: Customer ID: MEREP Client Name: Mère Paillarde Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Society Details: Order Date: 2017 - 06 - 11 Shipped Date: 2017 - 06 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 25 Unit Price: 4. 5 Total: 112. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Wimmers gute Semmelknödel Quantity: eighteen Unit Price: 33. 25 Total: 598. 5 Total Price: Total Price: 711. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10565. Order Name: Mère Paillarde. Ship Address: 43 rue St. Laurent. Postal Code: H1J 1C3. Country: Canada. Shipper: United Package. Product: Guaraná Fantástica. Unit Price: 4.5."
+}

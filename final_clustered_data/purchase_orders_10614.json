@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10614.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10614\n2017-07-29\nHanna Moos\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n11\nQueso Cabrales\n14\n21\n21\nSir Rodney's Scones\n8\n10\n39\nChartreuse verte\n5\n18\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10614 2017 - 07 - xxix Hanna Moos Products Product ID: Product: Quantity: Unit Price: 11 Queso Cabrales 14 twenty one 21 Sir Rodney ' s Scone 8 10 39 Chartreuse verte v 18 Page 1",
+        "Purchase Orders Tell ID Order Date Customer Gens 10614 2017 - 07 - 29 Hanna Moos Products Product ID: Product: Quantity: Unit Price: 11 Queso Cabrales fourteen 21 21 Sir Rodney ' s Scones 8 10 39 Chartreuse verte 5 18 Page one"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following items: Confectionaries, confections, chocolates, and ice cream. The items are ordered by customer name, with the customer's order date and product number. Customers can choose to pay by cash, check, or credit card."
+}

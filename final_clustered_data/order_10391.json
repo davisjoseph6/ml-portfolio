@@ -1,0 +1,24 @@
+{
+    "filename": "order_10391.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10391\nShipping Details:\nShip Name: Drachenblut Delikatessen\nShip Address: Walserweg 21\nShip City: Aachen\nShip Region: Western Europe\nShip Postal Code: 52066\nShip Country: Germany\nCustomer Details:\nCustomer ID: DRACD\nCustomer Name: Drachenblut Delikatessen\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-23\nShipped Date: 2016-12-31\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Konbu\nQuantity: 18\nUnit Price: 4.8\nTotal: 86.39999999999999\nTotal Price:\nTotal Price: 86.39999999999999\n",
+    "augmented_texts": [
+        "Order ID: 10391 Shipping Details: Ship Name: Drachenblut Delikatessen Ship Savoir faire: Walserweg 21 Ship City: Aachen Ship Region: Western Europe Ship Postal Code: 52066 Ship Country: Germany Client Details: Customer ID: DRACD Client Name: Drachenblut Delikatessen Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - twenty three Shipped Date: 2016 - 12 - 31 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 18 Unit Cost: 4. 8 Total: 86. 39999999999999 Total Price: Total Price: 86. 39999999999999",
+        "Order ID: 10391 Shipping Details: Ship Name: Drachenblut Delikatessen Ship Address: Walserweg 21 Ship Urban center: Aachen Ship Part: Western Europe Ship Postal Code: 52066 Ship Country: Federal republic of germany Client Details: Customer ID: DRACD Customer Figure: Drachenblut Delikatessen Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - 23 Shipped Date: 2016 - 12 - 31 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 18 Building block Price: 4. 8 Total: lxxxvi. 39999999999999 Full Toll: Total Price: 86. 39999999999999"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10391. Ship Name: Drachenblut Delikatessen. Address: Walserweg 21, Aachen. Postal Code: 52066. Country: Germany. Customer: DRACD. Product: Konbu. Unit Price: 4.8, Unit Quantity: 18,Unit price: 86.39999999999999. Shipper: Federal Shipping."
+}

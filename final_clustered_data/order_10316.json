@@ -1,0 +1,24 @@
+{
+    "filename": "order_10316.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10316\nShipping Details:\nShip Name: Rattlesnake Canyon Grocery\nShip Address: 2817 Milton Dr.\nShip City: Albuquerque\nShip Region: North America\nShip Postal Code: 87110\nShip Country: USA\nCustomer Details:\nCustomer ID: RATTC\nCustomer Name: Rattlesnake Canyon Grocery\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-09-27\nShipped Date: 2016-10-08\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 10\nUnit Price: 7.7\nTotal: 77.0\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 70\nUnit Price: 39.4\nTotal: 2758.0\nTotal Price:\nTotal Price: 2835.0\n",
+    "augmented_texts": [
+        "Order ID: 10316 Ship Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship City: Albuquerque Ship Part: North America Ship Postal Code: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Client Name: Rattlesnake Canyon Grocery Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Item: Order Date: 2016 - 09 - 27 Shipped Date: 2016 - 10 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 10 Unit Price: 7. 7 Total: 77. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 70 Unit Price: 39. quatern Total: 2758. 0 Total Price: Full Price: 2835. 0",
+        "Order gem state: 10316 Shipping Details: Ship Name: Rattler Canyon Grocery Ship Reference: 2817 Milton Dr. Ship City: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Country: united states of america Customer Details: Customer ID: RATTC Customer Name: Rattlesnake Canyon Grocery Employee Details: Employee Name: Nancy Davolio Shipper Detail: Shipper ID: 3 Shipper Public figure: Federal Cargo ships Order Details: Order Engagement: 2016 - 09 - 27 Shipped Date: 2016 - 10 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 10 Unit Price: septet. 7 Total: 77. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 70 Unit Price: 39. 4 Total: 2758. 0 Full Price: Total Price: 2835. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10316. Order Name: Rattlesnake Canyon Grocery. Address: 2817 Milton Dr. Ship Postal Code: 87110. Country: USA. Shipper: Federal Shipping. Product: Jack's New England Clam Chowder. Unit Price: 7.7 pounds. Price per pound: 77.0 euros."
+}

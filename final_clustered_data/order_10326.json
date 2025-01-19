@@ -1,0 +1,24 @@
+{
+    "filename": "order_10326.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10326\nShipping Details:\nShip Name: Bólido Comidas preparadas\nShip Address: C/ Araquil, 67\nShip City: Madrid\nShip Region: Southern Europe\nShip Postal Code: 28023\nShip Country: Spain\nCustomer Details:\nCustomer ID: BOLID\nCustomer Name: Bólido Comidas preparadas\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-10-10\nShipped Date: 2016-10-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chef Anton's Cajun Seasoning\nQuantity: 24\nUnit Price: 17.6\nTotal: 422.40000000000003\n--------------------------------------------------------------------------------------------------\nProduct: Ravioli Angelo\nQuantity: 16\nUnit Price: 15.6\nTotal: 249.6\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 50\nUnit Price: 6.2\nTotal: 310.0\nTotal Price:\nTotal Price: 982.0\n",
+    "augmented_texts": [
+        "Order ID: 10326 Shipping Details: Ship Name: Bólido Comidas preparadas Ship Address: C / Araquil, 67 Ship City: Madrid Ship Part: Southern Europe Ship Postal Code: 28023 Ship Country: Spain Customer Details: Customer ID: BOLID Customer Name: Bólido Comidas preparadas Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Software program Order Details: Order Date: 2016 - decade - 10 Shipped Date: 2016 - 10 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Seasoning Quantity: 24 Unit Price: 17. 6 Total: 422. 40000000000003 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 16 Unit Price: 15. 6 Total: 249. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 50 Social unit Price: 6. 2 Total: 310. 0 Total Leontyne price: Total Price: 982. 0",
+        "Order ID: 10326 Shipping Details: Ship Name: Bólido Comidas preparadas Ship Address: C / Araquil, sixty seven Ship City: Madrid Ship Region: Southern Ec Ship Postal Code: 28023 Ship Country: Spain Client Details: Customer gem state: BOLID Customer Name: Bólido Comidas preparadas Employee Details: Employee Name: Margaret Peacock butterfly Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Appointment: 2016 - 10 - 10 Shipped Date: 2016 - 10 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Seasoning Quantity: 24 Unit Price: 17. 6 Total: 422. 40000000000003 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 16 Unit Price: 15. 6 Total: 249. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 50 Unit Price: 6. 2 Total: 310. 0 Total Price: Total Price: 982. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10326. Order Name: Bólido Comidas preparadas. Ship Address: C/ Araquil, 67. P.O. code: 28023. Postal Code: 28.0. 2. The order has been shipped to Madrid, Spain."
+}

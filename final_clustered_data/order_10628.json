@@ -1,0 +1,24 @@
+{
+    "filename": "order_10628.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10628\nShipping Details:\nShip Name: Blondel père et fils\nShip Address: 24, place Kléber\nShip City: Strasbourg\nShip Region: Western Europe\nShip Postal Code: 67000\nShip Country: France\nCustomer Details:\nCustomer ID: BLONP\nCustomer Name: Blondesddsl père et fils\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-08-12\nShipped Date: 2017-08-20\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 25\nUnit Price: 18.0\nTotal: 450.0\nTotal Price:\nTotal Price: 450.0\n",
+    "augmented_texts": [
+        "Order ID: 10628 Shipping Details: Ship Epithet: Blondel père et fils Ship Address: 24, place Kléber Ship City: Strasbourg Ship Region: Western Europe Ship Postal Code: 67000 Ship Country: France Customer Details: Customer ID: BLONP Customer Name: Blondesddsl père et yemeni fils Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 08 - 12 Shipped Particular date: 2017 - 08 - 20 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 25 Unit Price: 18. 0 Total: 450. 0 Total Monetary value: Total Price: 450. 0",
+        "Order ID: 10628 Shipping Details: Ship Name: Blondel père et fils Ship Address: 24, place Kléber Ship City: Strasbourg Ship Region: Western Europe Ship Postal Code: 67000 Ship Country: France Client Details: Customer ID: BLONP Customer Name: Blondesddsl père et fils Employee Detail: Employee Name: Margaret Peacock Shipper Details: Shipper idaho: 3 Shipper Name: Federal Shipping Monastic order Details: Order Engagement: 2017 - 08 - 12 Shipped Appointment: 2017 - 08 - 20 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 25 Unit Price: 18. 0 Total: 450. cypher Total Price: Total Price: 450. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10628. Ship Name: Blondel père et fils.Ship Address: 24, place Kléber. City: Strasbourg. Region: Western Europe. Postal Code: 67000. Country: France. Customer: BLONP. Employee: Margaret Peacock."
+}

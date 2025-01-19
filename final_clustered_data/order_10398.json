@@ -1,0 +1,24 @@
+{
+    "filename": "order_10398.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10398\nShipping Details:\nShip Name: Save-a-lot Markets\nShip Address: 187 Suffolk Ln.\nShip City: Boise\nShip Region: North America\nShip Postal Code: 83720\nShip Country: USA\nCustomer Details:\nCustomer ID: SAVEA\nCustomer Name: Save-a-lot Markets\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-30\nShipped Date: 2017-01-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 30\nUnit Price: 14.4\nTotal: 432.0\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 120\nUnit Price: 19.2\nTotal: 2304.0\nTotal Price:\nTotal Price: 2736.0\n",
+    "augmented_texts": [
+        "Edict ID: 10398 Shipping Details: Ship Name: Save - a - lot Markets Ship Address: 187 Suffolk Ln. Ship City: Boise Ship Region: North America Ship Postal Codification: 83720 Ship Country: USA Customer Details: Customer ID: SAVEA Customer Name: Save - a - lot Markets Employee Details: Employee Name: Andrew Fuller Shipper Item: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - 30 Shipped Date: 2017 - 01 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 30 Unit Price: 14. quartet Total: 432. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Pâté chinois Quantity: 120 Unit Price: 19. 2 Total: 2304. 0 Total Price: Total Price: 2736. 0",
+        "Order ID: 10398 Shipping Details: Ship Name: Save - a - lot Markets Ship Address: 187 Suffolk Ln. Ship City: Boise Ship Region: North America Ship Postal Code: 83720 Ship Country: USA Client Details: Customer ID: SAVEA Customer Name: Save - a - lot Markets Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Lodge Details: Order Date: 2016 - 12 - 30 Shipped Date: 2017 - 01 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: thirty Unit of measurement Price: 14. 4 Amount: 432. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Amount: 120 Unit Price: 19. 2 Totality: 2304. 0 Total Price: Total Toll: 2736. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Ship Name: Save-a-lot Markets.Ship Address: 187 Suffolk Ln. in Boise. Ship Postal Code: 83720. Country: USA. Shipper: Federal Shipping. Order: 2016-12-30.Shipped Date: 2017-01-09. Products: Pâté chinois."
+}

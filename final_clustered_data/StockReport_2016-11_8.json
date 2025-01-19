@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-11_8.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-11 \n Category : Seafood  \n id category : 8  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nIkura\n30\n31\n31\nInlagd Sill\n20\n112\n19\nBoston Crab Meat\n4\n123\n18.4\nJack's New England Clam Chowder\n13\n85\n9.65\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 11 Category: Seafood id category: 8 Merchandise Units Sold Units in Stock Unit Price Ikura 30 31 xxxi Inlagd Sill 20 112 19 Boston Crab Substance 4 123 18. 4 Jack ' s New England Clam Chowder 13 85 9. 65",
+        "Stock Report for 2016 - 11 Family: Seafood id family: 8 Cartesian product Units Sold Units in Stock Unit Price Ikura 30 31 31 Inlagd Sill 20 112 19 Boston Crab Meat 4 123 18. 4 Jack ' s New England Clam Chowder 13 eighty five 9. 65"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-11. Category : Seafood. id category : 8                  Product                Units Sold                 units in StockUnit Price                Ikura                30                31                 31                Inlagd Sill20                112                19                Boston Crab Meat                4                123                18.4  Jack's New England Clam Chowder                13                85                9.65."
+}

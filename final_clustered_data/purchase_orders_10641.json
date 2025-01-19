@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10641.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10641\n2017-08-22\nCarlos Hernández\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n2\nChang\n50\n19\n40\nBoston Crab Meat\n60\n18.4\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10641 2017 - 08 - 22 Carlos Hernández Products Product gem state: Intersection: Amount: Unit Price: 2 Chang 50 19 40 Boston Crab Meat 60 18. 4 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10641 2017 - 08 - 22 Andres martinez Hernández Products Product ID: Ware: Quantity: Unit Price: 2 Chang 50 19 40 Boston Crab Inwardness 60 18. 4 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than just Boston Crab Meat. Buyers can choose from a variety of meat options. The price of each product is determined by the product's weight and weight-in-kilogram figure. Customers can also choose to pay by cash or check. For more information, visit BostonCrab.com."
+}

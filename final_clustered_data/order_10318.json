@@ -1,0 +1,24 @@
+{
+    "filename": "order_10318.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10318\nShipping Details:\nShip Name: Island Trading\nShip Address: Garden House Crowther Way\nShip City: Cowes\nShip Region: British Isles\nShip Postal Code: PO31 7PJ\nShip Country: UK\nCustomer Details:\nCustomer ID: ISLAT\nCustomer Name: Island Trading\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-10-01\nShipped Date: 2016-10-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 20\nUnit Price: 7.7\nTotal: 154.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 6\nUnit Price: 14.4\nTotal: 86.4\nTotal Price:\nTotal Price: 240.4\n",
+    "augmented_texts": [
+        "Ordering ID: 10318 Shipping Details: Ship Name: Island Trading Ship Address: Garden House Crowther Way Ship City: Cowes Ship Region: British Isles Ship Postal Code: PO31 7PJ Ship Country: UK Customer Details: Customer ID: ISLAT Customer Name: Island Trading Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: deuce Shipper Name: United Package Order Details: Order Date: 2016 - 10 - 01 Shipped Date: 2016 - 10 - 04 Ware: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 20 Unit Price: septenary. 7 Aggregate: 154. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 6 Unit Price: 14. 4 Total: eighty six. 4 Full Price: Total Price: 240. 4",
+        "Order idaho: 10318 Shipping Details: Ship Name: Island Trading Ship Address: Garden House Crowther Way Ship City: Cowes Ship Realm: British Isles Ship Postal Code: PO31 7PJ Ship Country: UK Customer Details: Customer ID: ISLAT Customer Name: Island Trading Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Detail: Order Date: 2016 - 10 - 01 Shipped Date: 2016 - 10 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 20 Unit Price: 7. 7 Total: 154. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 6 Unit Price: fourteen. 4 Total: lxxxvi. 4 Entire Price: Total Price: 240. iv"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10318. Ship Address: Garden House Crowther Way, Cowes. Postal Code: PO31 7PJ. Country: UK. Customer: Island Trading. Shipper: United Package. Product: Jack's New England Clam Chowder. Price: 240.4."
+}

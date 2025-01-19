@@ -1,0 +1,24 @@
+{
+    "filename": "order_10412.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10412\nShipping Details:\nShip Name: Wartian Herkku\nShip Address: Torikatu 38\nShip City: Oulu\nShip Region: Scandinavia\nShip Postal Code: 90110\nShip Country: Finland\nCustomer Details:\nCustomer ID: WARTH\nCustomer Name: Wartian Herkku\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-01-13\nShipped Date: 2017-01-15\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 20\nUnit Price: 18.6\nTotal: 372.0\nTotal Price:\nTotal Price: 372.0\n",
+    "augmented_texts": [
+        "Order gem state: 10412 Shipping Details: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship Metropolis: Oulu Ship Realm: Scandinavian peninsula Ship Postal Code: 90110 Ship Country: Finland Customer Details: Customer ID: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 01 - 13 Shipped Date: 2017 - 01 - 15 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Measure: 20 Unit Price: eighteen. 6 Total: 372. 0 Total Price: Full Price: 372. 0",
+        "Order ID: 10412 Ship Details: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Region: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Customer Details: Customer ID: WARTH Client Name: Wartian Herkku Employee Detail: Employee Name: Laura Callahan Shipper Particular: Shipper ID: ii Shipper Name: United Package Order Inside information: Order Date: 2017 - 01 - 13 Shipped Date: 2017 - 01 - 15 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 20 Unit Price: 18. 6 Total: 372. 0 Full Price: Total Price: 372. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10412; Ship Address: Torikatu 38; Postal Code: 90110; Country: Finland; City: Oulu; Region: Scandinavia. Product: Tofu; Quantity: 20; Unit Price: 18.6; Price per unit: 372.0."
+}

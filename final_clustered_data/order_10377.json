@@ -1,0 +1,24 @@
+{
+    "filename": "order_10377.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10377\nShipping Details:\nShip Name: Seven Seas Imports\nShip Address: 90 Wadhurst Rd.\nShip City: London\nShip Region: British Isles\nShip Postal Code: OX15 4NB\nShip Country: UK\nCustomer Details:\nCustomer ID: SEVES\nCustomer Name: Seven Seas Imports\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-09\nShipped Date: 2016-12-13\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Rössle Sauerkraut\nQuantity: 20\nUnit Price: 36.4\nTotal: 728.0\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 20\nUnit Price: 14.4\nTotal: 288.0\nTotal Price:\nTotal Price: 1016.0\n",
+    "augmented_texts": [
+        "Order ID: 10377 Shipping Details: Ship Name: 7 Seas Imports Ship Address: 90 Wadhurst Rd. Ship City: London Ship Area: British Isles Ship Postal Codification: OX15 4NB Ship Country: UK Customer Details: Client ID: SEVES Customer Name: Seven Seas Imports Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal soldier Shipping Order Details: Order Date: 2016 - 12 - 09 Shipped Date: 2016 - 12 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 20 Unit Price: 36. 4 Total: 728. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 20 Unit Price: 14. 4 Total: 288. 0 Total Price: Full Price: 1016. 0",
+        "Order ID: 10377 Shipping Details: Ship Public figure: Seven Seas Imports Ship Address: 90 Wadhurst Rd. Ship City: London Ship Region: British Isles Ship Postal Code: OX15 4NB Ship Country: UK Customer Details: Customer ID: SEVES Customer Name: Seven Seas Signification Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: triplet Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - 09 Shipped Date: 2016 - 12 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 20 Unit Price: 36. 4 Total: 728. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 20 Unit Price: 14. 4 Sum: 288. 0 Total Cost: Total Price: 1016. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10377. Ship Name: Seven Seas ImportsShip Address: 90 Wadhurst Rd.Ship Region: British IslesShip Postal Code: OX15 4NBShip Country: UK.Customer Details: SEVES. Customer name: Nancy Davolio. Shipper: Federal Shipping. Order Date: 2016-12-09."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10614.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10614\nShipping Details:\nShip Name: Blauer See Delikatessen\nShip Address: Forsterstr. 57\nShip City: Mannheim\nShip Region: Western Europe\nShip Postal Code: 68306\nShip Country: Germany\nCustomer Details:\nCustomer ID: BLAUS\nCustomer Name: Blauer See Delikatessen\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-07-29\nShipped Date: 2017-08-01\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 14\nUnit Price: 21.0\nTotal: 294.0\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 8\nUnit Price: 10.0\nTotal: 80.0\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 5\nUnit Price: 18.0\nTotal: 90.0\nTotal Price:\nTotal Price: 464.0\n",
+    "augmented_texts": [
+        "Order ID: 10614 Shipping Details: Ship Name: Blauer See Delikatessen Ship Address: Forsterstr. 57 Ship City: Mannheim Ship Region: Western Europe Ship Postal Code: 68306 Ship Country: Germany Customer Details: Customer ID: BLAUS Customer Name: Blauer See Delikatessen Employee Details: Employee Public figure: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Public figure: Federal Shipping Order Details: Order Date: 2017 - 07 - 29 Shipped Date: 2017 - 08 - 01 Production: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 14 Unit Cost: 21. 0 Total: 294. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scone Quantity: 8 Unit Price: 10. 0 Total: 80. nought - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 5 Unit Price: 18. 0 Total: 90. 0 Total Price: Total Price: 464. 0",
+        "Order ID: 10614 Shipping Details: Ship Name: Blauer See Delikatessen Ship Address: Forsterstr. 57 Ship City: Mannheim Ship Region: Western Europe Ship Postal Code: 68306 Ship Country: Deutschland Customer Details: Customer idaho: BLAUS Client Name: Blauer See Delikatessen Employee Item: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Parliamentary procedure Details: Order Date: 2017 - 07 - 29 Shipped Date: 2017 - 08 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 14 Building block Price: 21. 0 Total: 294. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: octonary Social unit Price: 10. 0 Total: 80. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Paris green verte Quantity: 5 Unit Price: eighteen. 0 Total: 90. 0 Total Price: Total Price: 464. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10614. Ship Name: Blauer See Delikatessen. Address: Forsterstr. 57. Postal Code: 68306. Country: Germany. Customer: BLAUS. Employee: Laura Callahan. Shipper: Federal Shipping. Product: Queso Cabrales."
+}

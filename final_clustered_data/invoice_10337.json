@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10337.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10337\nCustomer ID: FRANK\nOrder Date: 2016-10-24\nCustomer Details:\nContact Name:\nPeter Franken\nAddress:\nBerliner Platz 43\nCity:\nMünchen\nPostal Code:\n80805\nCountry:\nGermany\nPhone:\n089-0877310\nFax:\n089-0877451\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n23\nTunnbröd\n40\n7.2\n26\nGumbär Gummibärchen\n24\n24.9\n36\nInlagd Sill\n20\n15.2\n37\nGravad lax\n28\n20.8\n72\nMozzarella di Giovanni\n25\n27.8\n \n \nTotalPrice\n2467.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Gild ID: 10337 Customer ID: outspoken Order Date: 2016 - 10 - 24 Customer Particular: Contact Name: Prick Franken Address: Berliner Platz 43 City: München Postal Code: 80805 Country: Germany Phone: 089 - 0877310 Fax: 089 - 0877451 Product Details: Product ID Product Name Quantity Social unit Price 23 Tunnbröd 40 7. 2 26 Gumbär Gummibärchen xxiv 24. 9 36 Inlagd Sill 20 15. 2 37 Gravad lax 28 20. octet 72 Mozzarella di Giovanni 25 xxvii. 8 TotalPrice 2467. cipher Page 1",
+        "Invoice Order ID: 10337 Customer ID: FRANK Order Date: 2016 - 10 - 24 Customer Details: Contact Name: Putz Franken Address: Berliner Platz 43 City: München Postal Code: 80805 Country: Federal republic of germany Phone: 089 - 0877310 Fax: 089 - 0877451 Product Details: Product ID Product Epithet Quantity Unit Toll 23 Tunnbröd 40 7. 2 26 Gumbär Gummibärchen two dozen 24. 9 36 Inlagd Sill 20 15. ii 37 Gravad lax 28 20. 8 72 Mozzarella di Giovanni 25 27. 8 TotalPrice 2467. zero Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10337.Customer ID: FRANK. Order Date: 2016-10-24. Customer: Peter Franken. Address: Berliner Platz 43. City: München. Postal Code: 2080805. Country: Germany. Phone:089-0877310.Fax: 0800-877451. Product Name: Gumbär Gummibärchen."
+}

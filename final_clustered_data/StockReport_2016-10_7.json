@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-10_7.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-10 \n Category : Produce  \n id category : 7  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nTofu\n19\n35\n23.25\nRössle Sauerkraut\n14\n26\n45.6\nManjimup Dried Apples\n48\n20\n53\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 10 Category: Produce id category: 7 Product Units Sold Units in Ancestry Unit of measurement Price Tofu 19 35 23. twenty five Rössle Sauerkraut 14 26 45. 6 Manjimup Dried Apples 48 xx 53",
+        "Stock Report for 2016 - 10 Category: Produce id category: 7 Product Unit Sold Units in Stock Unit Leontyne price Tofu 19 35 23. 25 Rössle Sauerkraut 14 26 45. 6 Manjimup Dried Apples 48 20 53"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-10. Category : Produce. id category : 7                   Product: \"Tofu\" Category:  \"Rössle Sauerkraut\"Category:  \"Manjimup Dried Apples\" category: 'Dried apples'"
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10500.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10500\nCustomer ID: LAMAI\nOrder Date: 2017-04-09\nCustomer Details:\nContact Name:\nAnnette Roulet\nAddress:\n1 rue Alsace-Lorraine\nCity:\nToulouse\nPostal Code:\n31000\nCountry:\nFrance\nPhone:\n61.77.61.10\nFax:\n61.77.61.11\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n15\nGenen Shouyu\n12\n15.5\n28\nRössle Sauerkraut\n8\n45.6\n \n \nTotalPrice\n550.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10500 Customer ID: LAMAI Order Date: 2017 - 04 - 09 Customer Details: Contact Name: Annette Roulet Address: 1 rue Alsace - Lorraine Urban center: Toulouse Postal Code: 31000 Country: France Phone: 61. 77. 61. 10 Fax: 61. 77. 61. 11 Product Contingent: Product idaho Product Name Quantity Unit Price xv Genen Shouyu 12 15. 5 28 Rössle Sauerkraut 8 45. 6 TotalPrice 550. 8 Page 1",
+        "Invoice Order ID: 10500 Customer ID: LAMAI Order Date: 2017 - 04 - 09 Customer Details: Contact Name: Annette Roulet Address: 1 rue Alsace - Lorraine City: Toulouse Postal Code: 31000 Country: France Phone: 61. 77. lxi. 10 Fax: lxi. 77. 61. eleven Product Point: Product ID Product Name Quantity Unit Price 15 Genen Shouyu 12 15. cinque 28 Rössle Sauerkraut 8 45. vi TotalPrice 550. octad Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10500.Customer ID: LAMAI. Order Date: 2017-04-09. Customer: Annette Roulet. Address: 1 rue Alsace-Lorraine, Toulouse. Postal Code: 31000. Country: France. Price: $550."
+}

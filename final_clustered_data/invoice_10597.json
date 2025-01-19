@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10597.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10597\nCustomer ID: PICCO\nOrder Date: 2017-07-11\nCustomer Details:\nContact Name:\nGeorg Pipps\nAddress:\nGeislweg 14\nCity:\nSalzburg\nPostal Code:\n5020\nCountry:\nAustria\nPhone:\n6562-9722\nFax:\n6562-9723\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n24\nGuaraná Fantástica\n35\n4.5\n57\nRavioli Angelo\n20\n19.5\n65\nLouisiana Fiery Hot Pepper Sauce\n12\n21.05\n \n \nTotalPrice\n800.1\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10597 Customer ID: PICCO Order Date: 2017 - 07 - 11 Customer Details: Contact Name: Georg Pipps Name and address: Geislweg 14 City: Salzburg Postal Code: 5020 Res publica: Austria Phone: 6562 - 9722 Facsimile machine: 6562 - 9723 Product Details: Product ID Product Name Quantity Unit Price 24 Guaraná Fantástica 35 4. 5 57 Ravioli Angelo 20 19. pentad 65 La Fiery Hot Pepper Sauce 12 21. 05 TotalPrice 800. 1 Page 1",
+        "Invoice Order ID: 10597 Customer ID: PICCO Order of magnitude Date: 2017 - 07 - 11 Customer Details: Contact Name: Georg Pipps Address: Geislweg xiv City: Salzburg Postal Code: 5020 Country: Austria Phone: 6562 - 9722 Fax: 6562 - 9723 Product Details: Product ID Product Name Quantity Unit Price 24 Guaraná Fantástica 35 4. 5 57 Ravioli Angelo twenty 19. 5 65 Louisiana Fiery Hot Pepper Sauce 12 21. 05 TotalPrice 800. 1 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10597.Customer: PICCO. Order Date: 2017-07-11. Customer Name: Georg Pipps. Product: Louisiana Fiery Hot Pepper Sauce. Price: $800.1.Product ID: \"Louisiana\"Product Name Quantity: 1.5lb."
+}

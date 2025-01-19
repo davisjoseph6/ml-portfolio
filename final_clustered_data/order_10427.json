@@ -1,0 +1,24 @@
+{
+    "filename": "order_10427.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10427\nShipping Details:\nShip Name: Piccolo und mehr\nShip Address: Geislweg 14\nShip City: Salzburg\nShip Region: Western Europe\nShip Postal Code: 5020\nShip Country: Austria\nCustomer Details:\nCustomer ID: PICCO\nCustomer Name: Piccolo und mehr\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-01-27\nShipped Date: 2017-03-03\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 35\nUnit Price: 18.6\nTotal: 651.0\nTotal Price:\nTotal Price: 651.0\n",
+    "augmented_texts": [
+        "Purchase order ID: 10427 Shipping Details: Ship Name: Piccolo und mehr Ship Address: Geislweg 14 Ship City: Salzburg Ship Region: Western Europe Ship Postal Code: 5020 Ship Country: Austria Customer Details: Customer idaho: PICCO Customer Name: Piccolo und mehr Employee Details: Employee Public figure: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Figure: United Package Order Details: Order Date: 2017 - 01 - 27 Shipped Date: 2017 - 03 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 35 Unit Price: 18. vi Total: 651. 0 Total Price: Total Cost: 651. cipher",
+        "Order ID: 10427 Shipping Details: Ship Figure: Piccolo und mehr Ship Address: Geislweg fourteen Ship City: Salzburg Ship Region: Western Europe Ship Postal Code: 5020 Ship Country: Austria Customer Details: Customer ID: PICCO Client Name: Piccolo und mehr Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Parcel Order Details: Purchase order Date: 2017 - 01 - 27 Shipped Date: 2017 - 03 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Tofu Quantity: 35 Unit Price: 18. 6 Total: 651. 0 Total Price: Total Toll: 651. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10427. Order Name: Piccolo und mehr. Ship Address: Geislweg 14. Postal Code: 5020. Country: Austria. Shipper: PICCO. Product: Tofu. Unit Price: 18.6 pounds. Price per unit: 651.0 euros."
+}

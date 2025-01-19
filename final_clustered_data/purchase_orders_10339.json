@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10339.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10339\n2016-10-28\nJean Fresnière\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n4\nChef Anton's Cajun Seasoning\n10\n17.6\n17\nAlice Mutton\n70\n31.2\n62\nTarte au sucre\n28\n39.4\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10339 2016 - 10 - 28 Jean Fresnière Products Product idaho: Product: Quantity: Unit Mary leontyne price: 4 Chef Anton ' s Cajun Seasoning x 17. 6 17 Alice Mutton lxx 31. ii 62 Tarte gold sucre 28 39. 4 Page 1",
+        "Purchase Purchase order Order ID Order Date Customer Name 10339 2016 - 10 - 28 Jean Fresnière Products Product ID: Product: Measure: Unit Price: 4 Chef Anton ' sulfur Cajun Flavouring 10 17. 6 17 Alice Mutton 70 31. 2 sixty two Tarte au sucre 28 39. 4 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than one product. The product ID:Product: Quantity: Unit Price: $4.4 per serving. Customers can choose to pay by cash or by credit card. For more information, visit www.chef Anton's Cajun Seasoning.com."
+}

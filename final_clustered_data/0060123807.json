@@ -1,0 +1,12 @@
+{
+    "filename": "0060123807.jpg",
+    "metadata": {},
+    "text": "The.\nResponse,\nCenter, Ine.\n“When decisions demand research excellence”\n\n \n\nmabe\n\n‘Time End:\n\ni\n\nHello, my name is _ and I'm calling from The Response Center, a nationally\n‘known market research frm Tocated at the Science Center in Philadelphia. Today, we\nare conducting a survey in your area and I would like to include your opinions.\n\n1, Are you 21 years of age or older?\nNes [CONTINUE] 1\nio\n[ASK FOR SOMEONE IN HOUSEHOLD WHO IS 21 OR OLDER. IF NONE\nAVAILABLE ARRANGE CALLBACK; IF NONE IN HOUSEHOLD, TERMINATE\nAND RECORD TQ1)\n1a, Record Sex\n\nMale 1\nFemale 2\n\n \n\n3047 PAGE.aB2\n\nrr\n\n     \n\f",
+    "augmented_texts": [
+        "The. Reply, Center, Ine. “ When decisions demand research excellence ” mabe ‘ Time End: single Hello, my name is _ and I ' m address from The Response Center, a nationally ‘ known market research frm Tocated at the Science Center in Philadelphia. Today, we are comport a survey in your area and I would like to include your opinions. 1, Are you 21 age of age or older? Nes [CONTINUE] 1 io [ASK FOR SOMEONE IN HOUSEHOLD WHO IS 21 OR OLDER. IF NONE AVAILABLE ARRANGE CALLBACK; IF NONE IN HOUSEHOLD, TERMINATE AND disc TQ1) 1a, Record book Sex Male 1 Female 2 3047 PAGE. aB2 rr",
+        "The. Response, Center, Ine. “ When decisions demand research excellence ” mabe ‘ Time End: i Hello, my gens is _ and I ' m calling from The Response Center, a nationally ‘ known grocery store research frm Tocated at the Science Center in Philadelphia. Today, we are conducting a survey in your area and I would care to include your opinions. 1, Are you 21 years of age or older? Nes [CONTINUE] 1 io [ASK FOR individual IN HOUSEHOLD WHO IS 21 OR OLDER. IF NONE AVAILABLE ARRANGE CALLBACK; IF NONE IN HOUSEHOLD, TERMINATE AND RECORD TQ1) 1a, Record Sex Male 1 Female 2 3047 pageboy. aB2 rr"
+    ],
+    "predicted_cluster": 0,
+    "predicted_label": "cluster_0",
+    "summary": "The Response Center, a nationally renowned market research frm Philadelphia, is conducting a survey in your area. If you are 21 years of age or older, please call 1-800-273-8255 and ask for someone in the household who is that age. You can also send a text message if you have a question."
+}

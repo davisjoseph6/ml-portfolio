@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10556.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10556\n2017-06-03\nJytte Petersen\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n72\nMozzarella di Giovanni\n24\n34.8\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Rate ID Order Date Customer Name 10556 2017 - 06 - 03 Jytte Petersen Product Product ID: Product: Quantity: Unit Price: 72 Mozzarella di Giovanni 24 xxxiv. 8 Page 1",
+        "Leverage Orders Rank ID Order Date Customer Name 10556 2017 - 06 - 03 Jytte Petersen Products Product ID: Product: Quantity: Unit Price: seventy two Mozzarella di Giovanni 24 34. 8 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass a range of products and prices. Customers can order products online and pay by credit card. Products can be purchased online or by cash or check. For more information, go to www.jytte Petersen.com and click on the \"Products\" tab."
+}

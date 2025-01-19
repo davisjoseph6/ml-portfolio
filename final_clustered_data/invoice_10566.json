@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10566.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10566\nCustomer ID: BLONP\nOrder Date: 2017-06-12\nCustomer Details:\nContact Name:\nFrédérique Citeaux\nAddress:\n24, place Kléber\nCity:\nStrasbourg\nPostal Code:\n67000\nCountry:\nFrance\nPhone:\n88.60.15.31\nFax:\n88.60.15.32\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n11\nQueso Cabrales\n35\n21.0\n18\nCarnarvon Tigers\n18\n62.5\n76\nLakkalikööri\n10\n18.0\n \n \nTotalPrice\n2040.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order idaho: 10566 Customer ID: BLONP Order Date: 2017 - 06 - 12 Customer Details: Contact Name: Frédérique Citeaux Address: 24, place Kléber City: Strasbourg Postal Code: 67000 Country: France Phone: eighty eight. 60. 15. 31 Facsimile machine: 88. lx. 15. xxxii Product Detail: Product ID Intersection Name Quantity Unit Price 11 Queso Cabrales 35 21. 0 18 Carnarvon Tigers 18 62. 5 76 Lakkalikööri 10 18. 0 TotalPrice 2040. 0 Page 1",
+        "Invoice Society ID: 10566 Client gem state: BLONP Order Date: 2017 - 06 - xii Customer Details: Contact Name: Frédérique Citeaux Address: 24, place Kléber City: Strasbourg Postal Code: 67000 Country: France Phone: 88. 60. 15. 31 Fax: 88. 60. 15. 32 Product Particular: Product ID Product Name Quantity Unit Price eleven Queso Cabrales 35 21. 0 18 Carnarvon Tigers 18 62. 5 76 Lakkalikööri 10 18. cipher TotalPrice 2040. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10566.Customer ID: BLONP. Order Date: 2017-06-12. Customer Details: 2040.0.Product Name: \"Carnarvon Tigers\" Price: $62.576.10. Total Price is $2040,000."
+}

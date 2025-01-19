@@ -1,0 +1,24 @@
+{
+    "filename": "order_10314.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10314\nShipping Details:\nShip Name: Rattlesnake Canyon Grocery\nShip Address: 2817 Milton Dr.\nShip City: Albuquerque\nShip Region: North America\nShip Postal Code: 87110\nShip Country: USA\nCustomer Details:\nCustomer ID: RATTC\nCustomer Name: Rattlesnake Canyon Grocery\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-09-25\nShipped Date: 2016-10-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Mascarpone Fabioli\nQuantity: 40\nUnit Price: 25.6\nTotal: 1024.0\n--------------------------------------------------------------------------------------------------\nProduct: Escargots de Bourgogne\nQuantity: 30\nUnit Price: 10.6\nTotal: 318.0\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 25\nUnit Price: 39.4\nTotal: 985.0\nTotal Price:\nTotal Price: 2327.0\n",
+    "augmented_texts": [
+        "Order ID: 10314 Shipping Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship City: Albuquerque Ship Neighborhood: North America Ship Postal Code: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Customer Public figure: Rattlesnake Canyon Grocery Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 25 Shipped Date: 2016 - 10 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Mascarpone Fabioli Quantity: 40 Unit Price: 25. hexad Total: 1024. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Escargot de Bourgogne Amount: 30 Unit Price: 10. 6 Total: 318. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Measure: 25 Unit Leontyne price: 39. 4 Total: 985. 0 Total Price: Total Price: 2327. 0",
+        "Order ID: 10314 Shipping Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship City: Albuquerque Ship Neighborhood: North The states Ship Postal Code: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Customer Name: Rattlesnake Canyon Grocery Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 25 Shipped Date: 2016 - 10 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mascarpone Fabioli Quantity: 40 Unit Price: 25. 6 Total: 1024. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Escargots de Burgundy Quantity: 30 Unit Price: 10. 6 Sum: 318. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 25 Unit Price: 39. quatern Total: 985. cypher Total Price: Total Price: 2327. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10314. Order Name: Rattlesnake Canyon Grocery. Ship Address: 2817 Milton Dr. in Albuquerque, New Mexico. Postal Code: 87110. Customers: RATTC, Nancy Davolio. Shipper: United Package. Products: Mascarpone Fabioli."
+}

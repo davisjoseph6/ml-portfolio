@@ -1,0 +1,24 @@
+{
+    "filename": "order_10252.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10252\nShipping Details:\nShip Name: Suprêmes délices\nShip Address: Boulevard Tirou, 255\nShip City: Charleroi\nShip Region: Western Europe\nShip Postal Code: B-6000\nShip Country: Belgium\nCustomer Details:\nCustomer ID: SUPRD\nCustomer Name: Suprêmes délices\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-07-09\nShipped Date: 2016-07-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Marmalade\nQuantity: 40\nUnit Price: 64.8\nTotal: 2592.0\n--------------------------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 25\nUnit Price: 2.0\nTotal: 50.0\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 40\nUnit Price: 27.2\nTotal: 1088.0\nTotal Price:\nTotal Price: 3730.0\n",
+    "augmented_texts": [
+        "Order ID: 10252 Shipping Details: Ship Name: Suprêmes délices Ship Address: Boulevard Tirou, 255 Ship Urban center: Charleroi Ship Region: Western Eec Ship Postal Code: B - 6000 Ship Country: Belgium Customer Details: Customer ID: SUPRD Customer Epithet: Suprêmes délices Employee Particular: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Society Details: Order Date: 2016 - 07 - 09 Shipped Date: 2016 - 07 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Marmalade Quantity: 40 Unit Price: 64. 8 Total: 2592. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 25 Unit Price: 2. 0 Total: 50. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 40 Social unit Price: 27. 2 Total: 1088. 0 Total Price: Total Price: 3730. nought",
+        "Order ID: 10252 Shipping Details: Ship Name: Suprêmes délices Ship Address: Boulevard Tirou, 255 Ship City: Charleroi Ship Region: Western Europe Ship Postal Code: Bel - 6000 Ship Country: Belgium Customer Details: Customer ID: SUPRD Customer Name: Suprêmes délices Employee Details: Employee Name: Margaret Peacock Shipper Particular: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 07 - 09 Shipped Date: 2016 - 07 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' sec Marmalade Quantity: 40 Unit Price: 64. 8 Total: 2592. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 25 Unit Price: 2. 0 Total: 50. nought - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 40 Unit Price: 27. 2 Total: 1088. 0 Total Price: Total Price: 3730. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10252. Ship Name: Suprêmes délicesShip Address: Boulevard Tirou, 255.Ship City: CharleroiShip Region: Western Europe. Postal Code: B-6000Ship Country: Belgium.Customer Details: encompassesCustomer IDs: SUPRD."
+}

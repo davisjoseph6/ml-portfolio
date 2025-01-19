@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10449.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10449\nCustomer ID: BLONP\nOrder Date: 2017-02-18\nCustomer Details:\nContact Name:\nFrédérique Citeaux\nAddress:\n24, place Kléber\nCity:\nStrasbourg\nPostal Code:\n67000\nCountry:\nFrance\nPhone:\n88.60.15.31\nFax:\n88.60.15.32\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n10\nIkura\n14\n24.8\n52\nFilo Mix\n20\n5.6\n62\nTarte au sucre\n35\n39.4\n \n \nTotalPrice\n1838.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10449 Customer ID: BLONP Order Date: 2017 - 02 - 18 Client Details: Contact Name: Frédérique Citeaux Address: 24, place Kléber City: Strasbourg Postal Code: 67000 Res publica: French republic Phone: 88. 60. fifteen. 31 Facsimile: eighty eight. 60. 15. 32 Product Details: Product ID Product Name Quantity Unit Price 10 Ikura 14 24. 8 lii Filo Mix 20 5. 6 62 Tarte au sucre 35 39. 4 TotalPrice 1838. 2 Sir frederick handley page 1",
+        "Invoice Fiat ID: 10449 Customer ID: BLONP Order Date: 2017 - 02 - 18 Customer Details: Contact Name: Frédérique Citeaux Address: twenty four, place Kléber City: Strasbourg Postal Code: 67000 Country: France Phone: 88. 60. 15. 31 Fax: 88. 60. fifteen. 32 Product Details: Product gem state Product Name Quantity Unit Leontyne price 10 Ikura 14 24. 8 52 Filo Admixture 20 5. 6 62 Tarte atomic number 79 sucre 35 39. 4 TotalPrice 1838. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 10449 grotesquely-pronounced \"BLONP\" Order Date: 2017-02-18. Order Name: \"Frédérique Citeaux\" Customer Name is \"Citeau de Strasbourg\" Product Details: Product ID, Product Name, Unit Price, Price and Mix."
+}

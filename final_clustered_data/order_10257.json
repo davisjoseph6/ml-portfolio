@@ -1,0 +1,24 @@
+{
+    "filename": "order_10257.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10257\nShipping Details:\nShip Name: HILARION-Abastos\nShip Address: Carrera 22 con Ave. Carlos Soublette #8-35\nShip City: San Cristóbal\nShip Region: South America\nShip Postal Code: 5022\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: HILAA\nCustomer Name: HILARION-Abastos\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-07-16\nShipped Date: 2016-07-22\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Schoggi Schokolade\nQuantity: 25\nUnit Price: 35.1\nTotal: 877.5\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 6\nUnit Price: 14.4\nTotal: 86.4\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 15\nUnit Price: 10.4\nTotal: 156.0\nTotal Price:\nTotal Price: 1119.9\n",
+    "augmented_texts": [
+        "Order ID: 10257 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # ogdoad - 35 Ship City: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper gem state: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 07 - 16 Shipped Date: 2016 - 07 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Schoggi Schokolade Quantity: 25 Unit Damage: 35. 1 Total: 877. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 6 Unit Price: 14. 4 Total: eighty six. tetrad - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 15 Unit Price: ten. 4 Total: 156. 0 Total Price: Total Price: 1119. 9",
+        "Order ID: 10257 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera twenty two con Ave. Carlos Soublette # octet - 35 Ship City: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship State: Venezuela Customer Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal official Shipping Order Details: Order Date: 2016 - 07 - sixteen Shipped Date: 2016 - 07 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Schoggi Schokolade Quantity: 25 Unit Price: 35. 1 Total: 877. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: sestet Unit Price: 14. 4 Total: 86. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Amount: 15 Unit Price: 10. 4 Total: 156. 0 Total Price: Total Price: 1119. 9"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10257. Ship Name: HILARION-Abastos. Address: Carrera 22 con Ave. Carlos Soublette #8-35. Postal Code: 5022. Country: Venezuela. Customer: Margaret Peacock. Shipper: Federal Shipping."
+}

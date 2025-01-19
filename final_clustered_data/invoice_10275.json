@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10275.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10275\nCustomer ID: MAGAA\nOrder Date: 2016-08-07\nCustomer Details:\nContact Name:\nGiovanni Rovelli\nAddress:\nVia Ludovico il Moro 22\nCity:\nBergamo\nPostal Code:\n24100\nCountry:\nItaly\nPhone:\n035-640230\nFax:\n035-640231\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n24\nGuaraná Fantástica\n12\n3.6\n59\nRaclette Courdavault\n6\n44.0\n \n \nTotalPrice\n307.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10275 Customer ID: MAGAA Order Date: 2016 - 08 - 07 Customer Details: Contact Name: Giovanni Rovelli Address: Via Ludovico il Moro 22 City: Bergamo Postal Code: 24100 Country: Italy Headphone: 035 - 640230 Fax: 035 - 640231 Product Details: Ware i.d. Product Name Quantity Social unit Price xxiv Guaraná Fantástica 12 3. 6 59 Raclette Courdavault 6 44. 0 TotalPrice 307. 2 Page 1",
+        "Invoice Order ID: 10275 Customer ID: MAGAA Order Appointment: 2016 - 08 - 07 Customer Details: Contact Figure: Giovanni Rovelli Reference: Via Ludovico il Moro 22 City: Bergamo Postal Code: 24100 Country: Italy Phone: 035 - 640230 Fax: 035 - 640231 Product Particular: Product ID Product Name Quantity Unit Price 24 Guaraná Fantástica 12 3. 6 59 Raclette Courdavault 6 44. cypher TotalPrice 307. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10275.Customer ID: MAGAA. Order Date: 2016-08-07. Customers: Giovanni Rovelli, Raclette Courdavault. Product Name: Guaraná Fantástica. Unit Price: 24.6 pounds."
+}

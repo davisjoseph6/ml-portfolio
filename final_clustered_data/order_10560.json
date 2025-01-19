@@ -1,0 +1,24 @@
+{
+    "filename": "order_10560.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10560\nShipping Details:\nShip Name: Frankenversand\nShip Address: Berliner Platz 43\nShip City: München\nShip Region: Western Europe\nShip Postal Code: 80805\nShip Country: Germany\nCustomer Details:\nCustomer ID: FRANK\nCustomer Name: Frankenversand\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-06-06\nShipped Date: 2017-06-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Nord-Ost Matjeshering\nQuantity: 20\nUnit Price: 25.89\nTotal: 517.8\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 15\nUnit Price: 49.3\nTotal: 739.5\nTotal Price:\nTotal Price: 1257.3\n",
+    "augmented_texts": [
+        "Order ID: 10560 Shipping Details: Ship Name: Frankenversand Ship Address: Berliner Platz 43 Ship City: München Ship Region: Western Europe Ship Postal Code: 80805 Ship Land: Germany Customer Details: Customer ID: FRANK Customer Public figure: Frankenversand Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 06 - 06 Shipped Date: 2017 - 06 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Nord - Ost Matjeshering Quantity: 20 Unit Price: xxv. 89 Total: 517. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 15 Unit Price: 49. 3 Total: 739. 5 Total Damage: Total Price: 1257. 3",
+        "Order ID: 10560 Shipping Details: Ship Name: Frankenversand Ship Address: Berliner Platz 43 Ship City: München Ship Region: Western Europe Ship Postal Code: 80805 Ship Country: Germany Customer Detail: Customer idaho: FRANK Customer Name: Frankenversand Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 06 - 06 Shipped Date: 2017 - 06 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Nord - Ost Matjeshering Quantity: 20 Building block Price: 25. 89 Total: 517. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 15 Unit of measurement Monetary value: 49. 3 Total: 739. 5 Total Price: Total Price: 1257. 3"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10560. Order Name: Frankenversand. Ship Address: Berliner Platz 43. Postal Code: 80805. Country: Germany. Customers: FRANK, Laura Callahan. Shipper: Speedy Express. Products: Tarte au sucre. Price: 1257.3."
+}

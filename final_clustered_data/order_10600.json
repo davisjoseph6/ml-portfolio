@@ -1,0 +1,24 @@
+{
+    "filename": "order_10600.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10600\nShipping Details:\nShip Name: Hungry Coyote Import Store\nShip Address: City Center Plaza 516 Main St.\nShip City: Elgin\nShip Region: North America\nShip Postal Code: 97827\nShip Country: USA\nCustomer Details:\nCustomer ID: HUNGC\nCustomer Name: Hungry Coyote Import Store\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-07-16\nShipped Date: 2017-07-21\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 4\nUnit Price: 7.45\nTotal: 29.8\n--------------------------------------------------------------------------------------------------\nProduct: Röd Kaviar\nQuantity: 30\nUnit Price: 15.0\nTotal: 450.0\nTotal Price:\nTotal Price: 479.8\n",
+    "augmented_texts": [
+        "Order ID: 10600 Shipping Details: Ship Name: Hungry Coyote Import Store Ship Reference: City Center Plaza 516 Main St. Ship City: Elgin Ship Region: North America Ship Postal Code: 97827 Ship Country: USA Client Details: Customer ID: HUNGC Customer Name: Hungry Prairie wolf Import Store Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 07 - 16 Shipped Date: 2017 - 07 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 4 Unit Price: 7. 45 Amount: 29. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Röd Kaviar Quantity: thirty Unit Price: fifteen. 0 Amount: 450. 0 Total Price: Entire Cost: 479. 8",
+        "Order ID: 10600 Shipping Details: Ship Name: Hungry Coyote Import Store Ship Address: City Center Plaza 516 Main St. Ship City: Elgin Ship Region: North America Ship Postal Code: 97827 Ship Country: USA Customer Details: Customer ID: HUNGC Customer Gens: Hungry Canis latrans Import Store Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Rules of order Details: Order Date: 2017 - 07 - xvi Shipped Appointment: 2017 - 07 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 4 Unit Price: 7. 45 Aggregate: 29. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Röd Kaviar Quantity: 30 Unit Price: 15. 0 Total: 450. 0 Total Price: Total Price: 479. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10600. Ship Address: City Center Plaza 516 Main St. Elgin, Canada. Postal Code: 97827. Country: USA. Customer: Hungry Coyote Import Store. Employee: Margaret Peacock. Shipper: Speedy Express. Product: Tourtière."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10460.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10460\nCustomer ID: FOLKO\nOrder Date: 2017-02-28\nCustomer Details:\nContact Name:\nMaria Larsson\nAddress:\nÅkergatan 24\nCity:\nBräcke\nPostal Code:\nS-844 67\nCountry:\nSweden\nPhone:\n0695-34 67 21\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n68\nScottish Longbreads\n21\n10.0\n75\nRhönbräu Klosterbier\n4\n6.2\n \n \nTotalPrice\n234.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Holy order gem state: 10460 Customer ID: FOLKO Parliamentary procedure Date: 2017 - 02 - 28 Customer Details: Contact Name: Maria Larsson Address: Åkergatan twenty four City: Bräcke Postal Code: Entropy - 844 67 Res publica: Sweden Phone: 0695 - 34 67 21 Fax: None Product Details: Product ID Product Name Quantity Unit Price 68 Scots english Longbreads 21 10. 0 75 Rhönbräu Klosterbier 4 6. 2 TotalPrice 234. 8 Page 1",
+        "Invoice Order ID: 10460 Customer ID: FOLKO Order Date: 2017 - 02 - 28 Customer Details: Contact Epithet: Maria Larsson Address: Åkergatan 24 City: Bräcke Postal Code: S - 844 67 Commonwealth: Sweden Phone: 0695 - 34 67 21 Fax: None Product Details: Production ID Product Name Quantity Unit Price 68 Scottish Longbreads twenty one decade. 0 75 Rhönbräu Klosterbier 4 6. 2 TotalPrice 234. 8 Page one"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: FOLKO. Order Date: 2017-02-28.Customer Details: contact. name, address, phone number, fax number. Product Name Quantity: Scottish Longbreads. Unit Price: $234.8. Price per pound: £10.2. Total Price for the entire package is $233.4."
+}

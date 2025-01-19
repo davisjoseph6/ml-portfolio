@@ -1,0 +1,24 @@
+{
+    "filename": "order_10395.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10395\nShipping Details:\nShip Name: HILARION-Abastos\nShip Address: Carrera 22 con Ave. Carlos Soublette #8-35\nShip City: San Cristóbal\nShip Region: South America\nShip Postal Code: 5022\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: HILAA\nCustomer Name: HILARION-Abastos\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-12-26\nShipped Date: 2017-01-03\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Spegesild\nQuantity: 28\nUnit Price: 9.6\nTotal: 268.8\n--------------------------------------------------------------------------------------------------\nProduct: Perth Pasties\nQuantity: 70\nUnit Price: 26.2\nTotal: 1834.0\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 8\nUnit Price: 28.8\nTotal: 230.4\nTotal Price:\nTotal Price: 2333.2\n",
+    "augmented_texts": [
+        "Order ID: 10395 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship Urban center: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 1 Shipper Name: Speedy Expressage Order Details: Order Date: 2016 - 12 - 26 Shipped Date: 2017 - 01 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Spegesild Quantity: 28 Unit Price: 9. 6 Total: 268. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 70 Unit Damage: twenty six. 2 Total: 1834. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 8 Unit Price: twenty eight. 8 Total: 230. 4 Total Price: Total Price: 2333. 2",
+        "Order ID: 10395 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: South The states Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Customer idaho: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 12 - 26 Shipped Date: 2017 - 01 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Spegesild Quantity: 28 Unit Price: ennead. 6 Total: 268. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasty Quantity: 70 Unit Price: 26. 2 Total: 1834. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 8 Unit Price: 28. 8 Totality: 230. 4 Total Price: Total Damage: 2333. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10395. Ship Address: Carrera 22 con Ave. Carlos Soublette #8-35, San Cristóbal. Postal Code: 5022. Country: Venezuela. Customer: HILARION-Abastos. Employee: Michael Suyama. Shipper: Speedy Express."
+}

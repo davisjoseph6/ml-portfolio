@@ -1,0 +1,24 @@
+{
+    "filename": "order_10358.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10358\nShipping Details:\nShip Name: La maison d-Asie\nShip Address: 1 rue Alsace-Lorraine\nShip City: Toulouse\nShip Region: Western Europe\nShip Postal Code: 31000\nShip Country: France\nCustomer Details:\nCustomer ID: LAMAI\nCustomer Name: La maison d'Asie\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-11-20\nShipped Date: 2016-11-27\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 10\nUnit Price: 3.6\nTotal: 36.0\n--------------------------------------------------------------------------------------------------\nProduct: Sasquatch Ale\nQuantity: 10\nUnit Price: 11.2\nTotal: 112.0\n--------------------------------------------------------------------------------------------------\nProduct: Inlagd Sill\nQuantity: 20\nUnit Price: 15.2\nTotal: 304.0\nTotal Price:\nTotal Price: 452.0\n",
+    "augmented_texts": [
+        "Order ID: 10358 Shipping Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Part: Western Europe Ship Postal Code: 31000 Ship Country: France Customer Particular: Customer ID: LAMAI Customer Name: La maison d ' Asie Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - xi - 20 Shipped Date: 2016 - 11 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 10 Unit Price: 3. half a dozen Total: 36. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 10 Unit Price: 11. 2 Total: 112. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 20 Unit Price: 15. 2 Total: 304. 0 Total Price: Total Price: 452. 0",
+        "Order ID: 10358 Shipping Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Country: France Client Details: Customer ID: LAMAI Customer Gens: La maison five hundred ' Asie Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 11 - twenty Shipped Date: 2016 - 11 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 10 Unit Price: 3. 6 Total: 36. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 10 Unit Price: 11. 2 Total: 112. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 20 Unit Price: 15. deuce Total: 304. 0 Total Price: Total Price: 452. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10358. Order Name: La maison d-Asie. Ship Address: 1 rue Alsace-Lorraine, Toulouse. Postal Code: 31,000. Country: France. Customer: LAMAI. Employee: Steven Buchanan. Shipper: Speedy Express."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10613.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10613\nShipping Details:\nShip Name: HILARION-Abastos\nShip Address: Carrera 22 con Ave. Carlos Soublette #8-35\nShip City: San Cristóbal\nShip Region: South America\nShip Postal Code: 5022\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: HILAA\nCustomer Name: HILARION-Abastos\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-07-29\nShipped Date: 2017-08-01\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Konbu\nQuantity: 8\nUnit Price: 6.0\nTotal: 48.0\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 40\nUnit Price: 7.75\nTotal: 310.0\nTotal Price:\nTotal Price: 358.0\n",
+    "augmented_texts": [
+        "Order ID: 10613 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: South U.s. Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper i.d.: 2 Shipper Name: United Package Order Details: Rescript Date: 2017 - 07 - 29 Shipped Date: 2017 - 08 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 8 Unit Price: 6. 0 Sum: 48. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Rhönbräu Klosterbier Quantity: 40 Unit Price: 7. 75 Total: 310. zero Total Price: Total Toll: 358. 0",
+        "Order ID: 10613 Ship Detail: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship Country: Venezuela Client Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 07 - 29 Shipped Date: 2017 - 08 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Konbu Quantity: eight Unit Price: 6. 0 Total: 48. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 40 Building block Price: 7. 75 Aggregate: 310. 0 Total Price: Total Damage: 358. zero"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10613.Ship Name: HILARION-Abastos. Ship Address: Carrera 22 con Ave. Carlos Soublette #8-35, San Cristóbal, Venezuela. Postal Code: 5022. Country: Venezuela, Region: South America. Customer: Margaret Peacock."
+}

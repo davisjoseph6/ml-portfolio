@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-03_6.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-03 \n Category : Meat/Poultry  \n id category : 6  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nThüringer Rostbratwurst\n18\n0\n123.79\nPerth Pasties\n28\n0\n32.8\nTourtière\n24\n21\n7.45\nPâté chinois\n32\n115\n24\n",
+    "augmented_texts": [
+        "Stock Report for 2017 - 03 Family: Meat / Fowl id class: 6 Product Units Sold Units in Stock Unit Price Thüringer Rostbratwurst 18 0 123. 79 Perth Pasties 28 0 32. 8 Tourtière 24 21 7. 45 Pâté chinois 32 115 twenty four",
+        "Stock Report for 2017 - 03 Family: Meat / Poultry id category: 6 Product Units Sold Units in Stock Unit Toll Thüringer Rostbratwurst 18 0 123. 79 Perth Pasty 28 0 32. octonary Tourtière 24 21 7. 45 Pâté chinois 32 115 24"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-03. Category : Meat/Poultry. id category : 6                  Product                Units Sold                                  Price                                     % of Stock. Price per unit:  $1.79."
+}

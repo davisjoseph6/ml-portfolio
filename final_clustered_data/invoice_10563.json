@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10563.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10563\nCustomer ID: RICAR\nOrder Date: 2017-06-10\nCustomer Details:\nContact Name:\nJanete Limeira\nAddress:\nAv. Copacabana, 267\nCity:\nRio de Janeiro\nPostal Code:\n02389-890\nCountry:\nBrazil\nPhone:\n(21) 555-3412\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n36\nInlagd Sill\n25\n19.0\n52\nFilo Mix\n70\n7.0\n \n \nTotalPrice\n965.0\nPage 1\n",
+    "augmented_texts": [
+        "Account Order i.d.: 10563 Client ID: RICAR Order Date: 2017 - 06 - 10 Customer Details: Contact Name: Janete Limeira Address: Ab. Copacabana, 267 City: Rio de Janeiro Postal Code: 02389 - 890 Country: Federative republic of brazil Phone: (21) 555 - 3412 Facsimile machine: None Product Details: Product ID Product Name Quantity Unit Monetary value 36 Inlagd Sill 25 19. 0 52 Filo Mix 70 7. 0 TotalPrice 965. 0 Page 1",
+        "Invoice Order ID: 10563 Customer i.d.: RICAR Order Date: 2017 - 06 - 10 Customer Item: Middleman Epithet: Janete Limeira Address: Av. Copacabana, 267 City: Rio de janeiro de Janeiro Postal Code: 02389 - 890 Country: Brazil Phone: (21) 555 - 3412 Fax: None Cartesian product Details: Product ID Product Name Quantity Unit Price 36 Inlagd Sill 25 19. 0 52 Filo Mix seventy 7. 0 TotalPrice 965. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10563.Customer: RICAR. Order Date: 2017-06-10. Customer Name: Janete Limeira. Address: Copacabana, 267. City: Rio de Janeiro. Postal Code:02389-890. Country: Brazil. Phone: 21. 555-3412.Fax:None."
+}

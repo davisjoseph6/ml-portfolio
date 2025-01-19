@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-12_7.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-12 \n Category : Produce  \n id category : 7  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nUncle Bob's Organic Dried Pears\n10\n15\n30\nTofu\n57\n35\n23.25\nRössle Sauerkraut\n26\n26\n45.6\nManjimup Dried Apples\n18\n20\n53\nLonglife Tofu\n84\n4\n10\n",
+    "augmented_texts": [
+        "Stock Composition for 2016 - 12 Family: Produce id category: 7 Product Units Sold Units in Stock Unit Price Uncle Bobfloat ' s Organic Dried Pears 10 xv 30 Tofu 57 35 23. 25 Rössle Sauerkraut 26 26 forty five. 6 Manjimup Dried Apples 18 20 53 Longlife Tofu eighty four 4 10",
+        "Stock Report for 2016 - 12 Category: Produce id family: seven Product Unit Sold Units in Stock Unit Price Uncle Bob ' s Organic Dried Pears 10 xv 30 Tofu 57 35 23. 25 Rössle Sauerkraut 26 26 45. 6 Manjimup Dried Apples 18 20 fifty three Longlife Tofu lxxxiv 4 10"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-12. Category : Produce. id category : 7. Product: Tofu. Price: Rössle Sauerkraut. Number of Units Sold: 1. Units in Stock: 2. Units in stock in price: 0."
+}

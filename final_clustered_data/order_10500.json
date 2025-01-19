@@ -1,0 +1,24 @@
+{
+    "filename": "order_10500.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10500\nShipping Details:\nShip Name: La maison d-Asie\nShip Address: 1 rue Alsace-Lorraine\nShip City: Toulouse\nShip Region: Western Europe\nShip Postal Code: 31000\nShip Country: France\nCustomer Details:\nCustomer ID: LAMAI\nCustomer Name: La maison d'Asie\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-04-09\nShipped Date: 2017-04-17\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Genen Shouyu\nQuantity: 12\nUnit Price: 15.5\nTotal: 186.0\n--------------------------------------------------------------------------------------------------\nProduct: Rössle Sauerkraut\nQuantity: 8\nUnit Price: 45.6\nTotal: 364.8\nTotal Price:\nTotal Price: 550.8\n",
+    "augmented_texts": [
+        "Order ID: 10500 Shipping Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship Metropolis: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Country: France Customer Details: Customer ID: LAMAI Client Name: La maison d ' Asie Employee Inside information: Employee Name: Michael Suyama Shipper Details: Shipper ID: 1 Shipper Public figure: Speedy Express Order Details: Order Engagement: 2017 - 04 - 09 Shipped Date: 2017 - 04 - 17 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Genen Shouyu Quantity: 12 Unit Price: 15. 5 Total: 186. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 8 Unit Price: 45. 6 Total: 364. 8 Total Cost: Total Price: 550. 8",
+        "Order ID: 10500 Ship Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship Metropolis: Toulouse Ship Region: Westerly Europe Ship Postal Code: 31000 Ship Country: France Customer Details: Customer ID: LAMAI Customer Name: La maison d ' Asie Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 1 Shipper Figure: Speedy Limited Order Details: Order Date: 2017 - 04 - 09 Shipped Date: 2017 - 04 - 17 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Genen Shouyu Quantity: 12 Unit Mary leontyne price: 15. 5 Total: 186. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 8 Unit Price: 45. 6 Total: 364. 8 Total Price: Total Monetary value: 550. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10500. Order Name: La maison d-Asie. Ship Address: 1 rue Alsace-Lorraine, Toulouse, France. Postal Code: 31,000. Customers: LAMAI. Shippers: Speedy Express. Products: Genen Shouyu."
+}

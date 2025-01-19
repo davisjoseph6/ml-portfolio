@@ -1,0 +1,24 @@
+{
+    "filename": "order_10595.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10595\nShipping Details:\nShip Name: Ernst Handel\nShip Address: Kirchgasse 6\nShip City: Graz\nShip Region: Western Europe\nShip Postal Code: 8010\nShip Country: Austria\nCustomer Details:\nCustomer ID: ERNSH\nCustomer Name: Ernst Handel\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-07-10\nShipped Date: 2017-07-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 30\nUnit Price: 18.0\nTotal: 540.0\n--------------------------------------------------------------------------------------------------\nProduct: Sirop d'érable\nQuantity: 120\nUnit Price: 28.5\nTotal: 3420.0\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 65\nUnit Price: 36.0\nTotal: 2340.0\nTotal Price:\nTotal Price: 6300.0\n",
+    "augmented_texts": [
+        "Order ID: 10595 Shipping Details: Ship Name: Ernst Handel Ship Address: Kirchgasse 6 Ship City: Graz Ship Region: Western Europe Ship Postal Code: 8010 Ship Country: Austria Client Details: Customer ID: ERNSH Client Name: Ernst Handel Employee Details: Employee Name: Andrew Melville weston fuller Shipper Details: Shipper gem state: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 07 - 10 Shipped Date: 2017 - 07 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 30 Unit Price: 18. 0 Total: 540. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Sirop d ' érable Quantity: 120 Unit Price: 28. 5 Total: 3420. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: sixty five Unit Price: 36. 0 Total: 2340. 0 Total Price: Total Cost: 6300. nought",
+        "Order ID: 10595 Shipping Details: Ship Name: Ernst Handel Ship Address: Kirchgasse sextuplet Ship City: Graz Ship Region: Western Europe Ship Postal Code: 8010 Ship Country: Austria Customer Details: Client ID: ERNSH Customer Name: Ernst Handel Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Rescript Date: 2017 - 07 - 10 Shipped Appointment: 2017 - 07 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: xxx Unit Price: 18. 0 Totality: 540. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sirop d ' érable Quantity: 120 Unit Price: 28. 5 Total: 3420. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Measure: sixty five Unit Price: 36. zero Total: 2340. 0 Total Price: Total Price: 6300. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10595. Order Name: Ernst Handel. Ship Address: Kirchgasse 6. Graz, Austria. Postal Code: 8010. Customers: ERNSH. Shipper: Speedy Express. Products: Gudbrandsdalsost, Steeleye Stout."
+}

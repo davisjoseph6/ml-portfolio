@@ -1,0 +1,24 @@
+{
+    "filename": "order_10478.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10478\nShipping Details:\nShip Name: Victuailles en stock\nShip Address: 2, rue du Commerce\nShip City: Lyon\nShip Region: Western Europe\nShip Postal Code: 69004\nShip Country: France\nCustomer Details:\nCustomer ID: VICTE\nCustomer Name: Victuailles en stock\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-03-18\nShipped Date: 2017-03-26\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Ikura\nQuantity: 20\nUnit Price: 24.8\nTotal: 496.0\nTotal Price:\nTotal Price: 496.0\n",
+    "augmented_texts": [
+        "Order ID: 10478 Shipping Details: Ship Name: Victuailles en inventory Ship Address: 2, rue du Commerce Ship City: Lyon Ship Region: Western Europe Ship Postal Code: 69004 Ship Country: France Customer Details: Customer ID: VICTE Customer Name: Victuailles en stock Employee Details: Employee Name: Saint andrew Fuller Shipper Details: Shipper ID: 3 Shipper Gens: Federal Shipping Order Details: Order Day of the month: 2017 - 03 - 18 Shipped Date: 2017 - 03 - 26 Mathematical product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: 20 Unit Price: 24. 8 Total: 496. 0 Full Price: Full Price: 496. 0",
+        "Order ID: 10478 Shipping Details: Ship Name: Victuailles en stock Ship Address: 2, rue du Commerce department Ship City: Lyon Ship Region: Western Europe Ship Postal Code: 69004 Ship Country: France Customer Details: Customer ID: VICTE Customer Name: Victuailles en stock Employee Details: Employee Public figure: Andrew Buckminster fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 03 - xviii Shipped Date: 2017 - 03 - 26 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: 20 Unit Price: 24. octonary Total: 496. 0 Full Price: Total Cost: 496. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10478. Order Name: Victuailles en stock. Ship Address: 2, rue du Commerce, Lyon. Postal Code: 69004. Country: France. Customer: VICTE. Shipper: Federal Shipping. Product: Ikura. Unit Price: 24.8 euros per unit."
+}

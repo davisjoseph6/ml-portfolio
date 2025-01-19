@@ -1,0 +1,24 @@
+{
+    "filename": "order_10630.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10630\nShipping Details:\nShip Name: Königlich Essen\nShip Address: Maubelstr. 90\nShip City: Brandenburg\nShip Region: Western Europe\nShip Postal Code: 14776\nShip Country: Germany\nCustomer Details:\nCustomer ID: KOENE\nCustomer Name: Königlich Essen\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-08-13\nShipped Date: 2017-08-19\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 12\nUnit Price: 24.0\nTotal: 288.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 35\nUnit Price: 18.0\nTotal: 630.0\nTotal Price:\nTotal Price: 918.0\n",
+    "augmented_texts": [
+        "Order ID: 10630 Shipping Details: Ship Name: Königlich Essen Ship Address: Maubelstr. xc Ship City: Brandenburg Ship Region: Westerly Europe Ship Postal Code: 14776 Ship Country: Federal republic of germany Client Details: Customer ID: KOENE Customer Figure: Königlich Essen Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Social club Details: Order Date: 2017 - 08 - 13 Shipped Date: 2017 - 08 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 12 Unit Price: 24. 0 Total: 288. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 35 Unit Price: 18. 0 Total: 630. 0 Total Price: Total Price: 918. 0",
+        "Order ID: 10630 Shipping Details: Ship Name: Königlich Essen Ship Address: Maubelstr. 90 Ship City: Brandenburg Ship Region: Western Europe Ship Postal Code: 14776 Ship Country: Germany Customer Details: Customer idaho: KOENE Customer Name: Königlich Essen Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Epithet: United Package Order Details: Order Date: 2017 - 08 - 13 Shipped Date: 2017 - 08 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 12 Unit Price: twenty four. 0 Total: 288. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: xxxv Unit Damage: 18. 0 Total: 630. 0 Total Price: Total Price: 918. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10630; Ship Address: Maubelstr. 90; Postal Code: 14776; City: Brandenburg; Region: Western Europe; Country: Germany. Customer: KOENE; Employee: Nancy Davolio; Shipper: United Package."
+}

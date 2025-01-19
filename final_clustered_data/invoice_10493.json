@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10493.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10493\nCustomer ID: LAMAI\nOrder Date: 2017-04-02\nCustomer Details:\nContact Name:\nAnnette Roulet\nAddress:\n1 rue Alsace-Lorraine\nCity:\nToulouse\nPostal Code:\n31000\nCountry:\nFrance\nPhone:\n61.77.61.10\nFax:\n61.77.61.11\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n65\nLouisiana Fiery Hot Pepper Sauce\n15\n16.8\n66\nLouisiana Hot Spiced Okra\n10\n13.6\n69\nGudbrandsdalsost\n10\n28.8\n \n \nTotalPrice\n676.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10493 Client ID: LAMAI Order Date: 2017 - 04 - 02 Customer Details: Contact Name: Annette Roulet Address: 1 rue Alsace - Lorraine City: Toulouse Postal Code: 31000 Country: French republic Phone: 61. 77. 61. 10 Fax: 61. 77. 61. 11 Product Details: Product ID Product Name Quantity Social unit Price 65 Pelican state Fiery Hot Pepper Sauce 15 xvi. 8 66 Louisiana Hot Spiced Okra 10 13. sextet 69 Gudbrandsdalsost 10 28. 8 TotalPrice 676. 0 Thomas nelson page 1",
+        "Account Order ID: 10493 Customer ID: LAMAI Order Date: 2017 - 04 - 02 Customer Details: Link Name: Annette Roulet Address: i rue Alsace - Lorraine City: Toulouse Postal Code: 31000 Res publica: France Phone: 61. 77. 61. 10 Fax: 61. 77. 61. 11 Product Details: Product idaho Product Name Quantity Unit Price 65 Louisiana Fiery Hot Pepper Sauce 15 16. 8 66 Louisiana Hot Spiced Okra 10 baker's dozen. 6 sixty nine Gudbrandsdalsost 10 28. 8 TotalPrice 676. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10493.Customer ID: LAMAI. Order Date: 2017-04-02. Customer: Annette Roulet. Address: rue Alsace-Lorraine, Toulouse, France. Product: Louisiana Fiery Hot Pepper Sauce."
+}

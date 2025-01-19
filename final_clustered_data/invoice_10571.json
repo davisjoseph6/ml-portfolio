@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10571.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10571\nCustomer ID: ERNSH\nOrder Date: 2017-06-17\nCustomer Details:\nContact Name:\nRoland Mendel\nAddress:\nKirchgasse 6\nCity:\nGraz\nPostal Code:\n8010\nCountry:\nAustria\nPhone:\n7675-3425\nFax:\n7675-3426\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n14\nTofu\n11\n23.25\n42\nSingaporean Hokkien Fried Mee\n28\n14.0\n \n \nTotalPrice\n647.75\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10571 Customer ID: ERNSH Order Date: 2017 - 06 - 17 Client Details: Contact Name: Roland Mendel Address: Kirchgasse 6 City: Graz Postal Code: 8010 Area: Austria Phone: 7675 - 3425 Fax: 7675 - 3426 Product Detail: Product idaho Product Name Quantity Unit Price 14 Tofu 11 23. 25 42 Singaporean Hokkien Fried Mee 28 14. 0 TotalPrice 647. 75 Page 1",
+        "Invoice Society ID: 10571 Customer ID: ERNSH Club Date: 2017 - 06 - 17 Customer Details: Contact Name: Roland Mendel Address: Kirchgasse 6 City: Graz Postal Code: 8010 Country: Austria Phone: 7675 - 3425 Fax: 7675 - 3426 Product Details: Product ID Product Name Quantity Unit Cost 14 Tofu 11 xxiii. 25 42 Singaporean Hokkien Fried Mee 28 14. 0 TotalPrice 647. 75 Thomas nelson page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: ERNSH. Order Date: 2017-06-17. Customer: Roland Mendel. Product: Tofu. Price: $647.75. Company: Ernsh, a company based in Graz, Austria. Customers: Ernshe, Roland Mendels."
+}

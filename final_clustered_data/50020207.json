@@ -1,0 +1,12 @@
+{
+    "filename": "50020207.jpg",
+    "metadata": {},
+    "text": "‘THE UNIVERSITY OF TEXAS\nSOUTHWESTERN MEDICAL scHOOL\nDALLAS 38, TEXAS.\n\nJune 18, 1960\n\nMr, W. T. Hoyt, Executive Secretary\nTobacco Industry Research Committee\n150 B. 42nd Street\n\nNew York 17, New York\n\nDear Mr. Hoyt:\n\nWe are pleased to learn of award of a grant in the\namount of $16,230 for research under the direction of\nDr. P, O'B, Montgomery. You may be assured that the\nconditions and terms of the grant will be observed,\nNo doubt you will be receiving Doctor Montgomery's official\nacceptance within a few days.\n\nThanking you again for this support of our research\npiogram, I am\n\nSincerely yo\n\n   \n\n7 o/ G11, M.D.\nDean\n\nAIG/es\nCopy to Dr. Montgomery\n\n \n\f",
+    "augmented_texts": [
+        "‘ THE UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL scHOOL DALLAS xxxviii, TEXAS. June 18, 1960 Mr, W. T. Hoyt, Executive Secretary Tobacco Industry Research Committee cl B. 42nd Street New House of york 17, New York Dear Mr. Hoyt: We are pleased to learn of award of a grant in the amount of $ 16, 230 for research under the direction of Dr. P, O ' Group b, Montgomery. You may be assured that the conditions and terms of the grant will be observed, No doubt you will be receiving Doctor Montgomery ' s official acceptance within a few days. Thanking you once again for this support of our research piogram, I am Sincerely yo 7 o / G11, M. D. Dean AIG / es Copy to Dr. Montgomery",
+        "‘ THE UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL scHOOL DALLAS 38, TEXAS. June 18, 1960 Mr, W. T. Hoyt, Executive Secretary Tobacco Industry Research Committee 150 B. 42nd Street New York 17, New York Dear Mr. Hoyt: We are proud of to learn of award of a grant in the amount of $ 16, 230 for research under the direction of Dr. P, O ' B, Montgomery. You may be insure that the conditions and terms of the grant will be observed, No doubt you will be receiving Doctor Montgomery ' siemens official acceptance within a few days. Thanking you again for this support of our research piogram, Ane am Sincerely yo 7 o / G11, M. D. Dean AIG / es Written matter to Dr. Montgomery"
+    ],
+    "predicted_cluster": 1,
+    "predicted_label": "cluster_1",
+    "summary": "The Tobacco Industry Research Committee awarded a grant of $16,230 for research under the direction of Dr. P, O'B, Montgomery. The grant was awarded on June 18, 1960 by the University of Texas at Dallas. Dr Montgomery's official acceptance of the grant is expected within a few days."
+}

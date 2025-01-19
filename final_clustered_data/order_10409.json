@@ -1,0 +1,24 @@
+{
+    "filename": "order_10409.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10409\nShipping Details:\nShip Name: Océano Atlántico Ltda.\nShip Address: Ing. Gustavo Moncada 8585 Piso 20-A\nShip City: Buenos Aires\nShip Region: South America\nShip Postal Code: 1010\nShip Country: Argentina\nCustomer Details:\nCustomer ID: OCEAN\nCustomer Name: Océano Atlántico Ltda.\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-01-09\nShipped Date: 2017-01-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 12\nUnit Price: 18.6\nTotal: 223.20000000000002\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 12\nUnit Price: 8.0\nTotal: 96.0\nTotal Price:\nTotal Price: 319.20000000000005\n",
+    "augmented_texts": [
+        "Order ID: 10409 Shipping Details: Ship Name: Océano Atlántico Ltda. Ship Address: Ing. Gustavo Moncada 8585 Piso 20 - A Ship City: Buenos Aires Ship Region: South The states Ship Postal Code: 1010 Ship Country: Argentina Customer Details: Customer ID: sea Customer Name: Océano Atlántico Ltda. Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper idaho: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 01 - 09 Shipped Date: 2017 - 01 - 14 Intersection: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 12 Unit Price: 18. 6 Amount: 223. 20000000000002 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: 12 Unit Price: 8. 0 Total: 96. zero Total Price: Total Price: 319. 20000000000005",
+        "Order ID: 10409 Ship Details: Ship Name: Océano Atlántico Ltda. Ship Address: Ing. Gustavo Moncada 8585 Piso twenty - A Ship Metropolis: Buenos Aires Ship Region: Confederacy America Ship Postal Code: 1010 Ship Commonwealth: Argentina Customer Details: Customer ID: OCEAN Customer Name: Océano Atlántico Ltda. Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 1 Shipper Name: Speedy Limited Order Details: Order Date: 2017 - 01 - 09 Shipped Date: 2017 - 01 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 12 Unit Price: 18. 6 Total: 223. 20000000000002 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: 12 Unit Price: 8. 0 Total: ninety six. 0 Total Cost: Entire Price: 319. 20000000000005"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10409. Order Name: Océano Atlántico Ltda. Ship Address: Ing. Gustavo Moncada 8585 Piso 20-A Ship City: Buenos Aires Ship Region: South America Ship Postal Code: 1010."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10629.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10629\nCustomer ID: GODOS\nOrder Date: 2017-08-12\nCustomer Details:\nContact Name:\nJosé Pedro Freyre\nAddress:\nC/ Romero, 33\nCity:\nSevilla\nPostal Code:\n41101\nCountry:\nSpain\nPhone:\n(95) 555 82 82\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n29\nThüringer Rostbratwurst\n20\n123.79\n64\nWimmers gute Semmelknödel\n9\n33.25\n \n \nTotalPrice\n2775.05\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order idaho: 10629 Client ID: GODOS Parliamentary law Date: 2017 - 08 - 12 Customer Details: Impinging Name: José Pedro Freyre Address: Ampere second / Romero, 33 City: Sevilla Postal Code: 41101 Country: Spain Phone: (95) 555 82 82 Fax: None Product Details: Product ID Merchandise Name Quantity Unit Price 29 Thüringer Rostbratwurst xx 123. 79 64 Wimmers gute Semmelknödel 9 33. 25 TotalPrice 2775. 05 Sir frederick handley page 1",
+        "Invoice Order ID: 10629 Client ID: GODOS Order Day of the month: 2017 - 08 - 12 Customer Details: Contact Name: José Pedro Freyre Reference: C / Romero, 33 City: Sevilla Postal Code: 41101 State: Spain Phone: (95) 555 82 82 Fax: None Product Details: Product ID Merchandise Name Quantity Whole Price 29 Thüringer Rostbratwurst 20 123. 79 64 Wimmers gute Semmelknödel 9 33. 25 TotalPrice 2775. 05 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10629.Customer ID: GODOS. Order Date: 2017-08-12. Customer: José Pedro Freyre. Product Name: Thüringer Rostbratwurst. Unit Price: 2775.05 euros. Price per kilo: 20p."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10435.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10435\nShipping Details:\nShip Name: Consolidated Holdings\nShip Address: Berkeley Gardens 12  Brewery\nShip City: London\nShip Region: British Isles\nShip Postal Code: WX1 6LT\nShip Country: UK\nCustomer Details:\nCustomer ID: CONSH\nCustomer Name: Consolidated Holdings\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-02-04\nShipped Date: 2017-02-07\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chang\nQuantity: 10\nUnit Price: 15.2\nTotal: 152.0\n--------------------------------------------------------------------------------------------------\nProduct: Gustaf's Knäckebröd\nQuantity: 12\nUnit Price: 16.8\nTotal: 201.60000000000002\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 10\nUnit Price: 27.8\nTotal: 278.0\nTotal Price:\nTotal Price: 631.6\n",
+    "augmented_texts": [
+        "Order ID: 10435 Shipping Details: Ship Name: Amalgamated Holdings Ship Address: Berkeley Gardens 12 Brewery Ship City: London Ship Region: British Isles Ship Postal Code: WX1 6LT Ship Country: UK Client Details: Customer i.d.: CONSH Customer Name: Consolidated Holdings Employee Details: Employee Public figure: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 02 - 04 Shipped Date: 2017 - 02 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Quantity: 10 Unit Price: 15. 2 Total: 152. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gustaf ' s Knäckebröd Amount: 12 Unit Price: 16. 8 Total: 201. 60000000000002 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 10 Social unit Price: 27. 8 Total: 278. 0 Total Price: Total Cost: 631. 6",
+        "Order ID: 10435 Shipping Item: Ship Name: Consolidated Holdings Ship Address: Berkeley Gardens 12 Brewery Ship City: London Ship Region: British Isles Ship Postal Code: WX1 6LT Ship Country: UK Client Details: Customer ID: CONSH Customer Name: Consolidated Holdings Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Software package Order Details: Order Date: 2017 - 02 - 04 Shipped Date: 2017 - 02 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Quantity: 10 Unit Price: 15. 2 Total: 152. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gustaf ' s Knäckebröd Quantity: 12 Unit of measurement Price: 16. 8 Total: 201. 60000000000002 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 10 Social unit Price: 27. 8 Total: 278. 0 Total Price: Total Price: 631. 6"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10435. Ship Address: Berkeley Gardens 12  Brewery. Postal Code: WX1 6LT. Country: UK. Customer: Consolidated Holdings. Employee: Laura Callahan. Shipper: United Package. Product: Mozzarella di Giovanni. Price: 631.6."
+}

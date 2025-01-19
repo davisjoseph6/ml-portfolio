@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10342.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10342\n2016-10-30\nPeter Franken\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n2\nChang\n24\n15.2\n31\nGorgonzola Telino\n56\n10\n36\nInlagd Sill\n40\n15.2\n55\nPâté chinois\n40\n19.2\nPage 1\n",
+    "augmented_texts": [
+        "Leverage Orders Order ID Order Date Customer Name 10342 2016 - 10 - 30 Peter Franken Products Product ID: Product: Quantity: Unit Price: 2 Chang 24 15. two 31 Gorgonzola Telino 56 10 36 Inlagd Sill 40 15. 2 55 Pâté chinois 40 19. ii Page ane",
+        "Purchase Orders Regulate ID Order Date Customer Name 10342 2016 - 10 - 30 Peter Franken Products Cartesian product ID: Product: Quantity: Unit Price: 2 Chang 24 15. 2 31 Gorgonzola Telino 56 10 36 Inlagd Sill forty 15. 2 lv Pâté chinois 40 19. ii Page ace"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders are ordered by the customer's name and date of purchase. The customer can choose to pay by cash or by credit card. All orders are shipped to the U.S. and arrive within 24 hours of the order being placed. Prices start at $0.99 per item."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10322.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10322\nShipping Details:\nShip Name: Pericles Comidas clásicas\nShip Address: Calle Dr. Jorge Cash 321\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5033\nShip Country: Mexico\nCustomer Details:\nCustomer ID: PERIC\nCustomer Name: Pericles Comidas clásicas\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-10-04\nShipped Date: 2016-10-23\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Filo Mix\nQuantity: 20\nUnit Price: 5.6\nTotal: 112.0\nTotal Price:\nTotal Price: 112.0\n",
+    "augmented_texts": [
+        "Order ID: 10322 Shipping Details: Ship Name: Pericles Comidas clásicas Ship Speech: Calle Dr. Jorge Cash 321 Ship City: México D. F. Ship Region: Central America Ship Postal Computer code: 5033 Ship Country: Mexico Customer Details: Customer gem state: PERIC Customer Name: Pericles Comidas clásicas Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 10 - 04 Shipped Appointment: 2016 - 10 - 23 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Filo Mix Quantity: 20 Unit Mary leontyne price: 5. 6 Totality: 112. 0 Total Price: Total Price: 112. 0",
+        "Order ID: 10322 Ship Details: Ship Epithet: Pericles Comidas clásicas Ship Address: Calle Dr. Jorge Cash 321 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5033 Ship Country: Mexico Customer Details: Customer ID: PERIC Customer Name: Pericles Comidas clásicas Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 3 Shipper Name: Federal official Shipping Order Detail: Order Date: 2016 - 10 - 04 Shipped Date: 2016 - 10 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Filo Mix Quantity: twenty Unit Price: 5. vi Aggregate: 112. 0 Total Price: Total Monetary value: 112. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10322. Ship name: Pericles Comidas clásicas. Address: Calle Dr. Jorge Cash 321. Postal Code: 5033. Country: Mexico. Order date: 2016-10-04. Shipper: Federal Shipping. Product: Filo Mix. Unit Price: 5.6. Price per unit: 112.0."
+}

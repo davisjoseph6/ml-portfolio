@@ -1,0 +1,24 @@
+{
+    "filename": "order_10567.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10567\nShipping Details:\nShip Name: Hungry Owl All-Night Grocers\nShip Address: 8 Johnstown Road\nShip City: Cork\nShip Region: British Isles\nShip Postal Code: None\nShip Country: Ireland\nCustomer Details:\nCustomer ID: HUNGO\nCustomer Name: Hungry Owl All-Night Grocers\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-06-12\nShipped Date: 2017-06-17\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 60\nUnit Price: 12.5\nTotal: 750.0\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 3\nUnit Price: 53.0\nTotal: 159.0\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 40\nUnit Price: 55.0\nTotal: 2200.0\nTotal Price:\nTotal Price: 3109.0\n",
+    "augmented_texts": [
+        "Order ID: 10567 Shipping Details: Ship Name: Hungry Owl All - Night Grocers Ship Address: 8 Johnstown Route Ship City: Cork Ship Region: British Isles Ship Postal Code: None Ship Country: Ireland Customer Details: Customer ID: HUNGO Customer Name: Athirst Owl All - Night Grocers Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 06 - 12 Shipped Date: 2017 - 06 - xvii Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 60 Building block Cost: 12. 5 Total: 750. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 3 Unit Price: 53. 0 Total: 159. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 40 Unit Price: 55. 0 Total: 2200. 0 Total Price: Total Price: 3109. 0",
+        "Order ID: 10567 Shipping Details: Ship Name: Hungry Owl All - Night Grocers Ship Address: 8 Johnstown Road Ship City: Cork Ship Region: British Isles Ship Postal Code: None Ship Country: Ireland Customer Details: Customer ID: HUNGO Client Name: Hungry Owl All - Night Grocers Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Expressage Purchase order Details: Order Date: 2017 - 06 - 12 Shipped Date: 2017 - 06 - 17 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 60 Unit Price: 12. 5 Total: 750. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Amount: 3 Unit Price: 53. 0 Total: 159. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 40 Unit Price: fifty five. 0 Total: 2200. 0 Total Price: Total Price: 3109. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10567. Order Name: Hungry Owl All-Night Grocers. Ship Address: 8 Johnstown Road, Cork, Ireland. Shipper: Speedy Express. Postal Code: None. Customer: HUNGO. Employee: Nancy Davolio. Product: Manjimup Dried Apples."
+}

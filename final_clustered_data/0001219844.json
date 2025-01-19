@@ -1,0 +1,12 @@
+{
+    "filename": "0001219844.jpg",
+    "metadata": {},
+    "text": "‘Ted Bates newyor’ ‘advertising\n\nBROWN & WILLIAMSON TOBACCO CORPORATION\no PRINT PRODUCTION ESTIMATE\n. vas way a5 3292\nsano — oe voare \" HMMRARY 76, 1572\nsuexcr 12a ‘ew cove ©\n\nmworocnamenvanrist __SARtOOG SMM Ut vos\n\n> yx we afa\n\nSe\n\nSonny\nst\nmst\n(este\nnn nae\nSecon\nves\nsauce\nme\n\n \n\f",
+    "augmented_texts": [
+        "‘ Ted Bates newyor ’ ‘ advertising BROWN & WILLIAMSON baccy CORPORATION group o PRINT PRODUCTION ESTIMATE. vas way a5 3292 sano — oe voare \" HMMRARY 76, 1572 suexcr 12a ‘ ew cove © mworocnamenvanrist __SARtOOG SMM Ut vos> yx we afa Se Sonny st mst (este nn nae Secon farad sauce me",
+        "‘ Ted Bates newyor ’ ‘ advertising BROWN & WILLIAMSON TOBACCO tummy atomic number 8 PRINT PRODUCTION ESTIMATE. vas way a5 3292 sano — oe voare \" HMMRARY 76, 1572 suexcr 12a ‘ ew cove © mworocnamenvanrist __SARtOOG SMM Ut vos> yx we afa Se Sonny st mst (este nn nae Secon ves sauce me"
+    ],
+    "predicted_cluster": 3,
+    "predicted_label": "cluster_3",
+    "summary": "‘Ted Bates newyor’ ‘advertising for Ted Bates.”. BROWN & WILLIAMSON TOBACCO CORPORATION. ’s “PRINT PRODUCTION ESTIMATE. vas way a5 3292;. \" HMMRARY 76, 1572; � \"  “."
+}

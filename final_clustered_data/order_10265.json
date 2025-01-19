@@ -1,0 +1,24 @@
+{
+    "filename": "order_10265.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10265\nShipping Details:\nShip Name: Blondel père et fils\nShip Address: 24, place Kléber\nShip City: Strasbourg\nShip Region: Western Europe\nShip Postal Code: 67000\nShip Country: France\nCustomer Details:\nCustomer ID: BLONP\nCustomer Name: Blondesddsl père et fils\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-07-25\nShipped Date: 2016-08-12\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Alice Mutton\nQuantity: 30\nUnit Price: 31.2\nTotal: 936.0\n--------------------------------------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 20\nUnit Price: 12.0\nTotal: 240.0\nTotal Price:\nTotal Price: 1176.0\n",
+    "augmented_texts": [
+        "Order ID: 10265 Shipping Details: Ship Name: Blondel père et fils Ship Address: 24, place Kléber Ship City: Strasbourg Ship Region: Western Europe Ship Postal Code: 67000 Ship Country: France Customer Details: Customer ID: BLONP Customer Name: Blondesddsl père et fils Employee Details: Employee Epithet: Andrew Fuller Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 07 - 25 Shipped Date: 2016 - 08 - 12 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mouton Quantity: 30 Unit Price: 31. 2 Total: 936. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: twenty Social unit Cost: twelve. 0 Total: 240. 0 Total Price: Total Price: 1176. nought",
+        "Order ID: 10265 Shipping Details: Ship Name: Blondel père et fils Ship Address: 24, place Kléber Ship City: Strasbourg Ship Region: Western Europe Ship Postal Code: 67000 Ship State: France Customer Details: Client ID: BLONP Customer Name: Blondesddsl père et yemeni fils Employee Details: Employee Name: Andrew Fuller Shipper Particular: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 07 - 25 Shipped Date: 2016 - 08 - 12 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 30 Unit Price: thirty one. 2 Total: 936. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 20 Unit Price: twelve. 0 Total: 240. 0 Full Price: Entire Price: 1176. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10265. Ship Name: Blondel père et fils.Ship Address: 24, place Kléber. City: Strasbourg. Region: Western Europe. Postal Code: 67000. Country: France. Customers: BLONP. Shipper: Speedy Express."
+}

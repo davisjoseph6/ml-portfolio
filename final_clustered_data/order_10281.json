@@ -1,0 +1,24 @@
+{
+    "filename": "order_10281.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10281\nShipping Details:\nShip Name: Romero y tomillo\nShip Address: Gran Vía, 1\nShip City: Madrid\nShip Region: Southern Europe\nShip Postal Code: 28001\nShip Country: Spain\nCustomer Details:\nCustomer ID: ROMEY\nCustomer Name: Romero y tomillo\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-08-14\nShipped Date: 2016-08-21\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Teatime Chocolate Biscuits\nQuantity: 1\nUnit Price: 7.3\nTotal: 7.3\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 6\nUnit Price: 3.6\nTotal: 21.6\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 4\nUnit Price: 14.4\nTotal: 57.6\nTotal Price:\nTotal Price: 86.5\n",
+    "augmented_texts": [
+        "Order ID: 10281 Shipping Details: Ship Name: Romero y tomillo Ship Address: Gran Vía, 1 Ship City: Madrid Ship Region: Southern Europe Ship Postal Code: 28001 Ship Country: Spain Customer Details: Customer ID: ROMEY Customer Figure: Romero y tomillo Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 08 - 14 Shipped Date: 2016 - 08 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Biscuits Quantity: 1 Whole Price: 7. 3 Total: 7. trio - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 6 Building block Terms: 3. 6 Total: 21. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 4 Unit Price: 14. 4 Total: 57. 6 Total Price: Total Price: 86. 5",
+        "Order ID: 10281 Shipping Details: Ship Name: Romero y tomillo Ship Address: Gran Vía, 1 Ship City: Madrid Ship Region: Southern Europe Ship Postal Code: 28001 Ship Country: Espana Customer Details: Customer ID: ROMEY Customer Name: Romero y tomillo Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 08 - 14 Shipped Escort: 2016 - 08 - twenty one Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Biscuits Quantity: 1 Unit Price: vii. 3 Total: 7. 3 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 6 Unit Price: 3. 6 Total: 21. half dozen - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 4 Unit Price: fourteen. 4 Total: 57. 6 Total Price: Total Price: 86. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10281. Order Name: Romero y tomillo. Ship Address: Gran Vía, 1. City: Madrid. Region: Southern Europe. Postal Code: 28001. Country: Spain. Customer: ROMEY. Shipper: Speedy Express. Products: Teatime Chocolate Biscuits."
+}

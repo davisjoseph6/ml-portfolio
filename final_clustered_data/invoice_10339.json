@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10339.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10339\nCustomer ID: MEREP\nOrder Date: 2016-10-28\nCustomer Details:\nContact Name:\nJean Fresnière\nAddress:\n43 rue St. Laurent\nCity:\nMontréal\nPostal Code:\nH1J 1C3\nCountry:\nCanada\nPhone:\n(514) 555-8054\nFax:\n(514) 555-8055\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n4\nChef Anton's Cajun Seasoning\n10\n17.6\n17\nAlice Mutton\n70\n31.2\n62\nTarte au sucre\n28\n39.4\n \n \nTotalPrice\n3463.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Ordination ID: 10339 Customer ID: MEREP Order Date: 2016 - 10 - 28 Customer Details: Contact Name: Jean Fresnière Address: 43 rue St. Laurent City: Montréal Postal Code: H1J 1C3 Country: Canada Phone: (514) 555 - 8054 Fax: (514) 555 - 8055 Product Details: Product ID Product Name Quantity Unit Price iv Chef Anton ' s Cajun Seasoning 10 xvii. 6 17 Alice Mutton 70 31. 2 lxii Tarte au sucre 28 39. 4 TotalPrice 3463. ii Page 1",
+        "Invoice Order ID: 10339 Customer gem state: MEREP Order Date: 2016 - 10 - 28 Customer Details: Contact Name: Jean Fresnière Address: 43 rue St. Laurent City: Montréal Postal Code: H1J 1C3 Country: Canada Phone: (514) 555 - 8054 Fax: (514) 555 - 8055 Intersection Details: Product ID Product Name Quantity Whole Price 4 Chef Anton ' s Cajun Seasoning 10 xvii. 6 17 Alice Mouton 70 31. 2 lxii Tarte au sucre 28 39. 4 TotalPrice 3463. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10339.Customer ID: MEREP. Order Date: 2016-10-28. Customer Name:Jean Fresnière. Address: 43 rue St. Laurent. Postal Code: H1J 1C3. Country: Canada. Phone: (514) 555-8054."
+}

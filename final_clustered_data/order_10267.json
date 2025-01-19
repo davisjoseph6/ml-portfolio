@@ -1,0 +1,24 @@
+{
+    "filename": "order_10267.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10267\nShipping Details:\nShip Name: Frankenversand\nShip Address: Berliner Platz 43\nShip City: München\nShip Region: Western Europe\nShip Postal Code: 80805\nShip Country: Germany\nCustomer Details:\nCustomer ID: FRANK\nCustomer Name: Frankenversand\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-07-29\nShipped Date: 2016-08-06\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Boston Crab Meat\nQuantity: 50\nUnit Price: 14.7\nTotal: 735.0\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 70\nUnit Price: 44.0\nTotal: 3080.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 15\nUnit Price: 14.4\nTotal: 216.0\nTotal Price:\nTotal Price: 4031.0\n",
+    "augmented_texts": [
+        "Order gem state: 10267 Shipping Details: Ship Name: Frankenversand Ship Address: Berliner Platz 43 Ship City: München Ship Region: Western Europe Ship Postal Code: 80805 Ship Country: Germany Customer Item: Customer ID: FRANK Customer Name: Frankenversand Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 07 - 29 Shipped Date: 2016 - 08 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab louse Meat Quantity: 50 Whole Price: 14. 7 Amount: 735. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 70 Unit Price: 44. 0 Total: 3080. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 15 Unit Price: 14. 4 Total: 216. 0 Total Price: Total Price: 4031. 0",
+        "Order ID: 10267 Shipping Details: Ship Name: Frankenversand Ship Address: Berliner Platz 43 Ship City: München Ship Region: Western Europe Ship Postal Code: 80805 Ship Country: Germany Customer Particular: Customer ID: FRANK Client Name: Frankenversand Employee Item: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 07 - 29 Shipped Date: 2016 - 08 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Quantity: 50 Unit Price: 14. 7 Total: 735. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 70 Unit Cost: 44. 0 Total: 3080. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 15 Unit Price: fourteen. 4 Total: 216. 0 Full Price: Total Terms: 4031. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10267. Ship Address: Berliner Platz 43. Postal Code: 80805. Country: Germany. Customer: Frankenversand. Employee: Margaret Peacock. Shipper: Speedy Express. Products: Boston Crab Meat, Lakkalikööri, Raclette Courdavault."
+}

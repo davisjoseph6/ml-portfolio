@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10579.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10579\nCustomer ID: LETSS\nOrder Date: 2017-06-25\nCustomer Details:\nContact Name:\nJaime Yorres\nAddress:\n87 Polk St. Suite 5\nCity:\nSan Francisco\nPostal Code:\n94117\nCountry:\nUSA\nPhone:\n(415) 555-5938\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n15\nGenen Shouyu\n10\n15.5\n75\nRhönbräu Klosterbier\n21\n7.75\n \n \nTotalPrice\n317.75\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10579 Customer i.d.: LETSS Order Date: 2017 - 06 - xxv Customer Details: Contact Name: Jaime Yorres Computer address: 87 Polk St. Suite 5 City: San Francisco Postal Code: 94117 Country: USA Earphone: (415) 555 - 5938 Fax: None Product Details: Product ID Product Name Quantity Unit Price 15 Genen Shouyu 10 15. 5 lxxv Rhönbräu Klosterbier 21 7. lxxv TotalPrice 317. 75 Page 1",
+        "Invoice Order ID: 10579 Customer ID: LETSS Order Date: 2017 - 06 - 25 Customer Details: Contact Name: Jaime Yorres Savoir faire: eighty seven Polk St. Suite 5 City: San Francisco Postal Code: 94117 Country: us army Phone: (415) 555 - 5938 Fax: None Product Details: Production ID Product Name Quantity Unit of measurement Price fifteen Genen Shouyu 10 15. v 75 Rhönbräu Klosterbier 21 seven. 75 TotalPrice 317. 75 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10579.Customer ID: LETSS. Order Date: 2017-06-25. Customer: Jaime Yorres. Product: Rhönbräu Klosterbier. Unit Price: 317.75 euros. Price per page: 1.5 euros, or $1.99."
+}

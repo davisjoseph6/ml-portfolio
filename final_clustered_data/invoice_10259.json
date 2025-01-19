@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10259.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10259\nCustomer ID: CENTC\nOrder Date: 2016-07-18\nCustomer Details:\nContact Name:\nFrancisco Chang\nAddress:\nSierras de Granada 9993\nCity:\nMéxico D.F.\nPostal Code:\n05022\nCountry:\nMexico\nPhone:\n(5) 555-3392\nFax:\n(5) 555-7293\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n21\nSir Rodney's Scones\n10\n8.0\n37\nGravad lax\n1\n20.8\n \n \nTotalPrice\n100.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order i.d.: 10259 Customer ID: CENTC Order Date: 2016 - 07 - 18 Client Details: Physical contact Name: Francisco Chang Address: Sierras de Granada 9993 City: México D. F. Postal Code: 05022 Country: Mexico Phone: (5) 555 - 3392 Fax: (5) 555 - 7293 Merchandise Details: Product ID Product Name Quantity Unit Price 21 Sir Rodney ' s Scone ten 8. 0 37 Gravad lax 1 20. 8 TotalPrice 100. 8 Sir frederick handley page 1",
+        "Invoice Guild ID: 10259 Customer ID: CENTC Gild Date: 2016 - 07 - 18 Customer Details: Contact Name: Francisco Yangtze kiang Address: Sierras de Granada 9993 City: México D. F. Postal Code: 05022 Country: Mexico Phone: (5) 555 - 3392 Fax: (5) 555 - 7293 Product Details: Product gem state Product Name Quantity Unit Monetary value 21 Sir Rodney ' s Scones 10 8. zero xxxvii Gravad lax 1 20. 8 TotalPrice 100. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10259.Customer ID: CENTC. Order Date: 2016-07-18. Customer Name: Francisco Chang. Address: Sierras de Granada 9993. Postal Code: D.F. P. F. Phone: 555-3392.Fax: 585-7293. Product: Sir Rodney's Cones."
+}

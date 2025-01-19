@@ -1,0 +1,24 @@
+{
+    "filename": "order_10573.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10573\nShipping Details:\nShip Name: Antonio Moreno Taquería\nShip Address: Mataderos  2312\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5023\nShip Country: Mexico\nCustomer Details:\nCustomer ID: ANTON\nCustomer Name: Antonio Moreno Taquería\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-06-19\nShipped Date: 2017-06-20\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Alice Mutton\nQuantity: 18\nUnit Price: 39.0\nTotal: 702.0\n--------------------------------------------------------------------------------------------------\nProduct: Sasquatch Ale\nQuantity: 40\nUnit Price: 14.0\nTotal: 560.0\n--------------------------------------------------------------------------------------------------\nProduct: Perth Pasties\nQuantity: 25\nUnit Price: 32.8\nTotal: 819.9999999999999\nTotal Price:\nTotal Price: 2082.0\n",
+    "augmented_texts": [
+        "Order ID: 10573 Shipping Details: Ship Name: Antonio Moreno Taquería Ship Address: Mataderos 2312 Ship City: México D. Atomic number 9. Ship Region: Central America Ship Postal Code: 5023 Ship Country: Mexico Customer Inside information: Customer ID: ANTON Customer Name: Antonio Moreno Taquería Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Parliamentary procedure Date: 2017 - 06 - 19 Shipped Date: 2017 - 06 - 20 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: xviii Unit Price: 39. 0 Total: 702. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Bigfoot Ale Quantity: 40 Unit Price: fourteen. 0 Total: 560. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: xxv Unit Price: xxxii. 8 Total: 819. 9999999999999 Total Price: Total Price: 2082. 0",
+        "Order ID: 10573 Shipping Details: Ship Name: Antonio Moreno Taquería Ship Address: Mataderos 2312 Ship City: México D. Atomic number 9. Ship Region: Central America Ship Postal Code: 5023 Ship Country: Mexico Customer Details: Customer ID: ANTON Customer Name: Antonio Moreno Taquería Employee Details: Employee Epithet: Robert Riley b king Shipper Details: Shipper ID: 3 Shipper Public figure: Federal Shipping Order Details: Ordination Date: 2017 - 06 - 19 Shipped Date: 2017 - 06 - 20 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 18 Unit Price: 39. 0 Total: 702. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 40 Unit Price: 14. 0 Total: 560. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 25 Building block Price: 32. 8 Total: 819. 9999999999999 Total Price: Total Price: 2082. cypher"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10573.Ship Name: Antonio Moreno Taquería. Ship Address: Mataderos  2312; Ship City: México D.F.; Postal Code: 5023; Country: Mexico. Customers: ANTONIO. Shipper: Federal Shipping. Products: Alice Mutton, Sasquatch Ale, Perth Pasties."
+}

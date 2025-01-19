@@ -1,0 +1,24 @@
+{
+    "filename": "order_10624.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10624\nShipping Details:\nShip Name: The Cracker Box\nShip Address: 55 Grizzly Peak Rd.\nShip City: Butte\nShip Region: North America\nShip Postal Code: 59801\nShip Country: USA\nCustomer Details:\nCustomer ID: THECR\nCustomer Name: The Cracker Box\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-08-07\nShipped Date: 2017-08-19\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Rössle Sauerkraut\nQuantity: 10\nUnit Price: 45.6\nTotal: 456.0\n--------------------------------------------------------------------------------------------------\nProduct: Thüringer Rostbratwurst\nQuantity: 6\nUnit Price: 123.79\nTotal: 742.74\n--------------------------------------------------------------------------------------------------\nProduct: Gula Malacca\nQuantity: 10\nUnit Price: 19.45\nTotal: 194.5\nTotal Price:\nTotal Price: 1393.24\n",
+    "augmented_texts": [
+        "Order ID: 10624 Shipping Details: Ship Name: The Cracker Box Ship Address: 55 Grizzly Peak Rd. Ship City: Butte Ship Region: North America Ship Postal Code: 59801 Ship Country: USA Customer Details: Customer ID: THECR Customer Name: The Cracker Box Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Figure: United Package Order Details: Order Date: 2017 - 08 - 07 Shipped Date: 2017 - 08 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 10 Unit Price: 45. 6 Total: 456. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Thüringer Rostbratwurst Quantity: 6 Unit Price: 123. 79 Total: 742. 74 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca cane Amount: decade Unit Price: 19. 45 Total: 194. 5 Total Price: Total Price: 1393. two dozen",
+        "Order ID: 10624 Shipping Details: Ship Name: The Cracker Box Ship Address: 55 Grizzly Peak Rd. Ship City: Butte Ship Region: Magnetic north America Ship Postal Code: 59801 Ship Country: USA Customer Details: Customer ID: THECR Customer Name: The Cracker Boxwood Employee Detail: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Public figure: United Package Order Details: Order Date: 2017 - 08 - 07 Shipped Date: 2017 - 08 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 10 Unit Leontyne price: 45. 6 Total: 456. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Quantity: 6 Unit Price: 123. 79 Total: 742. 74 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Quantity: decade Unit Price: 19. 45 Sum: 194. 5 Total Price: Total Price: 1393. 24"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "The Cracker Box is a box filled with German sausages. It is currently being shipped from Butte, Montana, USA. The order was placed on August 7, 2017, and is expected to be delivered by August 19. For more information, visit the United Package website."
+}

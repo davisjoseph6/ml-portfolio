@@ -1,0 +1,24 @@
+{
+    "filename": "order_10544.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10544\nShipping Details:\nShip Name: Lonesome Pine Restaurant\nShip Address: 89 Chiaroscuro Rd.\nShip City: Portland\nShip Region: North America\nShip Postal Code: 97219\nShip Country: USA\nCustomer Details:\nCustomer ID: LONEP\nCustomer Name: Lonesome Pine Restaurant\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-05-21\nShipped Date: 2017-05-30\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Rössle Sauerkraut\nQuantity: 7\nUnit Price: 45.6\nTotal: 319.2\n--------------------------------------------------------------------------------------------------\nProduct: Laughing Lumberjack Lager\nQuantity: 7\nUnit Price: 14.0\nTotal: 98.0\nTotal Price:\nTotal Price: 417.2\n",
+    "augmented_texts": [
+        "Order ID: 10544 Ship Details: Ship Public figure: Lonesome Pine Restaurant Ship Address: 89 Chiaroscuro Rd. Ship City: Portland Ship Area: North America Ship Postal Code: 97219 Ship Country: army Customer Details: Customer ID: LONEP Customer Name: Lonesome Pine Restaurant Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 05 - 21 Shipped Date: 2017 - 05 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 7 Unit Price: 45. 6 Total: 319. 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Riant Lumberjack Lager Measure: 7 Unit Price: 14. 0 Total: 98. 0 Total Price: Total Price: 417. 2",
+        "Order ID: 10544 Shipping Details: Ship Name: Lonesome Pine Restaurant Ship Address: 89 Chiaroscuro Rd. Ship City: Portland Ship Region: North America Ship Postal Code: 97219 Ship Country: USA Customer Details: Customer ID: LONEP Customer Name: Lonesome Pine Restaurant Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper gem state: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 05 - 21 Shipped Date: 2017 - 05 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 7 Social unit Price: forty five. 6 Total: 319. 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Laughing Lumberjack Lager Quantity: 7 Unit Price: 14. 0 Total: 98. cypher Total Price: Total Price: 417. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10544. Order Name: Lonesome Pine Restaurant. Ship Address: 89 Chiaroscuro Rd. in Portland, Oregon. Postal Code: 97219.Ship Country: USA. Customers can choose to pay by credit card or by cash. Shipper: Speedy Express."
+}

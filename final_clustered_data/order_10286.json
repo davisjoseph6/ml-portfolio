@@ -1,0 +1,24 @@
+{
+    "filename": "order_10286.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10286\nShipping Details:\nShip Name: QUICK-Stop\nShip Address: Taucherstraße 10\nShip City: Cunewalde\nShip Region: Western Europe\nShip Postal Code: 1307\nShip Country: Germany\nCustomer Details:\nCustomer ID: QUICK\nCustomer Name: QUICK-Stop\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-08-21\nShipped Date: 2016-08-30\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 100\nUnit Price: 14.4\nTotal: 1440.0\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 40\nUnit Price: 39.4\nTotal: 1576.0\nTotal Price:\nTotal Price: 3016.0\n",
+    "augmented_texts": [
+        "Order ID: 10286 Shipping Details: Ship Name: QUICK - Stop Ship Address: Taucherstraße 10 Ship City: Cunewalde Ship Region: Westerly Europe Ship Postal Code: 1307 Ship Country: Germany Customer Details: Customer idaho: QUICK Customer Name: QUICK - Stop Employee Details: Employee Public figure: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 08 - 21 Shipped Date: 2016 - 08 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 100 Unit Price: 14. 4 Total: 1440. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 40 Unit Price: 39. 4 Total: 1576. 0 Entire Price: Full Price: 3016. 0",
+        "Order ID: 10286 Shipping Details: Ship Name: QUICK - Stop Ship Reference: Taucherstraße 10 Ship City: Cunewalde Ship Realm: Western Europe Ship Postal Code: 1307 Ship Country: Germany Customer Details: Customer ID: QUICK Customer Name: QUICK - Stop Employee Detail: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 08 - 21 Shipped Date: 2016 - 08 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 100 Unit Price: 14. 4 Total: 1440. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: xl Social unit Price: ixl. 4 Total: 1576. 0 Total Price: Total Price: 3016. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10286. Ship Address: Taucherstraße 10, Cunewalde, Germany. Postal Code: 1307. Customer Name: QUICK-Stop. Shipper: Federal Shipping. Product: Steeleye Stout. Price: 14.4 euros."
+}

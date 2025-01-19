@@ -1,0 +1,24 @@
+{
+    "filename": "order_10598.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10598\nShipping Details:\nShip Name: Rattlesnake Canyon Grocery\nShip Address: 2817 Milton Dr.\nShip City: Albuquerque\nShip Region: North America\nShip Postal Code: 87110\nShip Country: USA\nCustomer Details:\nCustomer ID: RATTC\nCustomer Name: Rattlesnake Canyon Grocery\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-07-14\nShipped Date: 2017-07-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Schoggi Schokolade\nQuantity: 50\nUnit Price: 43.9\nTotal: 2195.0\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 9\nUnit Price: 21.5\nTotal: 193.5\nTotal Price:\nTotal Price: 2388.5\n",
+    "augmented_texts": [
+        "Order i.d.: 10598 Ship Details: Ship Name: Rattlesnake Canyon Food market Ship Address: 2817 John milton Dr. Ship Metropolis: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Customer Name: Rattlesnake Canon Grocery Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 07 - 14 Shipped Date: 2017 - 07 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Schoggi Schokolade Quantity: 50 Unit Price: 43. 9 Total: 2195. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 9 Unit Price: 21. 5 Total: 193. 5 Total Price: Total Price: 2388. quintet",
+        "Order ID: 10598 Shipping Details: Ship Name: Rattler Canyon Grocery Ship Address: 2817 Milton Dr. Ship City: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Customer Figure: Rattlesnake Canyon Grocery Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 07 - 14 Shipped Date: 2017 - 07 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Schoggi Schokolade Quantity: 50 Unit Price: 43. 9 Total: 2195. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 9 Unit Price: 21. 5 Total: 193. 5 Full Price: Total Price: 2388. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10598. Order Name: Rattlesnake Canyon Grocery. Ship Address: 2817 Milton Dr.Ship City: Albuquerque. Region: North America. Postal Code: 87110. Country: USA. Customer: RATTC. Shipper: Federal Shipping."
+}

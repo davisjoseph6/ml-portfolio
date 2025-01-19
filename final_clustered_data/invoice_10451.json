@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10451.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10451\nCustomer ID: QUICK\nOrder Date: 2017-02-19\nCustomer Details:\nContact Name:\nHorst Kloss\nAddress:\nTaucherstraße 10\nCity:\nCunewalde\nPostal Code:\n01307\nCountry:\nGermany\nPhone:\n0372-035188\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n55\nPâté chinois\n120\n19.2\n64\nWimmers gute Semmelknödel\n35\n26.6\n65\nLouisiana Fiery Hot Pepper Sauce\n28\n16.8\n77\nOriginal Frankfurter grüne Soße\n55\n10.4\n \n \nTotalPrice\n4277.4\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10451 Customer ID: QUICK Edict Date: 2017 - 02 - 19 Customer Details: Contact Name: Horst Kloss Address: Taucherstraße 10 City: Cunewalde Postal Code: 01307 Area: Germany Phone: 0372 - 035188 Fax: None Product Details: Product i.d. Ware Name Measure Unit Price 55 Pâté chinois 120 19. 2 64 Wimmers gute Semmelknödel 35 26. 6 65 Louisiana Fiery Hot Pepper Sauce 28 16. 8 77 Original Frankfurter grüne Soße 55 10. 4 TotalPrice 4277. 4 Page ace",
+        "Invoice Order ID: 10451 Customer ID: QUICK Order Date: 2017 - 02 - 19 Customer Detail: Contact Name: Horst Kloss Address: Taucherstraße 10 City: Cunewalde Postal Code: 01307 Land: Germany Phone: 0372 - 035188 Fax: None Product Details: Product i.d. Product Name Quantity Whole Price fifty five Pâté chinois 120 nineteen. 2 64 Wimmers gute Semmelknödel 35 26. sextuplet 65 Louisiana Fiery Hot Pepper Sauce 28 16. 8 77 Original Frankfurter grüne Soße 55 10. 4 TotalPrice 4277. quaternary Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10451.Customer ID: QUICK. Order Date: 2017-02-19. Customer: Horst Kloss. Product: Louisiana Fiery Hot Pepper Sauce. Price: 4277.4 euros (US$5.99) (Germany)"
+}

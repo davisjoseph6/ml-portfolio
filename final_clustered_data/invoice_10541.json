@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10541.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10541\nCustomer ID: HANAR\nOrder Date: 2017-05-19\nCustomer Details:\nContact Name:\nMario Pontes\nAddress:\nRua do Paço, 67\nCity:\nRio de Janeiro\nPostal Code:\n05454-876\nCountry:\nBrazil\nPhone:\n(21) 555-0091\nFax:\n(21) 555-8765\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n24\nGuaraná Fantástica\n35\n4.5\n38\nCôte de Blaye\n4\n263.5\n65\nLouisiana Fiery Hot Pepper Sauce\n36\n21.05\n71\nFlotemysost\n9\n21.5\n \n \nTotalPrice\n2162.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10541 Customer ID: HANAR Order Date: 2017 - 05 - 19 Customer Details: Contact Epithet: Mario Pontes Savoir faire: Rua do Paço, 67 City: Rio de janeiro de Janeiro Postal Code: 05454 - 876 Country: Federative republic of brazil Phone: (21) 555 - 0091 Fax: (21) 555 - 8765 Product Details: Product ID Product Name Quantity Unit Price 24 Guaraná Fantástica 35 4. 5 38 Côte de Blaye 4 263. 5 65 Louisiana Fiery Hot Pepper Sauce 36 21. 05 seventy one Flotemysost 9 21. 5 TotalPrice 2162. 8 Page 1",
+        "Invoice Order ID: 10541 Customer ID: HANAR Order Date: 2017 - 05 - 19 Customer Details: Contact Name: Mario Pontes Address: Rua do Paço, 67 City: Rio de Janeiro Postal Code: 05454 - 876 Country: Brasil Speech sound: (21) 555 - 0091 Fax: (xxi) 555 - 8765 Product Details: Product ID Product Name Quantity Building block Price 24 Guaraná Fantástica 35 4. 5 38 Côte de Blaye 4 263. 5 lxv Louisiana Fiery Hot Pepper Sauce 36 21. 05 71 Flotemysost 9 twenty one. 5 TotalPrice 2162. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: HANAR. Order Date: 2017-05-19. Customer Details:Mario Pontes. Address: Rua do Paço, 67, Rio de Janeiro. Postal Code: 05454-876. Country: Brazil. Phone: (21) 555-0091.Fax:(21), (22) 585-8765. Product: Louisiana Fiery Hot Pepper Sauce."
+}

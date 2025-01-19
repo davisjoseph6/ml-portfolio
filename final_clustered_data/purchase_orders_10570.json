@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10570.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10570\n2017-06-17\nJean Fresnière\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n11\nQueso Cabrales\n15\n21\n56\nGnocchi di nonna Alice\n60\n38\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10570 2017 - 06 - 17 Jean Fresnière Products Cartesian product ID: Merchandise: Quantity: Unit Damage: 11 Queso Cabrales 15 twenty one 56 Gnocchi di nonna Alice 60 38 Page 1",
+        "Purchase Orders Prescribe ID Order Date Customer Name 10570 2017 - 06 - 17 Jean Fresnière Products Product ID: Product: Quantity: Unit Price: 11 Queso Cabrales fifteen 21 lvi Gnocchi di nonna Alice 60 xxxviii Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass items such as toilet paper, shampoo, toothbrushes and toothpastes. Customers pay by credit card, cash or check. The cost of each item is based on the amount of product sold. Prices start at $0.99 per item and go up from there."
+}

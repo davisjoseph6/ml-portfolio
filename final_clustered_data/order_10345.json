@@ -1,0 +1,24 @@
+{
+    "filename": "order_10345.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10345\nShipping Details:\nShip Name: QUICK-Stop\nShip Address: Taucherstraße 10\nShip City: Cunewalde\nShip Region: Western Europe\nShip Postal Code: 1307\nShip Country: Germany\nCustomer Details:\nCustomer ID: QUICK\nCustomer Name: QUICK-Stop\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-11-04\nShipped Date: 2016-11-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Northwoods Cranberry Sauce\nQuantity: 70\nUnit Price: 32.0\nTotal: 2240.0\n--------------------------------------------------------------------------------------------------\nProduct: Teatime Chocolate Biscuits\nQuantity: 80\nUnit Price: 7.3\nTotal: 584.0\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 9\nUnit Price: 11.2\nTotal: 100.8\nTotal Price:\nTotal Price: 2924.8\n",
+    "augmented_texts": [
+        "Order ID: 10345 Ship Details: Ship Name: QUICK - Stop Ship Savoir faire: Taucherstraße 10 Ship City: Cunewalde Ship Region: Western Europe Ship Postal Code: 1307 Ship Country: Germany Customer Detail: Customer ID: QUICK Customer Name: QUICK - Stop Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Rules of order Date: 2016 - 11 - 04 Shipped Date: 2016 - 11 - eleven Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Northwoods Cranberry Sauce Quantity: 70 Unit Price: 32. zero Total: 2240. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Biscuits Quantity: 80 Building block Price: seven. 3 Total: 584. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 9 Unit Price: 11. 2 Total: 100. 8 Full Price: Total Price: 2924. 8",
+        "Order ID: 10345 Shipping Details: Ship Name: QUICK - Stop Ship Address: Taucherstraße 10 Ship City: Cunewalde Ship Region: Western Europe Ship Postal Code: 1307 Ship Country: Germany Customer Details: Customer ID: QUICK Customer Name: QUICK - Stop Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Detail: Order Date: 2016 - 11 - 04 Shipped Date: 2016 - 11 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Northwoods Cranberry Sauce Quantity: 70 Unit Price: 32. 0 Total: 2240. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Drinking chocolate Biscuits Amount: 80 Unit Price: 7. 3 Total: 584. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 9 Unit Damage: 11. 2 Total: century. 8 Total Price: Total Price: 2924. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10345. Order Name: QUICK-Stop. Ship Address: Taucherstraße 10. City: Cunewalde. Region: Western Europe. Postal Code: 1307. Country: Germany. Shipper: United Package. Product: Teatime Chocolate Biscuits. Price: 32.0."
+}

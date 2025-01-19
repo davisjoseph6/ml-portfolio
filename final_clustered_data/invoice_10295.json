@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10295.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10295\nCustomer ID: VINET\nOrder Date: 2016-09-02\nCustomer Details:\nContact Name:\nPaul Henriot\nAddress:\n59 rue de l'Abbaye\nCity:\nReims\nPostal Code:\n51100\nCountry:\nFrance\nPhone:\n26.47.15.10\nFax:\n26.47.15.11\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n56\nGnocchi di nonna Alice\n4\n30.4\n \n \nTotalPrice\n121.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10295 Customer ID: VINET Order Date: 2016 - 09 - 02 Customer Details: Contact Name: Paul Henriot Address: 59 rue de l ' Abbaye Urban center: Reims Postal Code: 51100 Land: France Phone: 26. 47. 15. 10 Fax: 26. 47. 15. 11 Product Details: Product ID Merchandise Epithet Measure Unit Toll 56 Gnocchi di nonna Alice 4 30. 4 TotalPrice 121. 6 Page 1",
+        "Invoice Order ID: 10295 Customer ID: VINET Order Engagement: 2016 - 09 - 02 Customer Item: Contact Name: Paul Henriot Address: 59 rue de l ' Abbaye City: Reims Postal Code: 51100 Country: France Phone: 26. 47. 15. 10 Fax: xxvi. 47. 15. 11 Product Details: Product ID Product Name Quantity Unit Price 56 Gnocchi di nonna Alice 4 30. quaternary TotalPrice 121. 6 Varlet 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10295.Customer ID: VINET. Order Date: 2016-09-02. Customer: Paul Henriot. Address: 59 rue de l'Abbaye, Reims. Postal Code:51100. Country: France. Phone: 26.47.15.10."
+}

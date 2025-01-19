@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10424.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10424\nCustomer ID: MEREP\nOrder Date: 2017-01-23\nCustomer Details:\nContact Name:\nJean Fresnière\nAddress:\n43 rue St. Laurent\nCity:\nMontréal\nPostal Code:\nH1J 1C3\nCountry:\nCanada\nPhone:\n(514) 555-8054\nFax:\n(514) 555-8055\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n35\nSteeleye Stout\n60\n14.4\n38\nCôte de Blaye\n49\n210.8\n68\nScottish Longbreads\n30\n10.0\n \n \nTotalPrice\n11493.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10424 Customer ID: MEREP Order Date: 2017 - 01 - twenty three Customer Detail: Contact Name: Jean Fresnière Computer address: 43 rue St. Laurent Urban center: Montréal Postal Code: H1J 1C3 Country: Canada Phone: (514) 555 - 8054 Fax: (514) 555 - 8055 Product Details: Product ID Product Name Measure Unit Price 35 Steeleye Stout threescore 14. 4 38 Côte de Blaye 49 210. 8 lxviii Scottish Longbreads 30 10. 0 TotalPrice 11493. ii Varlet 1",
+        "Bill Order ID: 10424 Customer ID: MEREP Order Date: 2017 - 01 - 23 Customer Details: Contact Name: Jean Fresnière Address: 43 rue St. Laurent Metropolis: Montréal Postal Code: H1J 1C3 Country: Canada Phone: (514) 555 - 8054 Fax: (514) 555 - 8055 Product Detail: Product ID Product Name Quantity Unit Price 35 Steeleye Stout 60 fourteen. quatern 38 Côte first state Blaye 49 210. 8 68 Scottish Longbreads 30 10. 0 TotalPrice 11493. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 10424.774.7.1. Customer Name: MEREP.341.Customer ID is: GUILIABLE.001. Order Date: 2017-01-23. Customers are asked to provide their name, address, phone number, and email address."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10610.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10610\nShipping Details:\nShip Name: La maison d-Asie\nShip Address: 1 rue Alsace-Lorraine\nShip City: Toulouse\nShip Region: Western Europe\nShip Postal Code: 31000\nShip Country: France\nCustomer Details:\nCustomer ID: LAMAI\nCustomer Name: La maison d'Asie\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-07-25\nShipped Date: 2017-08-06\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Inlagd Sill\nQuantity: 21\nUnit Price: 19.0\nTotal: 399.0\nTotal Price:\nTotal Price: 399.0\n",
+    "augmented_texts": [
+        "Order ID: 10610 Shipping Inside information: Ship Figure: La maison ergocalciferol - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Country: France Customer Details: Customer ID: LAMAI Customer Gens: La maison d ' Asie Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Day of the month: 2017 - 07 - 25 Shipped Date: 2017 - 08 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 21 Unit Price: 19. 0 Total: 399. 0 Total Price: Total Price: 399. 0",
+        "Order ID: 10610 Shipping Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Western Eu Ship Postal Computer code: 31000 Ship Country: France Customer Point: Customer ID: LAMAI Customer Name: Lah maison d ' Asie Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 07 - 25 Shipped Date: 2017 - 08 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Inlagd Sill Quantity: 21 Unit Price: 19. 0 Total: 399. 0 Full Price: Total Price: 399. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10610. Order Name: La maison d-Asie. Ship Address: 1 rue Alsace-Lorraine, Toulouse, France. Postal Code: 31000. Customers: LAMAI. Shippers: Speedy Express."
+}

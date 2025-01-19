@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10414.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10414\nCustomer ID: FAMIA\nOrder Date: 2017-01-14\nCustomer Details:\nContact Name:\nAria Cruz\nAddress:\nRua Orós, 92\nCity:\nSao Paulo\nPostal Code:\n05442-030\nCountry:\nBrazil\nPhone:\n(11) 555-9857\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n19\nTeatime Chocolate Biscuits\n18\n7.3\n33\nGeitost\n50\n2.0\n \n \nTotalPrice\n231.4\nPage 1\n",
+    "augmented_texts": [
+        "Account Society ID: 10414 Customer ID: FAMIA Order Date: 2017 - 01 - 14 Customer Details: Contact Gens: Aria Cruz Address: Rua Orós, 92 City: Sao Paulo Postal Code: 05442 - 030 Country: Brazil Phone: (xi) 555 - 9857 Fax: None Product Details: Intersection ID Product Name Amount Unit Price 19 Afternoon tea Chocolate Biscuits 18 7. 3 33 Geitost l 2. 0 TotalPrice 231. 4 Page 1",
+        "Invoice Order ID: 10414 Customer gem state: FAMIA Order Date: 2017 - 01 - 14 Customer Details: Striking Name: Aria Cruz Address: Rua Orós, ninety two City: Sao Paulo Postal Code: 05442 - 030 Country: Brazil Phone: (11) 555 - 9857 Fax: None Cartesian product Detail: Product idaho Product Name Quantity Unit Price 19 Teatime Chocolate Biscuits 18 7. 3 xxxiii Geitost 50 2. 0 TotalPrice 231. 4 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name:Aria Cruz. Address:Rua Orós, 92. City:Sao Paulo. Postal Code:05442-030. Country: Brazil. Phone:(11) 555-9857.Fax:None. Product ID: FAMIA. Unit Price: 19.3 pounds. Price per pack: 231.4 cents."
+}

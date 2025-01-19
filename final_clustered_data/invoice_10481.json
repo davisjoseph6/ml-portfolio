@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10481.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10481\nCustomer ID: RICAR\nOrder Date: 2017-03-20\nCustomer Details:\nContact Name:\nJanete Limeira\nAddress:\nAv. Copacabana, 267\nCity:\nRio de Janeiro\nPostal Code:\n02389-890\nCountry:\nBrazil\nPhone:\n(21) 555-3412\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n49\nMaxilaku\n24\n16.0\n60\nCamembert Pierrot\n40\n27.2\n \n \nTotalPrice\n1472.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Gild ID: 10481 Customer ID: RICAR Order Date: 2017 - 03 - 20 Customer Item: Inter group communication Name: Janete Limeira Destination: Av. Copacabana, 267 City: Rio de Janeiro Postal Code: 02389 - 890 Country: Brazil Sound: (21) 555 - 3412 Fax: None Product Detail: Product ID Product Name Quantity Unit Price 49 Maxilaku 24 16. 0 60 Camembert Pierrot 40 27. 2 TotalPrice 1472. 0 Page 1",
+        "Invoice Order ID: 10481 Customer ID: RICAR Order Date: 2017 - 03 - xx Customer Details: Contact lens Name: Janete Limeira Address: Av. Copacabana, 267 Metropolis: Rio de Janeiro Postal Code: 02389 - 890 Country: Brazil Phone: (21) 555 - 3412 Facsimile machine: None Mathematical product Details: Product ID Product Name Measure Unit Price 49 Maxilaku 24 16. 0 60 Camembert Pierrot 40 27. ii TotalPrice 1472. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10481.Customer: RICAR. Product: Camembert Pierrot. Price: 1472.0. Order: 2017-03-20. Customer: Janete Limeira. Shipments: 1, 2, 3, 4, 5, 6, 7."
+}

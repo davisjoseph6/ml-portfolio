@@ -1,0 +1,24 @@
+{
+    "filename": "order_10362.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10362\nShipping Details:\nShip Name: Bon app-\nShip Address: 12, rue des Bouchers\nShip City: Marseille\nShip Region: Western Europe\nShip Postal Code: 13008\nShip Country: France\nCustomer Details:\nCustomer ID: BONAP\nCustomer Name: Bon app'\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-11-25\nShipped Date: 2016-11-28\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: NuNuCa Nuß-Nougat-Creme\nQuantity: 50\nUnit Price: 11.2\nTotal: 560.0\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 20\nUnit Price: 42.4\nTotal: 848.0\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 24\nUnit Price: 5.9\nTotal: 141.60000000000002\nTotal Price:\nTotal Price: 1549.6\n",
+    "augmented_texts": [
+        "Order ID: 10362 Shipping Details: Ship Name: Bon app - Ship Address: dozen, rue des Bouchers Ship City: Marseille Ship Region: Western Europe Ship Postal Code: 13008 Ship Country: France Customer Details: Customer gem state: BONAP Customer Name: Bon app ' Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Day of the month: 2016 - 11 - 25 Shipped Date: 2016 - 11 - 28 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: NuNuCa Nuß - Nougat - Creme Quantity: l Unit Price: 11. 2 Total: 560. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 20 Unit Price: 42. 4 Total: 848. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 24 Unit Price: 5. nina from carolina Total: 141. 60000000000002 Full Price: Full Price: 1549. 6",
+        "Monastic order ID: 10362 Shipping Details: Ship Gens: Bon app - Ship Address: 12, rue des Bouchers Ship City: Marseille Ship Region: Western Eu Ship Postal Code: 13008 Ship Country: France Customer Details: Customer ID: BONAP Customer Name: Bon app ' Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: single Shipper Name: Speedy Expressage Order Details: Order Date: 2016 - 11 - 25 Shipped Particular date: 2016 - 11 - 28 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: NuNuCa Nuß - Nougat - Creme Quantity: 50 Unit Price: 11. 2 Total: 560. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 20 Unit Price: 42. 4 Total: 848. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 24 Unit Price: 5. 9 Total: 141. 60000000000002 Total Damage: Total Monetary value: 1549. hexad"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10362. Ship Address: 12, rue des Bouchers, Marseille, France. Postal Code: 13008. Customer Name: BONAP. Shipper: Speedy Express. Products: NuNuCa Nuß-Nougat-Creme. Price: 11.2 euros."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10381.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10381\nShipping Details:\nShip Name: LILA-Supermercado\nShip Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo\nShip City: Barquisimeto\nShip Region: South America\nShip Postal Code: 3508\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: LILAS\nCustomer Name: LILA-Supermercado\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-12\nShipped Date: 2016-12-13\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Longlife Tofu\nQuantity: 14\nUnit Price: 8.0\nTotal: 112.0\nTotal Price:\nTotal Price: 112.0\n",
+    "augmented_texts": [
+        "Order of magnitude ID: 10381 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo Ship City: Barquisimeto Ship Part: South America Ship Postal Code: 3508 Ship Country: Venezuela Customer Details: Customer ID: LILAS Customer Name: LILA - Supermercado Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Society Date: 2016 - 12 - 12 Shipped Date: 2016 - 12 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Longlife Tofu Quantity: 14 Unit Price: 8. nought Total: 112. 0 Total Price: Entire Price: 112. 0",
+        "Order ID: 10381 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 confidence game Ave. Bolívar # sixty five - 98 Llano Largo Ship City: Barquisimeto Ship Region: South America Ship Postal Code: 3508 Ship Country: Venezuela Customer Details: Customer ID: LILAS Customer Name: LILA - Supermercado Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper i.d.: iii Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - dozen Shipped Date: 2016 - 12 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Longlife Bean curd Quantity: 14 Unit Price: 8. 0 Total: 112. 0 Total Price: Total Price: 112. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10381. Ship Name: LILA-Supermercado. Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo. Postal Code: 3508. Country: Venezuela. Order Date: 2016-12-13. Product: Longlife Tofu. Unit Price: 8.0 pounds."
+}

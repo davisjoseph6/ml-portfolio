@@ -1,0 +1,24 @@
+{
+    "filename": "order_10441.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10441\nShipping Details:\nShip Name: Old World Delicatessen\nShip Address: 2743 Bering St.\nShip City: Anchorage\nShip Region: North America\nShip Postal Code: 99508\nShip Country: USA\nCustomer Details:\nCustomer ID: OLDWO\nCustomer Name: Old World Delicatessen\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-02-10\nShipped Date: 2017-03-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Schoggi Schokolade\nQuantity: 50\nUnit Price: 35.1\nTotal: 1755.0\nTotal Price:\nTotal Price: 1755.0\n",
+    "augmented_texts": [
+        "Order ID: 10441 Shipping Details: Ship Name: Old Mankind Delicatessen Ship Savoir faire: 2743 Behring St. Ship City: Anchorage Ship Region: North America Ship Postal Code: 99508 Ship Country: USA Customer Details: Customer ID: OLDWO Customer Name: Old World Food shop Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 02 - 10 Shipped Date: 2017 - 03 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Schoggi Schokolade Quantity: 50 Whole Price: 35. 1 Total: 1755. 0 Total Price: Total Damage: 1755. 0",
+        "Order ID: 10441 Shipping Details: Ship Name: Old World Delicatessen Ship Address: 2743 Bering St. Ship City: Anchorage Ship Region: North America Ship Postal Code: 99508 Ship Country: u.s.a. Customer Inside information: Customer ID: OLDWO Customer Name: Old World Delicatessen Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 02 - 10 Shipped Date: 2017 - 03 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Schoggi Schokolade Quantity: 50 Unit Terms: xxxv. 1 Total: 1755. 0 Total Monetary value: Full Price: 1755. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10441. Order Name: Old World Delicatessen. Ship Address: 2743 Bering St. Shipper: United Package. Product: Schoggi Schokolade. Unit Price: 35.1 pounds. Price per unit: 1755.0 pounds, or $35.2 dollars."
+}

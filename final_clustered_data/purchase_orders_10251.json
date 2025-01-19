@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10251.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10251\n2016-07-08\nMary Saveley\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n22\nGustaf's Knäckebröd\n6\n16.8\n57\nRavioli Angelo\n15\n15.6\n65\nLouisiana Fiery Hot Pepper Sauce\n20\n16.8\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10251 2016 - 07 - 08 Mary Saveley Products Intersection ID: Product: Quantity: Unit Price: 22 Gustaf ' s Knäckebröd 6 16. 8 57 Ravioli Angelo 15 15. 6 65 Louisiana Fiery Hot Pepper Sauce 20 16. 8 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10251 2016 - 07 - 08 Mary Saveley Products Product i.d.: Product: Measure: Unit Price: 22 Gustaf ' s Knäckebröd 6 16. octad 57 Ravioli Angelo 15 15. 6 65 Louisiana Fiery Hot Pepper Sauce 20 16. 8 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than just hot sauce. Customers can choose from a variety of sauces and condiments. Prices start at $2.99 for a small bottle of hot pepper sauce and go up to $9.95 for an entire bottle. The price includes the cost of the product."
+}

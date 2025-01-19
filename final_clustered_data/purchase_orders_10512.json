@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10512.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10512\n2017-04-21\nAria Cruz\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n24\nGuaraná Fantástica\n10\n4.5\n46\nSpegesild\n9\n12\n47\nZaanse koeken\n6\n9.5\n60\nCamembert Pierrot\n12\n34\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Consecrate ID Order Date Customer Name 10512 2017 - 04 - 21 Aria Cruz Products Cartesian product ID: Product: Quantity: Unit Price: 24 Guaraná Fantástica 10 4. 5 46 Spegesild 9 12 47 Zaanse koeken 6 9. v 60 Camembert Pierrot 12 34 Page one",
+        "Purchase Orders Order ID Order Date Customer Name 10512 2017 - 04 - 21 Aria Cruz Products Cartesian product ID: Product: Quantity: Unit Price: 24 Guaraná Fantástica 10 4. little phoebe 46 Spegesild 9 12 47 Zaanse koeken 6 9. 5 60 Camembert Pierrot dozen 34 Sir frederick handley page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: Camembert Pierrot, Spegesild, Guaraná Fantástica, and Zaanse koeken. Products are ordered by customer name, with the customer's purchase date and price listed below. Customers can choose to pay by cash or by check."
+}

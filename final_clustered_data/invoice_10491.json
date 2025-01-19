@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10491.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10491\nCustomer ID: FURIB\nOrder Date: 2017-03-31\nCustomer Details:\nContact Name:\nLino Rodriguez\nAddress:\nJardim das rosas n. 32\nCity:\nLisboa\nPostal Code:\n1675\nCountry:\nPortugal\nPhone:\n(1) 354-2534\nFax:\n(1) 354-2535\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n44\nGula Malacca\n15\n15.5\n77\nOriginal Frankfurter grüne Soße\n7\n10.4\n \n \nTotalPrice\n305.3\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10491 Customer ID: FURIB Order Date: 2017 - 03 - 31 Customer Detail: Contact Name: Lino Rodriguez Address: Jardim das rosas n. 32 Metropolis: Lisboa Postal Computer code: 1675 Country: Portugal Phone: (ace) 354 - 2534 Fax: (1) 354 - 2535 Product Detail: Product ID Product Name Quantity Unit Price 44 Gula Malacca 15 15. 5 lxxvii Original Frankfurter grüne Soße 7 10. iv TotalPrice 305. 3 Pageboy 1",
+        "Invoice Parliamentary law ID: 10491 Customer ID: FURIB Order Date: 2017 - 03 - 31 Client Item: Contact Name: Lino Rodriguez Address: Jardim das rosas n. 32 City: Lisboa Postal Code: 1675 Country: Portugal Phone: (1) 354 - 2534 Fax: (unity) 354 - 2535 Product Details: Product ID Product Name Quantity Unit Damage 44 Gula Malacca 15 15. 5 77 Original Frankfurter grüne Soße 7 x. quadruplet TotalPrice 305. 3 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: FURIB. Order Date: 2017-03-31. Customer: Lino Rodriguez. Address: Jardim das rosas n. 32, Lisboa. Postal Code: 1675. Country: Portugal. Phone: 354-2534. Email: lino.rodriguez@furib.com."
+}

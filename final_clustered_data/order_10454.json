@@ -1,0 +1,24 @@
+{
+    "filename": "order_10454.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10454\nShipping Details:\nShip Name: La maison d-Asie\nShip Address: 1 rue Alsace-Lorraine\nShip City: Toulouse\nShip Region: Western Europe\nShip Postal Code: 31000\nShip Country: France\nCustomer Details:\nCustomer ID: LAMAI\nCustomer Name: La maison d'Asie\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-02-21\nShipped Date: 2017-02-25\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pavlova\nQuantity: 20\nUnit Price: 13.9\nTotal: 278.0\n--------------------------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 20\nUnit Price: 2.0\nTotal: 40.0\n--------------------------------------------------------------------------------------------------\nProduct: Spegesild\nQuantity: 10\nUnit Price: 9.6\nTotal: 96.0\nTotal Price:\nTotal Price: 414.0\n",
+    "augmented_texts": [
+        "Order ID: 10454 Ship Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship Urban center: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Country: France Customer Detail: Customer ID: LAMAI Customer Name: La maison d ' Asie Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Epithet: Federal Shipping Order Details: Order Day of the month: 2017 - 02 - 21 Shipped Date: 2017 - 02 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Measure: 20 Unit Price: 13. 9 Total: 278. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 20 Unit Price: 2. 0 Total: 40. cypher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Spegesild Quantity: 10 Unit Price: 9. 6 Total: 96. 0 Total Cost: Total Price: 414. 0",
+        "Order ID: 10454 Shipping Details: Ship Name: La maison 500 - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Country: France Customer Details: Customer ID: LAMAI Customer Name: La maison d ' Asie Employee Point: Employee Epithet: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Ordination Date: 2017 - 02 - 21 Shipped Date: 2017 - 02 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: 20 Unit Price: 13. 9 Total: 278. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 20 Unit Price: 2. 0 Total: 40. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Spegesild Quantity: 10 Unit Price: 9. 6 Total: 96. 0 Total Price: Full Price: 414. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10454.Ship Name: La maison d-Asie. Ship Address: 1 rue Alsace-Lorraine, Toulouse. Postal Code: 31,000. Country: France. Customers: LAMAI. Shipper: Federal Shipping. Products: Pavlova."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10501.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10501\nCustomer ID: BLAUS\nOrder Date: 2017-04-09\nCustomer Details:\nContact Name:\nHanna Moos\nAddress:\nForsterstr. 57\nCity:\nMannheim\nPostal Code:\n68306\nCountry:\nGermany\nPhone:\n0621-08460\nFax:\n0621-08924\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n54\nTourtière\n20\n7.45\n \n \nTotalPrice\n149.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10501 Customer ID: BLAUS Order Date: 2017 - 04 - 09 Client Details: Contact Name: Hanna Moos Address: Forsterstr. 57 City: Mannheim Postal Code: 68306 Country: Germany Phone: 0621 - 08460 Fax: 0621 - 08924 Product Detail: Product ID Product Epithet Amount Unit Price 54 Tourtière xx 7. xlv TotalPrice 149. 0 Page i",
+        "Bill Order i.d.: 10501 Customer ID: BLAUS Order Date: 2017 - 04 - 09 Customer Details: Contact Name: Hanna Moos Address: Forsterstr. 57 City: Mannheim Postal Code: 68306 Country: Germany Phone: 0621 - 08460 Fax: 0621 - 08924 Product Details: Product ID Product Name Quantity Unit Price 54 Tourtière 20 7. 45 TotalPrice 149. zero Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: \"Hanna Moos\" Invoice ID: 10501. Customer ID is BLAUS. Order Date: 2017-04-09.Customer Details:                              \"Mannheim,\" \"Forsterstr. 57\", \"City\" and \"Postal Code\""
+}

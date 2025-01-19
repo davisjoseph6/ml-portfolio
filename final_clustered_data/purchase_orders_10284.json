@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10284.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10284\n2016-08-19\nRenate Messner\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n27\nSchoggi Schokolade\n15\n35.1\n44\nGula Malacca\n21\n15.5\n60\nCamembert Pierrot\n20\n27.2\n67\nLaughing Lumberjack Lager\n5\n11.2\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Decree Order ID Order Escort Customer Epithet 10284 2016 - 08 - 19 Renate Messner Products Product ID: Product: Quantity: Unit Price: 27 Schoggi Schokolade 15 35. 1 forty four Gula Malacca cane 21 15. 5 60 Camembert Pierrot 20 27. 2 67 Laughing Lumberjack Lager beer 5 11. 2 Page 1",
+        "Leverage Orders Order i.d. Order Date Customer Name 10284 2016 - 08 - 19 Renate Messner Products Product ID: Product: Amount: Unit Price: 27 Schoggi Schokolade 15 35. 1 44 Gula Malacca cane 21 fifteen. 5 60 Camembert Pierrot 20 27. 2 67 Laughing Lumberjack Lager 5 eleven. 2 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": " purchase order ID: product:Product:Quantity:Unit:Price: Price: $27.99. Order date: 2016-08-19. Customer Name: customer: Renate Messner. Product: products: Products: Category: \"Lumberjack Lager,\" category:  \"Camembert Pierrot,\" class: lumberjack lager, size: 1."
+}

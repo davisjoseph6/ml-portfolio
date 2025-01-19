@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10459.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10459\nCustomer ID: VICTE\nOrder Date: 2017-02-27\nCustomer Details:\nContact Name:\nMary Saveley\nAddress:\n2, rue du Commerce\nCity:\nLyon\nPostal Code:\n69004\nCountry:\nFrance\nPhone:\n78.32.54.86\nFax:\n78.32.54.87\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n7\nUncle Bob's Organic Dried Pears\n16\n24.0\n46\nSpegesild\n20\n9.6\n72\nMozzarella di Giovanni\n40\n27.8\n \n \nTotalPrice\n1688.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10459 Customer ID: VICTE Order Date: 2017 - 02 - 27 Customer Details: Contact Name: Mary Saveley Address: 2, rue du Doc City: Lyon Postal Code: 69004 Land: French republic Phone: 78. 32. 54. lxxxvi Fax: seventy eight. 32. 54. 87 Product Details: Product ID Product Name Quantity Unit Price 7 Uncle Bob ' s Organic Dried Pears sixteen twenty four. 0 46 Spegesild 20 9. 6 72 Mozzarella di Giovanni 40 27. 8 TotalPrice 1688. 0 Page 1",
+        "Invoice Order ID: 10459 Customer ID: VICTE Order Date: 2017 - 02 - 27 Client Details: Contact Name: Mary Saveley Reference: two, rue du Commerce City: Lyon Postal Code: 69004 Country: France Phone: 78. thirty two. 54. 86 Fax: 78. 32. 54. 87 Mathematical product Details: Product ID Product Name Quantity Unit Price 7 Uncle Bob ' s Organic Dried Pears 16 24. cipher 46 Spegesild 20 9. 6 72 Mozzarella di Giovanni 40 27. eighter TotalPrice 1688. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: 10459.Customer ID: VICTE. Order Date: 2017-02-27. Customer Details:. contact name: Mary Saveley. Address: rue du Commerce, Lyon. Postal Code: 69004. Country: France. Phone: 78.54.86. Fax: 32.32. 54.87. Product: Uncle Bob's Organic Dried Pears."
+}

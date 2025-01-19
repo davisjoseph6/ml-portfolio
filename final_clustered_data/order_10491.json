@@ -1,0 +1,24 @@
+{
+    "filename": "order_10491.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10491\nShipping Details:\nShip Name: Furia Bacalhau e Frutos do Mar\nShip Address: Jardim das rosas n. 32\nShip City: Lisboa\nShip Region: Southern Europe\nShip Postal Code: 1675\nShip Country: Portugal\nCustomer Details:\nCustomer ID: FURIB\nCustomer Name: Furia Bacalhau e Frutos do Mar\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-03-31\nShipped Date: 2017-04-08\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gula Malacca\nQuantity: 15\nUnit Price: 15.5\nTotal: 232.5\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 7\nUnit Price: 10.4\nTotal: 72.8\nTotal Price:\nTotal Price: 305.3\n",
+    "augmented_texts": [
+        "Society ID: 10491 Shipping Item: Ship Name: Furia Bacalhau e Frutos do Mar Ship Address: Jardim das rosas n. 32 Ship City: Lisboa Ship Region: Southern Europe Ship Postal Code: 1675 Ship Country: Portugal Customer Details: Client ID: FURIB Customer Name: Furia Bacalhau e Frutos do Mar Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 03 - 31 Shipped Date: 2017 - 04 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Quantity: 15 Unit Price: 15. 5 Total: 232. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Weenie grüne Soße Quantity: 7 Unit of measurement Price: 10. 4 Total: 72. 8 Full Price: Total Price: 305. trio",
+        "Order ID: 10491 Shipping Details: Ship Name: Furia Bacalhau e Frutos do Mar Ship Address: Jardim das rosas n. 32 Ship City: Lisboa Ship Region: Southern Eec Ship Postal Code: 1675 Ship Country: Portugal Client Details: Customer ID: FURIB Customer Name: Furia Bacalhau e Frutos do Mar Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal official Shipping Order Details: Order Date: 2017 - 03 - 31 Shipped Date: 2017 - 04 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Quantity: 15 Whole Price: 15. 5 Total: 232. phoebe - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 7 Unit Price: 10. 4 Total: 72. 8 Total Price: Total Monetary value: 305. 3"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10491. Ship Name: Furia Bacalhau e Frutos do Mar. Address: Jardim das rosas n. 32. Postal Code: 1675. Country: Portugal. Customer: Laura Callahan. Shipper: Federal Shipping. Product: Gula Malacca. Price: 15.5 euros."
+}

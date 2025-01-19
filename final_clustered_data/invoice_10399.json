@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10399.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10399\nCustomer ID: VAFFE\nOrder Date: 2016-12-31\nCustomer Details:\nContact Name:\nPalle Ibsen\nAddress:\nSmagsloget 45\nCity:\nÅrhus\nPostal Code:\n8200\nCountry:\nDenmark\nPhone:\n86 21 32 43\nFax:\n86 22 33 44\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n68\nScottish Longbreads\n60\n10.0\n71\nFlotemysost\n30\n17.2\n76\nLakkalikööri\n35\n14.4\n77\nOriginal Frankfurter grüne Soße\n14\n10.4\n \n \nTotalPrice\n1765.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order of magnitude ID: 10399 Customer i.d.: VAFFE Order Date: 2016 - 12 - 31 Client Details: Contact Name: Palle Ibsen Address: Smagsloget 45 City: Århus Postal Code: 8200 Country: Denmark Phone: eighty six 21 32 43 Fax: 86 22 33 44 Product Detail: Product ID Product Name Quantity Unit Price 68 Scottish Longbreads 60 10. 0 seventy one Flotemysost 30 17. 2 lxxvi Lakkalikööri 35 14. 4 77 Original Frankfurter grüne Soße 14 10. 4 TotalPrice 1765. 6 Page 1",
+        "Invoice Order ID: 10399 Customer ID: VAFFE Order Date: 2016 - 12 - 31 Customer Details: Contact Name: Palle Henrik ibsen Address: Smagsloget 45 City: Århus Postal Code: 8200 Land: Denmark Phone: 86 21 32 43 Fax: 86 22 33 xliv Product Details: Product ID Product Name Quantity Unit Price lxviii Scottish Longbreads 60 10. 0 71 Flotemysost 30 17. 2 76 Lakkalikööri 35 fourteen. 4 77 Original Weenie grüne Soße 14 10. 4 TotalPrice 1765. half a dozen Page unity"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: VAFFE. Order Date: 2016-12-31.Customer Details:         Palle Ibsen. Postal Code:  Śrhus. Phone Number: 21.Fax number: 22. Product ID: 10399. Price: 1765.6."
+}

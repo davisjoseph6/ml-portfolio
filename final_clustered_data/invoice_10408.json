@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10408.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10408\nCustomer ID: FOLIG\nOrder Date: 2017-01-08\nCustomer Details:\nContact Name:\nMartine Rancé\nAddress:\n184, chaussée de Tournai\nCity:\nLille\nPostal Code:\n59000\nCountry:\nFrance\nPhone:\n20.16.10.16\nFax:\n20.16.10.17\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n37\nGravad lax\n10\n20.8\n54\nTourtière\n6\n5.9\n62\nTarte au sucre\n35\n39.4\n \n \nTotalPrice\n1622.4\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Edict ID: 10408 Client ID: FOLIG Order Date: 2017 - 01 - 08 Customer Details: Contact Name: Martine Rancé Address: 184, chaussée de Tournai City: Lille Postal Code: 59000 Country: France Phone: xx. 16. 10. 16 Facsimile: 20. 16. 10. 17 Cartesian product Details: Product ID Product Name Quantity Unit Price 37 Gravad lax x 20. 8 54 Tourtière half dozen quintuplet. 9 62 Tarte au sucre 35 thirty nine. 4 TotalPrice 1622. 4 Page 1",
+        "Invoice Order ID: 10408 Customer ID: FOLIG Order Date: 2017 - 01 - 08 Customer Details: Contact Name: Martine Rancé Address: 184, chaussée de Tournai City: Lille Postal Code: 59000 Country: France Phone: 20. xvi. 10. sixteen Fax: 20. 16. 10. 17 Product Details: Product ID Product Name Quantity Unit Price 37 Gravad lax 10 20. 8 54 Tourtière 6 5. 9 62 Tarte atomic number 79 sucre thirty five 39. 4 TotalPrice 1622. 4 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: FOLIG. Invoice ID: 10408.Customer ID is Folig. Order Date: 2017-01-08. Customer Details:. contact name: \"Martine Rancé\" Contact address is \"Chaussée de Tournai\" Postal code is: 959000."
+}

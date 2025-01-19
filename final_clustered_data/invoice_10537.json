@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10537.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10537\nCustomer ID: RICSU\nOrder Date: 2017-05-14\nCustomer Details:\nContact Name:\nMichael Holz\nAddress:\nGrenzacherweg 237\nCity:\nGenève\nPostal Code:\n1203\nCountry:\nSwitzerland\nPhone:\n0897-034214\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n31\nGorgonzola Telino\n30\n12.5\n51\nManjimup Dried Apples\n6\n53.0\n58\nEscargots de Bourgogne\n20\n13.25\n72\nMozzarella di Giovanni\n21\n34.8\n73\nRöd Kaviar\n9\n15.0\n \n \nTotalPrice\n1823.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10537 Client ID: RICSU Order Date: 2017 - 05 - 14 Customer Details: Touch Name: Michael Holz Address: Grenzacherweg 237 City: Genève Postal Code: 1203 Country: Switzerland Phone: 0897 - 034214 Fax: None Product Details: Product ID Product Figure Quantity Unit Price 31 Gorgonzola Telino xxx 12. 5 51 Manjimup Dried Orchard apple tree 6 53. 0 58 Escargots de Bourgogne 20 13. 25 72 Mozzarella di Giovanni 21 34. 8 73 Röd Kaviar niner 15. 0 TotalPrice 1823. 8 Page 1",
+        "Invoice Holy order ID: 10537 Client ID: RICSU Order Date: 2017 - 05 - 14 Client Details: Contact Name: Michael Holz Address: Grenzacherweg 237 City: Genève Postal Code: 1203 Country: Switzerland Phone: 0897 - 034214 Fax: None Product Details: Product ID Product Name Quantity Unit Price 31 Gorgonzola Telino 30 12. 5 51 Manjimup Dried Apples 6 53. 0 58 Escargot de Bourgogne 20 13. 25 72 Mozzarella di Giovanni 21 34. 8 lxxiii Röd Kaviar 9 15. 0 TotalPrice 1823. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10537.Customer ID: RICSU. Order Date: 2017-05-14. Customer Name: Michael Holz. Address: 237. Grenzacherweg 237, Genève, Switzerland. Postal Code: 1203. Phone:0897-034214. fax: None."
+}

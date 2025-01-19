@@ -1,0 +1,12 @@
+{
+    "filename": "40005703-5705.jpg",
+    "metadata": {},
+    "text": "NAME\n\nKatya Ravid, DSc/PhD\n\nZhihui Zhao, MD,PhD\n\nGary Stiles, MD\n\nRichard Cohen,\n\nBIOGRAPHICAL SKETCHS\n\nMD\n\nROLE\nPrincipal Investigator\nPostdoctoral Fellow\nConsultant\n\nCollaborator\n\n40005703\n\f",
+    "augmented_texts": [
+        "NAME Katya Ravid, DSc / ph.d. Zhihui Zhao, old line state, PhD Gary Stiles, MD Richard Cohen, BIOGRAPHICAL SKETCHS mendelevium ROLE Principal Investigator Postdoctoral Fellow Consultant Collaborator 40005703",
+        "NAME Katya Ravid, DSc / PhD Zhihui Zhao, mv, PhD Gary Stiles, MD Richard Cohen, BIOGRAPHICAL SKETCHS MD ROLE Principal Investigator Postdoctoral Fellow Consultant Collaborator 40005703"
+    ],
+    "predicted_cluster": 0,
+    "predicted_label": "cluster_0",
+    "summary": "Katya Ravid, DSc/PhD, and Gary Stiles, MD, are part of the SKETCHS team. They are studying at the University of Washington in Seattle. The team is also based in New York and Washington, DC. For more information on the Sketches team, visit www.sketchs.org."
+}

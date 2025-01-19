@@ -1,0 +1,24 @@
+{
+    "filename": "order_10505.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10505\nShipping Details:\nShip Name: Mère Paillarde\nShip Address: 43 rue St. Laurent\nShip City: Montréal\nShip Region: North America\nShip Postal Code: H1J 1C3\nShip Country: Canada\nCustomer Details:\nCustomer ID: MEREP\nCustomer Name: Mère Paillarde\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-04-14\nShipped Date: 2017-04-21\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 3\nUnit Price: 49.3\nTotal: 147.89999999999998\nTotal Price:\nTotal Price: 147.89999999999998\n",
+    "augmented_texts": [
+        "Order ID: 10505 Shipping Contingent: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship City: Montréal Ship Region: North America Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 04 - fourteen Shipped Date: 2017 - 04 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 3 Unit Price: forty nine. 3 Total: 147. 89999999999998 Total Price: Total Price: 147. 89999999999998",
+        "Order ID: 10505 Shipping Details: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship Metropolis: Montréal Ship Region: North America Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Client Name: Mère Paillarde Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: trey Shipper Name: Federal Shipping Purchase order Details: Rescript Date: 2017 - 04 - 14 Shipped Date: 2017 - 04 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 3 Whole Price: 49. 3 Total: 147. 89999999999998 Total Mary leontyne price: Full Price: 147. 89999999999998"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10505. Ship Address: 43 rue St. Laurent, Montréal. Postal Code: H1J 1C3. Customer Name: Mère Paillarde. Shipper: Federal Shipping. Product: Tarte au sucre. Unit Price: 49.3 euros. Price per unit: 147.8 Euros."
+}

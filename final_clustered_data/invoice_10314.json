@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10314.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10314\nCustomer ID: RATTC\nOrder Date: 2016-09-25\nCustomer Details:\nContact Name:\nPaula Wilson\nAddress:\n2817 Milton Dr.\nCity:\nAlbuquerque\nPostal Code:\n87110\nCountry:\nUSA\nPhone:\n(505) 555-5939\nFax:\n(505) 555-3620\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n32\nMascarpone Fabioli\n40\n25.6\n58\nEscargots de Bourgogne\n30\n10.6\n62\nTarte au sucre\n25\n39.4\n \n \nTotalPrice\n2327.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10314 Customer ID: RATTC Order Day of the month: 2016 - 09 - 25 Customer Details: Contact Name: Paula Edward osborne wilson Address: 2817 Milton Dr. City: Albuquerque Postal Code: 87110 Country: USA Phone: (505) 555 - 5939 Fax: (505) 555 - 3620 Merchandise Details: Product ID Product Name Quantity Unit Price 32 Mascarpone Fabioli 40 25. 6 lviii Escargots de Bourgogne 30 tenner. 6 lxii Tarte au sucre 25 39. 4 TotalPrice 2327. 0 Page 1",
+        "Invoice Order ID: 10314 Client ID: RATTC Order Engagement: 2016 - 09 - 25 Customer Details: Contact Public figure: Paula Wilson Address: 2817 Milton Dr. City: Albuquerque Postal Code: 87110 Country: USA Phone: (505) 555 - 5939 Fax: (505) 555 - 3620 Product Details: Product ID Product Name Quantity Social unit Price 32 Mascarpone Fabioli 40 25. 6 fifty eight Escargots de Bourgogne 30 ten. 6 sixty two Tarte au sucre 25 39. 4 TotalPrice 2327. 0 Page unity"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: RATTC.Customer ID:  RAT TC. Order Date: 2016-09-25. Customer Details:         Paula Wilson. Address: Milton Dr., Albuquerque, New Mexico. Phone: 505-555-5939.Fax:505-3620."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10540.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10540\nCustomer ID: QUICK\nOrder Date: 2017-05-19\nCustomer Details:\nContact Name:\nHorst Kloss\nAddress:\nTaucherstraße 10\nCity:\nCunewalde\nPostal Code:\n01307\nCountry:\nGermany\nPhone:\n0372-035188\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n3\nAniseed Syrup\n60\n10.0\n26\nGumbär Gummibärchen\n40\n31.23\n38\nCôte de Blaye\n30\n263.5\n68\nScottish Longbreads\n35\n12.5\n \n \nTotalPrice\n10191.7\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10540 Customer ID: QUICK Order Date: 2017 - 05 - xix Customer Details: Contact Name: Horst Kloss Address: Taucherstraße 10 City: Cunewalde Postal Codification: 01307 Country: Germany Phone: 0372 - 035188 Facsimile machine: None Product Details: Product ID Product Name Quantity Unit Price 3 Aniseed Syrup 60 10. 0 26 Gumbär Gummibärchen 40 31. 23 38 Côte de Blaye 30 263. 5 68 Scotch Longbreads 35 12. pentad TotalPrice 10191. sevener Page 1",
+        "Invoice Order ID: 10540 Customer ID: QUICK Order Date: 2017 - 05 - 19 Customer Details: Contact Name: Horst Kloss Address: Taucherstraße 10 City: Cunewalde Postal Code: 01307 Country: Frg Phone: 0372 - 035188 Facsimile machine: None Product Details: Product idaho Product Figure Quantity Whole Price 3 Aniseed Syrup 60 10. cypher 26 Gumbär Gummibärchen 40 31. 23 38 Côte de Blaye thirty 263. 5 68 Scottish Longbreads 35 xii. quint TotalPrice 10191. 7 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: QUICK. Order Date: 2017-05-19. Customer: Horst Kloss. Product: Aniseed Syrup, Scottish Longbreads, Gumbär Gummibärchen, Côte de Blaye. Price: 10191.7."
+}

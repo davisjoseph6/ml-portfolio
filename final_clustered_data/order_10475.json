@@ -1,0 +1,24 @@
+{
+    "filename": "order_10475.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10475\nShipping Details:\nShip Name: Suprêmes délices\nShip Address: Boulevard Tirou, 255\nShip City: Charleroi\nShip Region: Western Europe\nShip Postal Code: B-6000\nShip Country: Belgium\nCustomer Details:\nCustomer ID: SUPRD\nCustomer Name: Suprêmes délices\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-03-14\nShipped Date: 2017-04-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 35\nUnit Price: 10.0\nTotal: 350.0\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Hot Spiced Okra\nQuantity: 60\nUnit Price: 13.6\nTotal: 816.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 42\nUnit Price: 14.4\nTotal: 604.8000000000001\nTotal Price:\nTotal Price: 1770.8000000000002\n",
+    "augmented_texts": [
+        "Order ID: 10475 Shipping Details: Ship Name: Suprêmes délices Ship Address: Boulevard Tirou, 255 Ship City: Charleroi Ship Region: Western Europe Ship Postal Code: Vitamin b complex - 6000 Ship Country: Belgium Customer Details: Customer ID: SUPRD Customer Name: Suprêmes délices Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Particular date: 2017 - 03 - 14 Shipped Date: 2017 - 04 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Measure: 35 Unit Price: 10. 0 Total: 350. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Hot Spiced Okra Amount: 60 Unit Price: 13. 6 Total: 816. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Measure: 42 Unit Price: 14. 4 Totality: 604. 8000000000001 Total Mary leontyne price: Total Terms: 1770. 8000000000002",
+        "Order ID: 10475 Shipping Details: Ship Name: Suprêmes délices Ship Address: Boulevard Tirou, 255 Ship City: Charleroi Ship Region: Western Europe Ship Postal Code: B - 6000 Ship Country: Belgium Customer Details: Client i.d.: SUPRD Customer Figure: Suprêmes délices Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 03 - xiv Shipped Date: 2017 - 04 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 35 Unit Price: 10. 0 Total: 350. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pelican state Hot Spiced Okra Quantity: 60 Unit Price: 13. 6 Total: 816. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 42 Unit Price: 14. 4 Total: 604. 8000000000001 Full Price: Total Price: 1770. 8000000000002"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10475. Order Name: Suprêmes délices. Ship Address: Boulevard Tirou, 255.Ship City: Charleroi. Region: Western Europe. Postal Code: B-6000Ship Country: Belgium. Customers: SUPRD. Shippers: Speedy Express."
+}

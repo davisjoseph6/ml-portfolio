@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-07_1.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-07 \n Category : Beverages  \n id category : 1  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nChang\n105\n17\n19\nGuaraná Fantástica\n43\n20\n4.5\nSteeleye Stout\n20\n20\n18\nChartreuse verte\n48\n69\n18\nOutback Lager\n41\n15\n15\nLakkalikööri\n15\n57\n18\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 07 Category: Beverages id category: 1 Product Units Sold Units in Stock Unit Price Chang 105 17 nineteen Guaraná Fantástica 43 twenty 4. 5 Steeleye Stout 20 20 18 Chartreuse verte 48 69 18 Outback Lager xli 15 15 Lakkalikööri 15 57 18",
+        "Stock Report for 2016 - 07 Category: Beverages id category: 1 Product Units Sold Units in Stock Unit Price Chang 105 17 19 Guaraná Fantástica 43 20 4. 5 Steeleye Stout 20 twenty 18 Chartreuse verte xlviii 69 18 Outback Lager 41 xv 15 Lakkalikööri 15 57 eighteen"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-07  encompasses beverages. Beverages include beer, wine, spirits, malt beverages, and spirits. The report includes the following product categories: Beer, Wine, Spirits, Lager, Stout, Coffee, Tea, Beer and Spirits. For more information, go to: http://www.dailymail.co.uk/news/article-263852/Stock-Report-for-2016-7-Beverages-includes-beverage-drinks.html#storylink=cpy"
+}

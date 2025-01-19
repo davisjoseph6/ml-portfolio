@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-04_2.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-04 \n Category : Condiments  \n id category : 2  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nChef Anton's Cajun Seasoning\n50\n53\n22\nNorthwoods Cranberry Sauce\n34\n6\n40\nGenen Shouyu\n12\n39\n15.5\nGula Malacca\n9\n27\n19.45\nSirop d'érable\n40\n113\n28.5\nLouisiana Fiery Hot Pepper Sauce\n74\n76\n21.05\nLouisiana Hot Spiced Okra\n10\n4\n17\nOriginal Frankfurter grüne Soße\n30\n32\n13\n",
+    "augmented_texts": [
+        "Stock Report for 2017 - 04 Category: Condiment id category: 2 Product Units Sold Units in Stock Unit Price Chef Anton ' s Cajun Flavourer 50 53 22 Northwoods Cranberry Sauce 34 6 40 Genen Shouyu 12 39 15. 5 Gula Malacca 9 27 19. 45 Sirop cholecalciferol ' érable xl 113 28. 5 Louisiana Fiery Hot Piper nigrum Sauce 74 76 21. 05 La Hot Spiced Okra 10 4 17 Original Frankfurter grüne Soße 30 32 13",
+        "Stock Report for 2017 - 04 Category: Condiments id category: ii Merchandise Unit of measurement Sold Units in Stock Unit Price Chef Anton ' s Cajun Flavouring 50 53 22 Northwoods Cranberry Sauce xxxiv 6 40 Genen Shouyu 12 39 15. 5 Gula Malacca 9 xxvii 19. 45 Sirop d ' érable 40 113 28. 5 Louisiana Fiery Hot Pepper Sauce 74 76 21. 05 Louisiana Hot Spiced Okra 10 4 17 Original Frankfurter grüne Soße 30 32 13"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-04. Category : Condiments. id category : 2              Product: Condiment; category: condiments; id: 2. product: Cajun Seasoning, Cranberry Sauce, Hot Spiced Okra, Fiery Hot Pepper Sauce. price: $1.99 per bottle."
+}

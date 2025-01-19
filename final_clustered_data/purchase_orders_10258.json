@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10258.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10258\n2016-07-17\nRoland Mendel\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n2\nChang\n50\n15.2\n5\nChef Anton's Gumbo Mix\n65\n17\n32\nMascarpone Fabioli\n6\n25.6\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Client Name 10258 2016 - 07 - xvii Roland Mendel Production Product ID: Product: Amount: Unit Price: 2 Chang 50 15. 2 5 Chef Anton ' s Gumbo Mix lxv 17 32 Mascarpone Fabioli 6 25. 6 Page 1",
+        "Leverage Orders Order ID Parliamentary law Date Customer Name 10258 2016 - 07 - 17 Roland Mendel Product Product ID: Ware: Quantity: Unit Price: 2 Chang 50 15. 2 5 Chef Anton ' s Gumbo Mix 65 17 32 Mascarpone Fabioli 6 25. 6 Page one"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: Chef Anton's Gumbo Mix, Mascarpone Fabioli, and Chang's. The product ID: product:Product:Quantity:Unit: Price: 2, 50, 15,15, 65, 25, 20, 30, 40."
+}

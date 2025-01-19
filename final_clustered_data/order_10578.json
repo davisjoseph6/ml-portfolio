@@ -1,0 +1,24 @@
+{
+    "filename": "order_10578.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10578\nShipping Details:\nShip Name: B-s Beverages\nShip Address: Fauntleroy Circus\nShip City: London\nShip Region: British Isles\nShip Postal Code: EC2 5NT\nShip Country: UK\nCustomer Details:\nCustomer ID: BSBEV\nCustomer Name: B's Beverages\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-06-24\nShipped Date: 2017-07-25\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 20\nUnit Price: 18.0\nTotal: 360.0\n--------------------------------------------------------------------------------------------------\nProduct: Ravioli Angelo\nQuantity: 6\nUnit Price: 19.5\nTotal: 117.0\nTotal Price:\nTotal Price: 477.0\n",
+    "augmented_texts": [
+        "Order ID: 10578 Shipping Details: Ship Name: B complex vitamin - s Beverages Ship Address: Fauntleroy Circus Ship City: Jack london Ship Region: British Isles Ship Postal Code: EC2 5NT Ship Res publica: UK Customer Details: Client ID: BSBEV Customer Name: B ' randomness Beverages Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Ordering Detail: Order Date: 2017 - 06 - 24 Shipped Date: 2017 - 07 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 20 Unit Price: 18. 0 Total: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 6 Unit Price: 19. 5 Total: 117. 0 Total Price: Total Price: 477. 0",
+        "Order ID: 10578 Shipping Details: Ship Name: B - s Beverages Ship Name and address: Fauntleroy Circus Ship City: London Ship Region: British Isles Ship Postal Codification: EC2 5NT Ship Country: UK Customer Details: Client ID: BSBEV Customer Name: B ' s Beverages Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 06 - 24 Shipped Date: 2017 - 07 - xxv Cartesian product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 20 Unit Price: 18. 0 Total: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Cappelletti Angelo Quantity: 6 Unit Price: 19. 5 Total: 117. 0 Total Price: Total Price: 477. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10578. Order Name: B-s Beverages. Ship Address: Fauntleroy Circus. Postal Code: EC2 5NT. Country: UK. Shipper: Federal Shipping. Product: Steeleye Stout. Unit Price: 18.0 pounds. Cost: 117.5 euros."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10499.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10499\nShipping Details:\nShip Name: LILA-Supermercado\nShip Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo\nShip City: Barquisimeto\nShip Region: South America\nShip Postal Code: 3508\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: LILAS\nCustomer Name: LILA-Supermercado\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-04-08\nShipped Date: 2017-04-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Rössle Sauerkraut\nQuantity: 20\nUnit Price: 45.6\nTotal: 912.0\n--------------------------------------------------------------------------------------------------\nProduct: Maxilaku\nQuantity: 25\nUnit Price: 20.0\nTotal: 500.0\nTotal Price:\nTotal Price: 1412.0\n",
+    "augmented_texts": [
+        "Order ID: 10499 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo Ship City: Barquisimeto Ship Region: South U.s.a. Ship Postal Code: 3508 Ship Country: Venezuela Customer Details: Customer ID: LILAS Customer Name: LILA - Supermercado Employee Details: Employee Figure: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Decree Details: Ordering Date: 2017 - 04 - 08 Shipped Date: 2017 - 04 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: twenty Unit Price: 45. 6 Total: 912. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Quantity: 25 Unit Price: 20. 0 Total: 500. 0 Total Price: Total Price: 1412. cypher",
+        "Order ID: 10499 Shipping Particular: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo Ship City: Barquisimeto Ship Area: South America Ship Postal Code: 3508 Ship Country: Republic of venezuela Customer Particular: Customer ID: LILAS Customer Name: LILA - Supermercado Employee Detail: Employee Name: Margaret Inachis io Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Item: Order Date: 2017 - 04 - 08 Shipped Date: 2017 - 04 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Amount: 20 Unit Price: 45. 6 Total: 912. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Quantity: 25 Unit Price: 20. 0 Total: 500. 0 Total Price: Total Price: 1412. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10499. Order Name: LILA-Supermercado. Ship Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo. Postal Code: 3508. Country: Venezuela. Customer Name is LILAS. Shipper ID is United Package."
+}

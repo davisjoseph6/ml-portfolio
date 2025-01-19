@@ -1,0 +1,24 @@
+{
+    "filename": "order_10527.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10527\nShipping Details:\nShip Name: QUICK-Stop\nShip Address: Taucherstraße 10\nShip City: Cunewalde\nShip Region: Western Europe\nShip Postal Code: 1307\nShip Country: Germany\nCustomer Details:\nCustomer ID: QUICK\nCustomer Name: QUICK-Stop\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-05-05\nShipped Date: 2017-05-07\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chef Anton's Cajun Seasoning\nQuantity: 50\nUnit Price: 22.0\nTotal: 1100.0\n--------------------------------------------------------------------------------------------------\nProduct: Inlagd Sill\nQuantity: 30\nUnit Price: 19.0\nTotal: 570.0\nTotal Price:\nTotal Price: 1670.0\n",
+    "augmented_texts": [
+        "Fiat ID: 10527 Shipping Details: Ship Name: QUICK - Stop Ship Address: Taucherstraße 10 Ship City: Cunewalde Ship Region: Western Europe Ship Postal Codification: 1307 Ship Country: Germany Customer Details: Customer i.d.: QUICK Customer Name: QUICK - Stop Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Engagement: 2017 - 05 - 05 Shipped Date: 2017 - 05 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Flavorer Quantity: 50 Unit Price: 22. 0 Total: 1100. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 30 Unit Price: 19. 0 Total: 570. cypher Total Price: Total Price: 1670. cipher",
+        "Parliamentary law ID: 10527 Shipping Details: Ship Name: QUICK - Stop Ship Address: Taucherstraße 10 Ship City: Cunewalde Ship Region: Western Europe Ship Postal Code: 1307 Ship Country: Germany Customer Details: Customer ID: QUICK Customer Name: QUICK - Stop Employee Inside information: Employee Name: Robert King Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Edict Details: Order Date: 2017 - 05 - 05 Shipped Date: 2017 - 05 - 07 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Seasoning Quantity: 50 Unit Cost: 22. 0 Total: 1100. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 30 Unit Price: nineteen. 0 Total: 570. 0 Total Price: Total Price: 1670. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10527. Order Name: QUICK-Stop. Ship Address: Taucherstraße 10, Cunewalde, Germany. Postal Code: 1307. Customers can order online at: http://www.quickstop.com/quickshop.php."
+}

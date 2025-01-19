@@ -1,0 +1,24 @@
+{
+    "filename": "order_10496.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10496\nShipping Details:\nShip Name: Tradiçao Hipermercados\nShip Address: Av. Inês de Castro, 414\nShip City: Sao Paulo\nShip Region: South America\nShip Postal Code: 05634-030\nShip Country: Brazil\nCustomer Details:\nCustomer ID: TRADH\nCustomer Name: Tradição Hipermercados\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-04-04\nShipped Date: 2017-04-07\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 20\nUnit Price: 10.0\nTotal: 200.0\nTotal Price:\nTotal Price: 200.0\n",
+    "augmented_texts": [
+        "Order gem state: 10496 Shipping Details: Ship Name: Tradiçao Hipermercados Ship Address: Av. Inês first state Castro, 414 Ship Metropolis: Sao Paulo Ship Region: Confederate states America Ship Postal Code: 05634 - 030 Ship Country: Brazil Customer Details: Customer ID: TRADH Customer Name: Tradição Hipermercados Employee Details: Employee Name: Robert King Shipper Details: Shipper idaho: two Shipper Name: United Package Order Details: Order Date: 2017 - 04 - 04 Shipped Date: 2017 - 04 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: twenty Unit Price: 10. 0 Total: 200. 0 Total Price: Total Price: 200. 0",
+        "Order ID: 10496 Shipping Item: Ship Name: Tradiçao Hipermercados Ship Address: Av. Inês de Castro, 414 Ship City: Sao Paulo Ship Region: South America Ship Postal Code: 05634 - 030 Ship Area: Brazil nut Customer Details: Customer gem state: TRADH Customer Name: Tradição Hipermercados Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: deuce Shipper Name: United Package Order Particular: Order Date: 2017 - 04 - 04 Shipped Date: 2017 - 04 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 20 Unit Price: x. 0 Total: 200. 0 Total Price: Total Price: 200. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10496. Ship Address: Av. Inês de Castro, 414, Sao Paulo. Postal Code: 05634-030. Country: Brazil. Product Name: Gorgonzola Telino. Unit Price: 20.0 pounds."
+}

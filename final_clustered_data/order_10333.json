@@ -1,0 +1,24 @@
+{
+    "filename": "order_10333.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10333\nShipping Details:\nShip Name: Wartian Herkku\nShip Address: Torikatu 38\nShip City: Oulu\nShip Region: Scandinavia\nShip Postal Code: 90110\nShip Country: Finland\nCustomer Details:\nCustomer ID: WARTH\nCustomer Name: Wartian Herkku\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-10-18\nShipped Date: 2016-10-25\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 10\nUnit Price: 18.6\nTotal: 186.0\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 10\nUnit Price: 8.0\nTotal: 80.0\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 40\nUnit Price: 17.2\nTotal: 688.0\nTotal Price:\nTotal Price: 954.0\n",
+    "augmented_texts": [
+        "Order ID: 10333 Shipping Details: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Region: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Customer Details: Customer ID: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 3 Shipper Name: Fed Cargo ships Order Details: Purchase order Date: 2016 - 10 - 18 Shipped Date: 2016 - 10 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Amount: 10 Unit Price: xviii. 6 Total: 186. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: ten Social unit Price: 8. 0 Total: 80. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 40 Unit Price: 17. 2 Total: 688. 0 Total Monetary value: Total Price: 954. 0",
+        "Holy order ID: 10333 Shipping Details: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Region: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Customer Details: Customer ID: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 3 Shipper Name: Federal Merchant marine Order Details: Order Date: 2016 - x - 18 Shipped Engagement: 2016 - 10 - twenty five Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 10 Unit Price: 18. 6 Total: 186. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scone Quantity: 10 Unit Price: octet. 0 Total: 80. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 40 Unit Price: 17. 2 Total: 688. zero Total Price: Total Price: 954. nought"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10333. Ship Name: Wartian Herkku. Address: Torikatu 38. City: Oulu. Region: Scandinavia. Postal Code: 90110. Country: Finland. Customer: WARTH. Employee: Steven Buchanan. Shipper: Federal Shipping."
+}

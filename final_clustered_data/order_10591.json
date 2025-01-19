@@ -1,0 +1,24 @@
+{
+    "filename": "order_10591.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10591\nShipping Details:\nShip Name: Vaffeljernet\nShip Address: Smagsloget 45\nShip City: Århus\nShip Region: Northern Europe\nShip Postal Code: 8200\nShip Country: Denmark\nCustomer Details:\nCustomer ID: VAFFE\nCustomer Name: Vaffeljernet\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-07-07\nShipped Date: 2017-07-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Aniseed Syrup\nQuantity: 14\nUnit Price: 10.0\nTotal: 140.0\n--------------------------------------------------------------------------------------------------\nProduct: Uncle Bob's Organic Dried Pears\nQuantity: 10\nUnit Price: 30.0\nTotal: 300.0\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 50\nUnit Price: 7.45\nTotal: 372.5\nTotal Price:\nTotal Price: 812.5\n",
+    "augmented_texts": [
+        "Order ID: 10591 Shipping Details: Ship Name: Vaffeljernet Ship Address: Smagsloget 45 Ship Metropolis: Århus Ship Region: Northern Europe Ship Postal Code: 8200 Ship Country: Denmark Customer Detail: Client ID: VAFFE Customer Name: Vaffeljernet Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Figure: Speedy Express Order Details: Order Date: 2017 - 07 - 07 Shipped Date: 2017 - 07 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Aniseed Syrup Quantity: 14 Unit Price: 10. 0 Total: cxl. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Uncle Bob ' s Organic Dried Pears Quantity: 10 Unit of measurement Price: 30. 0 Total: 300. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 50 Unit Damage: 7. 45 Total: 372. 5 Total Price: Total Price: 812. 5",
+        "Order ID: 10591 Shipping Details: Ship Name: Vaffeljernet Ship Address: Smagsloget 45 Ship City: Århus Ship Region: Northern Europe Ship Postal Code: 8200 Ship Country: Denmark Customer Details: Customer ID: VAFFE Customer Name: Vaffeljernet Employee Details: Employee Public figure: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 07 - 07 Shipped Date: 2017 - 07 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Anise Syrup Quantity: 14 Unit Price: 10. nought Total: 140. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Uncle Bob ' s Organic Dried Pears Quantity: 10 Unit Terms: thirty. 0 Total: 300. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Amount: 50 Unit Price: 7. 45 Total: 372. 5 Full Price: Total Price: 812. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10591. Order name: Vaffeljernet. Ship address: Smagsloget 45, Århus, Denmark. Postal code: 8200. Customer name is VAFFE. Shipper ID is Speedy Express. The order was placed on July 7, 2017."
+}

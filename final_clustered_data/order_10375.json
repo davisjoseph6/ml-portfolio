@@ -1,0 +1,24 @@
+{
+    "filename": "order_10375.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10375\nShipping Details:\nShip Name: Hungry Coyote Import Store\nShip Address: City Center Plaza 516 Main St.\nShip City: Elgin\nShip Region: North America\nShip Postal Code: 97827\nShip Country: USA\nCustomer Details:\nCustomer ID: HUNGC\nCustomer Name: Hungry Coyote Import Store\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-12-06\nShipped Date: 2016-12-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 15\nUnit Price: 18.6\nTotal: 279.0\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 10\nUnit Price: 5.9\nTotal: 59.0\nTotal Price:\nTotal Price: 338.0\n",
+    "augmented_texts": [
+        "Order ID: 10375 Shipping Details: Ship Name: Hungry Coyote Significance Store Ship Address: City Center Plaza 516 Main St. Ship City: Elgin Ship Part: North America Ship Postal Codification: 97827 Ship Country: USA Customer Details: Customer ID: HUNGC Customer Name: Athirst Prairie wolf Import Store Employee Details: Employee Name: Janet Leverling Shipper Detail: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 12 - 06 Shipped Date: 2016 - 12 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 15 Unit Price: 18. 6 Total: 279. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 10 Unit Price: 5. 9 Total: 59. 0 Total Price: Total Price: 338. nought",
+        "Order ID: 10375 Shipping Details: Ship Name: Hungry Coyote Import Memory board Ship Address: City Center Plaza 516 Briny St. Ship City: Elgin Ship Region: North America Ship Postal Code: 97827 Ship Country: USA Customer Details: Customer ID: HUNGC Customer Name: Hungry Coyote Import Store Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 12 - 06 Shipped Date: 2016 - 12 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Measure: 15 Unit Price: 18. 6 Aggregate: 279. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 10 Unit Price: 5. 9 Total: 59. zero Total Price: Total Price: 338. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10375. Ship Address: City Center Plaza 516 Main St. Elgin, Canada. Postal Code: 97827. Country: USA. Order Date: 2016-12-06. Shipper: United Package. Products: Tofu, Tourtière. Price: 338.0."
+}

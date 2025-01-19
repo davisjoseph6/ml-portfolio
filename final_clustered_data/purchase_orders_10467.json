@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10467.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10467\n2017-03-06\nGiovanni Rovelli\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n24\nGuaraná Fantástica\n28\n3.6\n25\nNuNuCa Nuß-Nougat-Creme\n12\n11.2\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order i.d. Order Date Customer Name 10467 2017 - 03 - 06 Giovanni Rovelli Products Mathematical product ID: Product: Measure: Unit Terms: 24 Guaraná Fantástica 28 3. 6 25 NuNuCa Nuß - Nougat - Creme 12 11. 2 Page i",
+        "Purchase Orders Order gem state Order Date Customer Name 10467 2017 - 03 - 06 Giovanni Rovelli Products Product ID: Product: Quantity: Unit Mary leontyne price: 24 Guaraná Fantástica 28 3. 6 25 NuNuCa Nuß - Nougat - Creme 12 11. 2 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders are ordered by the customer's order date. The product ID is Product ID: Product:Product: Quantity:Quantity:Unit Price: Price. Customers can choose to pay by cash or by check. For more information, go to: http://www.noungat-creme.com/en-us."
+}

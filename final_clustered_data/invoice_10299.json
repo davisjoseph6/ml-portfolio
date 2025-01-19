@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10299.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10299\nCustomer ID: RICAR\nOrder Date: 2016-09-06\nCustomer Details:\nContact Name:\nJanete Limeira\nAddress:\nAv. Copacabana, 267\nCity:\nRio de Janeiro\nPostal Code:\n02389-890\nCountry:\nBrazil\nPhone:\n(21) 555-3412\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n19\nTeatime Chocolate Biscuits\n15\n7.3\n70\nOutback Lager\n20\n12.0\n \n \nTotalPrice\n349.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10299 Customer ID: RICAR Monastic order Date: 2016 - 09 - 06 Client Details: Contact Name: Janete Limeira Address: Av. Copacabana, 267 City: Rio de Janeiro Postal Code: 02389 - 890 Country: Brazil Phone: (21) 555 - 3412 Fax: None Product Details: Product ID Product Name Quantity Unit Toll 19 Teatime Chocolate Biscuits 15 7. 3 lxx Outback Lager 20 12. 0 TotalPrice 349. fivesome Page 1",
+        "Invoice Lodge ID: 10299 Client ID: RICAR Order Date: 2016 - 09 - 06 Customer Details: Contact Name: Janete Limeira Address: Av. Copacabana, 267 City: Rio de Janeiro Postal Code: 02389 - 890 Country: Brazil Phone: (21) 555 - 3412 Fax: None Product Details: Product ID Product Public figure Quantity Unit of measurement Price 19 Teatime Chocolate Biscuits 15 septenary. triad 70 Outback Lager 20 12. 0 TotalPrice 349. 5 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10299.Customer ID: RICAR. Order Date: 2016-09-06. Customer: Janete Limeira. Product: Teatime Chocolate Biscuits, Outback Lager. Price: $349.5 for a pack of 20."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10432.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10432\nShipping Details:\nShip Name: Split Rail Beer & Ale\nShip Address: P.O. Box 555\nShip City: Lander\nShip Region: North America\nShip Postal Code: 82520\nShip Country: USA\nCustomer Details:\nCustomer ID: SPLIR\nCustomer Name: Split Rail Beer & Ale\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-01-31\nShipped Date: 2017-02-07\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gumbär Gummibärchen\nQuantity: 10\nUnit Price: 24.9\nTotal: 249.0\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 40\nUnit Price: 5.9\nTotal: 236.0\nTotal Price:\nTotal Price: 485.0\n",
+    "augmented_texts": [
+        "Order ID: 10432 Shipping Details: Ship Name: Rent Rail Beer & Ale Ship Destination: P. Type o. Box 555 Ship City: Lander Ship Region: North America Ship Postal Code: 82520 Ship Country: USA Customer Item: Customer ID: SPLIR Customer Name: Split Rail Beer & Ale Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Appointment: 2017 - 01 - 31 Shipped Date: 2017 - 02 - 07 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Amount: 10 Unit Price: 24. 9 Total: 249. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 40 Unit Price: 5. 9 Total: 236. 0 Total Price: Full Price: 485. 0",
+        "Order ID: 10432 Shipping Details: Ship Name: Split Rail Beer & Ale Ship Address: P. O. Box 555 Ship City: Lander Ship Region: North America Ship Postal Code: 82520 Ship Country: USA Customer Details: Customer gem state: SPLIR Customer Name: Split Rail Beer & Ale Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 01 - 31 Shipped Date: 2017 - 02 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Quantity: decade Unit of measurement Price: 24. 9 Total: 249. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Amount: 40 Unit Price: 5. 9 Total: 236. 0 Full Price: Full Price: 485. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10432. Order Name: Split Rail Beer & Ale. Ship Address: P.O. Box 555, Lander, N.A., USA. Postal Code: 82520. Country: U.S., Region: North America. Customer: SPLIR. Employee: Janet Leverling. Shipper: United Package."
+}

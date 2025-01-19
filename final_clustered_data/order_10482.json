@@ -1,0 +1,24 @@
+{
+    "filename": "order_10482.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10482\nShipping Details:\nShip Name: Lazy K Kountry Store\nShip Address: 12 Orchestra Terrace\nShip City: Walla Walla\nShip Region: North America\nShip Postal Code: 99362\nShip Country: USA\nCustomer Details:\nCustomer ID: LAZYK\nCustomer Name: Lazy K Kountry Store\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-03-21\nShipped Date: 2017-04-10\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Boston Crab Meat\nQuantity: 10\nUnit Price: 14.7\nTotal: 147.0\nTotal Price:\nTotal Price: 147.0\n",
+    "augmented_texts": [
+        "Order gem state: 10482 Shipping Details: Ship Name: Lazy K Kountry Store Ship Address: 12 Orchestra Terrace Ship City: Walla Walla Ship Region: North America Ship Postal Code: 99362 Ship Country: USA Client Details: Customer i.d.: LAZYK Customer Name: Lazy K Kountry Store Employee Point: Employee Name: Nancy Davolio Shipper Details: Shipper gem state: 3 Shipper Name: Fed Shipping Order Details: Order Date: 2017 - 03 - xxi Shipped Date: 2017 - 04 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Boston Crab Meat Quantity: x Social unit Price: 14. 7 Total: 147. 0 Total Price: Total Price: 147. 0",
+        "Order ID: 10482 Shipping Item: Ship Name: Lazy K Kountry Memory Ship Address: 12 Orchestra Terrace Ship City: Walla Walla Ship Region: North America Ship Postal Code: 99362 Ship Country: USA Customer Details: Customer ID: LAZYK Customer Figure: Lazy K Kountry Store Employee Details: Employee Epithet: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Union soldier Shipping Order Details: Order Date: 2017 - 03 - 21 Shipped Date: 2017 - 04 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Quantity: 10 Unit Price: 14. vii Total: 147. 0 Total Price: Total Price: 147. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10482. Ship Name: Lazy K Kountry Store. Address: 12 Orchestra Terrace. Postal Code: 99362. Customers: LAZYK, Nancy Davolio. Shipper: Federal Shipping. Product: Boston Crab Meat. Unit Price: 14.7 pounds. Price per pound: 147.0 dollars."
+}

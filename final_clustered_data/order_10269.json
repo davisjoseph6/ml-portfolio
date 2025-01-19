@@ -1,0 +1,24 @@
+{
+    "filename": "order_10269.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10269\nShipping Details:\nShip Name: White Clover Markets\nShip Address: 1029 - 12th Ave. S.\nShip City: Seattle\nShip Region: North America\nShip Postal Code: 98124\nShip Country: USA\nCustomer Details:\nCustomer ID: WHITC\nCustomer Name: White Clover Markets\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-07-31\nShipped Date: 2016-08-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 60\nUnit Price: 2.0\nTotal: 120.0\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 20\nUnit Price: 27.8\nTotal: 556.0\nTotal Price:\nTotal Price: 676.0\n",
+    "augmented_texts": [
+        "Order ID: 10269 Shipping Details: Ship Figure: White Clover Markets Ship Address: 1029 - 12th Ave. S. Ship City: Seattle Ship Region: North America Ship Postal Code: 98124 Ship Country: USA Customer Details: Client ID: WHITC Customer Gens: White Clover Markets Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 1 Shipper Epithet: Speedy Express Order Details: Order Date: 2016 - 07 - 31 Shipped Date: 2016 - 08 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Measure: lx Unit Price: 2. 0 Total: 120. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Amount: 20 Unit Price: 27. 8 Total: 556. 0 Total Price: Total Price: 676. 0",
+        "Edict ID: 10269 Shipping Details: Ship Name: White Clover Markets Ship Address: 1029 - 12th Ave. S. Ship City: Seattle Ship Region: North U.s.a. Ship Postal Code: 98124 Ship Country: USA Customer Details: Customer ID: WHITC Customer Name: White Clover Markets Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper idaho: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 07 - 31 Shipped Date: 2016 - 08 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 60 Unit Price: 2. 0 Total: 120. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Measure: 20 Unit Price: 27. 8 Sum: 556. zero Total Price: Full Price: 676. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10269. Ship Name: White Clover Markets. Shipper: Speedy Express. Postal Code: 98124. Customer: WHITC. Product: Geitost. Price: 2.0. Quantity: 60. Units: 20. Unit price: 27.8."
+}

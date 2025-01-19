@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10258.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10258\nCustomer ID: ERNSH\nOrder Date: 2016-07-17\nCustomer Details:\nContact Name:\nRoland Mendel\nAddress:\nKirchgasse 6\nCity:\nGraz\nPostal Code:\n8010\nCountry:\nAustria\nPhone:\n7675-3425\nFax:\n7675-3426\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n2\nChang\n50\n15.2\n5\nChef Anton's Gumbo Mix\n65\n17.0\n32\nMascarpone Fabioli\n6\n25.6\n \n \nTotalPrice\n2018.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10258 Customer ID: ERNSH Order Date: 2016 - 07 - 17 Customer Details: Contact Name: Roland Mendel Address: Kirchgasse 6 City: Graz Postal Codification: 8010 Country: Austria Phone: 7675 - 3425 Fax: 7675 - 3426 Product Details: Product ID Mathematical product Name Quantity Unit Price 2 Chang 50 15. 2 little phoebe Chef Anton ' s Gumbo Mix 65 seventeen. cipher 32 Mascarpone Fabioli 6 25. 6 TotalPrice 2018. 6 Page 1",
+        "Invoice Order ID: 10258 Customer gem state: ERNSH Parliamentary law Date: 2016 - 07 - 17 Client Details: Contact Name: Roland Johann mendel Address: Kirchgasse 6 City: Graz Postal Code: 8010 Country: Austria Phone: 7675 - 3425 Fax: 7675 - 3426 Product Details: Ware ID Product Name Quantity Unit Price 2 Chang fifty 15. 2 5 Chef Anton ' s Gumbo Mix 65 17. 0 32 Mascarpone Fabioli 6 25. 6 TotalPrice 2018. 6 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: ERNSH. Order Date: 2016-07-17.Customer Details: emphaticallyRoland Mendel. Address: Kirchgasse 6. City: Graz, Austria. Postal Code: 8010. Country: Austria. Phone Number: 7675-3425.Fax number: 2626-7675."
+}

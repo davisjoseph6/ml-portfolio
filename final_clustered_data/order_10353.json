@@ -1,0 +1,24 @@
+{
+    "filename": "order_10353.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10353\nShipping Details:\nShip Name: Piccolo und mehr\nShip Address: Geislweg 14\nShip City: Salzburg\nShip Region: Western Europe\nShip Postal Code: 5020\nShip Country: Austria\nCustomer Details:\nCustomer ID: PICCO\nCustomer Name: Piccolo und mehr\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-11-13\nShipped Date: 2016-11-25\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 12\nUnit Price: 16.8\nTotal: 201.60000000000002\n--------------------------------------------------------------------------------------------------\nProduct: Côte de Blaye\nQuantity: 50\nUnit Price: 210.8\nTotal: 10540.0\nTotal Price:\nTotal Price: 10741.6\n",
+    "augmented_texts": [
+        "Order ID: 10353 Shipping Details: Ship Name: Piccolo und mehr Ship Address: Geislweg 14 Ship City: Salzburg Ship Area: Western Europe Ship Postal Code: 5020 Ship Country: Austria Customer Details: Customer ID: PICCO Customer Name: Piccolo und mehr Employee Details: Employee Name: Robert King Shipper Contingent: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 11 - thirteen Shipped Date: 2016 - 11 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 12 Unit Price: 16. 8 Total: 201. 60000000000002 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Côte de Blaye Quantity: 50 Unit Monetary value: 210. 8 Total: 10540. 0 Total Price: Total Price: 10741. 6",
+        "Order ID: 10353 Shipping Details: Ship Name: Piccolo und mehr Ship Address: Geislweg 14 Ship City: Salzburg Ship Region: Western Europe Ship Postal Code: 5020 Ship Country: Austria Client Details: Customer ID: PICCO Customer Name: Piccolo und mehr Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 11 - 13 Shipped Date: 2016 - 11 - twenty five Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Queso Cabrales Quantity: 12 Unit Price: 16. octad Total: 201. 60000000000002 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Côte de Blaye Quantity: 50 Unit Price: 210. 8 Total: 10540. 0 Total Mary leontyne price: Total Leontyne price: 10741. 6"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10353. Ship Address: Geislweg 14, Salzburg, Austria. Postal Code: 5020. Customer Name: Piccolo und mehr. Shipper: Federal Shipping. Product: Côte de Blaye, Queso Cabrales."
+}

@@ -1,0 +1,12 @@
+{
+    "filename": "502599490.jpg",
+    "metadata": {},
+    "text": "Bier vacht : |\n\nWRAPPED 'N'READY\nLES\n\n \n\f",
+    "augmented_texts": [
+        "Bier vacht: | WRAPPED ' North ' READY LES",
+        "Bier vacht: | WRAPPED ' Atomic number 7 ' READY LES"
+    ],
+    "predicted_cluster": 3,
+    "predicted_label": "cluster_3",
+    "summary": "Bier vacht : | 'N'READYLES' is a German word for'ready' or 'welcome' The word \"ready\" means 'to be ready' in German. 'Readyles' means a person who is ready to start a new life."
+}

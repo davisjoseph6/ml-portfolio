@@ -1,0 +1,24 @@
+{
+    "filename": "order_10494.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10494\nShipping Details:\nShip Name: Comércio Mineiro\nShip Address: Av. dos Lusíadas, 23\nShip City: Sao Paulo\nShip Region: South America\nShip Postal Code: 05432-043\nShip Country: Brazil\nCustomer Details:\nCustomer ID: COMMI\nCustomer Name: Comércio Mineiro\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-04-02\nShipped Date: 2017-04-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 30\nUnit Price: 30.4\nTotal: 912.0\nTotal Price:\nTotal Price: 912.0\n",
+    "augmented_texts": [
+        "Order ID: 10494 Shipping Details: Ship Name: Comércio Mineiro Ship Address: Av. dos Lusíadas, 23 Ship Metropolis: Sao Paulo Ship Region: Southward America Ship Postal Code: 05432 - 043 Ship Country: Brazil Customer Details: Customer ID: COMMI Customer Name: Comércio Mineiro Employee Details: Employee Epithet: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 04 - 02 Shipped Date: 2017 - 04 - 09 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 30 Unit Mary leontyne price: 30. 4 Total: 912. 0 Total Price: Full Price: 912. 0",
+        "Order ID: 10494 Shipping Details: Ship Public figure: Comércio Mineiro Ship Address: Av. dos Lusíadas, 23 Ship City: Sao Paulo Ship Part: South America Ship Postal Code: 05432 - 043 Ship Country: Brazil Customer Details: Customer idaho: COMMI Customer Name: Comércio Mineiro Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: deuce Shipper Name: United Package Order Details: Gild Date: 2017 - 04 - 02 Shipped Date: 2017 - 04 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 30 Unit Price: 30. 4 Total: 912. zero Total Price: Total Price: 912. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order for Gnocchi di nonna Alice from Comércio Mineiro in Sao Paulo, Brazil. The order was placed on April 2, 2017, and the package was shipped on March 9. It cost 912.0 Brazilian reals, or $30.4 per unit. For confidential support call the Samaritans on 08457 909090."
+}

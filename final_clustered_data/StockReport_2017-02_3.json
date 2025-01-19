@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-02_3.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-02 \n Category : Confections  \n id category : 3  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nPavlova\n85\n29\n17.45\nTeatime Chocolate Biscuits\n67\n25\n9.2\nSir Rodney's Scones\n80\n3\n10\nGumbär Gummibärchen\n51\n15\n31.23\nSchoggi Schokolade\n50\n49\n43.9\nChocolade\n15\n15\n12.75\nMaxilaku\n21\n10\n20\nTarte au sucre\n35\n17\n49.3\nScottish Longbreads\n21\n6\n12.5\n",
+    "augmented_texts": [
+        "Stock Report for 2017 - 02 Family: Confections id category: 3 Product Unit Sold Unit in Stock Unit Price Pavlova 85 29 17. 45 Teatime Chocolate Biscuits sixty seven 25 9. 2 Sir Rodney ' s Scones 80 ternary 10 Gumbär Gummibärchen fifty one fifteen 31. 23 Schoggi Schokolade 50 49 43. 9 Chocolade 15 15 dozen. 75 Maxilaku 21 10 20 Tarte au sucre 35 17 49. 3 Scottish Longbreads 21 6 12. 5",
+        "Stock Report for 2017 - 02 Category: Confections id category: 3 Product Unit Sold Units in Stock Building block Price Pavlova 85 29 17. 45 Teatime Drinking chocolate Biscuits 67 25 9. 2 Sir Rodney ' s Scones 80 3 10 Gumbär Gummibärchen li 15 31. 23 Schoggi Schokolade 50 49 43. nine Chocolade 15 15 12. lxxv Maxilaku xxi 10 20 Tarte au sucre 35 17 49. 3 Scottish Longbreads 21 6 12. 5"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-02. Category : Confections. id category : 3.Product: Chocolate. Product: Biscuits. Price: £3.99 per box. Unit: 2,000. Units in Stock: 1,200. Units Sold: 3,500."
+}

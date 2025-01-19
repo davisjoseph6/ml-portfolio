@@ -1,0 +1,24 @@
+{
+    "filename": "order_10483.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10483\nShipping Details:\nShip Name: White Clover Markets\nShip Address: 1029 - 12th Ave. S.\nShip City: Seattle\nShip Region: North America\nShip Postal Code: 98124\nShip Country: USA\nCustomer Details:\nCustomer ID: WHITC\nCustomer Name: White Clover Markets\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-03-24\nShipped Date: 2017-04-25\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sasquatch Ale\nQuantity: 35\nUnit Price: 11.2\nTotal: 392.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 30\nUnit Price: 10.4\nTotal: 312.0\nTotal Price:\nTotal Price: 704.0\n",
+    "augmented_texts": [
+        "Order ID: 10483 Shipping Detail: Ship Name: White Clover Markets Ship Address: 1029 - 12th Ave. S. Ship City: Seattle Ship Region: North America Ship Postal Code: 98124 Ship Country: USA Client Details: Customer ID: WHITC Customer Name: White Clover Markets Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 2 Shipper Name: United Parcel Order Details: Order Date: 2017 - 03 - twenty four Shipped Date: 2017 - 04 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 35 Unit Price: eleven. 2 Total: 392. cypher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 30 Unit Price: 10. 4 Total: 312. 0 Total Price: Total Toll: 704. 0",
+        "Order ID: 10483 Shipping Details: Ship Name: White Clover Markets Ship Address: 1029 - 12th Ave. Mho. Ship City: Seattle Ship Region: North America Ship Postal Code: 98124 Ship Country: USA Customer Particular: Customer ID: WHITC Customer Name: Tweed Clover Markets Employee Details: Employee Name: Robert World beater Shipper Detail: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 03 - 24 Shipped Date: 2017 - 04 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 35 Unit Price: 11. two Total: 392. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 30 Unit Price: ten. 4 Total: 312. 0 Total Price: Total Price: 704. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10483. Order name: \"Sasquatch Ale\" Order date: 2017-03-24. Shipper: United Package. Ship location: Seattle, Washington, U.S. Postal Code: 98124. Customer: White Clover Markets. Employee: Robert King."
+}

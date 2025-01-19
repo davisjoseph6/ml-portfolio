@@ -1,0 +1,24 @@
+{
+    "filename": "order_10433.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10433\nShipping Details:\nShip Name: Princesa Isabel Vinhos\nShip Address: Estrada da saúde n. 58\nShip City: Lisboa\nShip Region: Southern Europe\nShip Postal Code: 1756\nShip Country: Portugal\nCustomer Details:\nCustomer ID: PRINI\nCustomer Name: Princesa Isabel Vinhos\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-02-03\nShipped Date: 2017-03-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 28\nUnit Price: 30.4\nTotal: 851.1999999999999\nTotal Price:\nTotal Price: 851.1999999999999\n",
+    "augmented_texts": [
+        "Order ID: 10433 Shipping Details: Ship Name: Princesa Isabel Vinhos Ship Address: Estrada da saúde n. 58 Ship City: Lisboa Ship Region: Southern European community Ship Postal Code: 1756 Ship Country: Portugal Client Item: Customer ID: PRINI Customer Name: Princesa Isabel Vinhos Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 02 - 03 Shipped Date: 2017 - 03 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 28 Unit Price: 30. four Total: 851. 1999999999999 Full Price: Total Price: 851. 1999999999999",
+        "Order ID: 10433 Transport Details: Ship Name: Princesa Isabel Vinhos Ship Address: Estrada da saúde due north. 58 Ship City: Lisboa Ship Region: Southern Europe Ship Postal Code: 1756 Ship Country: Portugal Customer Details: Customer ID: PRINI Customer Name: Princesa Isabel Vinhos Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 02 - 03 Shipped Escort: 2017 - 03 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 28 Unit Price: 30. four Amount: 851. 1999999999999 Total Price: Total Price: 851. 1999999999999"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10433. Ship address: Estrada da saúde n. 58. City: Lisboa. Region: Southern Europe. Postal Code: 1756. Country: Portugal. Product: Gnocchi di nonna Alice. Unit Price: 30.4 pounds.Unit price: 851.1999999999999."
+}

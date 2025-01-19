@@ -1,0 +1,24 @@
+{
+    "filename": "order_10597.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10597\nShipping Details:\nShip Name: Piccolo und mehr\nShip Address: Geislweg 14\nShip City: Salzburg\nShip Region: Western Europe\nShip Postal Code: 5020\nShip Country: Austria\nCustomer Details:\nCustomer ID: PICCO\nCustomer Name: Piccolo und mehr\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-07-11\nShipped Date: 2017-07-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 35\nUnit Price: 4.5\nTotal: 157.5\n--------------------------------------------------------------------------------------------------\nProduct: Ravioli Angelo\nQuantity: 20\nUnit Price: 19.5\nTotal: 390.0\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper Sauce\nQuantity: 12\nUnit Price: 21.05\nTotal: 252.60000000000002\nTotal Price:\nTotal Price: 800.1\n",
+    "augmented_texts": [
+        "Order ID: 10597 Shipping Details: Ship Name: Piccolo und mehr Ship Address: Geislweg 14 Ship City: Salzburg Ship Region: Western Europe Ship Postal Code: 5020 Ship Country: Austria Customer Details: Customer ID: PICCO Customer Name: Piccolo und mehr Employee Details: Employee Name: Robert Mogul Shipper Details: Shipper i.d.: 3 Shipper Name: Federal Transport Order Details: Order Date: 2017 - 07 - xi Shipped Date: 2017 - 07 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 35 Unit Price: 4. 5 Total: 157. v - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 20 Unit Price: 19. 5 Total: 390. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Louisiana Fiery Hot Pepper Sauce Quantity: 12 Unit Price: 21. 05 Total: 252. 60000000000002 Total Damage: Total Mary leontyne price: 800. 1",
+        "Order ID: 10597 Shipping Details: Ship Name: Piccolo und mehr Ship Address: Geislweg 14 Ship City: Salzburg Ship Region: Western Europe Ship Postal Codification: 5020 Ship Country: Austria Customer Details: Customer ID: PICCO Customer Name: Piccolo und mehr Employee Details: Employee Name: Robert King Shipper Inside information: Shipper ID: 3 Shipper Name: Fed Shipping Order Details: Order Date: 2017 - 07 - 11 Shipped Date: 2017 - 07 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 35 Unit Price: 4. 5 Total: 157. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 20 Unit Price: 19. 5 Total: 390. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Louisiana Fiery Hot Pepper Sauce Quantity: 12 Unit Price: 21. 05 Total: 252. 60000000000002 Full Price: Total Price: 800. 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10597. Ship Address: Geislweg 14, Salzburg, Austria. Postal Code: 5020. Customer Name: Piccolo und mehr.Employee: Robert King. Shipper: Federal Shipping. Order Date: 2017-07-11."
+}

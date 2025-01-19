@@ -1,0 +1,24 @@
+{
+    "filename": "order_10300.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10300\nShipping Details:\nShip Name: Magazzini Alimentari Riuniti\nShip Address: Via Ludovico il Moro 22\nShip City: Bergamo\nShip Region: Southern Europe\nShip Postal Code: 24100\nShip Country: Italy\nCustomer Details:\nCustomer ID: MAGAA\nCustomer Name: Magazzini Alimentari Riuniti\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-09-09\nShipped Date: 2016-09-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Hot Spiced Okra\nQuantity: 30\nUnit Price: 13.6\nTotal: 408.0\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 20\nUnit Price: 10.0\nTotal: 200.0\nTotal Price:\nTotal Price: 608.0\n",
+    "augmented_texts": [
+        "Order ID: 10300 Shipping Details: Ship Name: Magazzini Alimentari Riuniti Ship Computer address: Via Ludovico il Moro 22 Ship City: Bergamo Ship Area: Southern Eec Ship Postal Code: 24100 Ship Country: Italy Customer Details: Customer ID: MAGAA Customer Name: Magazzini Alimentari Riuniti Employee Details: Employee Name: Saint andrew Fuller Shipper Detail: Shipper ID: 2 Shipper Name: United Package Order Details: Purchase order Date: 2016 - 09 - 09 Shipped Date: 2016 - 09 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Hot Spiced Okra Quantity: 30 Unit Price: 13. 6 Total: 408. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 20 Unit Price: 10. 0 Total: 200. 0 Total Cost: Total Price: 608. 0",
+        "Order ID: 10300 Shipping Details: Ship Name: Magazzini Alimentari Riuniti Ship Address: Via Ludovico il Moro 22 Ship City: Bergamo Ship Region: Southern Europe Ship Postal Code: 24100 Ship Country: Italy Customer Details: Client ID: MAGAA Customer Name: Magazzini Alimentari Riuniti Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 2 Shipper Name: United Software package Monastic order Details: Order Date: 2016 - 09 - 09 Shipped Date: 2016 - 09 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Louisiana Hot Spiced Okra Quantity: 30 Unit Price: 13. 6 Total: 408. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 20 Unit Price: decade. nought Total: 200. 0 Total Price: Total Mary leontyne price: 608. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10300. Order Name: Magazzini Alimentari Riuniti. Ship Address: Via Ludovico il Moro 22, Bergamo. Postal Code: 24100. Country: Italy. Customers: MAGAA. Shipper: United Package. Products: Louisiana Hot Spiced Okra."
+}

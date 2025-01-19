@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10292.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10292\n2016-08-28\nAnabela Domingues\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n20\nSir Rodney's Marmalade\n20\n64.8\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Epithet 10292 2016 - 08 - 28 Anabela Domingues Products Product i.d.: Product: Measure: Unit Price: 20 Sir Rodney ' s Marmalade twenty 64. 8 Page 1",
+        "Purchase Orders Order idaho Order Date Customer Name 10292 2016 - 08 - 28 Anabela Domingues Products Product ID: Product: Quantity: Unit Price: 20 Sir Rodney ' s Marmalade xx 64. 8 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than one product. Customers can order by phone, email, or in person. Prices start at $2.99 for a pack of four. The price includes shipping and handling. For more information, go to: www.marshmallow.com."
+}

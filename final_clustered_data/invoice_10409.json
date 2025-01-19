@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10409.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10409\nCustomer ID: OCEAN\nOrder Date: 2017-01-09\nCustomer Details:\nContact Name:\nYvonne Moncada\nAddress:\nIng. Gustavo Moncada 8585 Piso 20-A\nCity:\nBuenos Aires\nPostal Code:\n1010\nCountry:\nArgentina\nPhone:\n(1) 135-5333\nFax:\n(1) 135-5535\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n14\nTofu\n12\n18.6\n21\nSir Rodney's Scones\n12\n8.0\n \n \nTotalPrice\n319.20000000000005\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10409 Customer i.d.: OCEAN Order Engagement: 2017 - 01 - 09 Client Details: Contact Name: Yvonne Moncada Address: Ing. Gustavo Moncada 8585 Piso 20 - A City: Buenos Aire river Postal Code: 1010 Country: Argentina Phone: (1) 135 - 5333 Facsimile: (1) 135 - 5535 Product Contingent: Product ID Product Name Quantity Social unit Price 14 Bean curd 12 18. 6 21 Sir Rodney ' s Scones 12 8. 0 TotalPrice 319. 20000000000005 Page ane",
+        "Invoice Order ID: 10409 Customer ID: OCEAN Order Date: 2017 - 01 - 09 Client Details: Contact Name: Yvonne Moncada Address: Ing. Gustavo Moncada 8585 Piso 20 - A City: Buenos Aires Postal Code: 1010 Country: Argentina Headphone: (1) 135 - 5333 Facsimile: (1) 135 - 5535 Product Details: Product ID Product Public figure Quantity Unit Price xiv Tofu 12 xviii. 6 21 Sir Rodney ' s Scone 12 8. 0 TotalPrice 319. 20000000000005 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "The company is based in Buenos Aires, Argentina. The company was founded by Gustavo Moncada and his wife, Yvonne. It is now called OCEAN and has a turnover of more than $1.5 billion per year. Its customers include the following companies:"
+}

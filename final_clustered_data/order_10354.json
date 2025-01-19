@@ -1,0 +1,24 @@
+{
+    "filename": "order_10354.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10354\nShipping Details:\nShip Name: Pericles Comidas clásicas\nShip Address: Calle Dr. Jorge Cash 321\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5033\nShip Country: Mexico\nCustomer Details:\nCustomer ID: PERIC\nCustomer Name: Pericles Comidas clásicas\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-11-14\nShipped Date: 2016-11-20\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 12\nUnit Price: 14.4\nTotal: 172.8\n--------------------------------------------------------------------------------------------------\nProduct: Thüringer Rostbratwurst\nQuantity: 4\nUnit Price: 99.0\nTotal: 396.0\nTotal Price:\nTotal Price: 568.8\n",
+    "augmented_texts": [
+        "Order ID: 10354 Shipping Details: Ship Name: Pericles Comidas clásicas Ship Address: Calle Dr. Jorge Cash 321 Ship City: México Calciferol. F. Ship Region: Central America Ship Postal Code: 5033 Ship Country: Mexico Customer Inside information: Customer ID: PERIC Client Name: Pericles Comidas clásicas Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 11 - 14 Shipped Date: 2016 - 11 - 20 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 12 Unit Price: 14. 4 Total: 172. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Thüringer Rostbratwurst Quantity: 4 Building block Price: 99. 0 Total: 396. 0 Total Monetary value: Total Leontyne price: 568. 8",
+        "Order ID: 10354 Shipping Details: Ship Public figure: Pericles Comidas clásicas Ship Address: Calle Dr. Jorge Cash 321 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5033 Ship Country: Mexico Customer Details: Customer ID: PERIC Customer Gens: Pericles Comidas clásicas Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Holy order Details: Lodge Date: 2016 - 11 - xiv Shipped Date: 2016 - 11 - 20 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 12 Unit of measurement Price: 14. quatern Total: 172. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Quantity: 4 Unit Price: 99. 0 Total: 396. 0 Total Price: Total Price: 568. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10354. Ship Name: Pericles Comidas clásicas. Address: Calle Dr. Jorge Cash 321. Postal Code: 5033. Country: México D.F.Ship Region: Central America. Customer: Laura Callahan. Shipper: Federal Shipping."
+}

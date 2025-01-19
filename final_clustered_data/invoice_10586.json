@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10586.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10586\nCustomer ID: REGGC\nOrder Date: 2017-07-02\nCustomer Details:\nContact Name:\nMaurizio Moroni\nAddress:\nStrada Provinciale 124\nCity:\nReggio Emilia\nPostal Code:\n42100\nCountry:\nItaly\nPhone:\n0522-556721\nFax:\n0522-556722\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n52\nFilo Mix\n4\n7.0\n \n \nTotalPrice\n28.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10586 Client ID: REGGC Order Date: 2017 - 07 - 02 Customer Details: Contact Name: Maurizio Moroni Address: Strada Provinciale 124 Metropolis: Reggio Genus emilia Postal Computer code: 42100 Country: Italy Phone: 0522 - 556721 Facsimile: 0522 - 556722 Product Details: Product gem state Product Name Quantity Unit Price 52 Filo Mix 4 7. 0 TotalPrice 28. 0 Page 1",
+        "Invoice Order ID: 10586 Client ID: REGGC Order Date: 2017 - 07 - 02 Client Details: Contact Name: Maurizio Moroni Address: Strada Provinciale 124 City: Reggio Emilia Postal Code: 42100 Country: Italy Phone: 0522 - 556721 Fax: 0522 - 556722 Product Contingent: Product idaho Product Name Quantity Unit Mary leontyne price 52 Filo Mix 4 7. 0 TotalPrice 28. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: REGGC Order ID: 10586 Order Date: 2017-07-02 Order Details: Maurizio Moroni Contact: 505-547-556721. Product name: \"Maurizia\" Product quantity: 52 Filo Mix: 4.4 Mixing: 7.0 Mixer: 28 Mixers: 1.5 Mixes: 0.1 Mix."
+}

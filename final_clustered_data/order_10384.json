@@ -1,0 +1,24 @@
+{
+    "filename": "order_10384.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10384\nShipping Details:\nShip Name: Berglunds snabbköp\nShip Address: Berguvsvägen  8\nShip City: Luleå\nShip Region: Northern Europe\nShip Postal Code: S-958 22\nShip Country: Sweden\nCustomer Details:\nCustomer ID: BERGS\nCustomer Name: Berglunds snabbköp\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-16\nShipped Date: 2016-12-20\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Marmalade\nQuantity: 28\nUnit Price: 64.8\nTotal: 1814.3999999999999\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 15\nUnit Price: 27.2\nTotal: 408.0\nTotal Price:\nTotal Price: 2222.3999999999996\n",
+    "augmented_texts": [
+        "Order ID: 10384 Shipping Details: Ship Name: Berglunds snabbköp Ship Address: Berguvsvägen 8 Ship City: Luleå Ship Region: Northern Europe Ship Postal Code: Due south - 958 22 Ship Country: Sweden Customer Details: Customer ID: BERGS Customer Name: Berglunds snabbköp Employee Particular: Employee Name: Janet Leverling Shipper Item: Shipper ID: 3 Shipper Name: Federal Shipping Parliamentary law Details: Guild Date: 2016 - 12 - 16 Shipped Date: 2016 - twelve - 20 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Marmalade Quantity: 28 Unit Price: 64. 8 Total: 1814. 3999999999999 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 15 Unit Price: 27. 2 Total: 408. 0 Total Price: Total Price: 2222. 3999999999996",
+        "Order ID: 10384 Shipping Details: Ship Name: Berglunds snabbköp Ship Address: Berguvsvägen 8 Ship City: Luleå Ship Region: Northern Europe Ship Postal Code: S - 958 22 Ship Country: Sweden Customer Item: Customer ID: BERGS Customer Name: Berglunds snabbköp Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Inside information: Order Date: 2016 - 12 - 16 Shipped Appointment: 2016 - 12 - 20 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Sir Rodney ' s Marmalade Quantity: twenty eight Whole Cost: 64. 8 Total: 1814. 3999999999999 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 15 Unit Price: 27. 2 Total: 408. 0 Total Price: Total Price: 2222. 3999999999996"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10384. Ship Address: Berguvsvägen 8, Luleå, Sweden. Postal Code: S-958 22 22. Customers: BERGS, Federal Shipping, Berglunds snabbköp. Products: Sir Rodney's Marmalade, Camembert Pierrot."
+}

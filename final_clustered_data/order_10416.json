@@ -1,0 +1,24 @@
+{
+    "filename": "order_10416.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10416\nShipping Details:\nShip Name: Wartian Herkku\nShip Address: Torikatu 38\nShip City: Oulu\nShip Region: Scandinavia\nShip Postal Code: 90110\nShip Country: Finland\nCustomer Details:\nCustomer ID: WARTH\nCustomer Name: Wartian Herkku\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-01-16\nShipped Date: 2017-01-27\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Teatime Chocolate Biscuits\nQuantity: 20\nUnit Price: 7.3\nTotal: 146.0\n--------------------------------------------------------------------------------------------------\nProduct: Perth Pasties\nQuantity: 10\nUnit Price: 26.2\nTotal: 262.0\n--------------------------------------------------------------------------------------------------\nProduct: Ravioli Angelo\nQuantity: 20\nUnit Price: 15.6\nTotal: 312.0\nTotal Price:\nTotal Price: 720.0\n",
+    "augmented_texts": [
+        "Order ID: 10416 Ship Details: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Region: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Customer Details: Customer ID: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Gild Details: Order Date: 2017 - 01 - 16 Shipped Date: 2017 - 01 - 27 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Biscuit Quantity: 20 Unit Price: 7. 3 Sum: 146. cipher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 10 Unit Price: 26. 2 Total: 262. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 20 Unit Price: 15. 6 Total: 312. 0 Total Price: Total Price: 720. zero",
+        "Order ID: 10416 Shipping Particular: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Region: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Customer Details: Customer ID: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Cargo ships Order Details: Order Appointment: 2017 - 01 - 16 Shipped Date: 2017 - 01 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Biscuits Quantity: xx Building block Price: 7. 3 Total: 146. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 10 Unit Price: 26. 2 Total: 262. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 20 Unit Price: 15. 6 Total: 312. 0 Total Price: Total Price: 720. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10416. Ship Address: Torikatu 38. City: Oulu. Region: Scandinavia. Postal Code: 90110. Country: Finland. Customer: Wartian Herkku. Employee: Laura Callahan. Shipper: Federal Shipping. Product: Ravioli Angelo."
+}

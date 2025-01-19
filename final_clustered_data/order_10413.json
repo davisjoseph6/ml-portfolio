@@ -1,0 +1,24 @@
+{
+    "filename": "order_10413.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10413\nShipping Details:\nShip Name: La maison d-Asie\nShip Address: 1 rue Alsace-Lorraine\nShip City: Toulouse\nShip Region: Western Europe\nShip Postal Code: 31000\nShip Country: France\nCustomer Details:\nCustomer ID: LAMAI\nCustomer Name: La maison d'Asie\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-01-14\nShipped Date: 2017-01-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 24\nUnit Price: 14.4\nTotal: 345.6\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 40\nUnit Price: 39.4\nTotal: 1576.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 14\nUnit Price: 14.4\nTotal: 201.6\nTotal Price:\nTotal Price: 2123.2\n",
+    "augmented_texts": [
+        "Order ID: 10413 Shipping Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Country: France Customer Details: Customer ID: LAMAI Customer Name: La maison five hundred ' Asie Employee Details: Employee Public figure: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Computer software Order Details: Order Appointment: 2017 - 01 - fourteen Shipped Date: 2017 - 01 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 24 Social unit Price: 14. 4 Totality: 345. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 40 Unit Price: 39. 4 Total: 1576. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 14 Unit Price: 14. 4 Total: 201. 6 Total Price: Total Price: 2123. 2",
+        "Order ID: 10413 Shipping Details: Ship Name: Louisiana maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Western Europe Ship Postal Codification: 31000 Ship Country: France Customer Details: Customer idaho: LAMAI Customer Name: La maison d ' Asie Employee Details: Employee Name: Janet Leverling Shipper Detail: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 01 - 14 Shipped Date: 2017 - 01 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: twenty four Whole Price: 14. 4 Total: 345. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: forty Unit Mary leontyne price: 39. 4 Total: 1576. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 14 Unit Price: 14. 4 Total: 201. vi Total Price: Total Price: 2123. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10413. Order Name: La maison d-Asie. Ship Address: 1 rue Alsace-Lorraine, Toulouse, France. Postal Code: 31000. Customers: LAMAI. Shipper: United Package."
+}

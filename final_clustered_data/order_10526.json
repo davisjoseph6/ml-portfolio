@@ -1,0 +1,24 @@
+{
+    "filename": "order_10526.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10526\nShipping Details:\nShip Name: Wartian Herkku\nShip Address: Torikatu 38\nShip City: Oulu\nShip Region: Scandinavia\nShip Postal Code: 90110\nShip Country: Finland\nCustomer Details:\nCustomer ID: WARTH\nCustomer Name: Wartian Herkku\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-05-05\nShipped Date: 2017-05-15\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 8\nUnit Price: 18.0\nTotal: 144.0\n--------------------------------------------------------------------------------------------------\nProduct: Konbu\nQuantity: 10\nUnit Price: 6.0\nTotal: 60.0\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 30\nUnit Price: 38.0\nTotal: 1140.0\nTotal Price:\nTotal Price: 1344.0\n",
+    "augmented_texts": [
+        "Order ID: 10526 Shipping Details: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Area: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Customer Details: Client ID: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Appointment: 2017 - 05 - 05 Shipped Engagement: 2017 - 05 - xv Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 8 Unit Price: 18. 0 Total: 144. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Amount: 10 Unit Price: 6. 0 Total: 60. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Amount: 30 Unit Price: 38. 0 Sum: 1140. 0 Total Price: Total Price: 1344. 0",
+        "Order ID: 10526 Shipping Details: Ship Public figure: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Region: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Customer Detail: Customer ID: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper idaho: 2 Shipper Name: United Software package Order Details: Social club Date: 2017 - 05 - 05 Shipped Day of the month: 2017 - 05 - 15 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 8 Unit Price: 18. zero Total: 144. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 10 Unit Price: 6. 0 Total: 60. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 30 Unit Price: 38. 0 Total: 1140. 0 Full Price: Total Price: 1344. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10526.Ship Name: Wartian Herkku. Ship Address: Torikatu 38. City: Oulu. Region: Scandinavia. Postal Code: 90110. Country: Finland. Customers: WARTH. Shipper: United Package."
+}

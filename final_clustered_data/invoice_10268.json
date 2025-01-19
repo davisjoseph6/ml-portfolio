@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10268.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10268\nCustomer ID: GROSR\nOrder Date: 2016-07-30\nCustomer Details:\nContact Name:\nManuel Pereira\nAddress:\n5ª Ave. Los Palos Grandes\nCity:\nCaracas\nPostal Code:\n1081\nCountry:\nVenezuela\nPhone:\n(2) 283-2951\nFax:\n(2) 283-3397\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n29\nThüringer Rostbratwurst\n10\n99.0\n72\nMozzarella di Giovanni\n4\n27.8\n \n \nTotalPrice\n1101.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10268 Customer ID: GROSR Order Date: 2016 - 07 - 30 Customer Details: Contact Name: Manuel Pereira Address: 5ª Ave. Los Palos Grandes City: Caracas Postal Code: 1081 Country: Venezuela Phone: (ii) 283 - 2951 Fax: (ii) 283 - 3397 Product Details: Product ID Product Name Measure Unit Price twenty nine Thüringer Rostbratwurst 10 99. 0 72 Mozzarella di Giovanni 4 xxvii. 8 TotalPrice 1101. 2 Page 1",
+        "Invoice Order ID: 10268 Customer ID: GROSR Order Escort: 2016 - 07 - 30 Customer Details: Contact Name: Manuel Pereira Computer address: 5ª Ave. Los Palos Grandes City: Caracas Postal Code: 1081 Country: Venezuela Phone: (2) 283 - 2951 Fax: (2) 283 - 3397 Product Details: Cartesian product ID Product Public figure Amount Unit Price 29 Thüringer Rostbratwurst 10 99. 0 lxxii Mozzarella di Giovanni 4 27. octad TotalPrice 1101. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: GROSR. Order Date: 2016-07-30. Customer: Manuel Pereira. Address: Ave. Los Palos Grandes, Caracas. Postal Code: 1081. Country: Venezuela. Phone: 283-2951.Fax: 282-3397. Product: Rostbratwurst."
+}

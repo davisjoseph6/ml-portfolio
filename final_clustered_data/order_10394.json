@@ -1,0 +1,24 @@
+{
+    "filename": "order_10394.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10394\nShipping Details:\nShip Name: Hungry Coyote Import Store\nShip Address: City Center Plaza 516 Main St.\nShip City: Elgin\nShip Region: North America\nShip Postal Code: 97827\nShip Country: USA\nCustomer Details:\nCustomer ID: HUNGC\nCustomer Name: Hungry Coyote Import Store\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-25\nShipped Date: 2017-01-03\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Konbu\nQuantity: 10\nUnit Price: 4.8\nTotal: 48.0\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 10\nUnit Price: 39.4\nTotal: 394.0\nTotal Price:\nTotal Price: 442.0\n",
+    "augmented_texts": [
+        "Order ID: 10394 Shipping Details: Ship Public figure: Hungry Brush wolf Import Store Ship Address: City Center Plaza 516 Main St. Ship City: Elgin Ship Region: North America Ship Postal Code: 97827 Ship Country: USA Customer Details: Customer ID: HUNGC Customer Name: Thirsty Coyote Import Store Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper gem state: 3 Shipper Name: Federal Shipping Order Detail: Order Date: 2016 - 12 - 25 Shipped Date: 2017 - 01 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 10 Unit Price: 4. 8 Total: 48. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Tarte au sucre Quantity: 10 Unit Price: 39. 4 Total: 394. 0 Total Price: Total Price: 442. 0",
+        "Order ID: 10394 Shipping Item: Ship Name: Hungry Coyote Import Storage Ship Address: City Center Plaza 516 Main St. Ship City: Elgin Ship Region: North America Ship Postal Code: 97827 Ship Country: USA Customer Details: Customer ID: HUNGC Customer Name: Hungry Coyote Import Store Employee Details: Employee Public figure: Nancy Davolio Shipper Inside information: Shipper ID: 3 Shipper Name: Federal official Shipping Order Details: Order Date: 2016 - 12 - 25 Shipped Particular date: 2017 - 01 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 10 Unit Price: 4. 8 Total: 48. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 10 Unit Price: 39. 4 Total: 394. nought Total Price: Total Price: 442. cipher"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "The Hungry Coyote Import Store is located at City Center Plaza 516 Main St. in Elgin, Canada. The store is part of the United States Postal Service. It is owned by the U.S. Department of Agriculture and is based in the town of Elgan, Ontario."
+}

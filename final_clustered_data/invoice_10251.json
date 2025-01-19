@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10251.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10251\nCustomer ID: VICTE\nOrder Date: 2016-07-08\nCustomer Details:\nContact Name:\nMary Saveley\nAddress:\n2, rue du Commerce\nCity:\nLyon\nPostal Code:\n69004\nCountry:\nFrance\nPhone:\n78.32.54.86\nFax:\n78.32.54.87\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n22\nGustaf's Knäckebröd\n6\n16.8\n57\nRavioli Angelo\n15\n15.6\n65\nLouisiana Fiery Hot Pepper Sauce\n20\n16.8\n \n \nTotalPrice\n670.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Ordering ID: 10251 Customer ID: VICTE Order Day of the month: 2016 - 07 - 08 Customer Details: Contact Name: Mary Saveley Address: 2, rue du Commercialism City: Lyon Postal Code: 69004 Country: France Phone: 78. 32. 54. 86 Fax: 78. xxxii. 54. 87 Cartesian product Details: Product ID Product Name Quantity Unit Price 22 Gustaf ' s Knäckebröd 6 16. 8 57 Ravioli Angelo 15 fifteen. 6 65 Louisiana Fiery Hot Madagascar pepper Sauce 20 xvi. 8 TotalPrice 670. 8 Page 1",
+        "Invoice Order ID: 10251 Client ID: VICTE Order Date: 2016 - 07 - 08 Customer Details: Contact Name: The virgin Saveley Address: 2, rue du Commerce City: Lyons Postal Code: 69004 Country: France Phone: 78. 32. 54. 86 Fax: 78. thirty two. 54. 87 Product Details: Merchandise ID Product Name Quantity Unit of measurement Price 22 Gustaf ' s Knäckebröd 6 16. 8 57 Ravioli Angelo 15 15. 6 65 Louisiana Fiery Hot Pepper Sauce 20 16. 8 TotalPrice 670. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10251.Customer ID: VICTE. Order Date: 2016-07-08. Customer Name: Mary Saveley. Address: rue du Commerce, Lyon. Postal Code: 69004. Country: France. Product: Louisiana Fiery Hot Pepper Sauce."
+}

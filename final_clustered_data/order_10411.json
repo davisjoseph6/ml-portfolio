@@ -1,0 +1,24 @@
+{
+    "filename": "order_10411.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10411\nShipping Details:\nShip Name: Bottom-Dollar Markets\nShip Address: 23 Tsawassen Blvd.\nShip City: Tsawassen\nShip Region: North America\nShip Postal Code: T2F 8M4\nShip Country: Canada\nCustomer Details:\nCustomer ID: BOTTM\nCustomer Name: Bottom-Dollar Markets\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-01-10\nShipped Date: 2017-01-21\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 25\nUnit Price: 7.7\nTotal: 192.5\n--------------------------------------------------------------------------------------------------\nProduct: Gula Malacca\nQuantity: 40\nUnit Price: 15.5\nTotal: 620.0\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 9\nUnit Price: 44.0\nTotal: 396.0\nTotal Price:\nTotal Price: 1208.5\n",
+    "augmented_texts": [
+        "Order ID: 10411 Shipping Details: Ship Name: Bottom - Dollar Markets Ship Address: 23 Tsawassen Blvd. Ship City: Tsawassen Ship Region: Magnetic north America Ship Postal Code: T2F 8M4 Ship Land: Canada Customer Details: Customer ID: BOTTM Client Gens: Bottom - Dollar Markets Employee Contingent: Employee Name: Anne Dodsworth Shipper Details: Shipper i.d.: three Shipper Name: Fed Shipping Order Details: Order Date: 2017 - 01 - 10 Shipped Date: 2017 - 01 - 21 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 25 Unit Price: 7. 7 Total: 192. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Quantity: 40 Unit Price: 15. 5 Total: 620. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 9 Unit Price: 44. 0 Total: 396. 0 Total Price: Total Damage: 1208. 5",
+        "Order ID: 10411 Shipping Details: Ship Name: Bottom - Dollar Markets Ship Address: 23 Tsawassen Blvd. Ship City: Tsawassen Ship Region: Compass north America Ship Postal Code: T2F 8M4 Ship Country: Canada Customer Details: Customer ID: BOTTM Customer Name: Bottom - Dollar Markets Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper i.d.: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 01 - 10 Shipped Date: 2017 - 01 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 25 Whole Price: 7. seven Total: 192. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Quantity: 40 Unit Price: 15. 5 Total: 620. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Measure: 9 Unit Price: 44. 0 Total: 396. 0 Total Damage: Total Price: 1208. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10411. Ship Address: 23 Tsawassen Blvd.Ship Postal Code: T2F 8M4Ship Country: Canada. Customer: Bottom-Dollar Markets. Employee: Anne Dodsworth. Shipper: Federal Shipping. Product: Jack's New England Clam Chowder."
+}

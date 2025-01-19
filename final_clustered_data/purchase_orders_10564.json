@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10564.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10564\n2017-06-10\nPaula Wilson\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n17\nAlice Mutton\n16\n39\n31\nGorgonzola Telino\n6\n12.5\n55\nPâté chinois\n25\n24\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Order Order ID Edict Date Customer Name 10564 2017 - 06 - 10 Paula Wilson Products Product ID: Mathematical product: Amount: Unit Price: 17 Alice Mutton 16 39 31 Gorgonzola Telino 6 12. 5 55 Pâté chinois 25 24 Page 1",
+        "Purchase Order Order ID Order Date Customer Name 10564 2017 - 06 - 10 Paula Wilson Products Product gem state: Product: Quantity: Unit Price: 17 Alice Mutton 16 39 31 Gorgonzola Telino 6 12. pentad 55 Pâté chinois 25 24 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following items: products, services, and products. Items are ordered by customer name and date of purchase. Customers can choose to pay by cash or by credit card. All products are shipped to the U.S. and are delivered to your home or business."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10274.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10274\nShipping Details:\nShip Name: Vins et alcools Chevalier\nShip Address: 59 rue de l-Abbaye\nShip City: Reims\nShip Region: Western Europe\nShip Postal Code: 51100\nShip Country: France\nCustomer Details:\nCustomer ID: VINET\nCustomer Name: Vins et alcools Chevalier\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-08-06\nShipped Date: 2016-08-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 20\nUnit Price: 17.2\nTotal: 344.0\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 7\nUnit Price: 27.8\nTotal: 194.6\nTotal Price:\nTotal Price: 538.6\n",
+    "augmented_texts": [
+        "Order ID: 10274 Shipping Details: Ship Name: Vins et alcools Chevalier Ship Address: 59 rue de l - Abbaye Ship City: Reims Ship Region: Western Europe Ship Postal Code: 51100 Ship Country: France Customer Details: Customer ID: VINET Customer Name: Vins et alcools Chevalier Employee Item: Employee Name: Michael Suyama Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 08 - 06 Shipped Date: 2016 - 08 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 20 Unit Toll: 17. two Total: 344. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 7 Unit Price: xxvii. 8 Total: 194. 6 Full Price: Total Price: 538. 6",
+        "Order ID: 10274 Shipping Details: Ship Name: Vins et alcools Chevalier Ship Speech: 59 rue de l - Abbaye Ship City: Reims Ship Region: Western Europe Ship Postal Code: 51100 Ship Country: Jacques anatole francois thibault Customer Details: Customer i.d.: VINET Customer Name: Vins et alcools Chevalier Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper idaho: 1 Shipper Name: Speedy Express Order Details: Order of magnitude Date: 2016 - 08 - 06 Shipped Date: 2016 - 08 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Measure: 20 Unit Price: 17. 2 Total: 344. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 7 Unit Price: 27. 8 Total: 194. 6 Total Price: Total Price: 538. 6"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10274. Ship Address: 59 rue de l-Abbaye, Reims. Postal Code: 51100. Country: France. Customer: Vins et alcools Chevalier. Employee: Michael Suyama. Shipper: Speedy Express. Product: Flotemysost."
+}

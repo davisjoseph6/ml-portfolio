@@ -1,0 +1,24 @@
+{
+    "filename": "order_10425.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10425\nShipping Details:\nShip Name: La maison d-Asie\nShip Address: 1 rue Alsace-Lorraine\nShip City: Toulouse\nShip Region: Western Europe\nShip Postal Code: 31000\nShip Country: France\nCustomer Details:\nCustomer ID: LAMAI\nCustomer Name: La maison d'Asie\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-01-24\nShipped Date: 2017-02-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 10\nUnit Price: 19.2\nTotal: 192.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 20\nUnit Price: 14.4\nTotal: 288.0\nTotal Price:\nTotal Price: 480.0\n",
+    "augmented_texts": [
+        "Order ID: 10425 Shipping Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship Metropolis: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Country: France Customer Details: Customer ID: LAMAI Customer Name: La maison d ' Asie Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 01 - 24 Shipped Date: 2017 - 02 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 10 Unit Price: 19. 2 Total: 192. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 20 Unit Price: 14. quatern Total: 288. cipher Full Price: Total Price: 480. 0",
+        "Order ID: 10425 Shipping Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Land: France Customer Details: Customer ID: LAMAI Customer Epithet: La maison five hundred ' Asie Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 01 - 24 Shipped Date: 2017 - 02 - fourteen Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Pâté chinois Quantity: 10 Unit Price: 19. 2 Total: 192. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 20 Unit Monetary value: 14. 4 Total: 288. 0 Total Price: Total Price: 480. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10425. Order Name: La maison d-Asie. Ship Address: 1 rue Alsace-Lorraine, Toulouse, France. Postal Code: 31,000. Customers: LAMAI. Shipper: United Package."
+}

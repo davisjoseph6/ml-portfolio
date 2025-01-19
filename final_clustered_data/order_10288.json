@@ -1,0 +1,24 @@
+{
+    "filename": "order_10288.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10288\nShipping Details:\nShip Name: Reggiani Caseifici\nShip Address: Strada Provinciale 124\nShip City: Reggio Emilia\nShip Region: Southern Europe\nShip Postal Code: 42100\nShip Country: Italy\nCustomer Details:\nCustomer ID: REGGC\nCustomer Name: Reggiani Caseifici\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-08-23\nShipped Date: 2016-09-03\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 10\nUnit Price: 5.9\nTotal: 59.0\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 3\nUnit Price: 10.0\nTotal: 30.0\nTotal Price:\nTotal Price: 89.0\n",
+    "augmented_texts": [
+        "Order ID: 10288 Ship Item: Ship Name: Reggiani Caseifici Ship Address: Strada Provinciale 124 Ship City: Reggio Emilia Ship Region: Southern Europe Ship Postal Code: 42100 Ship Country: Italy Customer Details: Customer ID: REGGC Customer Name: Reggiani Caseifici Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper idaho: 1 Shipper Name: Speedy Expressage Order Details: Order Date: 2016 - 08 - 23 Shipped Date: 2016 - 09 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Tourtière Quantity: 10 Unit Price: 5. 9 Total: 59. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Scottish Longbreads Quantity: 3 Unit Price: 10. 0 Total: 30. 0 Entire Price: Total Price: 89. 0",
+        "Purchase order ID: 10288 Shipping Details: Ship Name: Reggiani Caseifici Ship Address: Strada Provinciale 124 Ship City: Reggio Emilia Ship Region: Southern Europe Ship Postal Code: 42100 Ship Country: Italy Customer Details: Customer ID: REGGC Customer Name: Reggiani Caseifici Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 08 - 23 Shipped Date: 2016 - 09 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 10 Unit Price: 5. 9 Total: 59. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 3 Unit Price: 10. zero Total: 30. 0 Total Price: Total Price: 89. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10288. Order Name: Reggiani Caseifici. Ship Address: Strada Provinciale 124. Postal Code: 42100. Country: Italy. Customers: REGGC. Shippers: Speedy Express. Products: Scottish Longbreads, Tourtière."
+}

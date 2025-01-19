@@ -1,0 +1,24 @@
+{
+    "filename": "order_10443.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10443\nShipping Details:\nShip Name: Reggiani Caseifici\nShip Address: Strada Provinciale 124\nShip City: Reggio Emilia\nShip Region: Southern Europe\nShip Postal Code: 42100\nShip Country: Italy\nCustomer Details:\nCustomer ID: REGGC\nCustomer Name: Reggiani Caseifici\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-02-12\nShipped Date: 2017-02-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 6\nUnit Price: 16.8\nTotal: 100.80000000000001\n--------------------------------------------------------------------------------------------------\nProduct: Rössle Sauerkraut\nQuantity: 12\nUnit Price: 36.4\nTotal: 436.79999999999995\nTotal Price:\nTotal Price: 537.5999999999999\n",
+    "augmented_texts": [
+        "Order ID: 10443 Shipping Details: Ship Name: Reggiani Caseifici Ship Destination: Strada Provinciale 124 Ship City: Reggio Emilia Ship Region: Southern Europe Ship Postal Code: 42100 Ship Land: Italy Customer Details: Customer ID: REGGC Customer Name: Reggiani Caseifici Employee Detail: Employee Name: Laura Callahan Shipper Item: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 02 - xii Shipped Date: 2017 - 02 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 6 Unit Price: 16. 8 Total: 100. 80000000000001 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 12 Unit Price: xxxvi. 4 Total: 436. 79999999999995 Total Price: Total Price: 537. 5999999999999",
+        "Order ID: 10443 Shipping Details: Ship Name: Reggiani Caseifici Ship Address: Strada Provinciale 124 Ship City: Reggio Emilia Ship Region: Southern Europe Ship Postal Code: 42100 Ship Country: Italy Customer Details: Customer ID: REGGC Customer Name: Reggiani Caseifici Employee Inside information: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 02 - xii Shipped Date: 2017 - 02 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 6 Social unit Price: 16. 8 Total: 100. 80000000000001 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 12 Unit Price: 36. 4 Total: 436. 79999999999995 Total Price: Total Price: 537. 5999999999999"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10443. Ship Address: Strada Provinciale 124, Reggio Emilia, Italy. Postal Code: 42100. Customer Name: REGGC. Shipper: Speedy Express. Products: Queso Cabrales, Rössle Sauerkraut. Price: 36.4 euros."
+}

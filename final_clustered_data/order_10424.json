@@ -1,0 +1,24 @@
+{
+    "filename": "order_10424.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10424\nShipping Details:\nShip Name: Mère Paillarde\nShip Address: 43 rue St. Laurent\nShip City: Montréal\nShip Region: North America\nShip Postal Code: H1J 1C3\nShip Country: Canada\nCustomer Details:\nCustomer ID: MEREP\nCustomer Name: Mère Paillarde\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-01-23\nShipped Date: 2017-01-27\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 60\nUnit Price: 14.4\nTotal: 864.0\n--------------------------------------------------------------------------------------------------\nProduct: Côte de Blaye\nQuantity: 49\nUnit Price: 210.8\nTotal: 10329.2\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 30\nUnit Price: 10.0\nTotal: 300.0\nTotal Price:\nTotal Price: 11493.2\n",
+    "augmented_texts": [
+        "Order ID: 10424 Shipping Details: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship City: Montréal Ship Region: North U.s. Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Detail: Employee Name: Robert Billie jean king Shipper Details: Shipper ID: 2 Shipper Epithet: United Package Order Details: Order Date: 2017 - 01 - 23 Shipped Escort: 2017 - 01 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: sixty Unit Price: 14. 4 Total: 864. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Côte de Blaye Quantity: 49 Unit Price: 210. 8 Total: 10329. 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 30 Unit Price: 10. 0 Total: 300. cipher Total Price: Total Price: 11493. 2",
+        "Order ID: 10424 Shipping Details: Ship Epithet: Mère Paillarde Ship Address: 43 rue St. Laurent Ship City: Montréal Ship Region: North America Ship Postal Code: H1J 1C3 Ship Country: Canada Client Details: Customer ID: MEREP Customer Public figure: Mère Paillarde Employee Details: Employee Name: Robert Male monarch Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 01 - 23 Shipped Date: 2017 - 01 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 60 Unit Price: 14. 4 Total: 864. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Côte de Blaye Amount: 49 Unit Price: 210. 8 Total: 10329. 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 30 Unit Price: 10. 0 Total: 300. 0 Total Price: Total Price: 11493. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10424. Order Name: Mère Paillarde. Ship Address: 43 rue St. Laurent. Postal Code: H1J 1C3. Country: Canada. Shipper: United Package. Product: Steeleye Stout. Unit Price: 14.4."
+}

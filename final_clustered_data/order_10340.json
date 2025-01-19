@@ -1,0 +1,24 @@
+{
+    "filename": "order_10340.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10340\nShipping Details:\nShip Name: Bon app-\nShip Address: 12, rue des Bouchers\nShip City: Marseille\nShip Region: Western Europe\nShip Postal Code: 13008\nShip Country: France\nCustomer Details:\nCustomer ID: BONAP\nCustomer Name: Bon app'\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-10-29\nShipped Date: 2016-11-08\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Carnarvon Tigers\nQuantity: 20\nUnit Price: 50.0\nTotal: 1000.0\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 12\nUnit Price: 7.7\nTotal: 92.4\n--------------------------------------------------------------------------------------------------\nProduct: Ipoh Coffee\nQuantity: 40\nUnit Price: 36.8\nTotal: 1472.0\nTotal Price:\nTotal Price: 2564.4\n",
+    "augmented_texts": [
+        "Order i.d.: 10340 Shipping Details: Ship Name: Bon app - Ship Address: 12, rue des Bouchers Ship City: Marseille Ship Region: Western Europe Ship Postal Code: 13008 Ship Country: France Customer Details: Customer ID: BONAP Customer Name: Bon app ' Employee Point: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 10 - 29 Shipped Date: 2016 - 11 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Panthera tigris Quantity: 20 Building block Price: 50. zero Total: 1000. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 12 Unit of measurement Price: 7. 7 Total: 92. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ipoh Coffee Quantity: 40 Unit Price: xxxvi. 8 Total: 1472. 0 Total Mary leontyne price: Total Price: 2564. 4",
+        "Order ID: 10340 Shipping Details: Ship Name: Bon app - Ship Computer address: 12, rue des Bouchers Ship City: Marseille Ship Region: Western Europe Ship Postal Code: 13008 Ship State: France Customer Details: Customer ID: BONAP Client Name: Bon app ' Employee Details: Employee Name: Nancy Davolio Shipper Point: Shipper ID: 3 Shipper Name: Federal Shipping Holy order Details: Order Date: 2016 - 10 - 29 Shipped Date: 2016 - 11 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Tigers Quantity: 20 Unit Price: 50. 0 Total: 1000. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 12 Unit Price: 7. 7 Total: 92. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ipoh Coffee Quantity: 40 Unit Price: 36. 8 Total: 1472. 0 Total Mary leontyne price: Total Price: 2564. 4"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10340. Ship Address: 12, rue des Bouchers, Marseille. Postal Code: 13008. Country: France. Customer Name: Bon app'Employee: Nancy Davolio. Shipper: Federal Shipping. Order Date: 2016-10-29."
+}

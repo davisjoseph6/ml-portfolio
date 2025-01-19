@@ -1,0 +1,24 @@
+{
+    "filename": "order_10369.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10369\nShipping Details:\nShip Name: Split Rail Beer & Ale\nShip Address: P.O. Box 555\nShip City: Lander\nShip Region: North America\nShip Postal Code: 82520\nShip Country: USA\nCustomer Details:\nCustomer ID: SPLIR\nCustomer Name: Split Rail Beer & Ale\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-12-02\nShipped Date: 2016-12-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Thüringer Rostbratwurst\nQuantity: 20\nUnit Price: 99.0\nTotal: 1980.0\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 18\nUnit Price: 30.4\nTotal: 547.1999999999999\nTotal Price:\nTotal Price: 2527.2\n",
+    "augmented_texts": [
+        "Order ID: 10369 Shipping Details: Ship Name: Rent Rail Beer & Ale Ship Address: P. O. Box 555 Ship Metropolis: Lander Ship Region: North America Ship Postal Code: 82520 Ship Nation: USA Client Details: Customer ID: SPLIR Customer Name: Split Rail Beer & Ale Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Detail: Order Date: 2016 - 12 - 02 Shipped Date: 2016 - twelve - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Quantity: 20 Unit Price: 99. 0 Total: 1980. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 18 Unit of measurement Price: 30. 4 Total: 547. 1999999999999 Total Price: Total Price: 2527. 2",
+        "Order gem state: 10369 Shipping Detail: Ship Name: Split Rail Beer & Ale Ship Address: P. O. Box 555 Ship City: Lander Ship Region: North America Ship Postal Code: 82520 Ship Country: USA Customer Details: Customer ID: SPLIR Customer Name: Split Rail Beer & Ale Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 12 - 02 Shipped Date: 2016 - 12 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Quantity: 20 Unit Price: 99. 0 Total: 1980. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 18 Unit Price: 30. 4 Sum: 547. 1999999999999 Total Price: Total Price: 2527. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10369. Ship Address: P.O. Box 555. Postal Code: 82520. Country: USA. Customer Name: SPLIR. Employee: Laura Callahan. Shipper: United Package. Product: Thüringer Rostbratwurst. Price: 2527.2."
+}

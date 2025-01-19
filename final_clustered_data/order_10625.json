@@ -1,0 +1,24 @@
+{
+    "filename": "order_10625.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10625\nShipping Details:\nShip Name: Ana Trujillo Emparedados y helados\nShip Address: Avda. de la Constitución 2222\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5021\nShip Country: Mexico\nCustomer Details:\nCustomer ID: ANATR\nCustomer Name: Ana Trujillo Emparedados y helados\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-08-08\nShipped Date: 2017-08-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 3\nUnit Price: 23.25\nTotal: 69.75\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 5\nUnit Price: 14.0\nTotal: 70.0\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 10\nUnit Price: 34.0\nTotal: 340.0\nTotal Price:\nTotal Price: 479.75\n",
+    "augmented_texts": [
+        "Order i.d.: 10625 Shipping Details: Ship Name: Ana Trujillo Emparedados y helados Ship Address: Avda. de la Constitución 2222 Ship Metropolis: México D. F. Ship Region: Central America Ship Postal Code: 5021 Ship Country: Mexico Customer Details: Customer ID: ANATR Customer Name: Ana Trujillo Emparedados y helados Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Ordering Date: 2017 - 08 - 08 Shipped Date: 2017 - 08 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 3 Unit Price: xxiii. 25 Total: 69. 75 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 5 Unit Price: 14. 0 Total: 70. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 10 Unit Leontyne price: 34. 0 Total: 340. nought Total Price: Total Price: 479. 75",
+        "Order ID: 10625 Shipping Details: Ship Name: Ana Trujillo Emparedados y helados Ship Address: Avda. de la Constitución 2222 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5021 Ship Country: United mexican states Customer Details: Customer ID: ANATR Customer Name: Ana Trujillo Emparedados y helados Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Item: Order Date: 2017 - 08 - 08 Shipped Date: 2017 - 08 - fourteen Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 3 Unit Price: 23. 25 Total: 69. seventy five - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 5 Unit Price: xiv. 0 Total: 70. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 10 Unit Price: 34. 0 Total: 340. 0 Total Price: Total Price: 479. seventy five"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10625. Order Name: Ana Trujillo Emparedados y helados. Ship Address: Avda. de la Constitución 2222Ship City: México D.F.Ship Region: Central America. Postal Code: 5021. Country: Mexico."
+}

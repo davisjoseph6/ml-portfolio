@@ -1,0 +1,24 @@
+{
+    "filename": "order_10302.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10302\nShipping Details:\nShip Name: Suprêmes délices\nShip Address: Boulevard Tirou, 255\nShip City: Charleroi\nShip Region: Western Europe\nShip Postal Code: B-6000\nShip Country: Belgium\nCustomer Details:\nCustomer ID: SUPRD\nCustomer Name: Suprêmes délices\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-09-10\nShipped Date: 2016-10-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Alice Mutton\nQuantity: 40\nUnit Price: 31.2\nTotal: 1248.0\n--------------------------------------------------------------------------------------------------\nProduct: Rössle Sauerkraut\nQuantity: 28\nUnit Price: 36.4\nTotal: 1019.1999999999999\n--------------------------------------------------------------------------------------------------\nProduct: Ipoh Coffee\nQuantity: 12\nUnit Price: 36.8\nTotal: 441.59999999999997\nTotal Price:\nTotal Price: 2708.7999999999997\n",
+    "augmented_texts": [
+        "Order ID: 10302 Shipping Details: Ship Name: Suprêmes délices Ship Address: Boulevard Tirou, 255 Ship City: Charleroi Ship Region: Western Europe Ship Postal Code: B - 6000 Ship Commonwealth: Belgium Customer Details: Customer ID: SUPRD Client Figure: Suprêmes délices Employee Details: Employee Name: Margaret Peacock Shipper Detail: Shipper i.d.: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 10 Shipped Date: 2016 - 10 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 40 Unit Price: 31. 2 Total: 1248. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 28 Unit Price: 36. iv Total: 1019. 1999999999999 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Ipoh Coffee Quantity: 12 Unit Price: xxxvi. 8 Total: 441. 59999999999997 Total Price: Total Price: 2708. 7999999999997",
+        "Order ID: 10302 Shipping Details: Ship Name: Suprêmes délices Ship Address: Boulevard Tirou, 255 Ship City: Charleroi Ship Region: Western Europe Ship Postal Code: B vitamin - 6000 Ship Country: Belgium Customer Details: Customer ID: SUPRD Customer Name: Suprêmes délices Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Detail: Order Day of the month: 2016 - 09 - 10 Shipped Date: 2016 - 10 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 40 Unit Price: 31. 2 Total: 1248. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Rössle Sauerkraut Quantity: 28 Unit Price: 36. 4 Total: 1019. 1999999999999 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ipoh Umber Quantity: 12 Unit Price: 36. 8 Total: 441. 59999999999997 Full Price: Total Price: 2708. 7999999999997"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10302. Ship Name: Suprêmes délices. Address: Boulevard Tirou, 255, Charleroi. Postal Code: B-6000. Country: Belgium. Region: Western Europe. Mailing address: Avenue de la Garenne."
+}

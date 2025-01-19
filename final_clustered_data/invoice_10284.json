@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10284.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10284\nCustomer ID: LEHMS\nOrder Date: 2016-08-19\nCustomer Details:\nContact Name:\nRenate Messner\nAddress:\nMagazinweg 7\nCity:\nFrankfurt a.M.\nPostal Code:\n60528\nCountry:\nGermany\nPhone:\n069-0245984\nFax:\n069-0245874\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n27\nSchoggi Schokolade\n15\n35.1\n44\nGula Malacca\n21\n15.5\n60\nCamembert Pierrot\n20\n27.2\n67\nLaughing Lumberjack Lager\n5\n11.2\n \n \nTotalPrice\n1452.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10284 Client ID: LEHMS Order Date: 2016 - 08 - 19 Customer Details: Contact Name: Renate Messner Address: Magazinweg 7 City: Frankfurt a. M. Postal Code: 60528 Country: Germany Phone: 069 - 0245984 Fax: 069 - 0245874 Product Details: Product ID Product Name Quantity Unit Price 27 Schoggi Schokolade 15 35. 1 44 Gula Malacca cane 21 xv. 5 60 Camembert Pierrot 20 27. 2 67 Express mirth Lumberjack Lager 5 11. 2 TotalPrice 1452. 0 Page 1",
+        "Invoice Order ID: 10284 Customer ID: LEHMS Order Date: 2016 - 08 - 19 Customer Details: Contact Name: Renate Messner Address: Magazinweg 7 City: Frankfurt a. Grand. Postal Computer code: 60528 State: Germany Phone: 069 - 0245984 Fax: 069 - 0245874 Product Details: Product ID Product Name Quantity Unit Price 27 Schoggi Schokolade fifteen 35. 1 44 Overeating Malacca xxi 15. 5 60 Camembert Pierrot 20 27. 2 67 Laughing Lumberjack Lager 5 11. 2 TotalPrice 1452. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10284.Customer: LEHMS. Product: Laughing Lumberjack Lager. Price: $1452.0. Customer: Renate Messner. Order: 2016-08-19.Product: Schoggi Schokolade, Malacca, Camembert Pierrot."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10361.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10361\nShipping Details:\nShip Name: QUICK-Stop\nShip Address: Taucherstraße 10\nShip City: Cunewalde\nShip Region: Western Europe\nShip Postal Code: 1307\nShip Country: Germany\nCustomer Details:\nCustomer ID: QUICK\nCustomer Name: QUICK-Stop\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-11-22\nShipped Date: 2016-12-03\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 54\nUnit Price: 14.4\nTotal: 777.6\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 55\nUnit Price: 27.2\nTotal: 1496.0\nTotal Price:\nTotal Price: 2273.6\n",
+    "augmented_texts": [
+        "Order ID: 10361 Transport Details: Ship Public figure: QUICK - Stop Ship Address: Taucherstraße 10 Ship City: Cunewalde Ship Region: Western Europe Ship Postal Computer code: 1307 Ship Country: Frg Customer Details: Customer ID: QUICK Customer Name: QUICK - Stop Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 11 - 22 Shipped Date: 2016 - 12 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: fifty four Unit Price: 14. 4 Total: 777. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 55 Unit of measurement Price: 27. 2 Total: 1496. 0 Total Price: Total Price: 2273. 6",
+        "Holy order i.d.: 10361 Shipping Details: Ship Name: QUICK - Stop Ship Address: Taucherstraße 10 Ship City: Cunewalde Ship Region: Western Europe Ship Postal Code: 1307 Ship Country: Germany Customer Details: Customer ID: QUICK Customer Name: QUICK - Stop Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Fiat Date: 2016 - 11 - 22 Shipped Date: 2016 - 12 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 54 Unit Price: 14. 4 Amount: 777. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: lv Unit Leontyne price: 27. 2 Total: 1496. 0 Full Price: Total Price: 2273. 6"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10361. Ship Address: Taucherstraße 10, Cunewalde, Germany. Postal Code: 1307. Customer Name: QUICK-Stop. Shipper: United Package. Product: Camembert Pierrot. Price: 2273.6 euros."
+}

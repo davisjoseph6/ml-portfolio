@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10373.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10373\nCustomer ID: HUNGO\nOrder Date: 2016-12-05\nCustomer Details:\nContact Name:\nPatricia McKenna\nAddress:\n8 Johnstown Road\nCity:\nCork\nPostal Code:\nNone\nCountry:\nIreland\nPhone:\n2967 542\nFax:\n2967 3333\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n58\nEscargots de Bourgogne\n80\n10.6\n71\nFlotemysost\n50\n17.2\n \n \nTotalPrice\n1708.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10373 Client ID: HUNGO Order Date: 2016 - 12 - 05 Customer Details: Contact Name: Patricia McKenna Address: 8 Johnstown Route City: Bob Postal Computer code: None Country: Ireland Earpiece: 2967 542 Fax: 2967 3333 Product Details: Product ID Product Name Quantity Unit Price 58 Snail de Bourgogne 80 x. sestet 71 Flotemysost 50 17. 2 TotalPrice 1708. 0 Page 1",
+        "Invoice Order ID: 10373 Customer ID: HUNGO Order Date: 2016 - 12 - 05 Customer Details: Contact Name: Patricia McKenna Computer address: 8 Johnstown Route City: Cork Postal Code: None Country: Ireland Phone: 2967 542 Fax: 2967 3333 Product Particular: Production ID Product Name Quantity Unit Price 58 Escargots de Bourgogne 80 10. 6 seventy one Flotemysost 50 17. 2 TotalPrice 1708. cypher Varlet 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10373.Customer ID: HUNGO. Order Date: 2016-12-05. Customer Name: Patricia McKenna. Address: Johnstown Road, Cork, Ireland. Phone: 542.Fax: 3333. Product: 1708.0. Unit Price: 58.6 euros."
+}

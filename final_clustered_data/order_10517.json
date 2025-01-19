@@ -1,0 +1,24 @@
+{
+    "filename": "order_10517.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10517\nShipping Details:\nShip Name: North/South\nShip Address: South House 300 Queensbridge\nShip City: London\nShip Region: British Isles\nShip Postal Code: SW7 1RZ\nShip Country: UK\nCustomer Details:\nCustomer ID: NORTS\nCustomer Name: North/South\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-04-24\nShipped Date: 2017-04-29\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Filo Mix\nQuantity: 6\nUnit Price: 7.0\nTotal: 42.0\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 4\nUnit Price: 55.0\nTotal: 220.0\n--------------------------------------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 6\nUnit Price: 15.0\nTotal: 90.0\nTotal Price:\nTotal Price: 352.0\n",
+    "augmented_texts": [
+        "Order ID: 10517 Shipping Details: Ship Name: North / South Ship Address: South House 300 Queensbridge Ship Metropolis: London Ship Region: British Isles Ship Postal Code: SW7 1RZ Ship Country: UK Customer Inside information: Client ID: NORTS Customer Name: North / South Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 04 - 24 Shipped Date: 2017 - 04 - 29 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Filo Mix Measure: 6 Unit Monetary value: 7. 0 Total: 42. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Raclette Courdavault Measure: 4 Unit Price: 55. 0 Total: 220. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 6 Unit Price: 15. 0 Total: 90. 0 Total Price: Total Price: 352. 0",
+        "Order ID: 10517 Shipping Details: Ship Name: North / South Ship Address: South House 300 Queensbridge Ship City: London Ship Region: British Isles Ship Postal Computer code: SW7 1RZ Ship State: UK Customer Details: Customer ID: NORTS Customer Name: North / South Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 04 - 24 Shipped Date: 2017 - 04 - 29 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Filo Mix Quantity: 6 Unit of measurement Price: 7. 0 Total: 42. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Raclette Courdavault Quantity: 4 Unit Price: 55. 0 Total: 220. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 6 Unit Price: 15. 0 Total: 90. 0 Total Price: Full Price: 352. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10517. Ship Address: South House 300 Queensbridge. Postal Code: SW7 1RZ. Country: UK. Customer: NORTS. Employee: Janet Leverling. Shipper: Federal Shipping. Product: Outback Lager. Price: 352.0 pounds."
+}

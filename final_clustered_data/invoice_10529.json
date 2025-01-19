@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10529.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10529\nCustomer ID: MAISD\nOrder Date: 2017-05-07\nCustomer Details:\nContact Name:\nCatherine Dewey\nAddress:\nRue Joseph-Bens 532\nCity:\nBruxelles\nPostal Code:\nB-1180\nCountry:\nBelgium\nPhone:\n(02) 201 24 67\nFax:\n(02) 201 24 68\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n55\nPâté chinois\n14\n24.0\n68\nScottish Longbreads\n20\n12.5\n69\nGudbrandsdalsost\n10\n36.0\n \n \nTotalPrice\n946.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10529 Customer ID: MAISD Order Appointment: 2017 - 05 - 07 Client Details: Contact Name: Catherine Dewey Reference: Rue Chief joseph - Bens 532 City: Bruxelles Postal Code: B - 1180 Country: Belgium Phone: (02) 201 24 67 Fax: (02) 201 24 68 Product Details: Product gem state Product Name Quantity Unit Price 55 Pâté chinois 14 xxiv. 0 lxviii Scottish Longbreads 20 12. 5 sixty nine Gudbrandsdalsost 10 36. 0 TotalPrice 946. 0 Page 1",
+        "Invoice Order ID: 10529 Customer ID: MAISD Order Date: 2017 - 05 - 07 Client Details: Contact Name: Catherine Dewey Address: Regret Joseph - Bens 532 City: Capital of belgium Postal Code: B - 1180 Country: Belgium Phone: (02) 201 24 lxvii Fax: (02) 201 24 68 Product Details: Merchandise ID Merchandise Name Quantity Unit Price 55 Pâté chinois 14 two dozen. 0 68 Scottish Longbreads 20 12. 5 69 Gudbrandsdalsost 10 36. 0 TotalPrice 946. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10529.Customer: MAISD.Product: Pâté chinois, Scottish Longbreads, Gudbrandsdalsost 10.Unit Price: 946.0.Page 1: 1. Price per item: $1.99."
+}

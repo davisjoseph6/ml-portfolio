@@ -1,0 +1,24 @@
+{
+    "filename": "order_10608.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10608\nShipping Details:\nShip Name: Toms Spezialitäten\nShip Address: Luisenstr. 48\nShip City: Münster\nShip Region: Western Europe\nShip Postal Code: 44087\nShip Country: Germany\nCustomer Details:\nCustomer ID: TOMSP\nCustomer Name: Toms Spezialitäten\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-07-23\nShipped Date: 2017-08-01\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 28\nUnit Price: 38.0\nTotal: 1064.0\nTotal Price:\nTotal Price: 1064.0\n",
+    "augmented_texts": [
+        "Rules of order idaho: 10608 Shipping Details: Ship Name: Toms Spezialitäten Ship Address: Luisenstr. 48 Ship City: Münster Ship Region: Western Europe Ship Postal Code: 44087 Ship Country: Germany Customer Detail: Customer ID: TOMSP Customer Name: Tomcat Spezialitäten Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 07 - 23 Shipped Date: 2017 - 08 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 28 Whole Cost: thirty eight. 0 Total: 1064. 0 Total Price: Total Price: 1064. 0",
+        "Order ID: 10608 Shipping Details: Ship Name: Toms Spezialitäten Ship Address: Luisenstr. 48 Ship City: Münster Ship Region: Western Europe Ship Postal Code: 44087 Ship Country: Germany Customer Item: Customer i.d.: TOMSP Customer Name: Toms Spezialitäten Employee Details: Employee Name: Margaret Peacock Shipper Particular: Shipper ID: 2 Shipper Name: United Packet Ordering Details: Order Day of the month: 2017 - 07 - 23 Shipped Day of the month: 2017 - 08 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Measure: 28 Unit Price: 38. 0 Total: 1064. 0 Total Price: Full Price: 1064. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10608. Order Name: Toms Spezialitäten. Ship Address: Luisenstr. 48, City: Münster, Region: Western Europe. Postal Code: 44087. Country: Germany. Customer: TOMSP. Employee: Margaret Peacock. Product: Gnocchi di nonna Alice. Unit Price: 38.0 pounds, Unit Quantity: 28 pounds."
+}

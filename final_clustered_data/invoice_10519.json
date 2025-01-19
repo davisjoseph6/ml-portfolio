@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10519.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10519\nCustomer ID: CHOPS\nOrder Date: 2017-04-28\nCustomer Details:\nContact Name:\nYang Wang\nAddress:\nHauptstr. 29\nCity:\nBern\nPostal Code:\n3012\nCountry:\nSwitzerland\nPhone:\n0452-076545\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n10\nIkura\n16\n31.0\n56\nGnocchi di nonna Alice\n40\n38.0\n60\nCamembert Pierrot\n10\n34.0\n \n \nTotalPrice\n2356.0\nPage 1\n",
+    "augmented_texts": [
+        "Account Order ID: 10519 Customer ID: CHOPS Order Date: 2017 - 04 - twenty eight Customer Details: Contact Name: Yang Wang Address: Hauptstr. 29 City: Berne Postal Code: 3012 Country: Switzerland Phone: 0452 - 076545 Fax: None Product Details: Product ID Product Name Quantity Unit Price 10 Ikura xvi 31. 0 fifty six Gnocchi di nonna Alice 40 38. 0 60 Camembert Pierrot 10 34. 0 TotalPrice 2356. 0 Page 1",
+        "Invoice Order i.d.: 10519 Customer ID: CHOPS Order Date: 2017 - 04 - 28 Client Details: Contact Name: Yang Wang Address: Hauptstr. 29 City: Berne Postal Code: 3012 Country: Switzerland Phone: 0452 - 076545 Facsimile: None Product Details: Product ID Product Name Amount Unit Cost 10 Ikura 16 31. 0 56 Gnocchi di nonna Alice 40 38. 0 60 Camembert Pierrot 10 34. 0 TotalPrice 2356. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: CHOPS. Order Date: 2017-04-28. Customer: Yang Wang. Phone: 0452-076545. fax: None. Price: $2356.0. Page 1: \"Gnocchi di nonna Alice\""
+}

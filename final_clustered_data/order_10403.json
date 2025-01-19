@@ -1,0 +1,24 @@
+{
+    "filename": "order_10403.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10403\nShipping Details:\nShip Name: Ernst Handel\nShip Address: Kirchgasse 6\nShip City: Graz\nShip Region: Western Europe\nShip Postal Code: 8010\nShip Country: Austria\nCustomer Details:\nCustomer ID: ERNSH\nCustomer Name: Ernst Handel\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-01-03\nShipped Date: 2017-01-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pavlova\nQuantity: 21\nUnit Price: 13.9\nTotal: 291.90000000000003\n--------------------------------------------------------------------------------------------------\nProduct: Chocolade\nQuantity: 70\nUnit Price: 10.2\nTotal: 714.0\nTotal Price:\nTotal Price: 1005.9000000000001\n",
+    "augmented_texts": [
+        "Order ID: 10403 Shipping Details: Ship Name: Ernst George frederick handel Ship Address: Kirchgasse 6 Ship City: Graz Ship Region: Westerly Europe Ship Postal Code: 8010 Ship Land: Austria Customer Details: Client ID: ERNSH Customer Name: Ernst Handel Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: three Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 01 - 03 Shipped Date: 2017 - 01 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: 21 Unit Mary leontyne price: 13. 9 Total: 291. 90000000000003 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chocolade Quantity: 70 Unit Price: 10. 2 Sum: 714. 0 Total Price: Total Price: 1005. 9000000000001",
+        "Order ID: 10403 Shipping Details: Ship Name: Ernst Handel Ship Address: Kirchgasse 6 Ship City: Graz Ship Realm: Western Europe Ship Postal Code: 8010 Ship Country: Austria Client Details: Customer ID: ERNSH Customer Name: Max ernst Handel Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Contingent: Order Date: 2017 - 01 - 03 Shipped Date: 2017 - 01 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: xxi Unit Price: 13. 9 Total: 291. 90000000000003 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chocolade Quantity: 70 Unit Price: 10. 2 Total: 714. nought Total Price: Total Price: 1005. 9000000000001"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10403. Ship Address: Kirchgasse 6, Graz, Austria. Postal Code: 8010. Country: Austria, Region: Western Europe. Customer: ERNSH. Employee: Margaret Peacock. Shipper: Federal Shipping. Product: Pavlova."
+}

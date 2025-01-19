@@ -1,0 +1,24 @@
+{
+    "filename": "order_10604.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10604\nShipping Details:\nShip Name: Furia Bacalhau e Frutos do Mar\nShip Address: Jardim das rosas n. 32\nShip City: Lisboa\nShip Region: Southern Europe\nShip Postal Code: 1675\nShip Country: Portugal\nCustomer Details:\nCustomer ID: FURIB\nCustomer Name: Furia Bacalhau e Frutos do Mar\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-07-18\nShipped Date: 2017-07-29\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chocolade\nQuantity: 6\nUnit Price: 12.75\nTotal: 76.5\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 10\nUnit Price: 18.0\nTotal: 180.0\nTotal Price:\nTotal Price: 256.5\n",
+    "augmented_texts": [
+        "Order ID: 10604 Shipping Details: Ship Name: Furia Bacalhau e Frutos do Mar Ship Address: Jardim das rosas n. 32 Ship City: Lisboa Ship Region: Southern Europe Ship Postal Code: 1675 Ship Country: Portugal Client Details: Customer ID: FURIB Customer Name: Furia Bacalhau e Frutos do Mar Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express mail Order Details: Order Date: 2017 - 07 - 18 Shipped Date: 2017 - 07 - 29 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chocolade Quantity: six Unit of measurement Price: 12. 75 Total: lxxvi. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 10 Unit Price: 18. 0 Sum: 180. 0 Total Price: Total Price: 256. 5",
+        "Order ID: 10604 Shipping Details: Ship Name: Furia Bacalhau e Frutos do Mar Ship Computer address: Jardim das rosas n. 32 Ship City: Lisboa Ship Region: Southern Europe Ship Postal Code: 1675 Ship Country: Portugal Customer Details: Customer gem state: FURIB Customer Gens: Furia Bacalhau es Frutos do Mar Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Item: Order Date: 2017 - 07 - 18 Shipped Date: 2017 - 07 - 29 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chocolade Quantity: 6 Unit Price: 12. 75 Total: 76. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Measure: 10 Unit Price: 18. 0 Total: 180. 0 Total Price: Total Price: 256. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10604. Ship Name: Furia Bacalhau e Frutos do Mar. Address: Jardim das rosas n. 32. Postal Code: 1675. Country: Portugal. Customer: Nancy Davolio. Shipper: Speedy Express. Product: Chocolade."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10617.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10617\nShipping Details:\nShip Name: Great Lakes Food Market\nShip Address: 2732 Baker Blvd.\nShip City: Eugene\nShip Region: North America\nShip Postal Code: 97403\nShip Country: USA\nCustomer Details:\nCustomer ID: GREAL\nCustomer Name: Great Lakes Food Market\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-07-31\nShipped Date: 2017-08-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 30\nUnit Price: 55.0\nTotal: 1650.0\nTotal Price:\nTotal Price: 1650.0\n",
+    "augmented_texts": [
+        "Order ID: 10617 Shipping Details: Ship Gens: Great Lakes Food Market Ship Destination: 2732 Baker Blvd. Ship City: Eugene Ship Region: North America Ship Postal Code: 97403 Ship Country: USA Customer Details: Customer idaho: GREAL Client Name: Great Lakes Food Market Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 07 - 31 Shipped Date: 2017 - 08 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 30 Unit Mary leontyne price: 55. 0 Total: 1650. 0 Total Damage: Total Price: 1650. cypher",
+        "Order ID: 10617 Shipping Details: Ship Name: Great Lakes Food Market Ship Speech: 2732 Bread maker Blvd. Ship City: Eugene Ship Region: North America Ship Postal Code: 97403 Ship Country: USA Customer Details: Customer ID: GREAL Customer Name: Great Lakes Food Market Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Detail: Order Particular date: 2017 - 07 - 31 Shipped Date: 2017 - 08 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Amount: 30 Unit Toll: 55. 0 Total: 1650. 0 Total Price: Total Price: 1650. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10617. Order Name: Great Lakes Food Market. Ship Address: 2732 Baker Blvd.Ship Postal Code: 97403. Country: USA. Shipper: United Package. Product: Raclette Courdavault. Unit Price: 55.0."
+}

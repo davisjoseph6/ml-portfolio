@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-04_3.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-04 \n Category : Confections  \n id category : 3  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nPavlova\n50\n29\n17.45\nSir Rodney's Marmalade\n39\n40\n81\nSir Rodney's Scones\n52\n3\n10\nNuNuCa Nuß-Nougat-Creme\n78\n76\n14\nSchoggi Schokolade\n120\n49\n43.9\nZaanse koeken\n6\n36\n9.5\nChocolade\n15\n15\n12.75\nMaxilaku\n25\n10\n20\nTarte au sucre\n3\n17\n49.3\nScottish Longbreads\n6\n6\n12.5\n",
+    "augmented_texts": [
+        "Stock Report for 2017 - 04 Category: Confections id category: 3 Product Units Sold Unit in Stock Unit Damage Anna pavlova 50 xxix 17. 45 Sir Rodney ' s Marmalade 39 40 lxxxi Sir Rodney ' s Scones 52 3 10 NuNuCa Nuß - Nougat - Creme 78 76 14 Schoggi Schokolade 120 49 xliii. 9 Zaanse koeken 6 36 9. 5 Chocolade fifteen 15 12. seventy five Maxilaku 25 10 20 Tarte au sucre 3 17 49. ternary Scottish Longbreads 6 6 12. 5",
+        "Stock Report for 2017 - 04 Class: Confections id category: 3 Product Units Sold Units in Stock Unit Price Pavlova 50 twenty nine 17. 45 Sir Rodney ' s Marmalade 39 forty 81 Sir Rodney ' s Scone 52 trinity 10 NuNuCa Nuß - Nougat - Creme 78 76 14 Schoggi Schokolade 120 49 43. 9 Zaanse koeken sestet 36 9. 5 Chocolade 15 15 12. 75 Maxilaku 25 10 20 Tarte au sucre 3 17 49. 3 Scottish Longbreads 6 half a dozen 12. quint"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-04. Category : Confections. id category : 3. Product Category: Chocolate. Id category: Chocolates. Price: £3.99 per box. Unit Price is £1.29 per pack. Units Sold are £2.2 million. Number of units sold is 3,000."
+}

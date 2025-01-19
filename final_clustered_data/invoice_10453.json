@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10453.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10453\nCustomer ID: AROUT\nOrder Date: 2017-02-21\nCustomer Details:\nContact Name:\nThomas Hardy\nAddress:\n120 Hanover Sq.\nCity:\nLondon\nPostal Code:\nWA1 1DP\nCountry:\nUK\nPhone:\n(171) 555-7788\nFax:\n(171) 555-6750\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n48\nChocolade\n15\n10.2\n70\nOutback Lager\n25\n12.0\n \n \nTotalPrice\n453.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order gem state: 10453 Customer ID: AROUT Order Date: 2017 - 02 - 21 Customer Details: Striking Name: Thomas Hardy Address: 120 Hanover Sq. City: John griffith chaney Postal Code: WA1 1DP Country: UK Phone: (171) 555 - 7788 Fax: (171) 555 - 6750 Product Details: Product ID Product Name Quantity Unit Price 48 Chocolade 15 10. 2 lxx Outback Lager 25 12. 0 TotalPrice 453. 0 Page 1",
+        "Invoice Order gem state: 10453 Customer ID: AROUT Order Date: 2017 - 02 - 21 Customer Details: Contact Name: Thomas Hardy Address: 120 Hanover Sq. City: London Postal Codification: WA1 1DP Area: UK Phone: (171) 555 - 7788 Fax: (171) 555 - 6750 Product Detail: Production ID Product Name Quantity Unit Price 48 Chocolade 15 x. ii 70 Outback Lager twenty five 12. 0 TotalPrice 453. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 10453;Customer IDs: AROUT;Order Date: 2017-02-21;Contact Name:Thomas Hardy; Address: 120 Hanover Sq. London; Postal Code: 1DP; Phone: 555-7788;Fax: 515-6750. Product Name Quantity: Product ID; Unit Price: Price; Item Type: Chocolade, Lager, Stout, Chocolate."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10374.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10374\nCustomer ID: WOLZA\nOrder Date: 2016-12-05\nCustomer Details:\nContact Name:\nZbyszek Piestrzeniewicz\nAddress:\nul. Filtrowa 68\nCity:\nWarszawa\nPostal Code:\n01-012\nCountry:\nPoland\nPhone:\n(26) 642-7012\nFax:\n(26) 642-7012\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n31\nGorgonzola Telino\n30\n10.0\n58\nEscargots de Bourgogne\n15\n10.6\n \n \nTotalPrice\n459.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10374 Customer ID: WOLZA Order Date: 2016 - 12 - 05 Customer Details: Contact Public figure: Zbyszek Piestrzeniewicz Address: ul. Filtrowa lxviii City: Warszawa Postal Codification: 01 - 012 Country: Poland Phone: (26) 642 - 7012 Fax: (26) 642 - 7012 Product Details: Product ID Product Name Amount Unit Price 31 Gorgonzola Telino 30 10. zero 58 Escargots de Burgundy 15 10. 6 TotalPrice 459. 0 Pageboy 1",
+        "Invoice Order ID: 10374 Customer ID: WOLZA Order Date: 2016 - 12 - 05 Customer Details: Middleman Name: Zbyszek Piestrzeniewicz Address: ul. Filtrowa sixty eight City: Warszawa Postal Code: 01 - 012 Country: Poland Phone: (26) 642 - 7012 Fax: (twenty six) 642 - 7012 Product Details: Product idaho Product Name Quantity Unit Price 31 Gorgonzola Telino 30 10. cypher 58 Escargots de Bourgogne 15 10. 6 TotalPrice 459. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10374.Customer ID: WOLZA. Order Date: 2016-12-05. Customer: Zbyszek Piestrzeniewicz. Product Name: Gorgonzola Telino. Unit Price: $459.0. Price per page: £1.99."
+}

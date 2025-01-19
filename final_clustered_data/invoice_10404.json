@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10404.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10404\nCustomer ID: MAGAA\nOrder Date: 2017-01-03\nCustomer Details:\nContact Name:\nGiovanni Rovelli\nAddress:\nVia Ludovico il Moro 22\nCity:\nBergamo\nPostal Code:\n24100\nCountry:\nItaly\nPhone:\n035-640230\nFax:\n035-640231\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n26\nGumbär Gummibärchen\n30\n24.9\n42\nSingaporean Hokkien Fried Mee\n40\n11.2\n49\nMaxilaku\n30\n16.0\n \n \nTotalPrice\n1675.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10404 Customer ID: MAGAA Order Escort: 2017 - 01 - 03 Customer Details: Contact Name: Giovanni Rovelli Address: Via Ludovico il Moro 22 City: Bergamo Postal Code: 24100 State: Italy Phone: 035 - 640230 Fax: 035 - 640231 Product Details: Product ID Product Public figure Measure Unit Price 26 Gumbär Gummibärchen 30 24. 9 42 Singaporean Hokkien Fried Mee 40 11. 2 49 Maxilaku xxx 16. 0 TotalPrice 1675. 0 Page 1",
+        "Invoice Order ID: 10404 Client ID: MAGAA Order Date: 2017 - 01 - 03 Customer Details: Contact Name: Giovanni Rovelli Address: Via Ludovico il Moro 22 City: Bergamo Postal Codification: 24100 Country: Italy Phone: 035 - 640230 Fax: 035 - 640231 Product Detail: Product ID Product Gens Quantity Unit Price 26 Gumbär Gummibärchen 30 24. 9 42 Singaporean Hokkien Fried Mee 40 11. 2 49 Maxilaku 30 16. 0 TotalPrice 1675. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: 10404.Customer ID: MAGAA. Order Date: 2017-01-03. Customer Details:phthalmologist. address:Via Ludovico il Moro 22. City: Bergamo. Postal Code: 24100. Country: Italy. Phone:035-640230. fax:640231. Unit Price: 1675.0."
+}

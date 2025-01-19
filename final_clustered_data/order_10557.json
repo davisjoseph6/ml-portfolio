@@ -1,0 +1,24 @@
+{
+    "filename": "order_10557.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10557\nShipping Details:\nShip Name: Lehmanns Marktstand\nShip Address: Magazinweg 7\nShip City: Frankfurt a.M.\nShip Region: Western Europe\nShip Postal Code: 60528\nShip Country: Germany\nCustomer Details:\nCustomer ID: LEHMS\nCustomer Name: Lehmanns Marktstand\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-06-03\nShipped Date: 2017-06-06\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Wimmers gute Semmelknödel\nQuantity: 30\nUnit Price: 33.25\nTotal: 997.5\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 20\nUnit Price: 7.75\nTotal: 155.0\nTotal Price:\nTotal Price: 1152.5\n",
+    "augmented_texts": [
+        "Order ID: 10557 Shipping Details: Ship Gens: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfort a. M. Ship Region: Western European community Ship Postal Code: 60528 Ship Country: Germany Customer Details: Customer ID: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 06 - 03 Shipped Date: 2017 - 06 - 06 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Wimmers gute Semmelknödel Quantity: 30 Unit Price: 33. 25 Total: 997. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 20 Unit Price: 7. 75 Total: 155. 0 Total Price: Total Price: 1152. 5",
+        "Monastic order ID: 10557 Shipping Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfurt a. M. Ship Region: Western Europe Ship Postal Code: 60528 Ship Country: Germany Customer Details: Customer ID: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: two Shipper Name: United Package Order Details: Order Date: 2017 - 06 - 03 Shipped Date: 2017 - 06 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Wimmers gute Semmelknödel Amount: 30 Unit Price: 33. 25 Amount: 997. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Rhönbräu Klosterbier Quantity: 20 Unit Price: 7. 75 Total: 155. 0 Total Price: Total Price: 1152. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10557. Order Name: Lehmanns Marktstand. Ship Address: Magazinweg 7. Postal Code: 60528. Country: Germany. Shipper: United Package. Product: Wimmers gute Semmelknödel. Unit Price: 33.25 euros."
+}

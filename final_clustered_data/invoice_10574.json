@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10574.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10574\nCustomer ID: TRAIH\nOrder Date: 2017-06-19\nCustomer Details:\nContact Name:\nHelvetius Nagy\nAddress:\n722 DaVinci Blvd.\nCity:\nKirkland\nPostal Code:\n98034\nCountry:\nUSA\nPhone:\n(206) 555-8257\nFax:\n(206) 555-2174\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n33\nGeitost\n14\n2.5\n40\nBoston Crab Meat\n2\n18.4\n62\nTarte au sucre\n10\n49.3\n64\nWimmers gute Semmelknödel\n6\n33.25\n \n \nTotalPrice\n764.3\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Ordering ID: 10574 Customer ID: TRAIH Order Date: 2017 - 06 - 19 Customer Details: Contact Name: Helvetius Nagy Address: 722 DaVinci Blvd. City: Kirkland Postal Code: 98034 Nation: USA Phone: (206) 555 - 8257 Fax: (206) 555 - 2174 Product Details: Product ID Product Gens Quantity Unit Toll xxxiii Geitost 14 2. 5 40 Boston Crabmeat Pith 2 18. 4 62 Tarte au sucre 10 49. 3 64 Wimmers gute Semmelknödel 6 33. 25 TotalPrice 764. 3 Page 1",
+        "Invoice Order ID: 10574 Customer i.d.: TRAIH Order Date: 2017 - 06 - nineteen Customer Details: Link Name: Helvetius Nagy Address: 722 DaVinci Blvd. City: Kirkland Postal Code: 98034 Country: USA Phone: (206) 555 - 8257 Fax: (206) 555 - 2174 Product Details: Product ID Product Name Quantity Unit Price 33 Geitost 14 2. 5 40 Boston Crab Meat 2 18. 4 62 Tarte au sucre 10 forty nine. troika 64 Wimmers gute Semmelknödel 6 33. 25 TotalPrice 764. 3 Page one"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10574.Customer ID: TRAIH. Order Date: 2017-06-19. Customer Name:elvetius Nagy. Address: 722 DaVinci Blvd. in Kirkland, Washington. Postal Code: 98034. Country: USA. Phone: (206) 555-8257.Fax:(206), (208) 515-2174. Product: Boston Crab Meat."
+}

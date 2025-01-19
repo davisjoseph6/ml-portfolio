@@ -1,0 +1,24 @@
+{
+    "filename": "order_10248.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10248\nShipping Details:\nShip Name: Vins et alcools Chevalier\nShip Address: 59 rue de l-Abbaye\nShip City: Reims\nShip Region: Western Europe\nShip Postal Code: 51100\nShip Country: France\nCustomer Details:\nCustomer ID: VINET\nCustomer Name: Vins et alcools Chevalier\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-07-04\nShipped Date: 2016-07-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 12\nUnit Price: 14.0\nTotal: 168.0\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 10\nUnit Price: 9.8\nTotal: 98.0\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 5\nUnit Price: 34.8\nTotal: 174.0\nTotal Price:\nTotal Price: 440.0\n",
+    "augmented_texts": [
+        "Order i.d.: 10248 Shipping Details: Ship Name: Vins et alcools Chevalier Ship Address: 59 rue first state l - Abbaye Ship City: Reims Ship Region: Western Europe Ship Postal Code: 51100 Ship Country: France Customer Details: Customer ID: VINET Customer Name: Vins et alcools Chevalier Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper i.d.: 3 Shipper Epithet: Federal Shipping Order Details: Order Escort: 2016 - 07 - 04 Shipped Date: 2016 - 07 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 12 Unit Price: 14. 0 Amount: 168. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 10 Unit Price: 9. 8 Total: 98. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Mozzarella di Giovanni Quantity: 5 Unit Price: 34. 8 Total: 174. 0 Total Price: Total Price: 440. 0",
+        "Order ID: 10248 Shipping Details: Ship Name: Vins et alcools Chevalier Ship Address: 59 rue de l - Abbaye Ship City: Reims Ship Region: Western Europe Ship Postal Code: 51100 Ship Rural area: France Customer Details: Customer ID: VINET Customer Name: Vins et alcools Chevalier Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 07 - 04 Shipped Date: 2016 - 07 - xvi Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 12 Unit Price: 14. 0 Total: 168. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 10 Building block Price: 9. 8 Total: 98. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Measure: 5 Unit Price: 34. 8 Total: 174. 0 Total Price: Total Price: 440. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10248. Order Name: Vins et alcools Chevalier. Ship Address: 59 rue de l-Abbaye, Reims, France. Postal Code: 51100. Greeting Card: \"Vinet,\" with the order number \"10248\" Ship Date: 2016-07-04."
+}

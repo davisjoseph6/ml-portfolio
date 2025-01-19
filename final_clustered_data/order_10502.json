@@ -1,0 +1,24 @@
+{
+    "filename": "order_10502.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10502\nShipping Details:\nShip Name: Pericles Comidas clásicas\nShip Address: Calle Dr. Jorge Cash 321\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5033\nShip Country: Mexico\nCustomer Details:\nCustomer ID: PERIC\nCustomer Name: Pericles Comidas clásicas\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-04-10\nShipped Date: 2017-04-29\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Rogede sild\nQuantity: 21\nUnit Price: 9.5\nTotal: 199.5\n--------------------------------------------------------------------------------------------------\nProduct: Perth Pasties\nQuantity: 6\nUnit Price: 32.8\nTotal: 196.79999999999998\n--------------------------------------------------------------------------------------------------\nProduct: Laughing Lumberjack Lager\nQuantity: 30\nUnit Price: 14.0\nTotal: 420.0\nTotal Price:\nTotal Price: 816.3\n",
+    "augmented_texts": [
+        "Order ID: 10502 Shipping Details: Ship Name: Pericles Comidas clásicas Ship Address: Calle Dr. Jorge Cash 321 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5033 Ship State: Mexico Client Details: Customer ID: PERIC Customer Name: Pericles Comidas clásicas Employee Detail: Employee Name: Andrew Fuller Shipper Details: Shipper idaho: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 04 - 10 Shipped Date: 2017 - 04 - 29 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rogede sild Quantity: 21 Unit Price: 9. 5 Total: 199. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 6 Unit Price: 32. eighter Total: 196. 79999999999998 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Laughing Lumberjack Lager Quantity: 30 Unit Price: 14. 0 Total: 420. 0 Total Price: Total Price: 816. iii",
+        "Order ID: 10502 Shipping Details: Ship Name: Pericles Comidas clásicas Ship Address: Calle Dr. Jorge Cash 321 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5033 Ship Country: Mexico Customer Details: Customer ID: PERIC Customer Name: Pericles Comidas clásicas Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 1 Shipper Name: Speedy Expressage Order Details: Order Date: 2017 - 04 - 10 Shipped Date: 2017 - 04 - twenty nine Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rogede sild Quantity: 21 Unit Price: 9. 5 Total: 199. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 6 Unit Price: 32. 8 Total: 196. 79999999999998 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Laughing Lumberjack Laager Quantity: 30 Unit Price: 14. 0 Total: 420. 0 Total Price: Total Damage: 816. 3"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10502. Ship Name: Pericles Comidas clásicasShip Address: Calle Dr. Jorge Cash 321Ship City: México D.F.Ship Region: Central AmericaShip Postal Code: 5033. Country: Mexico. Customer Details: PERICCustomer ID. Customers: 1, 2, 3, 4."
+}

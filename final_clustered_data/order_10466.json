@@ -1,0 +1,24 @@
+{
+    "filename": "order_10466.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10466\nShipping Details:\nShip Name: Comércio Mineiro\nShip Address: Av. dos Lusíadas, 23\nShip City: Sao Paulo\nShip Region: South America\nShip Postal Code: 05432-043\nShip Country: Brazil\nCustomer Details:\nCustomer ID: COMMI\nCustomer Name: Comércio Mineiro\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-03-06\nShipped Date: 2017-03-13\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 10\nUnit Price: 16.8\nTotal: 168.0\n--------------------------------------------------------------------------------------------------\nProduct: Spegesild\nQuantity: 5\nUnit Price: 9.6\nTotal: 48.0\nTotal Price:\nTotal Price: 216.0\n",
+    "augmented_texts": [
+        "Order ID: 10466 Shipping Details: Ship Name: Comércio Mineiro Ship Address: Av. dos Lusíadas, 23 Ship City: Sao Paulo Ship Region: South America Ship Postal Code: 05432 - 043 Ship Country: Brazil Customer Details: Client ID: COMMI Client Name: Comércio Mineiro Employee Detail: Employee Name: Margaret Peacock butterfly Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 03 - 06 Shipped Date: 2017 - 03 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Queso Cabrales Quantity: decade Unit Price: 16. 8 Total: 168. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Spegesild Quantity: 5 Unit Cost: 9. 6 Total: 48. 0 Full Price: Total Price: 216. 0",
+        "Order ID: 10466 Shipping Inside information: Ship Name: Comércio Mineiro Ship Address: Av. dos Lusíadas, twenty three Ship City: Sao Paulo Ship Region: South America Ship Postal Code: 05432 - 043 Ship Land: Brazil Customer Details: Customer ID: COMMI Customer Name: Comércio Mineiro Employee Detail: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 03 - 06 Shipped Date: 2017 - 03 - 13 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: tenner Unit Price: 16. 8 Total: 168. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Spegesild Quantity: 5 Unit Price: nine. 6 Total: 48. nought Total Price: Total Price: 216. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10466; Ship Address: Av. dos Lusíadas, 23; Postal Code: 05432-043; City: Sao Paulo; Region: South America; Country: Brazil. Customer: Comércio Mineiro; Employee: Margaret Peacock; Shipper: Speedy Express."
+}

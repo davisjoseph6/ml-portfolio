@@ -1,0 +1,24 @@
+{
+    "filename": "order_10534.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10534\nShipping Details:\nShip Name: Lehmanns Marktstand\nShip Address: Magazinweg 7\nShip City: Frankfurt a.M.\nShip Region: Western Europe\nShip Postal Code: 60528\nShip Country: Germany\nCustomer Details:\nCustomer ID: LEHMS\nCustomer Name: Lehmanns Marktstand\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-05-12\nShipped Date: 2017-05-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Nord-Ost Matjeshering\nQuantity: 10\nUnit Price: 25.89\nTotal: 258.9\n--------------------------------------------------------------------------------------------------\nProduct: Boston Crab Meat\nQuantity: 10\nUnit Price: 18.4\nTotal: 184.0\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 10\nUnit Price: 7.45\nTotal: 74.5\nTotal Price:\nTotal Price: 517.4\n",
+    "augmented_texts": [
+        "Order ID: 10534 Shipping Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfurt a. M. Ship Region: Western Eec Ship Postal Code: 60528 Ship Country: Germany Customer Details: Client ID: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Gens: Laura Callahan Shipper Details: Shipper ID: ii Shipper Name: United Package Edict Details: Order Date: 2017 - 05 - 12 Shipped Date: 2017 - 05 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Nord - Ost Matjeshering Measure: 10 Unit Price: 25. 89 Total: 258. 9 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Quantity: 10 Unit Price: 18. 4 Total: 184. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 10 Unit Price: 7. 45 Total: 74. 5 Total Price: Total Monetary value: 517. 4",
+        "Order ID: 10534 Shipping Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg vii Ship City: Frankfurt a. Thou. Ship Realm: Western Europe Ship Postal Code: 60528 Ship Country: Germany Customer Details: Customer ID: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 05 - 12 Shipped Date: 2017 - 05 - fourteen Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Nord - Ost Matjeshering Quantity: 10 Unit Price: twenty five. 89 Total: 258. ix - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Quantity: x Unit Price: 18. 4 Total: 184. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 10 Unit Price: 7. 45 Sum: 74. 5 Total Price: Total Mary leontyne price: 517. 4"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10534; Ship Address: Magazinweg 7; Postal Code: 60528; City: Frankfurt a.M.; Region: Western Europe; Country: Germany. Customer: Lehmanns Marktstand; Employee: Laura Callahan; Shipper: United Package."
+}

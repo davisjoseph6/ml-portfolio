@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10309.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10309\n2016-09-19\nPatricia McKenna\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n4\nChef Anton's Cajun Seasoning\n20\n17.6\n6\nGrandma's Boysenberry Spread\n30\n20\n42\nSingaporean Hokkien Fried Mee\n2\n11.2\n43\nIpoh Coffee\n20\n36.8\n71\nFlotemysost\n3\n17.2\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Range ID Order Date Customer Name 10309 2016 - 09 - 19 Patricia McKenna Products Product ID: Product: Quantity: Unit Price: 4 Chef Anton ' s Cajun Seasoning 20 17. 6 6 Grandmother ' s Boysenberry Spread xxx 20 42 Singaporean Hokkien Fried Mee ii eleven. 2 forty three Ipoh Coffee 20 36. 8 71 Flotemysost 3 17. 2 Page 1",
+        "Purchase Order Order ID Order Appointment Customer Name 10309 2016 - 09 - 19 Patricia McKenna Products Product ID: Product: Quantity: Unit Damage: 4 Chef Anton ' s Cajun Seasoning 20 17. 6 6 Grandma ' s Boysenberry Spread 30 20 xlii Singaporean Hokkien Fried Mee two 11. 2 43 Ipoh Coffee 20 xxxvi. 8 71 Flotemysost 3 17. 2 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass a range of products from Singaporean cuisine to coffee. Customers can choose from a selection of five products. The products are priced according to the customer's purchase order date and quantity. For more information on the products, visit www.SingaporeanCoffee.com."
+}

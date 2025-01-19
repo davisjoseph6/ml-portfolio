@@ -1,0 +1,12 @@
+{
+    "filename": "0001489919.jpg",
+    "metadata": {},
+    "text": "NIAGARA\n\nIntroducing NIAGARA, the first\nlow ‘tar’ cigarette that gives you full\nmenthol refreshment.\n\nlow ‘lar’ cigareties\n\nNIAGARA: The first low tar cigar. WE\ncette thal gives you as much menthol\nrolreshment as a high ‘tar brand,\n\n \n\f",
+    "augmented_texts": [
+        "NIAGARA Introducing NIAGARA, the first low ‘ tar ’ cigarette that gives you full menthol refreshment. low ‘ lar ’ cigareties NIAGARA: The first low tar cigar. WE cette thal yield you as much menthol rolreshment as a high ‘ seaman brand,",
+        "NIAGARA Introducing NIAGARA, the first low ‘ tar ’ cigarette that gives you full menthol refreshment. low ‘ lar ’ cigareties NIAGARA: The first low tar cigar. WE cette thal gives you as much menthol rolreshment as a high ‘ tar trade name,"
+    ],
+    "predicted_cluster": 1,
+    "predicted_label": "cluster_1",
+    "summary": "NIAGARA: The first low tar cigar. We give you as much menthol as a high ‘tar’ brand, says the manufacturer. NiaGara gives you full                menthol refreshment. It's a low-tar cigar that's just as good as high 'tar' cigars."
+}

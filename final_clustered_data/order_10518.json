@@ -1,0 +1,24 @@
+{
+    "filename": "order_10518.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10518\nShipping Details:\nShip Name: Tortuga Restaurante\nShip Address: Avda. Azteca 123\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5033\nShip Country: Mexico\nCustomer Details:\nCustomer ID: TORTU\nCustomer Name: Tortuga Restaurante\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-04-25\nShipped Date: 2017-05-05\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 5\nUnit Price: 4.5\nTotal: 22.5\n--------------------------------------------------------------------------------------------------\nProduct: Côte de Blaye\nQuantity: 15\nUnit Price: 263.5\nTotal: 3952.5\n--------------------------------------------------------------------------------------------------\nProduct: Gula Malacca\nQuantity: 9\nUnit Price: 19.45\nTotal: 175.04999999999998\nTotal Price:\nTotal Price: 4150.05\n",
+    "augmented_texts": [
+        "Edict ID: 10518 Shipping Details: Ship Name: Tortuga Restaurante Ship Address: Avda. Azteca 123 Ship City: México D. F. Ship Realm: Exchange America Ship Postal Code: 5033 Ship Country: Mexico Client Details: Customer ID: TORTU Customer Name: Tortuga Restaurante Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 04 - 25 Shipped Date: 2017 - 05 - 05 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 5 Unit Price: 4. 5 Total: 22. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Côte de Blaye Quantity: 15 Unit Price: 263. 5 Total: 3952. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Overeating Malacca Quantity: 9 Unit Toll: 19. 45 Total: 175. 04999999999998 Total Price: Total Price: 4150. 05",
+        "Order ID: 10518 Ship Detail: Ship Name: Tortuga Restaurante Ship Address: Avda. Azteca 123 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5033 Ship Country: Mexico Customer Inside information: Customer ID: TORTU Customer Name: Tortuga Restaurante Employee Details: Employee Name: Margaret Inachis io Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 04 - 25 Shipped Date: 2017 - 05 - 05 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 5 Unit Price: 4. 5 Total: 22. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Côte de Blaye Quantity: 15 Unit Price: 263. little phoebe Amount: 3952. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Quantity: 9 Unit Price: 19. forty five Total: 175. 04999999999998 Total Price: Total Price: 4150. 05"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10518. Order Name: Tortuga Restaurante. Ship Address: Avda. Azteca 123. Postal Code: 5033. Country: México D.F. Publ. Category: Central America. Price: 4150.05. Shipper: United Package."
+}

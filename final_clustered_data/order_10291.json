@@ -1,0 +1,24 @@
+{
+    "filename": "order_10291.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10291\nShipping Details:\nShip Name: Que Delícia\nShip Address: Rua da Panificadora, 12\nShip City: Rio de Janeiro\nShip Region: South America\nShip Postal Code: 02389-673\nShip Country: Brazil\nCustomer Details:\nCustomer ID: QUEDE\nCustomer Name: Que Delícia\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-08-27\nShipped Date: 2016-09-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Konbu\nQuantity: 20\nUnit Price: 4.8\nTotal: 96.0\n--------------------------------------------------------------------------------------------------\nProduct: Gula Malacca\nQuantity: 24\nUnit Price: 15.5\nTotal: 372.0\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 2\nUnit Price: 42.4\nTotal: 84.8\nTotal Price:\nTotal Price: 552.8\n",
+    "augmented_texts": [
+        "Order ID: 10291 Ship Details: Ship Name: Que Delícia Ship Address: Rua da Panificadora, 12 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 02389 - 673 Ship Country: Brazil Client Details: Customer ID: QUEDE Customer Name: Que Delícia Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 08 - 27 Shipped Date: 2016 - 09 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 20 Unit of measurement Price: 4. 8 Total: 96. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gluttony Malacca Quantity: 24 Unit Price: 15. 5 Total: 372. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Amount: 2 Unit Price: 42. 4 Total: 84. 8 Full Price: Total Price: 552. 8",
+        "Order ID: 10291 Shipping Point: Ship Name: Que Delícia Ship Address: Rua da Panificadora, dozen Ship City: Rio de janeiro de Janeiro Ship Realm: South America Ship Postal Code: 02389 - 673 Ship Country: Brazil Customer Details: Customer ID: QUEDE Customer Figure: Que Delícia Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Packet Order Details: Order Date: 2016 - 08 - 27 Shipped Date: 2016 - 09 - 04 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 20 Unit Price: 4. 8 Total: 96. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Quantity: 24 Unit Price: 15. 5 Total: 372. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 2 Unit Price: 42. 4 Total: 84. 8 Total Price: Total Price: 552. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10291. Ship Address: Rua da Panificadora, 12; Postal Code: 02389-673; City: Rio de Janeiro; Region: South America; Country: Brazil. Customer: Que Delícia; Employee: Michael Suyama; Shipper: United Package."
+}

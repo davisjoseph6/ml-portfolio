@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10387.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10387\nCustomer ID: SANTG\nOrder Date: 2016-12-18\nCustomer Details:\nContact Name:\nJonas Bergulfsen\nAddress:\nErling Skakkes gate 78\nCity:\nStavern\nPostal Code:\n4110\nCountry:\nNorway\nPhone:\n07-98 92 35\nFax:\n07-98 92 47\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n24\nGuaraná Fantástica\n15\n3.6\n28\nRössle Sauerkraut\n6\n36.4\n59\nRaclette Courdavault\n12\n44.0\n71\nFlotemysost\n15\n17.2\n \n \nTotalPrice\n1058.4\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Club ID: 10387 Customer ID: SANTG Order Date: 2016 - 12 - 18 Customer Details: Contact Name: Jonas Bergulfsen Address: Erling Skakkes gate 78 Metropolis: Stavern Postal Code: 4110 Country: Norway Phone: 07 - 98 92 35 Facsimile machine: 07 - 98 92 47 Product Details: Product ID Product Name Quantity Unit Price twenty four Guaraná Fantástica 15 3. 6 28 Rössle Sauerkraut 6 36. 4 59 Raclette Courdavault twelve 44. 0 71 Flotemysost xv 17. 2 TotalPrice 1058. 4 Page 1",
+        "Invoice Order ID: 10387 Client ID: SANTG Order Date: 2016 - 12 - 18 Customer Details: Contact Name: Jonas Bergulfsen Address: Erling Skakkes gate 78 City: Stavern Postal Code: 4110 Country: Norway Phone: 07 - xcviii 92 35 Fax: 07 - 98 xcii 47 Product Details: Product ID Product Name Quantity Unit Price 24 Guaraná Fantástica 15 3. 6 xxviii Rössle Sauerkraut 6 36. 4 59 Raclette Courdavault 12 44. 0 71 Flotemysost 15 17. 2 TotalPrice 1058. 4 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10387.Customer ID: SANTG. Order Date: 2016-12-18. Customer Details:                                         Jonas Bergulfsen, Erling Skakkes gate 78, Norway. Product: Raclette Courdavault. Price: $1058.4."
+}

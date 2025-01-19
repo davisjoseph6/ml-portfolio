@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-11_4.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-11 \n Category : Dairy Products  \n id category : 4  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nQueso Cabrales\n36\n22\n21\nGorgonzola Telino\n120\n0\n12.5\nCamembert Pierrot\n143\n19\n34\nGudbrandsdalsost\n68\n26\n36\nFlotemysost\n5\n26\n21.5\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - xi Category: Dairy Products id category: 4 Product Units Sold Units in Stock Unit Price Queso Cabrales 36 22 21 Gorgonzola Telino 120 0 12. v Camembert Pierrot 143 nineteen 34 Gudbrandsdalsost 68 26 36 Flotemysost 5 26 21. 5",
+        "Stock Report for 2016 - 11 Category: Dairy Products id category: 4 Product Units Sold Units in Stock Building block Price Queso Cabrales 36 22 21 Gorgonzola Telino 120 zero 12. fivesome Camembert Pierrot 143 19 34 Gudbrandsdalsost 68 26 36 Flotemysost 5 26 21. 5"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-11. Dairy Products. Category : Dairy products. id category : 4. Product name : \"Dairy Products\" Product type: Dairy. Products sold: \"Coconut milk\" Price: $1.99 per litre. Stock price: £1,000 per kilogram."
+}

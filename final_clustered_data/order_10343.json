@@ -1,0 +1,24 @@
+{
+    "filename": "order_10343.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10343\nShipping Details:\nShip Name: Lehmanns Marktstand\nShip Address: Magazinweg 7\nShip City: Frankfurt a.M.\nShip Region: Western Europe\nShip Postal Code: 60528\nShip Country: Germany\nCustomer Details:\nCustomer ID: LEHMS\nCustomer Name: Lehmanns Marktstand\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-10-31\nShipped Date: 2016-11-06\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Wimmers gute Semmelknödel\nQuantity: 50\nUnit Price: 26.6\nTotal: 1330.0\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 4\nUnit Price: 10.0\nTotal: 40.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 15\nUnit Price: 14.4\nTotal: 216.0\nTotal Price:\nTotal Price: 1586.0\n",
+    "augmented_texts": [
+        "Order ID: 10343 Shipping Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfurt a. M. Ship Region: Western Common market Ship Postal Code: 60528 Ship Country: Germany Customer Details: Customer ID: LEHMS Customer Figure: Lehmanns Marktstand Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - ten - 31 Shipped Date: 2016 - 11 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Wimmers gute Semmelknödel Quantity: 50 Unit Price: 26. 6 Total: 1330. cypher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 4 Unit Price: x. 0 Total: 40. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 15 Unit Price: 14. 4 Total: 216. 0 Full Price: Total Price: 1586. 0",
+        "Order ID: 10343 Ship Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfurt a. M. Ship Neighborhood: Western Europe Ship Postal Code: 60528 Ship Country: Germany Customer Details: Customer ID: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 1 Shipper Name: Speedy Expressage Order Details: Order Date: 2016 - 10 - 31 Shipped Date: 2016 - xi - 06 Intersection: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Wimmers gute Semmelknödel Quantity: 50 Unit Price: 26. vi Total: 1330. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 4 Social unit Price: 10. 0 Total: xl. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 15 Unit Price: 14. 4 Total: 216. 0 Total Price: Total Price: 1586. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10343. Order Name: Lehmanns Marktstand. Ship Address: Magazinweg 7, Frankfurt a.M., Frankfurt, Germany. Postal Code: 60528. Customers: LEHMS. Shippers: Speedy Express. Products: Wimmers gute Semmelknödel."
+}

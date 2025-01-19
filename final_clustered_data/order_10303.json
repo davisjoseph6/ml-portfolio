@@ -1,0 +1,24 @@
+{
+    "filename": "order_10303.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10303\nShipping Details:\nShip Name: Godos Cocina Típica\nShip Address: C/ Romero, 33\nShip City: Sevilla\nShip Region: Southern Europe\nShip Postal Code: 41101\nShip Country: Spain\nCustomer Details:\nCustomer ID: GODOS\nCustomer Name: Godos Cocina Típica\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-09-11\nShipped Date: 2016-09-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Boston Crab Meat\nQuantity: 40\nUnit Price: 14.7\nTotal: 588.0\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper Sauce\nQuantity: 30\nUnit Price: 16.8\nTotal: 504.0\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 15\nUnit Price: 10.0\nTotal: 150.0\nTotal Price:\nTotal Price: 1242.0\n",
+    "augmented_texts": [
+        "Order ID: 10303 Shipping Details: Ship Name: Godos Cocina Típica Ship Address: C / Romero, 33 Ship City: Sevilla Ship Region: Southern Europe Ship Postal Code: 41101 Ship Country: Spain Customer Details: Customer ID: GODOS Customer Name: Godos Cocina Típica Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 11 Shipped Date: 2016 - 09 - 18 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Beantown Crab Meat Quantity: 40 Unit Price: 14. 7 Sum: 588. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: 30 Unit Price: 16. 8 Total: 504. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Scottish Longbreads Quantity: 15 Unit Price: 10. 0 Total: one hundred fifty. 0 Total Price: Total Price: 1242. nought",
+        "Order ID: 10303 Shipping Details: Ship Name: Godos Cocina Típica Ship Address: C / Romero, 33 Ship City: Seville Ship Region: Southern Europe Ship Postal Code: 41101 Ship Country: Spain Customer Details: Customer ID: GODOS Customer Name: Godos Cocina Típica Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 11 Shipped Date: 2016 - 09 - 18 Cartesian product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Quantity: 40 Unit Price: 14. 7 Total: 588. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: 30 Building block Price: 16. 8 Total: 504. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 15 Unit Price: 10. 0 Total: cl. 0 Total Price: Entire Price: 1242. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10303. Ship Address: C/ Romero, 33. City: Sevilla. Region: Southern Europe. Postal Code: 41101. Country: Spain. Customer: Godos Cocina Típica. Employee: Robert King. Shipper: United Package. Products: Boston Crab Meat, Louisiana Fiery Hot Pepper Sauce."
+}

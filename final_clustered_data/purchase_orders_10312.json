@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10312.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10312\n2016-09-23\nRita Müller\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n28\nRössle Sauerkraut\n4\n36.4\n43\nIpoh Coffee\n24\n36.8\n53\nPerth Pasties\n20\n26.2\n75\nRhönbräu Klosterbier\n10\n6.2\nPage 1\n",
+    "augmented_texts": [
+        "Leverage Order Order ID Order Date Customer Name 10312 2016 - 09 - 23 Rita Müller Products Product idaho: Product: Quantity: Unit Terms: 28 Rössle Sauerkraut 4 36. 4 43 Ipoh Coffee 24 36. 8 53 Perth Pasties 20 26. two 75 Rhönbräu Klosterbier 10 half dozen. 2 Page 1",
+        "Purchase Orders Order ID Edict Date Customer Name 10312 2016 - 09 - 23 Rita Müller Products Product ID: Ware: Quantity: Unit Price: 28 Rössle Sauerkraut 4 36. 4 43 Ipoh Coffee 24 thirty six. 8 53 Perth Pasties 20 26. 2 75 Rhönbräu Klosterbier x 6. 2 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: Coffee, Pasties, Sauerkraut, and Beer. The product ID is the product quantity, not the price. For more information on these products, visit Rita Müller’s website: www.rita-müller.com."
+}

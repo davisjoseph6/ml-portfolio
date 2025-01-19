@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10448.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10448\n2017-02-17\nSergio Gutiérrez\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n26\nGumbär Gummibärchen\n6\n24.9\n40\nBoston Crab Meat\n20\n14.7\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Engagement Customer Name 10448 2017 - 02 - 17 Sergio Gutiérrez Intersection Product ID: Product: Quantity: Unit Price: 26 Gumbär Gummibärchen vi 24. 9 40 Boston Cancer the crab Meat xx 14. 7 Page 1",
+        "Purchase Orders Order ID Order Day of the month Customer Name 10448 2017 - 02 - 17 Sergio Gutiérrez Products Product ID: Product: Quantity: Unit Price: 26 Gumbär Gummibärchen 6 24. 9 40 Boston Crab Meat 20 14. 7 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders are ordered by Sergio Gutiérrez. Products include Boston Crab Meat, Gumbär Gummibärchen, and Boston crab meat. Prices start at $26 per pound and go up to $40 per kilogram. For more information, visit www.sergio.gutiérez.com."
+}

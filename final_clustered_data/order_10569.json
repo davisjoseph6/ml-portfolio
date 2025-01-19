@@ -1,0 +1,24 @@
+{
+    "filename": "order_10569.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10569\nShipping Details:\nShip Name: Rattlesnake Canyon Grocery\nShip Address: 2817 Milton Dr.\nShip City: Albuquerque\nShip Region: North America\nShip Postal Code: 87110\nShip Country: USA\nCustomer Details:\nCustomer ID: RATTC\nCustomer Name: Rattlesnake Canyon Grocery\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-06-16\nShipped Date: 2017-07-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 35\nUnit Price: 12.5\nTotal: 437.5\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 30\nUnit Price: 18.0\nTotal: 540.0\nTotal Price:\nTotal Price: 977.5\n",
+    "augmented_texts": [
+        "Order i.d.: 10569 Shipping Inside information: Ship Name: Rattlesnake Canon Grocery store Ship Address: 2817 Milton Dr. Ship City: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Customer Name: Rattler Canyon Grocery Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 06 - 16 Shipped Date: 2017 - 07 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 35 Unit Price: 12. 5 Total: 437. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 30 Unit Price: eighteen. 0 Total: 540. 0 Total Price: Total Price: 977. 5",
+        "Order ID: 10569 Ship Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship City: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Country: america Customer Details: Customer ID: RATTC Customer Name: Rattlesnake Canyon Grocery Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper i.d.: single Shipper Name: Speedy Express Order Details: Order Date: 2017 - 06 - 16 Shipped Date: 2017 - 07 - 11 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 35 Unit Price: 12. 5 Total: 437. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 30 Unit Price: 18. 0 Total: 540. 0 Total Price: Total Price: 977. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10569. Order Name: Rattlesnake Canyon Grocery. Ship Address: 2817 Milton Dr. in Albuquerque. Postal Code: 87110. Customers: RATTC. Shippers: Speedy Express. Products: Gorgonzola Telino, Lakkalikööri."
+}

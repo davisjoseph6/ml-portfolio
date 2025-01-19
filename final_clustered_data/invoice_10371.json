@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10371.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10371\nCustomer ID: LAMAI\nOrder Date: 2016-12-03\nCustomer Details:\nContact Name:\nAnnette Roulet\nAddress:\n1 rue Alsace-Lorraine\nCity:\nToulouse\nPostal Code:\n31000\nCountry:\nFrance\nPhone:\n61.77.61.10\nFax:\n61.77.61.11\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n36\nInlagd Sill\n6\n15.2\n \n \nTotalPrice\n91.19999999999999\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10371 Client ID: LAMAI Order Date: 2016 - 12 - 03 Customer Details: Contact Name: Annette Roulet Reference: 1 rue Alsace - Lorraine City: Toulouse Postal Code: 31000 Country: France Phone: 61. 77. 61. 10 Fax: 61. 77. 61. 11 Product Details: Product gem state Product Name Quantity Unit of measurement Price 36 Inlagd Sill 6 15. 2 TotalPrice 91. 19999999999999 Page one",
+        "Invoice Order ID: 10371 Customer gem state: LAMAI Order Date: 2016 - 12 - 03 Customer Details: Contact Name: Annette Roulet Address: 1 rue Alsace - Lorraine City: Toulouse Postal Computer code: 31000 Country: France Phone: sixty one. lxxvii. 61. ten Fax: 61. 77. lxi. 11 Product Details: Product ID Product Name Quantity Unit Price 36 Inlagd Sill 6 15. 2 TotalPrice 91. 19999999999999 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10371.Customer ID: LAMAI. Order Date: 2016-12-03. Customer: Annette Roulet. Address: 1 rue Alsace-Lorraine, Toulouse. Postal Code: 31000. Country: France. Price: 91.999999999999."
+}

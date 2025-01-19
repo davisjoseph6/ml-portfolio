@@ -1,0 +1,24 @@
+{
+    "filename": "order_10306.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10306\nShipping Details:\nShip Name: Romero y tomillo\nShip Address: Gran Vía, 1\nShip City: Madrid\nShip Region: Southern Europe\nShip Postal Code: 28001\nShip Country: Spain\nCustomer Details:\nCustomer ID: ROMEY\nCustomer Name: Romero y tomillo\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-09-16\nShipped Date: 2016-09-23\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Nord-Ost Matjeshering\nQuantity: 10\nUnit Price: 20.7\nTotal: 207.0\n--------------------------------------------------------------------------------------------------\nProduct: Perth Pasties\nQuantity: 10\nUnit Price: 26.2\nTotal: 262.0\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 5\nUnit Price: 5.9\nTotal: 29.5\nTotal Price:\nTotal Price: 498.5\n",
+    "augmented_texts": [
+        "Order ID: 10306 Shipping Details: Ship Name: Romero y tomillo Ship Address: Nan Vía, 1 Ship City: Madrid Ship Region: Southern Europe Ship Postal Code: 28001 Ship Country: Spain Customer Details: Customer ID: ROMEY Customer Name: Romero y tomillo Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal soldier Shipping Order Item: Order Date: 2016 - 09 - 16 Shipped Date: 2016 - 09 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Nord - Ost Matjeshering Quantity: 10 Unit Price: 20. 7 Total: 207. cipher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 10 Unit Price: 26. 2 Total: 262. cypher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 5 Unit Price: 5. 9 Total: 29. 5 Total Price: Total Price: 498. 5",
+        "Order ID: 10306 Shipping Item: Ship Name: Romero y tomillo Ship Address: Gran Vía, 1 Ship City: Madrid Ship Realm: Southern Europe Ship Postal Code: 28001 Ship Country: Spain Customer Details: Customer ID: ROMEY Customer Name: Romero wye tomillo Employee Details: Employee Name: Nancy Davolio Shipper Detail: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 09 - 16 Shipped Date: 2016 - 09 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Nord - Ost Matjeshering Quantity: 10 Unit Price: 20. 7 Amount: 207. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 10 Unit Price: 26. 2 Total: 262. cypher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: five Unit Price: 5. 9 Total: 29. 5 Total Price: Total Toll: 498. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10306. Order Name: Romero y tomillo. Ship Address: Gran Vía, 1. City: Madrid. Region: Southern Europe. Postal Code: 28001. Country: Spain. Customers: ROMEY. Shipper: Federal Shipping. Products: Perth Pasties."
+}

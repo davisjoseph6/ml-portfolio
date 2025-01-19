@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10321.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10321\nCustomer ID: ISLAT\nOrder Date: 2016-10-03\nCustomer Details:\nContact Name:\nHelen Bennett\nAddress:\nGarden House Crowther Way\nCity:\nCowes\nPostal Code:\nPO31 7PJ\nCountry:\nUK\nPhone:\n(198) 555-8888\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n35\nSteeleye Stout\n10\n14.4\n \n \nTotalPrice\n144.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10321 Customer ID: ISLAT Order Date: 2016 - x - 03 Customer Detail: Contact Name: Helen of troy Bennett Destination: Garden House Crowther Way City: Cowes Postal Code: PO31 7PJ Country: UK Phone: (198) 555 - 8888 Fax: None Product Detail: Product ID Mathematical product Name Quantity Unit Price 35 Steeleye Stout 10 14. 4 TotalPrice 144. 0 Page 1",
+        "Invoice Order ID: 10321 Customer ID: ISLAT Holy order Date: 2016 - 10 - 03 Customer Details: Contact Name: Helen Bennett Address: Garden House Crowther Agency City: Cowes Postal Code: PO31 7PJ Country: UK Phone: (198) 555 - 8888 Fax: None Product Details: Product ID Product Name Quantity Unit Leontyne price thirty five Steeleye Stout 10 14. 4 TotalPrice 144. zero Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: 10321.Customer ID: ISLAT. Order Date: 2016-10-03. Customer Details:              Helen Bennett. Email: helen.bennett@icloud.com. Phone: (198) 555-8888. fax: \"None\""
+}

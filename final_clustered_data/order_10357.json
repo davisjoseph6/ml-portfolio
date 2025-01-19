@@ -1,0 +1,24 @@
+{
+    "filename": "order_10357.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10357\nShipping Details:\nShip Name: LILA-Supermercado\nShip Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo\nShip City: Barquisimeto\nShip Region: South America\nShip Postal Code: 3508\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: LILAS\nCustomer Name: LILA-Supermercado\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-11-19\nShipped Date: 2016-12-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Ikura\nQuantity: 30\nUnit Price: 24.8\nTotal: 744.0\n--------------------------------------------------------------------------------------------------\nProduct: Gumbär Gummibärchen\nQuantity: 16\nUnit Price: 24.9\nTotal: 398.4\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 8\nUnit Price: 27.2\nTotal: 217.6\nTotal Price:\nTotal Price: 1360.0\n",
+    "augmented_texts": [
+        "Order ID: 10357 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo Ship City: Barquisimeto Ship Region: South America Ship Postal Code: 3508 Ship Country: Venezuela Customer Details: Customer ID: LILAS Customer Name: LILA - Supermercado Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 11 - 19 Shipped Date: 2016 - 12 - 02 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: thirty Unit Price: 24. 8 Total: 744. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Gumbär Gummibärchen Quantity: 16 Unit Price: 24. 9 Sum: 398. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 8 Unit Price: 27. 2 Total: 217. 6 Total Price: Total Price: 1360. 0",
+        "Order ID: 10357 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - ninety eight Llano Largo Ship City: Barquisimeto Ship Region: South America Ship Postal Code: 3508 Ship Country: Venezuela Customer Details: Customer ID: LILAS Customer Name: LILA - Supermercado Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order of magnitude Details: Order Date: 2016 - xi - 19 Shipped Date: 2016 - 12 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: 30 Unit Price: 24. 8 Total: 744. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Gumbär Gummibärchen Quantity: 16 Unit Price: 24. 9 Total: 398. 4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 8 Unit Price: 27. 2 Total: 217. 6 Total Price: Full Price: 1360. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10357. Ship Name: LILA-SupermercadoShip Address: Carrera 52 con Ave. Bolívar #65-98 Llano LargoShip City: BarquisimetoShip Region: South America.Ship Postal Code: 3508. Country: Venezuela."
+}

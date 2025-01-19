@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10252.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10252\nCustomer ID: SUPRD\nOrder Date: 2016-07-09\nCustomer Details:\nContact Name:\nPascale Cartrain\nAddress:\nBoulevard Tirou, 255\nCity:\nCharleroi\nPostal Code:\nB-6000\nCountry:\nBelgium\nPhone:\n(071) 23 67 22 20\nFax:\n(071) 23 67 22 21\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n20\nSir Rodney's Marmalade\n40\n64.8\n33\nGeitost\n25\n2.0\n60\nCamembert Pierrot\n40\n27.2\n \n \nTotalPrice\n3730.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10252 Customer ID: SUPRD Order Date: 2016 - 07 - 09 Customer Details: Contact Name: Pascale Cartrain Address: Boulevard Tirou, 255 Urban center: Charleroi Postal Code: B - 6000 Country: Belgium Phone: (071) xxiii 67 twenty two 20 Fax: (071) 23 lxvii 22 21 Product Details: Product ID Product Name Quantity Unit of measurement Price 20 Sir Rodney ' due south Marmalade 40 64. 8 33 Geitost 25 2. 0 60 Camembert Pierrot 40 27. 2 TotalPrice 3730. 0 Page i",
+        "Account Order ID: 10252 Customer i.d.: SUPRD Order Date: 2016 - 07 - 09 Customer Details: Contact Name: Pascale Cartrain Address: Avenue Tirou, 255 City: Charleroi Postal Computer code: B - 6000 Country: Belgium Phone: (071) twenty three 67 22 20 Fax: (071) 23 67 22 21 Product Details: Product ID Intersection Name Quantity Unit Price 20 Sir Rodney ' s Marmalade 40 64. 8 33 Geitost 25 2. zero 60 Camembert Pierrot 40 27. 2 TotalPrice 3730. 0 Page ace"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10252.Customer ID: SUPRD. Order Date: 2016-07-09.Product: Sir Rodney's Marmalade. Product Name: Camembert Pierrot. Unit Price: $3730.0. Price per serving: £1.99."
+}

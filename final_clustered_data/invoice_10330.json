@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10330.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10330\nCustomer ID: LILAS\nOrder Date: 2016-10-16\nCustomer Details:\nContact Name:\nCarlos González\nAddress:\nCarrera 52 con Ave. Bolívar #65-98 Llano Largo\nCity:\nBarquisimeto\nPostal Code:\n3508\nCountry:\nVenezuela\nPhone:\n(9) 331-6954\nFax:\n(9) 331-7256\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n26\nGumbär Gummibärchen\n50\n24.9\n72\nMozzarella di Giovanni\n25\n27.8\n \n \nTotalPrice\n1940.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10330 Customer ID: LILAS Order Date: 2016 - 10 - 16 Client Details: Contact Name: Carlos González Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo City: Barquisimeto Postal Code: 3508 Country: Venezuela Phone: (9) 331 - 6954 Fax: (9) 331 - 7256 Product Details: Product ID Product Name Quantity Social unit Price 26 Gumbär Gummibärchen 50 24. ennead 72 Mozzarella di Giovanni 25 27. 8 TotalPrice 1940. 0 Thomas nelson page 1",
+        "Bill Order ID: 10330 Customer ID: LILAS Order Date: 2016 - 10 - 16 Customer Details: Contact Name: Carlos González Address: Carrera fifty two con Ave. Bolívar # 65 - xcviii Llano Largo City: Barquisimeto Postal Code: 3508 Country: Venezuela Phone: (ennead) 331 - 6954 Fax: (9) 331 - 7256 Product Details: Product ID Mathematical product Figure Quantity Unit Price twenty six Gumbär Gummibärchen fifty 24. 9 72 Mozzarella di Giovanni 25 27. 8 TotalPrice 1940. 0 Page ace"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: LILAS. Order Date: 2016-10-16. Customer: Carlos González. Phone number: 331-7256. Product name: Gumbär Gummibärchen. Unit price: 1940.0."
+}

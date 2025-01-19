@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10496.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10496\nCustomer ID: TRADH\nOrder Date: 2017-04-04\nCustomer Details:\nContact Name:\nAnabela Domingues\nAddress:\nAv. Inês de Castro, 414\nCity:\nSao Paulo\nPostal Code:\n05634-030\nCountry:\nBrazil\nPhone:\n(11) 555-2167\nFax:\n(11) 555-2168\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n31\nGorgonzola Telino\n20\n10.0\n \n \nTotalPrice\n200.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Ordering ID: 10496 Customer ID: TRADH Order Date: 2017 - 04 - 04 Client Details: Contact Name: Anabela Domingues Address: Av. Inês de Castro, 414 City: Sao Paulo Postal Code: 05634 - 030 Country: Brazil Phone: (11) 555 - 2167 Fax: (11) 555 - 2168 Product Details: Product ID Product Epithet Quantity Unit of measurement Price 31 Gorgonzola Telino twenty 10. 0 TotalPrice 200. cipher Page one",
+        "Invoice Order gem state: 10496 Customer idaho: TRADH Order Date: 2017 - 04 - 04 Customer Contingent: Contact Name: Anabela Domingues Address: Av. Inês de Castro, 414 City: Sao Paulo Postal Code: 05634 - 030 Country: Brazil Phone: (11) 555 - 2167 Fax: (11) 555 - 2168 Product Item: Product ID Product Name Quantity Unit Price 31 Gorgonzola Telino 20 10. 0 TotalPrice 200. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: TRADH. Invoice ID: 10496.Customer ID : TRadH                . Order Date: 2017- 04-04. Customer Details:         Anabela Domingues. Address: Inês de Castro, 414. Av. Inêi, Sao Paulo, Brazil. Postal Code: 515-05634-030."
+}

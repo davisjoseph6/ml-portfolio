@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10412.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10412\nCustomer ID: WARTH\nOrder Date: 2017-01-13\nCustomer Details:\nContact Name:\nPirkko Koskitalo\nAddress:\nTorikatu 38\nCity:\nOulu\nPostal Code:\n90110\nCountry:\nFinland\nPhone:\n981-443655\nFax:\n981-443655\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n14\nTofu\n20\n18.6\n \n \nTotalPrice\n372.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10412 Client ID: WARTH Order Date: 2017 - 01 - 13 Client Details: Contact Name: Pirkko Koskitalo Address: Torikatu 38 City: Oulu Postal Code: 90110 Country: Republic of finland Phone: 981 - 443655 Fax: 981 - 443655 Product Details: Product ID Product Name Quantity Unit Price 14 Tofu 20 18. hexad TotalPrice 372. 0 Page 1",
+        "Account Order ID: 10412 Customer ID: WARTH Order Date: 2017 - 01 - 13 Customer Point: Contact Name: Pirkko Koskitalo Address: Torikatu 38 City: Oulu Postal Code: 90110 Country: Finland Phone: 981 - 443655 Facsimile: 981 - 443655 Ware Detail: Product ID Product Name Quantity Unit Price 14 Tofu 20 18. 6 TotalPrice 372. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: WARTH. Order Date: 2017-01-13. Customer Details: Pirkko Koskitalo. Product ID: WK. Price: Tofu20.6. Number of units: 372.0. Total price: $372.7. Size of product: 1.5 kg."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10517.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10517\nCustomer ID: NORTS\nOrder Date: 2017-04-24\nCustomer Details:\nContact Name:\nSimon Crowther\nAddress:\nSouth House 300 Queensbridge\nCity:\nLondon\nPostal Code:\nSW7 1RZ\nCountry:\nUK\nPhone:\n(171) 555-7733\nFax:\n(171) 555-2530\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n52\nFilo Mix\n6\n7.0\n59\nRaclette Courdavault\n4\n55.0\n70\nOutback Lager\n6\n15.0\n \n \nTotalPrice\n352.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10517 Customer gem state: NORTS Order Date: 2017 - 04 - twenty four Customer Details: Contact Name: Simon Crowther Address: South House 300 Queensbridge Urban center: London Postal Code: SW7 1RZ Country: UK Phone: (171) 555 - 7733 Fax: (171) 555 - 2530 Product Details: Product ID Cartesian product Name Measure Unit Price 52 Filo Mix 6 7. 0 59 Raclette Courdavault 4 fifty five. 0 70 Outback Lager 6 15. 0 TotalPrice 352. 0 Page 1",
+        "Invoice Order gem state: 10517 Customer ID: NORTS Order Date: 2017 - 04 - 24 Customer Details: Contact Name: Simon Crowther Address: South House 300 Queensbridge City: London Postal Code: SW7 1RZ Country: UK Phone: (171) 555 - 7733 Fax: (171) 555 - 2530 Production Details: Product i.d. Product Name Quantity Unit Price 52 Filo Mix 6 vii. 0 59 Raclette Courdavault 4 55. 0 70 Outback Lager 6 15. 0 TotalPrice 352. 0 Varlet 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 1051720.Customer Name: NORTS. Order Date: 2017-04-24. Customer Details: perceptions, contact details, product name, price, invoices, phone number, and product details. The order was placed at South House, 300 Queensbridge, London."
+}

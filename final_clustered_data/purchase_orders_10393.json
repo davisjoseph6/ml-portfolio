@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10393.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10393\n2016-12-25\nJose Pavarotti\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n2\nChang\n25\n15.2\n14\nTofu\n42\n18.6\n25\nNuNuCa Nuß-Nougat-Creme\n7\n11.2\n26\nGumbär Gummibärchen\n70\n24.9\n31\nGorgonzola Telino\n32\n10\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order i.d. Order Date Customer Name 10393 2016 - 12 - 25 Jose Pavarotti Product Production ID: Product: Quantity: Unit Price: 2 Yangtze river 25 xv. 2 xiv Bean curd 42 18. 6 25 NuNuCa Nuß - Nougat - Creme 7 11. 2 26 Gumbär Gummibärchen 70 24. 9 31 Gorgonzola Telino 32 10 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10393 2016 - 12 - 25 Jose Pavarotti Products Product ID: Product: Quantity: Unit Price: 2 Chang 25 fifteen. two 14 Bean curd 42 18. 6 twenty five NuNuCa Nuß - Nougat - Creme 7 11. 2 26 Gumbär Gummibärchen 70 24. 9 31 Gorgonzola Telino 32 10 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass products by Jose Pavarotti, Gumbär Gummibärchen, Tofu, Nuß-Nougat-Creme, Chang and Gorgonzola Telino. Products are sold in bulk, with a minimum order of $100."
+}

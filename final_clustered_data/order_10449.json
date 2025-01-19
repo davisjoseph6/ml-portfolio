@@ -1,0 +1,24 @@
+{
+    "filename": "order_10449.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10449\nShipping Details:\nShip Name: Blondel père et fils\nShip Address: 24, place Kléber\nShip City: Strasbourg\nShip Region: Western Europe\nShip Postal Code: 67000\nShip Country: France\nCustomer Details:\nCustomer ID: BLONP\nCustomer Name: Blondesddsl père et fils\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-02-18\nShipped Date: 2017-02-27\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Ikura\nQuantity: 14\nUnit Price: 24.8\nTotal: 347.2\n--------------------------------------------------------------------------------------------------\nProduct: Filo Mix\nQuantity: 20\nUnit Price: 5.6\nTotal: 112.0\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 35\nUnit Price: 39.4\nTotal: 1379.0\nTotal Price:\nTotal Price: 1838.2\n",
+    "augmented_texts": [
+        "Order ID: 10449 Ship Details: Ship Name: Blondel père et fils Ship Address: 24, place Kléber Ship City: Strassburg Ship Region: Western Europe Ship Postal Code: 67000 Ship Country: France Customer Details: Customer ID: BLONP Customer Name: Blondesddsl père et fils Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Club Details: Order Date: 2017 - 02 - 18 Shipped Date: 2017 - 02 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: 14 Unit Price: 24. 8 Total: 347. 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Filo Mix Quantity: 20 Unit Price: quintet. 6 Total: 112. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: thirty five Whole Price: 39. 4 Total: 1379. 0 Total Price: Total Price: 1838. 2",
+        "Order ID: 10449 Shipping Details: Ship Name: Blondel père et fils Ship Address: 24, place Kléber Ship City: Strasbourg Ship Region: Western Europe Ship Postal Code: 67000 Ship Country: France Customer Details: Customer ID: BLONP Customer Name: Blondesddsl père et fils Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper i.d.: 2 Shipper Name: United Parcel Order Details: Orderliness Date: 2017 - 02 - 18 Shipped Date: 2017 - 02 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: 14 Unit Cost: 24. viii Total: 347. 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Filo Mix Quantity: 20 Unit Price: 5. 6 Total: 112. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 35 Unit Price: 39. four Total: 1379. 0 Total Price: Total Price: 1838. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10449. Order Name: Blondel père et fils. Ship Address: 24, place Kléber. City: Strasbourg. Region: Western Europe. Postal Code: 67000. Country: France. Customer: BLONP. Employee: Janet Leverling."
+}

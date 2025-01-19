@@ -1,0 +1,24 @@
+{
+    "filename": "order_10460.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10460\nShipping Details:\nShip Name: Folk och fä HB\nShip Address: Åkergatan 24\nShip City: Bräcke\nShip Region: Northern Europe\nShip Postal Code: S-844 67\nShip Country: Sweden\nCustomer Details:\nCustomer ID: FOLKO\nCustomer Name: Folk och fä HB\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-02-28\nShipped Date: 2017-03-03\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 21\nUnit Price: 10.0\nTotal: 210.0\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 4\nUnit Price: 6.2\nTotal: 24.8\nTotal Price:\nTotal Price: 234.8\n",
+    "augmented_texts": [
+        "Order i.d.: 10460 Shipping Item: Ship Name: Folk och fä HB Ship Name and address: Åkergatan 24 Ship City: Bräcke Ship Region: Northern Europe Ship Postal Code: S - 844 67 Ship Country: Sweden Customer Details: Customer ID: FOLKO Customer Name: Folk och fä HB Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 02 - 28 Shipped Date: 2017 - 03 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 21 Unit Leontyne price: 10. 0 Total: 210. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Rhönbräu Klosterbier Quantity: 4 Unit Price: 6. 2 Total: 24. 8 Total Price: Total Price: 234. 8",
+        "Order ID: 10460 Shipping Details: Ship Figure: Folk och fä HB Ship Address: Åkergatan 24 Ship City: Bräcke Ship Region: Northern Europe Ship Postal Code: S - 844 67 Ship Country: Sweden Customer Details: Customer gem state: FOLKO Customer Name: Folk och fä HB Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Figure: Speedy Express Order Details: Order Date: 2017 - 02 - 28 Shipped Date: 2017 - 03 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Amount: 21 Unit Price: 10. 0 Aggregate: 210. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Amount: 4 Unit Price: 6. 2 Total: 24. 8 Total Price: Total Price: 234. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10460. Order Name: Folk och fä HB. Ship Address: Åkergatan 24. Postal Code: S-844 67 67. Country: Sweden. Customer: FOLKO. Employee: Laura Callahan. Shipper: Speedy Express. Product: Scottish Longbreads."
+}

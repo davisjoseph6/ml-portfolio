@@ -1,0 +1,24 @@
+{
+    "filename": "order_10386.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10386\nShipping Details:\nShip Name: Familia Arquibaldo\nShip Address: Rua Orós, 92\nShip City: Sao Paulo\nShip Region: South America\nShip Postal Code: 05442-030\nShip Country: Brazil\nCustomer Details:\nCustomer ID: FAMIA\nCustomer Name: Familia Arquibaldo\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-18\nShipped Date: 2016-12-25\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 15\nUnit Price: 3.6\nTotal: 54.0\n--------------------------------------------------------------------------------------------------\nProduct: Sasquatch Ale\nQuantity: 10\nUnit Price: 11.2\nTotal: 112.0\nTotal Price:\nTotal Price: 166.0\n",
+    "augmented_texts": [
+        "Order ID: 10386 Shipping Details: Ship Name: Familia Arquibaldo Ship Address: Rua Orós, 92 Ship City: Sao Paulo Ship Region: South America Ship Postal Code: 05442 - 030 Ship Country: Brazil Customer Details: Client ID: FAMIA Customer Name: Familia Arquibaldo Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - 18 Shipped Date: 2016 - 12 - xxv Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 15 Unit Price: trinity. 6 Total: 54. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Bigfoot Ale Quantity: 10 Unit Price: eleven. 2 Total: 112. 0 Total Leontyne price: Total Terms: 166. 0",
+        "Order ID: 10386 Shipping Details: Ship Public figure: Familia Arquibaldo Ship Address: Rua Orós, 92 Ship City: Sao Paulo Ship Region: South America Ship Postal Code: 05442 - 030 Ship Country: Brazil Customer Details: Customer ID: FAMIA Customer Gens: Familia Arquibaldo Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - 18 Shipped Date: 2016 - 12 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 15 Unit Price: 3. 6 Total: 54. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Bigfoot Ale Quantity: 10 Unit Price: 11. 2 Sum: 112. 0 Total Price: Total Price: 166. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10386. Order Name: Familia Arquibaldo. Ship Address: Rua Orós, 92. City: Sao Paulo. Region: South America. Postal Code: 05442-030Ship Country: Brazil. Customer: FAMIA. Employee: Anne Dodsworth."
+}

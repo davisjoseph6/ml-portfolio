@@ -1,0 +1,24 @@
+{
+    "filename": "order_10408.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10408\nShipping Details:\nShip Name: Folies gourmandes\nShip Address: 184, chaussée de Tournai\nShip City: Lille\nShip Region: Western Europe\nShip Postal Code: 59000\nShip Country: France\nCustomer Details:\nCustomer ID: FOLIG\nCustomer Name: Folies gourmandes\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-01-08\nShipped Date: 2017-01-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gravad lax\nQuantity: 10\nUnit Price: 20.8\nTotal: 208.0\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 6\nUnit Price: 5.9\nTotal: 35.400000000000006\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 35\nUnit Price: 39.4\nTotal: 1379.0\nTotal Price:\nTotal Price: 1622.4\n",
+    "augmented_texts": [
+        "Order ID: 10408 Shipping Details: Ship Name: Folies gourmandes Ship Address: 184, chaussée de Tournai Ship City: Lille Ship Region: Western Europe Ship Postal Code: 59000 Ship Country: France Customer Details: Customer ID: FOLIG Customer Name: Folies gourmandes Employee Inside information: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Orderliness Date: 2017 - 01 - 08 Shipped Date: 2017 - 01 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gravad lax Quantity: 10 Unit Price: 20. 8 Total: 208. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 6 Unit Price: five. 9 Total: 35. 400000000000006 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 35 Unit Price: 39. 4 Total: 1379. 0 Total Price: Total Price: 1622. 4",
+        "Order i.d.: 10408 Shipping Details: Ship Name: Folies gourmandes Ship Address: 184, chaussée de Tournai Ship City: Lille Ship Region: Western Europe Ship Postal Code: 59000 Ship Country: France Customer Details: Customer ID: FOLIG Customer Name: Folies gourmandes Employee Details: Employee Name: Laura Callahan Shipper Detail: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 01 - 08 Shipped Date: 2017 - 01 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gravad lax Quantity: 10 Unit Price: 20. 8 Total: 208. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 6 Unit Price: 5. 9 Totality: 35. 400000000000006 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 35 Unit Price: 39. 4 Total: 1379. 0 Total Price: Total Price: 1622. 4"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10408; Ship Address: 184, chaussée de Tournai; City: Lille; Postal Code: 59000; Region: Western Europe; Country: France. Customer: FOLIG; Employee: Laura Callahan; Shipper: Speedy Express; Product: Gravad lax; Price: 20.8 euros."
+}

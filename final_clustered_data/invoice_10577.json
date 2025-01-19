@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10577.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10577\nCustomer ID: TRAIH\nOrder Date: 2017-06-23\nCustomer Details:\nContact Name:\nHelvetius Nagy\nAddress:\n722 DaVinci Blvd.\nCity:\nKirkland\nPostal Code:\n98034\nCountry:\nUSA\nPhone:\n(206) 555-8257\nFax:\n(206) 555-2174\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n39\nChartreuse verte\n10\n18.0\n75\nRhönbräu Klosterbier\n20\n7.75\n77\nOriginal Frankfurter grüne Soße\n18\n13.0\n \n \nTotalPrice\n569.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10577 Customer ID: TRAIH Order Date: 2017 - 06 - 23 Customer Detail: Contact Name: Helvetius Nagy Address: 722 DaVinci Blvd. City: Kirkland Postal Code: 98034 Country: USA Phone: (206) 555 - 8257 Fax: (206) 555 - 2174 Mathematical product Details: Product gem state Intersection Name Quantity Unit Price 39 Chartreuse verte 10 18. 0 75 Rhönbräu Klosterbier 20 7. seventy five 77 Original Frankfurter grüne Soße 18 13. 0 TotalPrice 569. 0 Page 1",
+        "Invoice Order ID: 10577 Customer ID: TRAIH Order Date: 2017 - 06 - xxiii Customer Details: Contact Name: Helvetius Nagy Address: 722 DaVinci Blvd. City: Kirkland Postal Code: 98034 Country: USA Telephone set: (206) 555 - 8257 Fax: (206) 555 - 2174 Product Details: Product ID Product Name Quantity Whole Price 39 Chartreuse verte 10 xviii. 0 75 Rhönbräu Klosterbier 20 7. 75 77 Original Frankfurter grüne Soße 18 long dozen. 0 TotalPrice 569. 0 Pageboy 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10577.Customer ID: TRAIH. Order Date: 2017-06-23. Customer: Velvetius Nagy. Address: 722 DaVinci Blvd. City: Kirkland. Postal Code: 98034. Country: USA. Phone: (206) 555-8257. fax: 2174-2174."
+}

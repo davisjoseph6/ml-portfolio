@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10294.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10294\nCustomer ID: RATTC\nOrder Date: 2016-08-30\nCustomer Details:\nContact Name:\nPaula Wilson\nAddress:\n2817 Milton Dr.\nCity:\nAlbuquerque\nPostal Code:\n87110\nCountry:\nUSA\nPhone:\n(505) 555-5939\nFax:\n(505) 555-3620\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n1\nChai\n18\n14.4\n17\nAlice Mutton\n15\n31.2\n43\nIpoh Coffee\n15\n36.8\n60\nCamembert Pierrot\n21\n27.2\n75\nRhönbräu Klosterbier\n6\n6.2\n \n \nTotalPrice\n1887.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10294 Customer ID: RATTC Order Day of the month: 2016 - 08 - 30 Customer Details: Contact Name: Paula Wilson Address: 2817 Milton Dr. City: Albuquerque Postal Code: 87110 Country: USA Phone: (505) 555 - 5939 Fax: (505) 555 - 3620 Mathematical product Particular: Product ID Product Name Quantity Unit Price 1 Chai xviii 14. 4 17 Alice Mutton 15 thirty one. 2 43 Ipoh Coffee 15 36. 8 60 Camembert Pierrot 21 27. 2 75 Rhönbräu Klosterbier 6 sise. 2 TotalPrice 1887. 6 Page single",
+        "Invoice Purchase order ID: 10294 Customer ID: RATTC Order Date: 2016 - 08 - 30 Customer Details: Contact Name: Paula Sir angus wilson Address: 2817 Milton Dr. City: Albuquerque Postal Code: 87110 State: USA Phone: (505) 555 - 5939 Fax: (505) 555 - 3620 Product Details: Product ID Product Name Quantity Unit Price 1 Chai 18 14. 4 17 Alice Mutton 15 31. 2 43 Ipoh Coffee 15 36. eighter from decatur sixty Camembert Pierrot 21 27. ii 75 Rhönbräu Klosterbier 6 6. 2 TotalPrice 1887. 6 Page one"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: RATTC. Order Date: 2016-08-30.Customer Details:                         Paula Wilson. Address: Milton Dr., Albuquerque, New Mexico. Phone: 505-555-5939.Fax:505- 555-3620. Product ID: 10294."
+}

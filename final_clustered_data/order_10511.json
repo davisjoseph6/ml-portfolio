@@ -1,0 +1,24 @@
+{
+    "filename": "order_10511.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10511\nShipping Details:\nShip Name: Bon app-\nShip Address: 12, rue des Bouchers\nShip City: Marseille\nShip Region: Western Europe\nShip Postal Code: 13008\nShip Country: France\nCustomer Details:\nCustomer ID: BONAP\nCustomer Name: Bon app'\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-04-18\nShipped Date: 2017-04-21\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chef Anton's Cajun Seasoning\nQuantity: 50\nUnit Price: 22.0\nTotal: 1100.0\n--------------------------------------------------------------------------------------------------\nProduct: Uncle Bob's Organic Dried Pears\nQuantity: 50\nUnit Price: 30.0\nTotal: 1500.0\n--------------------------------------------------------------------------------------------------\nProduct: Northwoods Cranberry Sauce\nQuantity: 10\nUnit Price: 40.0\nTotal: 400.0\nTotal Price:\nTotal Price: 3000.0\n",
+    "augmented_texts": [
+        "Order ID: 10511 Shipping Details: Ship Name: Bon app - Ship Address: 12, rue des Bouchers Ship City: Marseille Ship Region: Western Europe Ship Postal Code: 13008 Ship Commonwealth: France Customer Details: Customer ID: BONAP Customer Name: Bon app ' Employee Details: Employee Figure: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 04 - 18 Shipped Date: 2017 - 04 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Seasoning Quantity: 50 Unit Price: 22. 0 Total: 1100. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Uncle Bob ' south Organic fertiliser Dried Pears Quantity: 50 Unit Price: 30. 0 Total: 1500. cipher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Northwoods Cranberry Sauce Quantity: 10 Unit Price: 40. 0 Total: 400. 0 Total Price: Total Price: 3000. 0",
+        "Order ID: 10511 Shipping Details: Ship Name: Bon app - Ship Address: 12, rue de Bouchers Ship City: Marseilles Ship Region: Western Europe Ship Postal Computer code: 13008 Ship Country: France Customer Details: Customer ID: BONAP Customer Name: Bon app ' Employee Details: Employee Name: Margaret Inachis io Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Appointment: 2017 - 04 - 18 Shipped Date: 2017 - 04 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Seasoning Quantity: 50 Social unit Price: 22. 0 Total: 1100. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Uncle Bob ' s Organic Dried Pears Quantity: 50 Unit Price: 30. 0 Total: 1500. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Northwoods Cranberry Sauce Quantity: 10 Unit Price: 40. 0 Total: 400. 0 Total Price: Total Price: 3000. cipher"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10511. Ship Address: 12, rue des Bouchers, Marseille. Postal Code: 13008. Country: France. Customer: BONAP. Shipper: Federal Shipping. Product: Chef Anton's Cajun Seasoning. Price: 22.0 pounds."
+}

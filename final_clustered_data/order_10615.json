@@ -1,0 +1,24 @@
+{
+    "filename": "order_10615.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10615\nShipping Details:\nShip Name: Wilman Kala\nShip Address: Keskuskatu 45\nShip City: Helsinki\nShip Region: Scandinavia\nShip Postal Code: 21240\nShip Country: Finland\nCustomer Details:\nCustomer ID: WILMK\nCustomer Name: Wilman Kala\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-07-30\nShipped Date: 2017-08-06\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 5\nUnit Price: 24.0\nTotal: 120.0\nTotal Price:\nTotal Price: 120.0\n",
+    "augmented_texts": [
+        "Order idaho: 10615 Ship Details: Ship Name: Wilman Kala Ship Address: Keskuskatu forty five Ship City: Helsinki Ship Region: Scandinavia Ship Postal Code: 21240 Ship Country: Suomi Customer Details: Customer ID: WILMK Customer Name: Wilman Kala Employee Details: Employee Public figure: Andrew Fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 07 - 30 Shipped Date: 2017 - 08 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Pâté chinois Quantity: 5 Unit Toll: 24. 0 Total: 120. 0 Total Price: Total Price: 120. 0",
+        "Order ID: 10615 Shipping Details: Ship Name: Wilman Kala Ship Address: Keskuskatu 45 Ship City: Capital of finland Ship Region: Scandinavia Ship Postal Code: 21240 Ship Country: Finland Customer Details: Client gem state: WILMK Customer Name: Wilman Kala Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Parliamentary law Date: 2017 - 07 - 30 Shipped Date: 2017 - 08 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 5 Unit Price: 24. 0 Total: 120. 0 Total Price: Total Mary leontyne price: 120. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10615. Ship Address: Keskuskatu 45. Postal Code: 21240. Country: Finland. Order Date: 2017-07-30. Shipper Name: Federal Shipping. Product: Pâté chinois. Unit Price: 24.0."
+}

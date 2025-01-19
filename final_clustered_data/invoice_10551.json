@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10551.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10551\nCustomer ID: FURIB\nOrder Date: 2017-05-28\nCustomer Details:\nContact Name:\nLino Rodriguez\nAddress:\nJardim das rosas n. 32\nCity:\nLisboa\nPostal Code:\n1675\nCountry:\nPortugal\nPhone:\n(1) 354-2534\nFax:\n(1) 354-2535\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n16\nPavlova\n40\n17.45\n35\nSteeleye Stout\n20\n18.0\n44\nGula Malacca\n40\n19.45\n \n \nTotalPrice\n1836.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10551 Customer i.d.: FURIB Order Date: 2017 - 05 - 28 Customer Details: Contact Name: Lino Rodriguez Address: Jardim das rosas n. 32 City: Lisboa Postal Code: 1675 Country: Portugal Phone: (i) 354 - 2534 Facsimile machine: (1) 354 - 2535 Product Details: Merchandise idaho Product Name Quantity Unit Price 16 Pavlova 40 17. 45 35 Steeleye Stout 20 eighteen. 0 44 Gula Malacca 40 19. 45 TotalPrice 1836. 0 Page 1",
+        "Invoice Order ID: 10551 Client ID: FURIB Order Date: 2017 - 05 - 28 Customer Details: Contact Name: Lino Rodriguez Address: Jardim das rosas n. 32 City: Lisboa Postal Code: 1675 Country: Portuguese republic Phone: (1) 354 - 2534 Facsimile machine: (one) 354 - 2535 Product Details: Product ID Product Name Quantity Unit Price 16 Pavlova 40 17. 45 35 Steeleye Stout 20 eighteen. nought xliv Gula Malacca 40 xix. 45 TotalPrice 1836. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: FURIB. Customer ID: 10551. Order Date: 2017-05-28. Customers: Lino Rodriguez, Gula Malacca,Steeleye Stout. Product Details: Gloriana, Pavlova, Stout, St. Pauli, Porto."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10374.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10374\nShipping Details:\nShip Name: Wolski Zajazd\nShip Address: ul. Filtrowa 68\nShip City: Warszawa\nShip Region: Eastern Europe\nShip Postal Code: 01-012\nShip Country: Poland\nCustomer Details:\nCustomer ID: WOLZA\nCustomer Name: Wolski Zajazd\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-05\nShipped Date: 2016-12-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 30\nUnit Price: 10.0\nTotal: 300.0\n--------------------------------------------------------------------------------------------------\nProduct: Escargots de Bourgogne\nQuantity: 15\nUnit Price: 10.6\nTotal: 159.0\nTotal Price:\nTotal Price: 459.0\n",
+    "augmented_texts": [
+        "Order ID: 10374 Shipping Details: Ship Name: Wolski Zajazd Ship Address: ul. Filtrowa 68 Ship City: Warszawa Ship Part: Eastern Europe Ship Postal Code: 01 - 012 Ship Country: Poland Customer Contingent: Customer ID: WOLZA Customer Figure: Wolski Zajazd Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: trinity Shipper Name: Federal Shipping Order Details: Social club Date: 2016 - 12 - 05 Shipped Date: 2016 - 12 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 30 Unit Price: 10. 0 Sum: 300. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Escargots de Bourgogne Quantity: 15 Unit Price: x. 6 Total: 159. 0 Total Price: Total Price: 459. 0",
+        "Order idaho: 10374 Shipping Contingent: Ship Name: Wolski Zajazd Ship Address: ul. Filtrowa lxviii Ship City: Warszawa Ship Region: Eastern Europe Ship Postal Code: 01 - 012 Ship Country: Polska Customer Details: Customer ID: WOLZA Customer Name: Wolski Zajazd Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - 05 Shipped Date: 2016 - 12 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: thirty Unit Damage: 10. 0 Total: 300. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Escargots de Burgundy Quantity: 15 Unit Price: 10. 6 Total: 159. 0 Total Price: Total Price: 459. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10374. Ship Address: ul. Filtrowa 68, Warszawa, Poland. Postal Code: 01-012. Customers: Wolski Zajazd, Nancy Davolio. Shipper: Federal Shipping. Products: Gorgonzola Telino, Escargots de Bourgogne."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-02_1.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-02 \n Category : Beverages  \n id category : 1  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nChang\n55\n17\n19\nGuaraná Fantástica\n20\n20\n4.5\nSasquatch Ale\n20\n111\n14\nSteeleye Stout\n8\n20\n18\nChartreuse verte\n26\n69\n18\nIpoh Coffee\n20\n17\n46\nOutback Lager\n25\n15\n15\nRhönbräu Klosterbier\n28\n125\n7.75\nLakkalikööri\n18\n57\n18\n",
+    "augmented_texts": [
+        "Stock Report for 2017 - 02 Category: Beverages id category: 1 Product Units Sold Units in Stock Unit Price Chang 55 17 19 Guaraná Fantástica 20 20 4. 5 Sasquatch Ale 20 111 14 Steeleye Stout 8 20 18 Chartreuse verte xxvi 69 18 Ipoh Coffee 20 17 46 Outback Lager 25 15 15 Rhönbräu Klosterbier 28 125 7. 75 Lakkalikööri 18 fifty seven 18",
+        "Stock Report for 2017 - 02 Category: Beverages id category: 1 Product Units Sold Units in Stock Unit Price Chang 55 17 19 Guaraná Fantástica xx 20 4. 5 Sasquatch Ale 20 111 14 Steeleye Stout 8 20 18 Chartreuse verte 26 69 18 Ipoh Coffee 20 xvii 46 Outback Lager xxv 15 xv Rhönbräu Klosterbier 28 125 7. 75 Lakkalikööri 18 57 18"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-02. Category : Beverages. id category : 1.Product: Beer. Price: Coffee, Beer, Stout, Lager, Kölsch, Hefeweizen, Pilsner, Sauvignon, Brandy, Cîroc."
+}

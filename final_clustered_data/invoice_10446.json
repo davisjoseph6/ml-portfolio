@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10446.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10446\nCustomer ID: TOMSP\nOrder Date: 2017-02-14\nCustomer Details:\nContact Name:\nKarin Josephs\nAddress:\nLuisenstr. 48\nCity:\nMünster\nPostal Code:\n44087\nCountry:\nGermany\nPhone:\n0251-031259\nFax:\n0251-035695\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n19\nTeatime Chocolate Biscuits\n12\n7.3\n24\nGuaraná Fantástica\n20\n3.6\n31\nGorgonzola Telino\n3\n10.0\n52\nFilo Mix\n15\n5.6\n \n \nTotalPrice\n273.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10446 Customer ID: TOMSP Order Date: 2017 - 02 - 14 Customer Detail: Contact Name: Karin Josephs Address: Luisenstr. forty eight City: Münster Postal Code: 44087 Nation: Germany Phone: 0251 - 031259 Fax: 0251 - 035695 Product Details: Product ID Product Name Quantity Unit Price 19 Teatime Chocolate Biscuits twelve 7. 3 24 Guaraná Fantástica 20 3. 6 31 Gorgonzola Telino three 10. 0 lii Filo Mix 15 5. 6 TotalPrice 273. 6 Page 1",
+        "Account Order ID: 10446 Customer ID: TOMSP Rules of order Date: 2017 - 02 - fourteen Customer Details: Contact Name: Karin Josephs Address: Luisenstr. 48 City: Münster Postal Code: 44087 Land: Germany Phone: 0251 - 031259 Fax: 0251 - 035695 Ware Details: Product ID Product Epithet Quantity Unit Price 19 Teatime Chocolate Biscuits 12 7. 3 24 Guaraná Fantástica 20 3. 6 31 Gorgonzola Telino 3 10. 0 52 Filo Mix 15 5. 6 TotalPrice 273. 6 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: 10446.Customer ID: TOMSP. Order Date: 2017-02-14.Product Details: Product ID. Unit Price: $273.6. Price for a pack of 10 chocolate biscuits is $19.99. Product name is: Teatime Chocolate Biscuits."
+}

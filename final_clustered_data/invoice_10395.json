@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10395.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10395\nCustomer ID: HILAA\nOrder Date: 2016-12-26\nCustomer Details:\nContact Name:\nCarlos Hernández\nAddress:\nCarrera 22 con Ave. Carlos Soublette #8-35\nCity:\nSan Cristóbal\nPostal Code:\n5022\nCountry:\nVenezuela\nPhone:\n(5) 555-1340\nFax:\n(5) 555-1948\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n46\nSpegesild\n28\n9.6\n53\nPerth Pasties\n70\n26.2\n69\nGudbrandsdalsost\n8\n28.8\n \n \nTotalPrice\n2333.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10395 Customer ID: HILAA Order Date: 2016 - 12 - 26 Customer Details: Contact Name: Carlos Hernández Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 City: San Cristóbal Postal Code: 5022 Country: Venezuela Phone: (5) 555 - 1340 Facsimile: (5) 555 - 1948 Product Details: Product ID Product Name Quantity Unit of measurement Price 46 Spegesild 28 9. 6 liii Perth Pasties 70 26. deuce 69 Gudbrandsdalsost 8 28. 8 TotalPrice 2333. deuce Page 1",
+        "Invoice Guild ID: 10395 Customer ID: HILAA Order Date: 2016 - 12 - 26 Customer Details: Impinging Name: Carlos Hernández Address: Carrera 22 con Ave. Carlos Soublette # eight - 35 City: San Cristóbal Postal Code: 5022 Commonwealth: Venezuela Phone: (5) 555 - 1340 Facsimile machine: (5) 555 - 1948 Product Details: Product ID Product Name Quantity Unit Toll 46 Spegesild 28 9. 6 53 Perth Pasties 70 26. 2 69 Gudbrandsdalsost 8 28. 8 TotalPrice 2333. ii Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: HILAA Hernández. Order Date: 2016-12-26.Customer Details:.Contact Name. Phone Number: 555-1340. Postal Code: 5022. Unit Price: 2333.2. Product ID: \"Carrera 22 con Ave. Carlos Soublette\""
+}

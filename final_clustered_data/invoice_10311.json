@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10311.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10311\nCustomer ID: DUMON\nOrder Date: 2016-09-20\nCustomer Details:\nContact Name:\nJanine Labrune\nAddress:\n67, rue des Cinquante Otages\nCity:\nNantes\nPostal Code:\n44000\nCountry:\nFrance\nPhone:\n40.67.88.88\nFax:\n40.67.89.89\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n42\nSingaporean Hokkien Fried Mee\n6\n11.2\n69\nGudbrandsdalsost\n7\n28.8\n \n \nTotalPrice\n268.79999999999995\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10311 Customer ID: DUMON Order Date: 2016 - 09 - twenty Customer Details: Contact Name: Janine Labrune Address: 67, rue des Cinquante Otages City: Nantes Postal Codification: 44000 Country: France Phone: 40. 67. 88. eighty eight Fax: 40. 67. 89. 89 Product Details: Product ID Product Name Amount Unit Price 42 Singaporean Hokkien Fried Mee hexad 11. 2 ilxx Gudbrandsdalsost 7 28. 8 TotalPrice 268. 79999999999995 Page 1",
+        "Invoice Order ID: 10311 Customer ID: DUMON Order Date: 2016 - 09 - 20 Client Details: Contact Name: Janine Labrune Address: 67, rue des Cinquante Otages City: Nantes Postal Code: 44000 Land: France Phone: 40. 67. 88. 88 Fax: xl. 67. 89. 89 Product Point: Product ID Product Name Quantity Unit Price 42 Singaporean Hokkien Fried Mee 6 xi. 2 69 Gudbrandsdalsost 7 28. 8 TotalPrice 268. 79999999999995 Pageboy i"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10311.Customer ID: DUMON. Order Date: 2016-09-20. Customer Name: Janine Labrune. Address: rue des Cinquante Otages, Nantes. Postal Code: 40.67.88. 88. Fax:40. 67.89. 89."
+}

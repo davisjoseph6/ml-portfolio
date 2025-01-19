@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10476.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10476\nCustomer ID: HILAA\nOrder Date: 2017-03-17\nCustomer Details:\nContact Name:\nCarlos Hernández\nAddress:\nCarrera 22 con Ave. Carlos Soublette #8-35\nCity:\nSan Cristóbal\nPostal Code:\n5022\nCountry:\nVenezuela\nPhone:\n(5) 555-1340\nFax:\n(5) 555-1948\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n55\nPâté chinois\n2\n19.2\n70\nOutback Lager\n12\n12.0\n \n \nTotalPrice\n182.4\nPage 1\n",
+    "augmented_texts": [
+        "Account Order ID: 10476 Client ID: HILAA Ordering Date: 2017 - 03 - seventeen Customer Details: Contact Name: Carlos Hernández Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 City: San Cristóbal Postal Code: 5022 Country: Venezuela Earphone: (fivesome) 555 - 1340 Fax: (fivesome) 555 - 1948 Product Details: Product ID Product Name Quantity Unit Price 55 Pâté chinois two 19. 2 70 Outback Lager 12 12. 0 TotalPrice 182. tetrad Page 1",
+        "Bill Order ID: 10476 Customer gem state: HILAA Order Date: 2017 - 03 - 17 Customer Contingent: Contact Name: Carlos Hernández Address: Carrera 22 con Ave. Carlos Soublette # 8 - xxxv City: San Cristóbal Postal Code: 5022 Country: Venezuela Telephone: (five) 555 - 1340 Fax: (5) 555 - 1948 Product Details: Product ID Product Name Quantity Unit Price 55 Pâté chinois 2 xix. 2 70 Outback Lager 12 12. 0 TotalPrice 182. 4 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: HILAA Hernández. Order Date: 2017-03-17.Customer Details: Contact Name, Address, Postal Code, Phone Number. Product Name is Pâté chinois. Unit Price is 19.2 pounds of outback lager."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10450.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10450\nCustomer ID: VICTE\nOrder Date: 2017-02-19\nCustomer Details:\nContact Name:\nMary Saveley\nAddress:\n2, rue du Commerce\nCity:\nLyon\nPostal Code:\n69004\nCountry:\nFrance\nPhone:\n78.32.54.86\nFax:\n78.32.54.87\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n10\nIkura\n20\n24.8\n54\nTourtière\n6\n5.9\n \n \nTotalPrice\n531.4\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10450 Customer ID: VICTE Order Date: 2017 - 02 - 19 Client Details: Contact Name: Mary Saveley Address: 2, rue du Department of commerce City: Lyons Postal Code: 69004 Country: France Phone: 78. 32. 54. 86 Fax: 78. 32. 54. 87 Product Details: Product ID Product Gens Quantity Unit Price 10 Ikura 20 24. 8 54 Tourtière 6 quintuplet. 9 TotalPrice 531. 4 Varlet i",
+        "Account Order ID: 10450 Customer ID: VICTE Lodge Date: 2017 - 02 - nineteen Customer Detail: Contact Gens: Mary Saveley Address: 2, rue du Commerce City: Lyon Postal Code: 69004 Country: France Telephone set: seventy eight. 32. 54. 86 Fax: 78. 32. 54. 87 Product Details: Product ID Product Name Quantity Unit Price 10 Ikura 20 24. 8 54 Tourtière 6 5. 9 TotalPrice 531. 4 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: VICTE. Order Date: 2017-02-19. Customer Details: Mary Saveley. Address: rue du Commerce, Lyon. Postal Code: 69004. Country: France. Phone: 78.54.86. Fax: 32.32. 54.87. Product ID: 10450.Product name: Ikura. Unit Price: 531.4."
+}

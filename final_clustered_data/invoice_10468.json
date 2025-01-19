@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10468.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10468\nCustomer ID: KOENE\nOrder Date: 2017-03-07\nCustomer Details:\nContact Name:\nPhilip Cramer\nAddress:\nMaubelstr. 90\nCity:\nBrandenburg\nPostal Code:\n14776\nCountry:\nGermany\nPhone:\n0555-09876\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n30\nNord-Ost Matjeshering\n8\n20.7\n43\nIpoh Coffee\n15\n36.8\n \n \nTotalPrice\n717.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10468 Client ID: KOENE Order Date: 2017 - 03 - 07 Customer Details: Touch Name: Philip Cramer Address: Maubelstr. 90 City: Brandenburg Postal Codification: 14776 Country: Germany Phone: 0555 - 09876 Fax: None Production Details: Product ID Product Name Quantity Unit Price 30 Nord - Ost Matjeshering 8 20. 7 43 Ipoh Coffee xv 36. viii TotalPrice 717. 6 Page 1",
+        "Invoice Order gem state: 10468 Customer i.d.: KOENE Order Date: 2017 - 03 - 07 Customer Details: Contact Name: Philip Cramer Address: Maubelstr. 90 Metropolis: Brandenburg Postal Computer code: 14776 Country: Federal republic of germany Phone: 0555 - 09876 Fax: None Product Details: Product ID Product Name Quantity Unit Price 30 Nord - Ost Matjeshering 8 20. 7 43 Ipoh Coffee 15 36. 8 TotalPrice 717. vi Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: KOENE. Order Date: 2017-03-07.Customer Details:Philip Cramer. Address: \"Maubelstr. 90,\" Brandenburg, Germany. Postal Code: 14776. Phone: 51555-09876.Fax: 020 3615-0555. Unit Price: 20.7 euros."
+}

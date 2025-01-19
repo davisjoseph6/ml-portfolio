@@ -1,0 +1,24 @@
+{
+    "filename": "order_10334.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10334\nShipping Details:\nShip Name: Victuailles en stock\nShip Address: 2, rue du Commerce\nShip City: Lyon\nShip Region: Western Europe\nShip Postal Code: 69004\nShip Country: France\nCustomer Details:\nCustomer ID: VICTE\nCustomer Name: Victuailles en stock\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-10-21\nShipped Date: 2016-10-28\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Filo Mix\nQuantity: 8\nUnit Price: 5.6\nTotal: 44.8\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 10\nUnit Price: 10.0\nTotal: 100.0\nTotal Price:\nTotal Price: 144.8\n",
+    "augmented_texts": [
+        "Order of magnitude ID: 10334 Shipping Details: Ship Name: Victuailles en caudex Ship Address: two, rue du Mercantilism Ship City: Lyon Ship Region: Western Europe Ship Postal Code: 69004 Ship Country: France Customer Detail: Customer ID: VICTE Client Name: Victuailles en stock Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Ordination Date: 2016 - tenner - 21 Shipped Date: 2016 - 10 - 28 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Filo Mix Quantity: 8 Unit Price: 5. 6 Total: 44. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 10 Unit Price: 10. 0 Total: 100. 0 Total Price: Total Price: 144. 8",
+        "Order ID: 10334 Shipping Details: Ship Name: Victuailles en stock Ship Address: 2, rue du Commerce Ship City: Lyon Ship Region: Western Europe Ship Postal Code: 69004 Ship Country: France Customer Details: Customer ID: VICTE Customer Name: Victuailles en stock Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: deuce Shipper Name: United Software system Order Details: Order Date: 2016 - 10 - xxi Shipped Date: 2016 - 10 - twenty eight Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Filo Mix Quantity: 8 Unit Price: 5. 6 Total: 44. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: ten Whole Price: 10. 0 Total: 100. 0 Total Price: Total Price: 144. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10334. Order Name: Victuailles en stock. Ship Address: 2, rue du Commerce, Lyon. Postal Code: 69004. Country: France. Customer: VICTE. Shipper: United Package. Product: Filo Mix. Price: 5.6 euros."
+}

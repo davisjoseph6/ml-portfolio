@@ -1,0 +1,24 @@
+{
+    "filename": "order_10400.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10400\nShipping Details:\nShip Name: Eastern Connection\nShip Address: 35 King George\nShip City: London\nShip Region: British Isles\nShip Postal Code: WX3 6FW\nShip Country: UK\nCustomer Details:\nCustomer ID: EASTC\nCustomer Name: Eastern Connection\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-01-01\nShipped Date: 2017-01-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Thüringer Rostbratwurst\nQuantity: 21\nUnit Price: 99.0\nTotal: 2079.0\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 35\nUnit Price: 14.4\nTotal: 504.0\n--------------------------------------------------------------------------------------------------\nProduct: Maxilaku\nQuantity: 30\nUnit Price: 16.0\nTotal: 480.0\nTotal Price:\nTotal Price: 3063.0\n",
+    "augmented_texts": [
+        "Order ID: 10400 Shipping Details: Ship Name: Eastern Connection Ship Address: 35 King George Ship City: London Ship Region: British Isles Ship Postal Code: WX3 6FW Ship Country: UK Customer Detail: Client ID: EASTC Customer Name: Eastern Connection Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 01 - 01 Shipped Date: 2017 - 01 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Thüringer Rostbratwurst Quantity: 21 Unit Price: 99. 0 Total: 2079. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 35 Unit Price: 14. 4 Total: 504. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Quantity: 30 Unit Price: 16. 0 Total: 480. 0 Total Price: Total Price: 3063. 0",
+        "Order ID: 10400 Shipping Details: Ship Name: Eastern Connection Ship Address: 35 King George Ship City: British capital Ship Region: British Isles Ship Postal Codification: WX3 6FW Ship Country: UK Customer Details: Customer ID: EASTC Customer Name: Eastern Connection Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 01 - 01 Shipped Date: 2017 - 01 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Thüringer Rostbratwurst Quantity: 21 Whole Price: 99. 0 Total: 2079. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 35 Unit Price: 14. 4 Total: 504. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Measure: 30 Unit Price: 16. 0 Total: 480. 0 Total Cost: Entire Price: 3063. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10400. Ship Address: 35 King George. City: London. Region: British Isles. Postal Code: WX3 6FW. Country: UK. Customers: EASTC, Eastern Connection, Federal Shipping. Products: Thüringer Rostbratwurst, Steeleye Stout."
+}

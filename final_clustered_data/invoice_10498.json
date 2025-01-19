@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10498.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10498\nCustomer ID: HILAA\nOrder Date: 2017-04-07\nCustomer Details:\nContact Name:\nCarlos Hernández\nAddress:\nCarrera 22 con Ave. Carlos Soublette #8-35\nCity:\nSan Cristóbal\nPostal Code:\n5022\nCountry:\nVenezuela\nPhone:\n(5) 555-1340\nFax:\n(5) 555-1948\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n24\nGuaraná Fantástica\n14\n4.5\n40\nBoston Crab Meat\n5\n18.4\n42\nSingaporean Hokkien Fried Mee\n30\n14.0\n \n \nTotalPrice\n575.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10498 Customer ID: HILAA Order Date: 2017 - 04 - 07 Customer Particular: Contact Name: Carlos Hernández Reference: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Metropolis: San Cristóbal Postal Code: 5022 Country: Venezuela Phone: (5) 555 - 1340 Fax: (5) 555 - 1948 Product Detail: Product ID Product Gens Quantity Unit Price 24 Guaraná Fantástica 14 4. 5 xl Bean town Crab Meat 5 xviii. 4 42 Singaporean Hokkien Fried Mee 30 14. 0 TotalPrice 575. zero Page 1",
+        "Invoice Order ID: 10498 Customer ID: HILAA Order Date: 2017 - 04 - 07 Customer Details: Contact Figure: Andres martinez Hernández Address: Carrera 22 con Ave. Carlos the jackal Soublette # 8 - 35 City: San Cristóbal Postal Code: 5022 Country: Venezuela Speech sound: (5) 555 - 1340 Fax: (5) 555 - 1948 Production Details: Product ID Intersection Name Quantity Unit Price 24 Guaraná Fantástica 14 quadruplet. 5 40 Boston Crab Meat 5 18. 4 42 Singaporean Hokkien Fried Mee 30 14. cipher TotalPrice 575. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10498.Customer: HILAA.Product: Hokkien Fried Mee. Price: $575.0. Order: 2017-04-07. Customer: Carlos Hernández. Product: Guaraná Fantástica, Boston Crab Meat."
+}

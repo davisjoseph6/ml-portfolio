@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10573.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10573\n2017-06-19\nAntonio Moreno\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n17\nAlice Mutton\n18\n39\n34\nSasquatch Ale\n40\n14\n53\nPerth Pasties\n25\n32.8\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10573 2017 - 06 - 19 Antonio Moreno Products Product ID: Product: Quantity: Unit Price: 17 Alice Mutton 18 39 xxxiv Sasquatch Ale 40 14 53 Perth Pasties 25 32. 8 Pageboy 1",
+        "Leverage Orders Order ID Order Date Customer Name 10573 2017 - 06 - 19 Antonio Moreno Products Product ID: Mathematical product: Quantity: Unit Price: seventeen Alice Mutton 18 ixl 34 Sasquatch Ale 40 14 53 Perth Pasties 25 32. 8 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: Perth Pasties, Sasquatch Ale, Alice Mutton, and Alice's Ale. The product ID is the product name used to order the products. For more information, visit PerthPasties.com or call 020 362 909090."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10606.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10606\n2017-07-22\nAnabela Domingues\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n4\nChef Anton's Cajun Seasoning\n20\n22\n55\nPâté chinois\n20\n24\n62\nTarte au sucre\n10\n49.3\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Order Order ID Order Date Customer Name 10606 2017 - 07 - 22 Anabela Domingues Products Product ID: Product: Quantity: Unit Price: quaternion Chef Anton ' s Cajun Seasoning twenty 22 55 Pâté chinois 20 24 62 Tarte au sucre 10 49. 3 Varlet 1",
+        "Purchase Orders Order ID Order Date Customer Name 10606 2017 - 07 - 22 Anabela Domingues Products Product ID: Product: Amount: Unit Cost: 4 Chef Anton ' second Cajun Seasoning 20 22 55 Pâté chinois 20 24 62 Tarte au sucre 10 forty nine. 3 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders are delivered to the home of Chef Anton's Cajun Seasoning. All orders must be delivered by July 22, 2017. Prices start at $4.99 per kilogram and go up from there. For more information, visit chefAnton's website at: http://www.antonscajuns.com/. For confidential support call the Samaritans on 08457 909090."
+}

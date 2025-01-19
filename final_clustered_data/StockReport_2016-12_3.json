@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-12_3.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-12 \n Category : Confections  \n id category : 3  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nSir Rodney's Marmalade\n40\n40\n81\nSir Rodney's Scones\n10\n3\n10\nNuNuCa Nuß-Nougat-Creme\n7\n76\n14\nGumbär Gummibärchen\n70\n15\n31.23\nValkoinen suklaa\n15\n65\n16.25\nTarte au sucre\n30\n17\n49.3\nScottish Longbreads\n68\n6\n12.5\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 12 Category: Confections id category: iii Product Units Sold Units in Stock Unit Price Sir Rodney ' s Marmalade 40 40 81 Sir Rodney ' s Scones x 3 10 NuNuCa Nuß - Nougat - Creme 7 76 14 Gumbär Gummibärchen 70 15 xxxi. xxiii Valkoinen suklaa 15 65 16. 25 Tarte au sucre 30 17 49. 3 Scottish Longbreads 68 6 12. 5",
+        "Stock Report for 2016 - 12 Category: Confection id category: 3 Product Units Sold Units in Bloodline Unit Price Sir Rodney ' s Marmalade 40 40 81 Sir Rodney ' s Scone 10 3 10 NuNuCa Nuß - Nougat - Creme 7 76 xiv Gumbär Gummibärchen seventy 15 31. 23 Valkoinen suklaa 15 65 16. 25 Tarte au sucre 30 17 49. 3 Scottish Longbreads 68 6 12. 5"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-12. Category : Confections. id category : 3. Product: Marmalade, Scones, Gumbär Gummibärchen, Tarte au sucre. Unit price: £3.99 per pack."
+}

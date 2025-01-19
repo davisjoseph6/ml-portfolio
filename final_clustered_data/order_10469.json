@@ -1,0 +1,24 @@
+{
+    "filename": "order_10469.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10469\nShipping Details:\nShip Name: White Clover Markets\nShip Address: 1029 - 12th Ave. S.\nShip City: Seattle\nShip Region: North America\nShip Postal Code: 98124\nShip Country: USA\nCustomer Details:\nCustomer ID: WHITC\nCustomer Name: White Clover Markets\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-03-10\nShipped Date: 2017-03-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chang\nQuantity: 40\nUnit Price: 15.2\nTotal: 608.0\n--------------------------------------------------------------------------------------------------\nProduct: Pavlova\nQuantity: 35\nUnit Price: 13.9\nTotal: 486.5\n--------------------------------------------------------------------------------------------------\nProduct: Gula Malacca\nQuantity: 2\nUnit Price: 15.5\nTotal: 31.0\nTotal Price:\nTotal Price: 1125.5\n",
+    "augmented_texts": [
+        "Order ID: 10469 Transport Details: Ship Name: White Clover Markets Ship Address: 1029 - 12th Ave. Sulfur. Ship City: Seattle Ship Region: North America Ship Postal Code: 98124 Ship Country: USA Customer Details: Customer ID: WHITC Customer Name: White Clover Markets Employee Details: Employee Figure: Nancy Davolio Shipper Detail: Shipper ID: ane Shipper Name: Speedy Express Order Details: Order Date: 2017 - 03 - 10 Shipped Date: 2017 - 03 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Quantity: 40 Unit Price: 15. 2 Total: 608. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: xxxv Unit Price: 13. 9 Aggregate: 486. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Quantity: 2 Unit Price: 15. 5 Total: 31. 0 Total Price: Total Price: 1125. 5",
+        "Order ID: 10469 Shipping Details: Ship Name: Patrick victor martindale white Clover Markets Ship Address: 1029 - 12th Ave. S. Ship City: Seattle Ship Region: North America Ship Postal Code: 98124 Ship Country: USA Customer Details: Customer ID: WHITC Customer Name: White Trefoil Markets Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express mail Order Details: Order Date: 2017 - 03 - 10 Shipped Date: 2017 - 03 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Quantity: 40 Unit Price: 15. 2 Total: 608. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: thirty five Unit Price: thirteen. 9 Total: 486. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Amount: deuce Unit Price: 15. 5 Total: 31. 0 Total Price: Total Price: 1125. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10469. Ship address: 1029 - 12th Ave. S. Seattle, Washington. Postal Code: 98124. Country: USA. Customer: WHITC. Employee: Nancy Davolio. Order: 2017-03-10. Shipper: Speedy Express. Product: Pavlova."
+}

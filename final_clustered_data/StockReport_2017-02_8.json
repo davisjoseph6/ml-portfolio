@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-02_8.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-02 \n Category : Seafood  \n id category : 8  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nIkura\n34\n31\n31\nNord-Ost Matjeshering\n28\n10\n25.89\nBoston Crab Meat\n20\n123\n18.4\nJack's New England Clam Chowder\n30\n85\n9.65\nSpegesild\n35\n95\n12\n",
+    "augmented_texts": [
+        "Stock Report for 2017 - 02 Class: Seafood id category: 8 Intersection Units Sold Units in Stock Unit Price Ikura 34 31 31 Nord - Ost Matjeshering 28 10 25. 89 Boston Crab Meat 20 123 xviii. 4 Jack ' s New England Clam Chowder 30 85 niner. 65 Spegesild 35 95 12",
+        "Stock Account for 2017 - 02 Class: Seafood id category: 8 Product Unit of measurement Sold Units in Stock Unit Toll Ikura 34 31 31 Nord - Ost Matjeshering 28 10 25. 89 Boston Crab Pith 20 123 18. 4 Jack ' s New England Clam Chowder 30 85 9. 65 Spegesild 35 ninety five 12"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-02. Category : Seafood. id category : 8              Product   Unit Price         Brand name and category of seafood in Stock Report for the first quarter of this year."
+}

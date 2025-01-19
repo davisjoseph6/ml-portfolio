@@ -1,0 +1,24 @@
+{
+    "filename": "order_10259.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10259\nShipping Details:\nShip Name: Centro comercial Moctezuma\nShip Address: Sierras de Granada 9993\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5022\nShip Country: Mexico\nCustomer Details:\nCustomer ID: CENTC\nCustomer Name: Centro comercial Moctezuma\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-07-18\nShipped Date: 2016-07-25\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 10\nUnit Price: 8.0\nTotal: 80.0\n--------------------------------------------------------------------------------------------------\nProduct: Gravad lax\nQuantity: 1\nUnit Price: 20.8\nTotal: 20.8\nTotal Price:\nTotal Price: 100.8\n",
+    "augmented_texts": [
+        "Order gem state: 10259 Shipping Details: Ship Name: Centro comercial Moctezuma Ship Address: Sierras de Granada 9993 Ship Urban center: México D. F. Ship Region: Central America Ship Postal Code: 5022 Ship Country: Mexico Customer Item: Customer ID: CENTC Customer Name: Centro comercial Moctezuma Employee Item: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 07 - 18 Shipped Date: 2016 - 07 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: 10 Whole Price: 8. 0 Total: 80. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gravad lax Quantity: 1 Unit Price: xx. 8 Total: 20. 8 Total Damage: Total Price: 100. 8",
+        "Order ID: 10259 Shipping Details: Ship Name: Centro comercial Moctezuma Ship Address: Sierras de Granada 9993 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5022 Ship Country: United mexican states Client Details: Customer ID: CENTC Customer Name: Centro comercial Moctezuma Employee Details: Employee Gens: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 07 - eighteen Shipped Date: 2016 - 07 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: 10 Unit Price: 8. 0 Total: eighty. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gravad lax Quantity: 1 Unit Price: 20. 8 Amount: 20. 8 Total Price: Total Price: 100. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10259. Ship Address: Sierras de Granada 9993. Postal Code: 5022. Country: Mexico. Customer: Centro comercial Moctezuma. Shipper: Federal Shipping. Product: Sir Rodney's Scones. Price: 20.8."
+}

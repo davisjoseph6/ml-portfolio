@@ -1,0 +1,24 @@
+{
+    "filename": "order_10295.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10295\nShipping Details:\nShip Name: Vins et alcools Chevalier\nShip Address: 59 rue de l-Abbaye\nShip City: Reims\nShip Region: Western Europe\nShip Postal Code: 51100\nShip Country: France\nCustomer Details:\nCustomer ID: VINET\nCustomer Name: Vins et alcools Chevalier\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-09-02\nShipped Date: 2016-09-10\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 4\nUnit Price: 30.4\nTotal: 121.6\nTotal Price:\nTotal Price: 121.6\n",
+    "augmented_texts": [
+        "Order i.d.: 10295 Shipping Details: Ship Name: Vins et alcools Chevalier Ship Address: 59 rue de l - Abbaye Ship City: Rheims Ship Region: Western Europe Ship Postal Code: 51100 Ship Country: France Client Details: Customer ID: VINET Customer Name: Vins et alcools Chevalier Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 02 Shipped Date: 2016 - 09 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Amount: 4 Unit Price: thirty. 4 Total: 121. 6 Total Cost: Total Price: 121. 6",
+        "Order ID: 10295 Shipping Details: Ship Name: Vins et alcools Chevalier Ship Savoir faire: fifty nine rue de l - Abbaye Ship Metropolis: Reims Ship Part: Western Europe Ship Postal Code: 51100 Ship Country: Jacques anatole francois thibault Customer Details: Customer ID: VINET Customer Name: Vins et alcools Chevalier Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Escort: 2016 - 09 - 02 Shipped Date: 2016 - 09 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 4 Unit Price: 30. 4 Total: 121. 6 Total Price: Total Price: 121. 6"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order for Gnocchi di nonna Alice from Vins et alcools Chevalier in Reims, France. The order was placed on September 02, 2016. It was shipped on the September 10th to the address 59 rue de l-Abbaye. There were four units of the product."
+}

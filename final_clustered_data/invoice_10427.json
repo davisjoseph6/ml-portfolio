@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10427.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10427\nCustomer ID: PICCO\nOrder Date: 2017-01-27\nCustomer Details:\nContact Name:\nGeorg Pipps\nAddress:\nGeislweg 14\nCity:\nSalzburg\nPostal Code:\n5020\nCountry:\nAustria\nPhone:\n6562-9722\nFax:\n6562-9723\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n14\nTofu\n35\n18.6\n \n \nTotalPrice\n651.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Orderliness ID: 10427 Customer ID: PICCO Order Particular date: 2017 - 01 - 27 Customer Details: Contact Name: Georg Pipps Address: Geislweg 14 City: Salzburg Postal Code: 5020 Country: Austria Headphone: 6562 - 9722 Fax: 6562 - 9723 Product Details: Cartesian product idaho Product Name Quantity Unit Price 14 Tofu 35 eighteen. 6 TotalPrice 651. 0 Page 1",
+        "Invoice Order ID: 10427 Customer gem state: PICCO Order Date: 2017 - 01 - 27 Customer Details: Contact Name: Georg Pipps Address: Geislweg xiv City: Salzburg Postal Code: 5020 Land: Austria Phone: 6562 - 9722 Fax: 6562 - 9723 Product Details: Product ID Product Name Quantity Unit Price fourteen Tofu 35 18. half dozen TotalPrice 651. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: PICCO. Order Date: 2017-01-27. Customer Details:Georg Pipps. Product ID: G-Pipp. Price: $651.0. Page 1: \"Product Name\": \"Tofu,\" \"Unit Price\": $18.6, \"Total Price:\" $1,651,000."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10277.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10277\nShipping Details:\nShip Name: Morgenstern Gesundkost\nShip Address: Heerstr. 22\nShip City: Leipzig\nShip Region: Western Europe\nShip Postal Code: 4179\nShip Country: Germany\nCustomer Details:\nCustomer ID: MORGK\nCustomer Name: Morgenstern Gesundkost\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-08-09\nShipped Date: 2016-08-13\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Rössle Sauerkraut\nQuantity: 20\nUnit Price: 36.4\nTotal: 728.0\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 12\nUnit Price: 39.4\nTotal: 472.79999999999995\nTotal Price:\nTotal Price: 1200.8\n",
+    "augmented_texts": [
+        "Order ID: 10277 Shipping Detail: Ship Name: Morgenstern Gesundkost Ship Address: Heerstr. 22 Ship City: Leipzig Ship Region: Western Europe Ship Postal Code: 4179 Ship Country: Germany Customer Details: Customer ID: MORGK Customer Epithet: Morgenstern Gesundkost Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 08 - 09 Shipped Particular date: 2016 - 08 - long dozen Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 20 Unit Price: xxxvi. 4 Total: 728. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 12 Unit Price: 39. 4 Total: 472. 79999999999995 Total Price: Total Price: 1200. 8",
+        "Decree ID: 10277 Shipping Details: Ship Gens: Morgenstern Gesundkost Ship Address: Heerstr. 22 Ship City: Leipzig Ship Region: Western Eu Ship Postal Code: 4179 Ship Country: Germany Customer Details: Customer i.d.: MORGK Customer Name: Morgenstern Gesundkost Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 3 Shipper Gens: Federal Cargo ships Order Details: Order Date: 2016 - 08 - 09 Shipped Date: 2016 - 08 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: twenty Unit Price: 36. 4 Total: 728. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 12 Unit Price: 39. 4 Total: 472. 79999999999995 Total Price: Full Price: 1200. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10277. Ship Name: Morgenstern Gesundkost. Address: Heerstr. 22, Leipzig. Postal Code: 4179. Country: Germany. Customer: MORGK. Shipper: Federal Shipping. Products: Rössle Sauerkraut."
+}

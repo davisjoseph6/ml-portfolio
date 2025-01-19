@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10482.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10482\n2017-03-21\nJohn Steel\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n40\nBoston Crab Meat\n10\n14.7\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10482 2017 - 03 - 21 Saint john the apostle Steel Products Product ID: Product: Amount: Unit Price: 40 Boston Crab Meat 10 14. 7 Page i",
+        "Purchase Orders Order ID Order Date Customer Name 10482 2017 - 03 - 21 John the divine Steel Products Product ID: Product: Quantity: Unit Price: 40 Boston Crabmeat Center 10 14. sevener Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass orders for Boston Crab Meat. Customers can order by phone, email, or in person at the store. Prices start at $14.7 per pound and go up to $40 per kilogram. For more information, visit BostonCrabMeat.com."
+}

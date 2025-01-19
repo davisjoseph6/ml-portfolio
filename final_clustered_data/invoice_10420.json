@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10420.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10420\nCustomer ID: WELLI\nOrder Date: 2017-01-21\nCustomer Details:\nContact Name:\nPaula Parente\nAddress:\nRua do Mercado, 12\nCity:\nResende\nPostal Code:\n08737-363\nCountry:\nBrazil\nPhone:\n(14) 555-8122\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n9\nMishi Kobe Niku\n20\n77.6\n13\nKonbu\n2\n4.8\n70\nOutback Lager\n8\n12.0\n73\nRöd Kaviar\n20\n12.0\n \n \nTotalPrice\n1897.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10420 Customer ID: WELLI Order Date: 2017 - 01 - 21 Client Details: Contact Name: Paula Parente Address: Rua do Mercado, 12 City: Resende Postal Code: 08737 - 363 State: Brazil Phone: (14) 555 - 8122 Fax: None Product Details: Product ID Product Name Quantity Unit Mary leontyne price 9 Mishi Kobe Niku 20 77. half dozen thirteen Konbu 2 4. 8 70 Outback Lager 8 12. 0 73 Röd Kaviar 20 12. 0 TotalPrice 1897. captain hicks Thomas nelson page unity",
+        "Account Order ID: 10420 Client ID: WELLI Rules of order Date: 2017 - 01 - 21 Customer Details: Contact Name: Paula Parente Address: Rua cause Mercado, 12 City: Resende Postal Code: 08737 - 363 Country: Brazil Phone: (14) 555 - 8122 Fax: None Product Details: Production ID Product Name Quantity Unit Price 9 Mishi Kobe Niku 20 77. 6 13 Konbu 2 little joe. 8 70 Outback Lager 8 12. 0 73 Röd Kaviar 20 12. 0 TotalPrice 1897. 6 Sir frederick handley page ane"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: WELLI. Order Date: 2017-01-21.Customer Details:         Paula Parente. Address: Rua do Mercado. Postal Code:  08737-363. Country: Brazil. Phone: 555-8122.Fax: None. Product ID: 10420."
+}

@@ -1,0 +1,12 @@
+{
+    "filename": "2024003102.jpg",
+    "metadata": {},
+    "text": " \n\nPY Eig as\n\n \n\nTO: Name\nCompany\n\nFax No.\n\nFROM: Cf CarchweD\n\nPHILIP MORRIS U.S.A.\n\nRICHMOND, VA\nPHONE:  (804)2%4 SEEA\n\nFAX: (804) 274-2891\n\nDATE: It] 7/ 93\n\nPAGES TO FOLLOW: 9 ___Z\n\nPLEASE CALL ABOVE PHONE NUMBER IF THERE IS ANY PROBLEM\nWITH THIS TRANSMISSION.\n\n \n\nMFSSAGF: - SEE “LOWING PAGE(S).\n\n20TE00Lz0z\n\f",
+    "augmented_texts": [
+        "PY Eig as TO: Name Caller Fax No. FROM: Cf CarchweD PHILIP MORRIS U. S. A. RICHMOND, VA PHONE: (804) 2% 4 SEEA FAX: (804) 274 - 2891 DATE: Information technology] 7 / 93 PAGES TO FOLLOW: 9 ___Z PLEASE CALL ABOVE PHONE NUMBER IF THERE IS ANY PROBLEM WITH THIS TRANSMISSION. MFSSAGF: - SEE “ LOWING PAGE (S ). 20TE00Lz0z",
+        "PY Eig as TO: Name Company Fax No. FROM: Cf CarchweD PHILIP MORRIS U. Sec. A. RICHMOND, VA PHONE: (804) 2% 4 SEEA FAX: (804) 274 - 2891 DATE: It] 7 / 93 PAGES TO FOLLOW: 9 ___Z PLEASE CALL ABOVE PHONE NUMBER IF THERE IS ANY PROBLEM WITH THIS TRANSMISSION. MFSSAGF: - SEE “ LOWING PAGE (S ). 20TE00Lz0z"
+    ],
+    "predicted_cluster": 3,
+    "predicted_label": "cluster_3",
+    "summary": "Phone: (804) 2%4 SEEA.Fax:  (805) 274-2891. Date: It] 7/ 93. Fax No. 9: 9. Z. Phone number is the same as the phone number on the fax machine. Company name is: CarchweD."
+}

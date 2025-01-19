@@ -1,0 +1,24 @@
+{
+    "filename": "order_10546.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10546\nShipping Details:\nShip Name: Victuailles en stock\nShip Address: 2, rue du Commerce\nShip City: Lyon\nShip Region: Western Europe\nShip Postal Code: 69004\nShip Country: France\nCustomer Details:\nCustomer ID: VICTE\nCustomer Name: Victuailles en stock\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-05-23\nShipped Date: 2017-05-27\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Uncle Bob's Organic Dried Pears\nQuantity: 10\nUnit Price: 30.0\nTotal: 300.0\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 30\nUnit Price: 18.0\nTotal: 540.0\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 40\nUnit Price: 49.3\nTotal: 1972.0\nTotal Price:\nTotal Price: 2812.0\n",
+    "augmented_texts": [
+        "Order ID: 10546 Shipping Details: Ship Name: Victuailles en stock Ship Address: 2, rue du Commerce Ship Metropolis: Lyon Ship Region: Western Europe Ship Postal Code: 69004 Ship Country: France Customer Point: Customer gem state: VICTE Customer Name: Victuailles en stock Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 05 - 23 Shipped Date: 2017 - 05 - 27 Intersection: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Uncle Bob ' s Organic Dried Pears Quantity: x Unit Price: 30. 0 Total: 300. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: xxx Unit Price: 18. 0 Sum: 540. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 40 Unit Price: 49. 3 Total: 1972. 0 Total Price: Total Price: 2812. 0",
+        "Society ID: 10546 Shipping Details: Ship Name: Victuailles en stock Ship Savoir faire: 2, rue du Commerce Ship City: Lyon Ship Region: Western Europe Ship Postal Code: 69004 Ship Country: France Client Details: Customer ID: VICTE Customer Name: Victuailles en stock Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Ordering Details: Order Date: 2017 - 05 - 23 Shipped Date: 2017 - 05 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Uncle Bob ' mho Organic Dried Pears Quantity: 10 Unit Price: 30. 0 Total: 300. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 30 Unit Price: 18. 0 Total: 540. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 40 Unit Price: 49. 3 Sum: 1972. 0 Total Price: Total Price: 2812. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10546. Ship Address: 2, rue du Commerce, Lyon. Postal Code: 69004. Country: France. Customer Name: Victuailles en stock. Shipper: Federal Shipping. Product: Uncle Bob's Organic Dried Pears. Price: 30.0 pounds."
+}

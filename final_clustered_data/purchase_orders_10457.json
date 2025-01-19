@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10457.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10457\n2017-02-25\nPhilip Cramer\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n59\nRaclette Courdavault\n36\n44\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Grade ID Order Date Customer Gens 10457 2017 - 02 - 25 Philip Cramer Products Product i.d.: Product: Quantity: Unit Price: 59 Raclette Courdavault 36 44 Page ane",
+        "Purchase Orders Order ID Order Date Customer Name 10457 2017 - 02 - 25 Philip Cramer Products Production ID: Mathematical product: Quantity: Unit Price: 59 Raclette Courdavault 36 44 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following items: Products, products, and products. Customers can order products online or by phone. Items can be delivered to a customer's home or office. Products can also be shipped to customers' homes or offices. Purchaser can choose to pay by credit card or money order."
+}

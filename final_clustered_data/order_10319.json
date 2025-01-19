@@ -1,0 +1,24 @@
+{
+    "filename": "order_10319.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10319\nShipping Details:\nShip Name: Tortuga Restaurante\nShip Address: Avda. Azteca 123\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5033\nShip Country: Mexico\nCustomer Details:\nCustomer ID: TORTU\nCustomer Name: Tortuga Restaurante\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-10-02\nShipped Date: 2016-10-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Alice Mutton\nQuantity: 8\nUnit Price: 31.2\nTotal: 249.6\n--------------------------------------------------------------------------------------------------\nProduct: Rössle Sauerkraut\nQuantity: 14\nUnit Price: 36.4\nTotal: 509.59999999999997\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 30\nUnit Price: 14.4\nTotal: 432.0\nTotal Price:\nTotal Price: 1191.2\n",
+    "augmented_texts": [
+        "Decree ID: 10319 Shipping Details: Ship Name: Tortuga Restaurante Ship Address: Avda. Azteca 123 Ship City: México D. Atomic number 9. Ship Region: Central America Ship Postal Code: 5033 Ship Country: Mexico Customer Details: Customer i.d.: TORTU Customer Name: Tortuga Restaurante Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 10 - 02 Shipped Date: 2016 - 10 - 11 Production: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 8 Building block Price: 31. 2 Total: 249. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 14 Unit Price: 36. 4 Total: 509. 59999999999997 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 30 Unit Price: 14. 4 Total: 432. 0 Total Price: Total Price: 1191. ii",
+        "Order ID: 10319 Shipping Details: Ship Name: Tortuga Restaurante Ship Address: Avda. Azteca 123 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5033 Ship Country: Mexico Customer Details: Client ID: TORTU Customer Name: Tortuga Restaurante Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 10 - 02 Shipped Date: 2016 - 10 - eleven Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 8 Unit Price: thirty one. two Total: 249. sestet - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rössle Sauerkraut Quantity: 14 Unit Price: 36. 4 Total: 509. 59999999999997 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 30 Unit Price: 14. 4 Totality: 432. 0 Total Price: Total Price: 1191. two"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10319. Order Name: Tortuga Restaurante. Ship Address: Avda. Azteca 123. Postal Code: 5033. Country: México D.F. Publ. Category: Central America. Customer: TORTU. Shipper: Federal Shipping."
+}

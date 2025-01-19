@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10293.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10293\nCustomer ID: TORTU\nOrder Date: 2016-08-29\nCustomer Details:\nContact Name:\nMiguel Angel Paolino\nAddress:\nAvda. Azteca 123\nCity:\nMéxico D.F.\nPostal Code:\n05033\nCountry:\nMexico\nPhone:\n(5) 555-2933\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n18\nCarnarvon Tigers\n12\n50.0\n24\nGuaraná Fantástica\n10\n3.6\n63\nVegie-spread\n5\n35.1\n75\nRhönbräu Klosterbier\n6\n6.2\n \n \nTotalPrice\n848.7\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10293 Client ID: TORTU Order Date: 2016 - 08 - 29 Customer Item: Contact lens Name: Miguel Angel Paolino Name and address: Avda. Azteca 123 City: México Vitamin d. Fluorine. Postal Code: 05033 Body politic: Mexico Phone: (5) 555 - 2933 Fax: None Product Item: Product gem state Product Name Quantity Unit Price 18 Carnarvon Tigers 12 50. 0 24 Guaraná Fantástica ten 3. 6 63 Vegie - spread 5 35. 1 75 Rhönbräu Klosterbier 6 6. 2 TotalPrice 848. 7 Page 1",
+        "Invoice Parliamentary procedure ID: 10293 Customer ID: TORTU Order Date: 2016 - 08 - 29 Customer Item: Contact Figure: Miguel Angel Paolino Speech: Avda. Azteca 123 City: México D. F. Postal Code: 05033 Country: Mexico Phone: (5) 555 - 2933 Fax: None Product Details: Product ID Product Name Quantity Unit Price 18 Carnarvon Tigers 12 50. 0 24 Guaraná Fantástica 10 3. vi 63 Vegie - spread 5 35. 1 75 Rhönbräu Klosterbier 6 captain hicks. 2 TotalPrice 848. 7 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 10293 grotesquely-pronounced \"TORTU\" Customer Name: \"Miguel Angel Paolino\" Order Date: 2016-08-29.Customer Details:              \"Vegie-spread\" :    1, 2, 3, 4, 5, 6, 7, 8, 9."
+}

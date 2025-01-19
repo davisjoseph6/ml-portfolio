@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10433.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10433\nCustomer ID: PRINI\nOrder Date: 2017-02-03\nCustomer Details:\nContact Name:\nIsabel de Castro\nAddress:\nEstrada da saúde n. 58\nCity:\nLisboa\nPostal Code:\n1756\nCountry:\nPortugal\nPhone:\n(1) 356-5634\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n56\nGnocchi di nonna Alice\n28\n30.4\n \n \nTotalPrice\n851.1999999999999\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order i.d.: 10433 Customer idaho: PRINI Order Date: 2017 - 02 - 03 Customer Details: Contact Name: Isabel de Castro Name and address: Estrada da saúde n. lviii City: Lisboa Postal Code: 1756 Country: Portugal Phone: (1) 356 - 5634 Fax: None Product Details: Product ID Product Name Quantity Unit Price 56 Gnocchi di nonna Alice 28 30. 4 TotalPrice 851. 1999999999999 Page 1",
+        "Bill Order ID: 10433 Customer ID: PRINI Order Date: 2017 - 02 - 03 Customer Details: Contact Name: Isabel de Castro Name and address: Estrada da saúde n. fifty eight City: Lisbon Postal Code: 1756 Country: Portugal Phone: (1) 356 - 5634 Fax: None Product Details: Product ID Product Name Quantity Unit Price 56 Gnocchi di nonna Alice 28 thirty. 4 TotalPrice 851. 1999999999999 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: PRINI. Order Date: 2017-02-03. Customer: Isabel de Castro. Address: Estrada da saúde n. 58, Lisboa. Postal Code: 1756. Country: Portugal. Phone: 356-5634.Fax: None. Product ID: 10433."
+}

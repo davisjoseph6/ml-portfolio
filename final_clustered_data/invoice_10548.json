@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10548.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10548\nCustomer ID: TOMSP\nOrder Date: 2017-05-26\nCustomer Details:\nContact Name:\nKarin Josephs\nAddress:\nLuisenstr. 48\nCity:\nMünster\nPostal Code:\n44087\nCountry:\nGermany\nPhone:\n0251-031259\nFax:\n0251-035695\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n34\nSasquatch Ale\n10\n14.0\n41\nJack's New England Clam Chowder\n14\n9.65\n \n \nTotalPrice\n275.1\nPage 1\n",
+    "augmented_texts": [
+        "Bill Order ID: 10548 Customer ID: TOMSP Gild Date: 2017 - 05 - 26 Customer Details: Contact Name: Karin Josephs Address: Luisenstr. 48 City: Münster Postal Code: 44087 Country: Germany Earphone: 0251 - 031259 Fax: 0251 - 035695 Mathematical product Details: Product idaho Product Name Quantity Unit Price 34 Sasquatch Ale 10 14. cipher 41 Jack ' s New England Dollar Chowder 14 9. 65 TotalPrice 275. 1 Page 1",
+        "Invoice Order idaho: 10548 Customer ID: TOMSP Order Date: 2017 - 05 - xxvi Customer Details: Contact Name: Karin Josephs Address: Luisenstr. 48 City: Münster Postal Computer code: 44087 Land: Germany Phone: 0251 - 031259 Fax: 0251 - 035695 Product Details: Product ID Product Name Quantity Whole Price 34 Sasquatch Ale 10 14. 0 41 Jack ' s New England Clam Chowder 14 9. 65 TotalPrice 275. unity Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10548.Customer: Karin Josephs. Product: Jack's New England Clam Chowder. Price: 275.1 euros. Customer: TOMSP. Order Date: 2017-05-26. Customers: TomSP, Karin, Karin, Joesph."
+}

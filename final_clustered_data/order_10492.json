@@ -1,0 +1,24 @@
+{
+    "filename": "order_10492.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10492\nShipping Details:\nShip Name: Bottom-Dollar Markets\nShip Address: 23 Tsawassen Blvd.\nShip City: Tsawassen\nShip Region: North America\nShip Postal Code: T2F 8M4\nShip Country: Canada\nCustomer Details:\nCustomer ID: BOTTM\nCustomer Name: Bottom-Dollar Markets\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-04-01\nShipped Date: 2017-04-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: NuNuCa Nuß-Nougat-Creme\nQuantity: 60\nUnit Price: 11.2\nTotal: 672.0\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 20\nUnit Price: 11.2\nTotal: 224.0\nTotal Price:\nTotal Price: 896.0\n",
+    "augmented_texts": [
+        "Order ID: 10492 Ship Details: Ship Name: Bottom - Dollar Markets Ship Address: 23 Tsawassen Blvd. Ship City: Tsawassen Ship Realm: North Us Ship Postal Code: T2F 8M4 Ship Country: Canada Customer Details: Customer ID: BOTTM Customer Name: Bottom - Dollar Markets Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 04 - 01 Shipped Particular date: 2017 - 04 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: NuNuCa Nuß - Nougat - Creme Quantity: 60 Unit Price: 11. 2 Total: 672. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 20 Unit Price: 11. 2 Total: 224. 0 Total Price: Total Price: 896. 0",
+        "Order ID: 10492 Shipping Detail: Ship Name: Bottom - Dollar Markets Ship Address: 23 Tsawassen Blvd. Ship City: Tsawassen Ship Realm: North U.s.a. Ship Postal Code: T2F 8M4 Ship Country: Canada Customer Details: Customer ID: BOTTM Customer Name: Bottom - Dollar Markets Employee Details: Employee Gens: Janet Leverling Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Item: Order Date: 2017 - 04 - 01 Shipped Date: 2017 - 04 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: NuNuCa Nuß - Nougat - Creme Quantity: 60 Unit Price: 11. 2 Total: 672. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Singaporean Hokkien Fried Mee Quantity: xx Unit Leontyne price: 11. 2 Total: 224. 0 Total Price: Total Price: 896. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10492. Ship Address: 23 Tsawassen Blvd.Ship Postal Code: T2F 8M4Ship Country: Canada. Customer: Bottom-Dollar Markets. Shipper: Speedy Express. Product: NuNuCa Nuß-Nougat-Creme. Price: 11.2."
+}

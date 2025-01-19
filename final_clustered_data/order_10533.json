@@ -1,0 +1,24 @@
+{
+    "filename": "order_10533.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10533\nShipping Details:\nShip Name: Folk och fä HB\nShip Address: Åkergatan 24\nShip City: Bräcke\nShip Region: Northern Europe\nShip Postal Code: S-844 67\nShip Country: Sweden\nCustomer Details:\nCustomer ID: FOLKO\nCustomer Name: Folk och fä HB\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-05-12\nShipped Date: 2017-05-22\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chef Anton's Cajun Seasoning\nQuantity: 50\nUnit Price: 22.0\nTotal: 1100.0\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 24\nUnit Price: 34.8\nTotal: 835.1999999999999\n--------------------------------------------------------------------------------------------------\nProduct: Röd Kaviar\nQuantity: 24\nUnit Price: 15.0\nTotal: 360.0\nTotal Price:\nTotal Price: 2295.2\n",
+    "augmented_texts": [
+        "Order ID: 10533 Shipping Details: Ship Name: Ethnic music och fä HB Ship Address: Åkergatan 24 Ship City: Bräcke Ship Region: Northern Europe Ship Postal Code: Sulphur - 844 sixty seven Ship Country: Sweden Customer Details: Client ID: FOLKO Customer Name: Folk och fä HB Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper i.d.: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 05 - 12 Shipped Date: 2017 - 05 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Seasoning Quantity: fifty Unit Price: 22. 0 Total: 1100. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 24 Unit Price: 34. 8 Total: 835. 1999999999999 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Röd Kaviar Quantity: 24 Unit Price: 15. 0 Total: 360. 0 Total Price: Total Price: 2295. 2",
+        "Order ID: 10533 Shipping Details: Ship Name: Folk och fä HB Ship Address: Åkergatan 24 Ship City: Bräcke Ship Region: Northern Europe Ship Postal Code: S - 844 67 Ship Country: Sweden Customer Details: Customer ID: FOLKO Customer Name: Folk och fä HB Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 05 - 12 Shipped Date: 2017 - 05 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Chef Anton ' s Cajun Seasoning Quantity: 50 Unit Price: 22. 0 Sum: 1100. cypher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: twenty four Unit Price: 34. 8 Total: 835. 1999999999999 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Röd Kaviar Quantity: 24 Unit Price: 15. 0 Total: 360. 0 Total Price: Total Price: 2295. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10533. Ship Address: Åkergatan 24. Postal Code: S-844 67 67. Country: Sweden. Customer: Folk och fä HB. Employee: Laura Callahan. Shipper: Speedy Express. Product: Röd Kaviar."
+}

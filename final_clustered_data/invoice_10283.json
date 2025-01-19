@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10283.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10283\nCustomer ID: LILAS\nOrder Date: 2016-08-16\nCustomer Details:\nContact Name:\nCarlos González\nAddress:\nCarrera 52 con Ave. Bolívar #65-98 Llano Largo\nCity:\nBarquisimeto\nPostal Code:\n3508\nCountry:\nVenezuela\nPhone:\n(9) 331-6954\nFax:\n(9) 331-7256\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n15\nGenen Shouyu\n20\n12.4\n19\nTeatime Chocolate Biscuits\n18\n7.3\n60\nCamembert Pierrot\n35\n27.2\n72\nMozzarella di Giovanni\n3\n27.8\n \n \nTotalPrice\n1414.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10283 Customer ID: LILAS Order Appointment: 2016 - 08 - 16 Customer Details: Contact Name: Carlos González Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo City: Barquisimeto Postal Code: 3508 Country: Venezuela Phone: (9) 331 - 6954 Fax: (9) 331 - 7256 Product Detail: Product i.d. Product Name Quantity Unit Price 15 Genen Shouyu 20 12. 4 19 Afternoon tea Chocolate Biscuits 18 7. 3 60 Camembert Pierrot 35 27. 2 72 Mozzarella di Giovanni 3 27. eight TotalPrice 1414. 8 Page 1",
+        "Invoice Order ID: 10283 Customer ID: LILAS Order Date: 2016 - 08 - 16 Customer Details: Contact Name: Carlos González Address: Carrera 52 confidence trick Ave. Bolívar # 65 - 98 Llano Largo City: Barquisimeto Postal Code: 3508 Country: Venezuela Phone: (9) 331 - 6954 Fax: (9) 331 - 7256 Product Contingent: Product idaho Product Name Quantity Unit Price xv Genen Shouyu 20 12. 4 19 Teatime Chocolate Biscuits 18 7. trine 60 Camembert Pierrot 35 27. 2 72 Mozzarella di Giovanni 3 27. 8 TotalPrice 1414. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: LILAS. Order ID: 10283. Customer ID is: \"Carrera 52 con Ave. Bolívar #65-98 Llano Largo\" Order Date: 2016-08-16. Biscuits are priced at $1414.8."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10507.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10507\nShipping Details:\nShip Name: Antonio Moreno Taquería\nShip Address: Mataderos  2312\nShip City: México D.F.\nShip Region: Central America\nShip Postal Code: 5023\nShip Country: Mexico\nCustomer Details:\nCustomer ID: ANTON\nCustomer Name: Antonio Moreno Taquería\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-04-15\nShipped Date: 2017-04-22\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Ipoh Coffee\nQuantity: 15\nUnit Price: 46.0\nTotal: 690.0\n--------------------------------------------------------------------------------------------------\nProduct: Chocolade\nQuantity: 15\nUnit Price: 12.75\nTotal: 191.25\nTotal Price:\nTotal Price: 881.25\n",
+    "augmented_texts": [
+        "Order ID: 10507 Shipping Details: Ship Name: Antonio Moreno Taquería Ship Reference: Mataderos 2312 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5023 Ship Country: Mexico Customer Details: Customer ID: ANTON Client Name: Antonio Moreno Taquería Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Contingent: Order Date: 2017 - 04 - 15 Shipped Date: 2017 - 04 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ipoh Coffee Quantity: 15 Unit Price: 46. 0 Total: 690. cipher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chocolade Quantity: 15 Unit Cost: 12. 75 Total: 191. 25 Entire Price: Total Price: 881. 25",
+        "Order ID: 10507 Shipping Details: Ship Name: Antonio Moreno Taquería Ship Address: Mataderos 2312 Ship City: México D. F. Ship Region: Central America Ship Postal Code: 5023 Ship Commonwealth: Mexico Customer Details: Customer ID: ANTON Customer Name: Antonio Moreno Taquería Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Particular: Order Date: 2017 - 04 - 15 Shipped Date: 2017 - 04 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ipoh Coffee Quantity: 15 Unit Price: 46. 0 Total: 690. cipher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chocolade Quantity: 15 Unit Price: 12. 75 Amount: 191. 25 Total Price: Total Price: 881. 25"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10507. Order Name: Antonio Moreno Taquería. Ship Address: Mataderos  2312.Ship City: México D.F.                Ship Region: Central America                 Ship Postal Code: 5023. Publish Date: 2017-04-15. Shipper: Speedy Express."
+}

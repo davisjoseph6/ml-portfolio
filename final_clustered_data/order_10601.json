@@ -1,0 +1,24 @@
+{
+    "filename": "order_10601.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10601\nShipping Details:\nShip Name: HILARION-Abastos\nShip Address: Carrera 22 con Ave. Carlos Soublette #8-35\nShip City: San Cristóbal\nShip Region: South America\nShip Postal Code: 5022\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: HILAA\nCustomer Name: HILARION-Abastos\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-07-16\nShipped Date: 2017-07-22\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Konbu\nQuantity: 60\nUnit Price: 6.0\nTotal: 360.0\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 35\nUnit Price: 55.0\nTotal: 1925.0\nTotal Price:\nTotal Price: 2285.0\n",
+    "augmented_texts": [
+        "Order ID: 10601 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship Country: Republic of venezuela Customer Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Name: Robert King Shipper Details: Shipper i.d.: 1 Shipper Name: Speedy Expressage Order Details: Order Date: 2017 - 07 - 16 Shipped Date: 2017 - 07 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Konbu Quantity: 60 Unit Price: 6. 0 Total: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Measure: 35 Unit Price: 55. 0 Total: 1925. 0 Total Price: Total Price: 2285. 0",
+        "Order ID: 10601 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Sanchez Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: Dixieland America Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Detail: Employee Name: Robert King Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Appointment: 2017 - 07 - 16 Shipped Date: 2017 - 07 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Konbu Quantity: 60 Unit Price: six. 0 Total: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 35 Unit Price: 55. 0 Total: 1925. 0 Total Price: Full Price: 2285. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10601. Ship name: HILARION-Abastos. Address: Carrera 22 con Ave. Carlos Soublette #8-35. Postal Code: 5022. Country: Venezuela. Order date: 2017-07-16. Shipper: Speedy Express."
+}

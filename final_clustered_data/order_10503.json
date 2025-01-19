@@ -1,0 +1,24 @@
+{
+    "filename": "order_10503.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10503\nShipping Details:\nShip Name: Hungry Owl All-Night Grocers\nShip Address: 8 Johnstown Road\nShip City: Cork\nShip Region: British Isles\nShip Postal Code: None\nShip Country: Ireland\nCustomer Details:\nCustomer ID: HUNGO\nCustomer Name: Hungry Owl All-Night Grocers\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-04-11\nShipped Date: 2017-04-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 70\nUnit Price: 23.25\nTotal: 1627.5\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper Sauce\nQuantity: 20\nUnit Price: 21.05\nTotal: 421.0\nTotal Price:\nTotal Price: 2048.5\n",
+    "augmented_texts": [
+        "Order ID: 10503 Shipping Detail: Ship Name: Hungry Owl All - Night Grocers Ship Address: 8 Johnstown Road Ship Urban center: Cork Ship Region: British Islet Ship Postal Code: None Ship Country: Ireland Customer Details: Customer ID: HUNGO Customer Name: Hungry Owl All - Night Grocers Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Orderliness Date: 2017 - 04 - 11 Shipped Date: 2017 - 04 - xvi Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 70 Unit Price: 23. 25 Total: 1627. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Piper nigrum Sauce Quantity: 20 Unit Price: 21. 05 Total: 421. 0 Total Price: Total Price: 2048. 5",
+        "Order ID: 10503 Shipping Details: Ship Name: Hungry Owl All - Night Grocers Ship Address: 8 Johnstown Road Ship City: Cork Ship Region: British Isles Ship Postal Code: None Ship Country: Ireland Customer Details: Customer ID: HUNGO Customer Name: Hungry Owl All - Nighttime Grocers Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: deuce Shipper Name: United Package Order Details: Order Day of the month: 2017 - 04 - 11 Shipped Date: 2017 - 04 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: seventy Unit Price: 23. 25 Total: 1627. quintuplet - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: 20 Unit Price: 21. 05 Total: 421. 0 Total Price: Full Price: 2048. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10503. Order Name: Hungry Owl All-Night Grocers. Ship Address: 8 Johnstown Road, Cork, Ireland. Postal Code: None. Country: Ireland; Region: British Isles; Postal code: none. Customer: HUNGO. Employee: Michael Suyama. Shipper: United Package."
+}

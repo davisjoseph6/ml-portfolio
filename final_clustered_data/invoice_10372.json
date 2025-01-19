@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10372.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10372\nCustomer ID: QUEEN\nOrder Date: 2016-12-04\nCustomer Details:\nContact Name:\nLúcia Carvalho\nAddress:\nAlameda dos Canàrios, 891\nCity:\nSao Paulo\nPostal Code:\n05487-020\nCountry:\nBrazil\nPhone:\n(11) 555-1189\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n20\nSir Rodney's Marmalade\n12\n64.8\n38\nCôte de Blaye\n40\n210.8\n60\nCamembert Pierrot\n70\n27.2\n72\nMozzarella di Giovanni\n42\n27.8\n \n \nTotalPrice\n12281.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10372 Client ID: QUEEN Order Particular date: 2016 - 12 - 04 Customer Details: Contact Name: Lúcia Carvalho Address: Alameda dos Canàrios, 891 City: Sao Paulo Postal Code: 05487 - 020 Country: Brazil Phone: (xi) 555 - 1189 Fax: None Mathematical product Details: Product gem state Product Name Quantity Unit Price twenty Sir Rodney ' s Marmalade 12 sixty four. 8 38 Côte de Blaye 40 210. 8 60 Camembert Pierrot 70 27. 2 72 Mozzarella di Giovanni 42 27. 8 TotalPrice 12281. 2 Page 1",
+        "Invoice Order ID: 10372 Customer ID: QUEEN Order Day of the month: 2016 - 12 - 04 Customer Details: Contact Name: Lúcia Carvalho Address: Alameda dos Canàrios, 891 City: Sao Paulo Postal Code: 05487 - 020 Country: Brazil Phone: (eleven) 555 - 1189 Fax: None Product Item: Product ID Merchandise Name Quantity Unit Leontyne price twenty Sir Rodney ' s Marmalade 12 64. 8 38 Côte de Blaye 40 210. 8 60 Camembert Pierrot 70 twenty seven. 2 72 Mozzarella di Giovanni 42 27. 8 TotalPrice 12281. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: 10372.Customer ID: QUEEN. Order Date: 2016-12-04. Customer Details:         Lúcia Carvalho. Address:                            Alameda dos Canàrios, 891. Avenue, Sao Paulo, Brazil. Postal Code:  05487-020. Country: \"Brazil\""
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10389.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10389\nCustomer ID: BOTTM\nOrder Date: 2016-12-20\nCustomer Details:\nContact Name:\nElizabeth Lincoln\nAddress:\n23 Tsawassen Blvd.\nCity:\nTsawassen\nPostal Code:\nT2F 8M4\nCountry:\nCanada\nPhone:\n(604) 555-4729\nFax:\n(604) 555-3745\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n10\nIkura\n16\n24.8\n55\nPâté chinois\n15\n19.2\n62\nTarte au sucre\n20\n39.4\n70\nOutback Lager\n30\n12.0\n \n \nTotalPrice\n1832.8\nPage 1\n",
+    "augmented_texts": [
+        "Account Order ID: 10389 Customer ID: BOTTM Parliamentary procedure Day of the month: 2016 - 12 - 20 Customer Details: Contact Name: Elizabeth Abraham lincoln Address: 23 Tsawassen Blvd. City: Tsawassen Postal Code: T2F 8M4 Country: Canada Phone: (604) 555 - 4729 Fax: (604) 555 - 3745 Product Details: Product ID Product Name Quantity Unit Price 10 Ikura 16 24. eight 55 Pâté chinois 15 19. 2 62 Tarte au sucre 20 39. 4 70 Outback Lager thirty 12. zero TotalPrice 1832. 8 Page 1",
+        "Invoice Order ID: 10389 Customer ID: BOTTM Order Date: 2016 - 12 - xx Customer Details: Contact Name: Elizabeth ii Lincoln Speech: 23 Tsawassen Blvd. City: Tsawassen Postal Codification: T2F 8M4 Country: Canada Phone: (604) 555 - 4729 Fax: (604) 555 - 3745 Product Details: Product ID Product Name Quantity Unit Cost 10 Ikura 16 24. 8 55 Pâté chinois 15 19. two 62 Tarte astronomical unit sucre 20 39. 4 70 Outback Lager 30 12. 0 TotalPrice 1832. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10389.Customer ID: BOTTM. Order Date: 2016-12-20. Customer Name: Elizabeth Lincoln. Address: 23 Tsawassen Blvd. in Vancouver. Postal Code: T2F 8M4. Country: Canada. Product: Pâté chinois. Price: 1832.8."
+}

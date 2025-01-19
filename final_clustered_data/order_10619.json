@@ -1,0 +1,24 @@
+{
+    "filename": "order_10619.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10619\nShipping Details:\nShip Name: Mère Paillarde\nShip Address: 43 rue St. Laurent\nShip City: Montréal\nShip Region: North America\nShip Postal Code: H1J 1C3\nShip Country: Canada\nCustomer Details:\nCustomer ID: MEREP\nCustomer Name: Mère Paillarde\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-08-04\nShipped Date: 2017-08-07\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 42\nUnit Price: 10.0\nTotal: 420.0\n--------------------------------------------------------------------------------------------------\nProduct: Gustaf's Knäckebröd\nQuantity: 40\nUnit Price: 21.0\nTotal: 840.0\nTotal Price:\nTotal Price: 1260.0\n",
+    "augmented_texts": [
+        "Order ID: 10619 Shipping Details: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship City: Montréal Ship Region: Frederick north America Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Parliamentary procedure Date: 2017 - 08 - 04 Shipped Day of the month: 2017 - 08 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: forty two Unit Price: 10. 0 Total: 420. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gustaf ' s Knäckebröd Quantity: 40 Unit Price: 21. 0 Total: 840. 0 Total Price: Total Price: 1260. 0",
+        "Order ID: 10619 Shipping Details: Ship Name: Mère Paillarde Ship Destination: 43 rue St. Laurent Ship City: Montréal Ship Area: Compass north America Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Merchant vessels Order Details: Order Date: 2017 - 08 - 04 Shipped Date: 2017 - 08 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: 42 Unit Mary leontyne price: 10. 0 Total: 420. cypher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gustaf ' s Knäckebröd Quantity: 40 Unit Price: 21. nought Total: 840. 0 Total Price: Total Price: 1260. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10619. Order Name: Mère Paillarde. Ship Address: 43 rue St. Laurent. Postal Code: H1J 1C3. Country: Canada. Shipper: Federal Shipping. Customer: MEREP. Employee: Janet Leverling. Product: Sir Rodney's Scones."
+}

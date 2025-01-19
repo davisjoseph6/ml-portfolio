@@ -1,0 +1,24 @@
+{
+    "filename": "order_10592.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10592\nShipping Details:\nShip Name: Lehmanns Marktstand\nShip Address: Magazinweg 7\nShip City: Frankfurt a.M.\nShip Region: Western Europe\nShip Postal Code: 60528\nShip Country: Germany\nCustomer Details:\nCustomer ID: LEHMS\nCustomer Name: Lehmanns Marktstand\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-07-08\nShipped Date: 2017-07-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Genen Shouyu\nQuantity: 25\nUnit Price: 15.5\nTotal: 387.5\n--------------------------------------------------------------------------------------------------\nProduct: Gumbär Gummibärchen\nQuantity: 5\nUnit Price: 31.23\nTotal: 156.15\nTotal Price:\nTotal Price: 543.65\n",
+    "augmented_texts": [
+        "Order ID: 10592 Shipping Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfurt a. M. Ship Area: Western Europe Ship Postal Code: 60528 Ship Land: Germany Customer Details: Customer ID: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Name: Janet Leverling Shipper Point: Shipper i.d.: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 07 - 08 Shipped Date: 2017 - 07 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Genen Shouyu Quantity: 25 Unit Price: 15. 5 Total: 387. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Quantity: 5 Unit Price: xxxi. 23 Total: 156. 15 Total Price: Total Price: 543. 65",
+        "Order ID: 10592 Shipping Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg seven Ship City: Frankfurt a. M. Ship Region: Western Europe Ship Postal Code: 60528 Ship Country: Germany Customer Details: Customer ID: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Guild Details: Order Particular date: 2017 - 07 - 08 Shipped Date: 2017 - 07 - sixteen Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Genen Shouyu Quantity: 25 Unit Price: 15. 5 Aggregate: 387. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Quantity: 5 Unit Price: 31. 23 Total: 156. 15 Total Price: Total Price: 543. 65"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10592. Order Name: Lehmanns Marktstand. Ship Address: Magazinweg 7. Postal Code: 60528. Country: Germany. Shipper: Speedy Express. Product: Gumbär Gummibärchen. Unit Price: 15.5 euros. Price per unit: 543.65 euro."
+}

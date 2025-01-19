@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10487.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10487\nCustomer ID: QUEEN\nOrder Date: 2017-03-26\nCustomer Details:\nContact Name:\nLúcia Carvalho\nAddress:\nAlameda dos Canàrios, 891\nCity:\nSao Paulo\nPostal Code:\n05487-020\nCountry:\nBrazil\nPhone:\n(11) 555-1189\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n19\nTeatime Chocolate Biscuits\n5\n7.3\n26\nGumbär Gummibärchen\n30\n24.9\n54\nTourtière\n24\n5.9\n \n \nTotalPrice\n925.1\nPage 1\n",
+    "augmented_texts": [
+        "Account Order ID: 10487 Customer ID: QUEEN Order Particular date: 2017 - 03 - 26 Customer Detail: Contact Name: Lúcia Carvalho Address: Alameda dos Canàrios, 891 City: Sao Paulo Postal Code: 05487 - 020 Country: Brazil Phone: (11) 555 - 1189 Fax: None Product Details: Production i.d. Product Name Quantity Unit Price 19 Teatime Chocolate Biscuits 5 vii. 3 twenty six Gumbär Gummibärchen 30 24. 9 54 Tourtière 24 5. nina from carolina TotalPrice 925. 1 Page 1",
+        "Invoice Parliamentary procedure ID: 10487 Customer idaho: QUEEN Order Date: 2017 - 03 - 26 Customer Details: Contact Figure: Lúcia Carvalho Address: Alameda dos Canàrios, 891 City: Sao Paulo Postal Code: 05487 - 020 Country: Brazil Phone: (11) 555 - 1189 Fax: None Product Detail: Product ID Product Name Quantity Unit Price 19 Teatime Chocolate Biscuits 5 7. 3 26 Gumbär Gummibärchen 30 24. 9 54 Tourtière 24 5. 9 TotalPrice 925. 1 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10487; Order ID: QUEEN; Customer: Lúcia Carvalho. Product: Teatime Chocolate Biscuits; Unit: Gumbär Gummibärchen; Total: $925.1; Page: 1."
+}

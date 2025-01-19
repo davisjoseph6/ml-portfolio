@@ -1,0 +1,24 @@
+{
+    "filename": "order_10258.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10258\nShipping Details:\nShip Name: Ernst Handel\nShip Address: Kirchgasse 6\nShip City: Graz\nShip Region: Western Europe\nShip Postal Code: 8010\nShip Country: Austria\nCustomer Details:\nCustomer ID: ERNSH\nCustomer Name: Ernst Handel\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-07-17\nShipped Date: 2016-07-23\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chang\nQuantity: 50\nUnit Price: 15.2\nTotal: 760.0\n--------------------------------------------------------------------------------------------------\nProduct: Chef Anton's Gumbo Mix\nQuantity: 65\nUnit Price: 17.0\nTotal: 1105.0\n--------------------------------------------------------------------------------------------------\nProduct: Mascarpone Fabioli\nQuantity: 6\nUnit Price: 25.6\nTotal: 153.60000000000002\nTotal Price:\nTotal Price: 2018.6\n",
+    "augmented_texts": [
+        "Order ID: 10258 Shipping Details: Ship Name: Ernst Handel Ship Address: Kirchgasse 6 Ship City: Graz Ship Region: Western Europe Ship Postal Code: 8010 Ship Country: Austria Customer Details: Customer ID: ERNSH Client Name: Ernst Handel Employee Detail: Employee Name: Nancy Davolio Shipper Details: Shipper ID: i Shipper Name: Speedy Express Order Details: Order Date: 2016 - 07 - 17 Shipped Date: 2016 - 07 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Quantity: 50 Unit Price: 15. 2 Sum: 760. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Chef Anton ' s Gumbo Mix Quantity: 65 Unit Price: 17. 0 Total: 1105. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mascarpone Fabioli Quantity: 6 Unit Price: 25. 6 Total: 153. 60000000000002 Total Price: Total Price: 2018. 6",
+        "Order ID: 10258 Shipping Details: Ship Epithet: Ernst Handel Ship Address: Kirchgasse half a dozen Ship City: Graz Ship Region: Western Europe Ship Postal Code: 8010 Ship Land: Austria Customer Details: Customer ID: ERNSH Customer Name: Ernst Handel Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 07 - 17 Shipped Date: 2016 - 07 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Quantity: 50 Unit Price: 15. deuce Total: 760. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Gumbo Mixing Quantity: 65 Unit Price: 17. nought Total: 1105. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mascarpone Fabioli Measure: 6 Unit Price: 25. 6 Total: 153. 60000000000002 Total Price: Total Price: 2018. 6"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10258. Ship Address: Kirchgasse 6, Graz. Postal Code: 8010. Country: Austria. Customer Name: Ernst Handel.Employee: Nancy Davolio. Shipper: Speedy Express. Order Date: 2016-07-17."
+}

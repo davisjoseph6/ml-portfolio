@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10503.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10503\nCustomer ID: HUNGO\nOrder Date: 2017-04-11\nCustomer Details:\nContact Name:\nPatricia McKenna\nAddress:\n8 Johnstown Road\nCity:\nCork\nPostal Code:\nNone\nCountry:\nIreland\nPhone:\n2967 542\nFax:\n2967 3333\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n14\nTofu\n70\n23.25\n65\nLouisiana Fiery Hot Pepper Sauce\n20\n21.05\n \n \nTotalPrice\n2048.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order of magnitude ID: 10503 Customer idaho: HUNGO Order Date: 2017 - 04 - 11 Customer Details: Contact Name: Patricia McKenna Address: 8 Johnstown Road Metropolis: Cork Postal Computer code: None Country: Ireland Phone: 2967 542 Facsimile: 2967 3333 Ware Details: Product ID Product Name Quantity Unit Price xiv Tofu 70 23. 25 65 Louisiana Fiery Hot Pepper Sauce 20 21. 05 TotalPrice 2048. 5 Page 1",
+        "Invoice Order ID: 10503 Customer ID: HUNGO Order Date: 2017 - 04 - 11 Customer Detail: Contact Name: Patricia McKenna Address: 8 Johnstown Route City: Cork Postal Code: None Country: Ireland Phone: 2967 542 Fax: 2967 3333 Product Details: Product ID Product Name Quantity Unit Price 14 Tofu 70 23. 25 sixty five Louisiana Fiery Hot Pepper Sauce xx 21. 05 TotalPrice 2048. pentad Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10503.Customer ID: HUNGO. Order Date: 2017-04-11. Customer: Patricia McKenna. Product: Louisiana Fiery Hot Pepper Sauce. Price: $2048.5. Page 1: \"Louisiana F fiery hot pepper sauce\""
+}

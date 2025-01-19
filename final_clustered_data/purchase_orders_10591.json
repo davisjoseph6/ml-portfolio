@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10591.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10591\n2017-07-07\nPalle Ibsen\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n3\nAniseed Syrup\n14\n10\n7\nUncle Bob's Organic Dried Pears\n10\n30\n54\nTourtière\n50\n7.45\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order idaho Decree Date Customer Name 10591 2017 - 07 - 07 Palle Ibsen Products Product ID: Product: Quantity: Unit Price: trio Aniseed Syrup 14 10 7 Uncle Bob ' s Organic Dried Pears 10 30 54 Tourtière 50 7. 45 Page 1",
+        "Leverage Orders Order ID Order Date Client Name 10591 2017 - 07 - 07 Palle Ibsen Products Product ID: Mathematical product: Quantity: Unit Price: 3 Aniseed Syrup 14 10 7 Uncle Bob ' s Organic Dried Pyrus communis 10 30 54 Tourtière 50 7. 45 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: Aniseed Syrup, Uncle Bob's Organic Dried Pears, Tourtière, and Nutella. The product ID is the product name used to order the products. For more information, visitalle Ibsen.com or go to the company's website."
+}

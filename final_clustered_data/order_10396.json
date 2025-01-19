@@ -1,0 +1,24 @@
+{
+    "filename": "order_10396.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10396\nShipping Details:\nShip Name: Frankenversand\nShip Address: Berliner Platz 43\nShip City: München\nShip Region: Western Europe\nShip Postal Code: 80805\nShip Country: Germany\nCustomer Details:\nCustomer ID: FRANK\nCustomer Name: Frankenversand\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-27\nShipped Date: 2017-01-06\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tunnbröd\nQuantity: 40\nUnit Price: 7.2\nTotal: 288.0\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 60\nUnit Price: 17.2\nTotal: 1032.0\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 21\nUnit Price: 27.8\nTotal: 583.8000000000001\nTotal Price:\nTotal Price: 1903.8000000000002\n",
+    "augmented_texts": [
+        "Order ID: 10396 Shipping Detail: Ship Name: Frankenversand Ship Address: Berliner Platz 43 Ship City: München Ship Region: Western Europe Ship Postal Code: 80805 Ship Country: Germany Customer Details: Client ID: FRANK Customer Name: Frankenversand Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Edict Details: Order Date: 2016 - 12 - 27 Shipped Date: 2017 - 01 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tunnbröd Quantity: 40 Unit Price: 7. 2 Total: 288. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 60 Unit Price: 17. two Total: 1032. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 21 Unit Price: 27. eight Total: 583. 8000000000001 Total Price: Entire Price: 1903. 8000000000002",
+        "Lodge gem state: 10396 Shipping Details: Ship Name: Frankenversand Ship Address: Berliner Platz 43 Ship City: München Ship Region: Western Europe Ship Postal Code: 80805 Ship Country: Germany Customer Details: Client ID: FRANK Customer Name: Frankenversand Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Appointment: 2016 - 12 - 27 Shipped Date: 2017 - 01 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Tunnbröd Quantity: 40 Unit Price: 7. 2 Amount: 288. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 60 Unit Price: 17. 2 Total: 1032. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Quantity: 21 Unit Price: 27. 8 Total: 583. 8000000000001 Total Price: Total Price: 1903. 8000000000002"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10396. Ship Name: Frankenversand. Address: Berliner Platz 43. Postal Code: 80805. Country: Germany. Customers: FRANK, Nancy Davolio. Shipper: Federal Shipping. Product: Tunnbröd, Mozzarella di Giovanni."
+}

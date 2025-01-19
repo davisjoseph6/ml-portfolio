@@ -1,0 +1,24 @@
+{
+    "filename": "order_10548.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10548\nShipping Details:\nShip Name: Toms Spezialitäten\nShip Address: Luisenstr. 48\nShip City: Münster\nShip Region: Western Europe\nShip Postal Code: 44087\nShip Country: Germany\nCustomer Details:\nCustomer ID: TOMSP\nCustomer Name: Toms Spezialitäten\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-05-26\nShipped Date: 2017-06-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sasquatch Ale\nQuantity: 10\nUnit Price: 14.0\nTotal: 140.0\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 14\nUnit Price: 9.65\nTotal: 135.1\nTotal Price:\nTotal Price: 275.1\n",
+    "augmented_texts": [
+        "Order ID: 10548 Shipping Details: Ship Name: Toms Spezialitäten Ship Address: Luisenstr. 48 Ship City: Münster Ship Region: Western Europe Ship Postal Code: 44087 Ship Country: Germany Customer Detail: Customer ID: TOMSP Customer Name: Toms Spezialitäten Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: ii Shipper Name: United Package Order Detail: Parliamentary procedure Date: 2017 - 05 - 26 Shipped Date: 2017 - 06 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 10 Unit Price: fourteen. 0 Total: 140. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 14 Unit Price: niner. 65 Total: 135. 1 Total Price: Full Toll: 275. 1",
+        "Order ID: 10548 Shipping Details: Ship Name: Toms Spezialitäten Ship Speech: Luisenstr. 48 Ship City: Münster Ship Region: Western European economic community Ship Postal Code: 44087 Ship Country: Germany Client Detail: Customer ID: TOMSP Customer Name: Toms Spezialitäten Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Figure: United Package Order Details: Order Date: 2017 - 05 - 26 Shipped Date: 2017 - 06 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 10 Unit Price: 14. 0 Total: 140. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 14 Unit Price: 9. 65 Total: 135. 1 Total Price: Total Price: 275. 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10548. Order Name: Toms Spezialitäten. Ship Address: Luisenstr. 48, Münster, Germany. Postal Code: 44087. Customers: TOMSP, Janet Leverling. Shipper: United Package. Products: Sasquatch Ale."
+}

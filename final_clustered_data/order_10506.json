@@ -1,0 +1,24 @@
+{
+    "filename": "order_10506.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10506\nShipping Details:\nShip Name: Königlich Essen\nShip Address: Maubelstr. 90\nShip City: Brandenburg\nShip Region: Western Europe\nShip Postal Code: 14776\nShip Country: Germany\nCustomer Details:\nCustomer ID: KOENE\nCustomer Name: Königlich Essen\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-04-15\nShipped Date: 2017-05-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: NuNuCa Nuß-Nougat-Creme\nQuantity: 18\nUnit Price: 14.0\nTotal: 252.0\n--------------------------------------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 14\nUnit Price: 15.0\nTotal: 210.0\nTotal Price:\nTotal Price: 462.0\n",
+    "augmented_texts": [
+        "Order ID: 10506 Shipping Details: Ship Name: Königlich Essen Ship Address: Maubelstr. 90 Ship City: Brandenburg Ship Region: Western Europe Ship Postal Code: 14776 Ship Country: Germany Customer Details: Customer ID: KOENE Customer Name: Königlich Essen Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 04 - 15 Shipped Date: 2017 - 05 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: NuNuCa Nuß - Nougat - Creme Quantity: 18 Unit Price: fourteen. 0 Total: 252. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Outback Lager Quantity: 14 Unit Price: 15. 0 Total: 210. 0 Total Price: Full Price: 462. 0",
+        "Order ID: 10506 Shipping Details: Ship Name: Königlich Essen Ship Address: Maubelstr. xc Ship City: Brandenburg Ship Region: Western Europe Ship Postal Code: 14776 Ship Country: Germany Customer Details: Customer ID: KOENE Customer Name: Königlich Essen Employee Details: Employee Public figure: Anne Dodsworth Shipper Details: Shipper ID: 2 Shipper Epithet: United Package Order Details: Order Date: 2017 - 04 - 15 Shipped Date: 2017 - 05 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: NuNuCa Nuß - Nougat - Creme Quantity: 18 Unit Price: xiv. cipher Total: 252. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 14 Unit Monetary value: 15. 0 Total: 210. 0 Total Price: Total Damage: 462. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10506. Order Name: Königlich Essen. Ship Address: Maubelstr. 90, Brandenburg, Germany. Postal Code: 14776. Customers: KOENE. Shipper: United Package. Products: NuNuCa Nuß-Nougat-Creme, Outback Lager."
+}

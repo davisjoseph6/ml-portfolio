@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10513.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10513\nCustomer ID: WANDK\nOrder Date: 2017-04-22\nCustomer Details:\nContact Name:\nRita Müller\nAddress:\nAdenauerallee 900\nCity:\nStuttgart\nPostal Code:\n70563\nCountry:\nGermany\nPhone:\n0711-020361\nFax:\n0711-035428\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n21\nSir Rodney's Scones\n40\n10.0\n32\nMascarpone Fabioli\n50\n32.0\n61\nSirop d'érable\n15\n28.5\n \n \nTotalPrice\n2427.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order idaho: 10513 Customer ID: WANDK Order Date: 2017 - 04 - 22 Customer Details: Contact Name: Rita Müller Reference: Adenauerallee 900 City: Stuttgart Postal Code: 70563 Country: Deutschland Phone: 0711 - 020361 Fax: 0711 - 035428 Product Details: Product gem state Product Name Quantity Unit Price 21 Sir Rodney ' s Scones 40 tenner. 0 32 Mascarpone Fabioli 50 32. cypher 61 Sirop d ' érable 15 28. 5 TotalPrice 2427. 5 Page single",
+        "Invoice Order ID: 10513 Customer ID: WANDK Order Date: 2017 - 04 - 22 Customer Details: Contact Name: Rita Müller Address: Adenauerallee 900 City: Stuttgart Postal Code: 70563 Nation: Federal republic of germany Earpiece: 0711 - 020361 Fax: 0711 - 035428 Product Details: Product ID Product Name Quantity Unit Price 21 Sir Rodney ' s Scones 40 10. 0 xxxii Mascarpone Fabioli 50 thirty two. 0 61 Sirop d ' érable 15 28. 5 TotalPrice 2427. 5 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: WANDK. Order Date: 2017-04-22. Customer Details:                 Rita Müller. Address: Adenauerallee 900, Stuttgart. Postal Code: 70563. Country: Germany. Product ID: 10513. Price: 2427.5."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10319.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10319\nCustomer ID: TORTU\nOrder Date: 2016-10-02\nCustomer Details:\nContact Name:\nMiguel Angel Paolino\nAddress:\nAvda. Azteca 123\nCity:\nMéxico D.F.\nPostal Code:\n05033\nCountry:\nMexico\nPhone:\n(5) 555-2933\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n17\nAlice Mutton\n8\n31.2\n28\nRössle Sauerkraut\n14\n36.4\n76\nLakkalikööri\n30\n14.4\n \n \nTotalPrice\n1191.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10319 Customer gem state: TORTU Order Date: 2016 - 10 - 02 Customer Details: Contact Name: Miguel Angel Paolino Speech: Avda. Azteca 123 City: México D. F. Postal Code: 05033 Country: Mexico Phone: (five) 555 - 2933 Fax: None Product Details: Product ID Product Name Amount Unit Price 17 Alice Mutton 8 31. 2 28 Rössle Sauerkraut fourteen 36. 4 seventy six Lakkalikööri 30 14. four TotalPrice 1191. 2 Page 1",
+        "Invoice Holy order ID: 10319 Customer ID: TORTU Order Date: 2016 - 10 - 02 Client Details: Contact Name: Miguel Angel Paolino Address: Avda. Azteca 123 City: México D. F. Postal Code: 05033 Country: Mexico Phone: (5) 555 - 2933 Fax: None Production Details: Product gem state Product Name Quantity Unit Price 17 Alice Mutton 8 31. 2 28 Rössle Sauerkraut 14 36. 4 76 Lakkalikööri 30 14. quaternion TotalPrice 1191. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: TORTU. Order Date: 2016-10-02. Customer Details: Miguel Angel Paolino. Address: Avda. Azteca 123City: México D.F. Postal Code: 5555-2933. Product ID: 10319."
+}

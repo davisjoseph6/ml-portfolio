@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10565.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10565\nCustomer ID: MEREP\nOrder Date: 2017-06-11\nCustomer Details:\nContact Name:\nJean Fresnière\nAddress:\n43 rue St. Laurent\nCity:\nMontréal\nPostal Code:\nH1J 1C3\nCountry:\nCanada\nPhone:\n(514) 555-8054\nFax:\n(514) 555-8055\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n24\nGuaraná Fantástica\n25\n4.5\n64\nWimmers gute Semmelknödel\n18\n33.25\n \n \nTotalPrice\n711.0\nPage 1\n",
+    "augmented_texts": [
+        "Account Order idaho: 10565 Customer ID: MEREP Order Date: 2017 - 06 - 11 Customer Details: Contact Figure: Jean Fresnière Address: 43 rue St. Laurent Metropolis: Montréal Postal Code: H1J 1C3 State: Canada Phone: (514) 555 - 8054 Fax: (514) 555 - 8055 Product Details: Product ID Product Name Quantity Unit Price 24 Guaraná Fantástica 25 4. 5 64 Wimmers gute Semmelknödel 18 33. 25 TotalPrice 711. 0 Page 1",
+        "Invoice Order ID: 10565 Client ID: MEREP Order Date: 2017 - 06 - 11 Client Details: Contact Name: Jean Fresnière Address: 43 rue St. Laurent City: Montréal Postal Code: H1J 1C3 Country: Canada Phone: (514) 555 - 8054 Fax: (514) 555 - 8055 Product Detail: Product ID Product Name Quantity Unit of measurement Price 24 Guaraná Fantástica 25 iv. 5 64 Wimmers gute Semmelknödel 18 33. twenty five TotalPrice 711. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10565.Customer ID: MEREP. Order Date: 2017-06-11. Customer: Jean Fresnière. Product: Wimmers gute Semmelknödel. Price: $711,037.99. For confidential support call the Samaritans on 08457 909090 or visit a local Samaritan branch, see www.samaritans.org for details."
+}

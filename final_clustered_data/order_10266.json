@@ -1,0 +1,24 @@
+{
+    "filename": "order_10266.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10266\nShipping Details:\nShip Name: Wartian Herkku\nShip Address: Torikatu 38\nShip City: Oulu\nShip Region: Scandinavia\nShip Postal Code: 90110\nShip Country: Finland\nCustomer Details:\nCustomer ID: WARTH\nCustomer Name: Wartian Herkku\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-07-26\nShipped Date: 2016-07-31\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Manchego La Pastora\nQuantity: 12\nUnit Price: 30.4\nTotal: 364.79999999999995\nTotal Price:\nTotal Price: 364.79999999999995\n",
+    "augmented_texts": [
+        "Order ID: 10266 Shipping Details: Ship Name: Wartian Herkku Ship Address: Torikatu 38 Ship City: Oulu Ship Region: Scandinavian peninsula Ship Postal Code: 90110 Ship Country: Finland Customer Details: Customer i.d.: WARTH Customer Name: Wartian Herkku Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: tierce Shipper Name: Federal Merchant marine Order Details: Order Date: 2016 - 07 - 26 Shipped Date: 2016 - 07 - 31 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Manchego La Pastora Quantity: 12 Unit Price: 30. 4 Sum: 364. 79999999999995 Total Price: Total Price: 364. 79999999999995",
+        "Order ID: 10266 Shipping Details: Ship Name: Wartian Herkku Ship Address: Torikatu xxxviii Ship City: Oulu Ship Region: Scandinavia Ship Postal Code: 90110 Ship Country: Finland Customer Details: Customer ID: WARTH Client Name: Wartian Herkku Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper idaho: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 07 - 26 Shipped Date: 2016 - 07 - 31 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Manchego La Pastora Amount: 12 Unit Cost: 30. 4 Total: 364. 79999999999995 Total Toll: Total Price: 364. 79999999999995"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10266. Ship Name: Wartian Herkku. Address: Torikatu 38. Postal Code: 90110. Country: Finland. Customer: WARTH. Shipper: Federal Shipping. Product: Queso Manchego La Pastora. Unit Price: 30.4 euros. Price per unit: 364.7 cents."
+}

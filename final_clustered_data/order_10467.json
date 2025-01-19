@@ -1,0 +1,24 @@
+{
+    "filename": "order_10467.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10467\nShipping Details:\nShip Name: Magazzini Alimentari Riuniti\nShip Address: Via Ludovico il Moro 22\nShip City: Bergamo\nShip Region: Southern Europe\nShip Postal Code: 24100\nShip Country: Italy\nCustomer Details:\nCustomer ID: MAGAA\nCustomer Name: Magazzini Alimentari Riuniti\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-03-06\nShipped Date: 2017-03-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 28\nUnit Price: 3.6\nTotal: 100.8\n--------------------------------------------------------------------------------------------------\nProduct: NuNuCa Nuß-Nougat-Creme\nQuantity: 12\nUnit Price: 11.2\nTotal: 134.39999999999998\nTotal Price:\nTotal Price: 235.2\n",
+    "augmented_texts": [
+        "Order ID: 10467 Shipping Details: Ship Name: Magazzini Alimentari Riuniti Ship Address: Via Ludovico il Moro 22 Ship City: Bergamo Ship Region: Southern Europe Ship Postal Code: 24100 Ship Country: Italy Client Details: Customer ID: MAGAA Customer Name: Magazzini Alimentari Riuniti Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 03 - 06 Shipped Date: 2017 - 03 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 28 Unit Price: 3. 6 Total: 100. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: NuNuCa Nuß - Nougat - Creme Quantity: 12 Unit Price: 11. two Total: 134. 39999999999998 Total Price: Full Price: 235. 2",
+        "Order ID: 10467 Shipping Details: Ship Name: Magazzini Alimentari Riuniti Ship Address: Via Ludovico il Moro 22 Ship Metropolis: Bergamo Ship Region: Southern Eu Ship Postal Code: 24100 Ship Country: Italy Customer Details: Customer ID: MAGAA Customer Public figure: Magazzini Alimentari Riuniti Employee Item: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Software program Order Details: Order Date: 2017 - 03 - 06 Shipped Date: 2017 - 03 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 28 Unit Price: 3. 6 Total: one c. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: NuNuCa Nuß - Nougat - Creme Quantity: 12 Unit Price: 11. 2 Total: 134. 39999999999998 Total Price: Total Price: 235. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10467. Order Name: Magazzini Alimentari Riuniti. Ship Address: Via Ludovico il Moro 22, Bergamo, Italy. Postal Code: 24100. Customers: MAGAA, Laura Callahan. Shipper: United Package."
+}

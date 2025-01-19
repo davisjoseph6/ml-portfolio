@@ -1,0 +1,24 @@
+{
+    "filename": "order_10593.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10593\nShipping Details:\nShip Name: Lehmanns Marktstand\nShip Address: Magazinweg 7\nShip City: Frankfurt a.M.\nShip Region: Western Europe\nShip Postal Code: 60528\nShip Country: Germany\nCustomer Details:\nCustomer ID: LEHMS\nCustomer Name: Lehmanns Marktstand\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-07-09\nShipped Date: 2017-08-13\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Marmalade\nQuantity: 21\nUnit Price: 81.0\nTotal: 1701.0\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 20\nUnit Price: 36.0\nTotal: 720.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 4\nUnit Price: 18.0\nTotal: 72.0\nTotal Price:\nTotal Price: 2493.0\n",
+    "augmented_texts": [
+        "Order ID: 10593 Shipping Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfurt a. M. Ship Realm: Western Europe Ship Postal Code: 60528 Ship Country: Germany Customer Particular: Customer ID: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 2 Shipper Name: United Software system Order Details: Ordination Date: 2017 - 07 - 09 Shipped Date: 2017 - 08 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Sir Rodney ' entropy Marmalade Quantity: 21 Unit Price: 81. 0 Total: 1701. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: xx Unit Price: 36. 0 Total: 720. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 4 Unit Price: 18. 0 Total: 72. 0 Total Price: Total Price: 2493. 0",
+        "Order ID: 10593 Shipping Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfurt a. M. Ship Region: Western Europe Ship Postal Code: 60528 Ship Country: Germany Client Details: Customer ID: LEHMS Client Name: Lehmanns Marktstand Employee Details: Employee Name: Robert King Shipper Detail: Shipper ID: 2 Shipper Name: United Package Order Details: Monastic order Date: 2017 - 07 - 09 Shipped Date: 2017 - 08 - xiii Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Sir Rodney ' s Marmalade Quantity: 21 Building block Price: 81. 0 Total: 1701. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 20 Unit Price: 36. 0 Total: 720. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Lakkalikööri Quantity: 4 Unit Price: 18. 0 Total: 72. 0 Full Price: Total Price: 2493. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10593. Order Name: Lehmanns Marktstand. Ship Address: Magazinweg 7. Postal Code: 60528. Customers: LEHMS. Shippers: United Package. Products: Sir Rodney's Marmalade, Gudbrandsdalsost."
+}

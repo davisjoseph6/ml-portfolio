@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10385.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10385\nCustomer ID: SPLIR\nOrder Date: 2016-12-17\nCustomer Details:\nContact Name:\nArt Braunschweiger\nAddress:\nP.O. Box 555\nCity:\nLander\nPostal Code:\n82520\nCountry:\nUSA\nPhone:\n(307) 555-4680\nFax:\n(307) 555-6525\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n7\nUncle Bob's Organic Dried Pears\n10\n24.0\n60\nCamembert Pierrot\n20\n27.2\n68\nScottish Longbreads\n8\n10.0\n \n \nTotalPrice\n864.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Lodge ID: 10385 Customer ID: SPLIR Rescript Date: 2016 - 12 - 17 Customer Details: Contact Name: Art Braunschweiger Address: P. O. Box 555 City: Lander Postal Code: 82520 Country: USA Phone: (307) 555 - 4680 Fax: (307) 555 - 6525 Product Details: Product ID Mathematical product Name Quantity Unit Price vii Uncle Bob ' s Organic Dried Pears x 24. 0 60 Camembert Pierrot 20 27. 2 68 Scottish Longbreads 8 10. 0 TotalPrice 864. cypher Page unity",
+        "Invoice Order i.d.: 10385 Customer idaho: SPLIR Order Date: 2016 - 12 - 17 Customer Details: Contact Name: Art Braunschweiger Address: P. O. Box 555 City: Lander Postal Codification: 82520 Country: USA Phone: (307) 555 - 4680 Fax: (307) 555 - 6525 Product Details: Ware ID Product Name Quantity Unit Price sevener Uncle Bob ' s Organic Dried Pears 10 24. 0 60 Camembert Pierrot 20 27. 2 sixty eight Scottish Longbreads eighter from decatur 10. 0 TotalPrice 864. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: 10385.Customer ID: SPLIR. Order Date: 2016-12-17. Customers: Art Braunschweiger. Products: Uncle Bob's Organic Dried Pears, Camembert Pierrot, Scottish Longbreads. Price: $864.0."
+}

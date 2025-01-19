@@ -1,0 +1,24 @@
+{
+    "filename": "order_10463.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10463\nShipping Details:\nShip Name: Suprêmes délices\nShip Address: Boulevard Tirou, 255\nShip City: Charleroi\nShip Region: Western Europe\nShip Postal Code: B-6000\nShip Country: Belgium\nCustomer Details:\nCustomer ID: SUPRD\nCustomer Name: Suprêmes délices\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-03-04\nShipped Date: 2017-03-06\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Teatime Chocolate Biscuits\nQuantity: 21\nUnit Price: 7.3\nTotal: 153.29999999999998\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 50\nUnit Price: 11.2\nTotal: 560.0\nTotal Price:\nTotal Price: 713.3\n",
+    "augmented_texts": [
+        "Order ID: 10463 Shipping Details: Ship Name: Suprêmes délices Ship Address: Boulevard Tirou, 255 Ship Metropolis: Charleroi Ship Realm: Western Europe Ship Postal Computer code: B - 6000 Ship Country: Belgium Customer Details: Customer ID: SUPRD Customer Name: Suprêmes délices Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 3 Shipper Gens: Federal Shipping Order Details: Order Date: 2017 - 03 - 04 Shipped Date: 2017 - 03 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Biscuits Quantity: 21 Unit Price: 7. 3 Total: 153. 29999999999998 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 50 Unit Mary leontyne price: 11. 2 Total: 560. 0 Total Price: Total Price: 713. ternion",
+        "Order ID: 10463 Shipping Details: Ship Public figure: Suprêmes délices Ship Address: Boulevard Tirou, 255 Ship City: Charleroi Ship Region: Western European community Ship Postal Code: B - 6000 Ship Country: Belgium Customer Details: Customer ID: SUPRD Customer Name: Suprêmes délices Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 03 - 04 Shipped Date: 2017 - 03 - 06 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Teatime Chocolate Biscuits Quantity: 21 Unit Price: heptad. 3 Total: 153. 29999999999998 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 50 Unit Price: 11. 2 Total: 560. 0 Total Mary leontyne price: Total Price: 713. 3"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10463. Ship Name: Suprêmes délices. Address: Boulevard Tirou, 255. City: Charleroi. Region: Western Europe. Postal Code: B-6000Ship Country: Belgium. Customer: SUPRD. Order Date: 2017-03-04."
+}

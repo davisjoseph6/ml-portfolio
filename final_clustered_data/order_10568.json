@@ -1,0 +1,24 @@
+{
+    "filename": "order_10568.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10568\nShipping Details:\nShip Name: Galería del gastronómo\nShip Address: Rambla de Cataluña, 23\nShip City: Barcelona\nShip Region: Southern Europe\nShip Postal Code: 8022\nShip Country: Spain\nCustomer Details:\nCustomer ID: GALED\nCustomer Name: Galería del gastrónomo\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-06-13\nShipped Date: 2017-07-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Ikura\nQuantity: 5\nUnit Price: 31.0\nTotal: 155.0\nTotal Price:\nTotal Price: 155.0\n",
+    "augmented_texts": [
+        "Order ID: 10568 Shipping Details: Ship Name: Galería del gastronómo Ship Address: Rambla de Cataluña, 23 Ship City: Barcelona Ship Region: Southern Europe Ship Postal Code: 8022 Ship Country: Spain Customer Details: Customer ID: GALED Customer Name: Galería del gastrónomo Employee Details: Employee Figure: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 06 - 13 Shipped Date: 2017 - 07 - 09 Cartesian product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: 5 Unit Price: thirty one. 0 Total: clv. 0 Total Monetary value: Total Price: 155. 0",
+        "Ordination ID: 10568 Shipping Details: Ship Name: Galería del gastronómo Ship Address: Rambla de Cataluña, xxiii Ship City: Barcelona Ship Region: Southern Eec Ship Postal Code: 8022 Ship Land: Spain Customer Details: Customer idaho: GALED Customer Name: Galería del gastrónomo Employee Details: Employee Name: Janet Leverling Shipper Detail: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 06 - 13 Shipped Date: 2017 - 07 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ikura Quantity: 5 Unit Price: 31. 0 Total: 155. 0 Total Price: Total Price: 155. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10568. Order name: Galería del gastronómo. Ship address: Rambla de Cataluña, 23. Postal Code: 8022. Country: Spain. Customer: GALED. Shipper: Federal Shipping. Product: Ikura. Unit Price: 31.0 pounds."
+}

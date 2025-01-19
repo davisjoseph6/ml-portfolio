@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10351.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10351\nCustomer ID: ERNSH\nOrder Date: 2016-11-11\nCustomer Details:\nContact Name:\nRoland Mendel\nAddress:\nKirchgasse 6\nCity:\nGraz\nPostal Code:\n8010\nCountry:\nAustria\nPhone:\n7675-3425\nFax:\n7675-3426\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n38\nCôte de Blaye\n20\n210.8\n41\nJack's New England Clam Chowder\n13\n7.7\n44\nGula Malacca\n77\n15.5\n65\nLouisiana Fiery Hot Pepper Sauce\n10\n16.8\n \n \nTotalPrice\n5677.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10351 Customer ID: ERNSH Order Date: 2016 - 11 - 11 Customer Details: Contact Name: Roland Mendel Computer address: Kirchgasse 6 City: Graz Postal Code: 8010 Country: Austria Phone: 7675 - 3425 Fax: 7675 - 3426 Product Contingent: Product ID Product Name Quantity Unit Price 38 Côte de Blaye 20 210. octonary 41 Jack ' s New England Clam Chowder 13 7. 7 44 Gula Malacca 77 15. 5 65 Louisiana Fiery Hot Capsicum pepper plant Sauce decade 16. 8 TotalPrice 5677. 6 Page 1",
+        "Invoice Order ID: 10351 Client ID: ERNSH Order Date: 2016 - 11 - 11 Customer Details: Contact Name: Roland Gregor mendel Address: Kirchgasse sixer City: Graz Postal Code: 8010 Country: Austria Phone: 7675 - 3425 Fax: 7675 - 3426 Product Detail: Product ID Product Gens Quantity Unit Price thirty eight Côte de Blaye 20 210. 8 41 Jack ' s New England Clam Chowder 13 7. 7 44 Gula Malacca seventy seven 15. 5 65 Louisiana Fiery Hot Pepper Sauce 10 16. 8 TotalPrice 5677. 6 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10351.Customer: ERNSH.Product: Jack's New England Clam Chowder, Louisiana Fiery Hot Pepper Sauce, Gula Malacca. Price: $5677.6. Product: \"Côte de Blaye,\" \"Kirchgasse 6\", \"Graz 6\""
+}

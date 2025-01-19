@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-12_8.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-12 \n Category : Seafood  \n id category : 8  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nIkura\n16\n31\n31\nKonbu\n48\n24\n6\nCarnarvon Tigers\n9\n42\n62.5\nNord-Ost Matjeshering\n18\n10\n25.89\nInlagd Sill\n6\n112\n19\nJack's New England Clam Chowder\n8\n85\n9.65\nRogede sild\n15\n5\n9.5\nSpegesild\n73\n95\n12\nEscargots de Bourgogne\n95\n62\n13.25\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 12 Category: Seafood id category: 8 Product Unit Sold Units in Stock Unit Price Ikura sixteen 31 31 Konbu 48 24 6 Carnarvon Tigers 9 42 62. fin Nord - Ost Matjeshering 18 10 25. 89 Inlagd Sill 6 112 19 Jack ' s New England One dollar bill Chowder 8 85 9. 65 Rogede sild 15 5 9. 5 Spegesild 73 ninety five 12 Escargots de Bourgogne ninety five 62 13. 25",
+        "Stock Report for 2016 - 12 Category: Seafood id category: 8 Product Units Sold Units in Stock Unit Price Ikura 16 31 31 Konbu 48 twenty four sestet Carnarvon Tigers 9 42 62. 5 Nord - Ost Matjeshering 18 10 25. 89 Inlagd Sill 6 112 19 Jackfruit ' s New England Clam Chowder octonary 85 9. 65 Rogede sild 15 5 9. 5 Spegesild lxxiii 95 12 Escargots de Bourgogne 95 62 13. 25"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-12. Category : Seafood. id category : 8                  Product.                Units Sold.   Units in StockUnit Price.                                              Selling price: €1,000, Purchasing price: €2,500, and Retail principally $3,400."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10435.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10435\nCustomer ID: CONSH\nOrder Date: 2017-02-04\nCustomer Details:\nContact Name:\nElizabeth Brown\nAddress:\nBerkeley Gardens 12  Brewery\nCity:\nLondon\nPostal Code:\nWX1 6LT\nCountry:\nUK\nPhone:\n(171) 555-2282\nFax:\n(171) 555-9199\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n2\nChang\n10\n15.2\n22\nGustaf's Knäckebröd\n12\n16.8\n72\nMozzarella di Giovanni\n10\n27.8\n \n \nTotalPrice\n631.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10435 Customer ID: CONSH Order Date: 2017 - 02 - 04 Customer Detail: Link Name: Elizabeth Brown Address: George berkeley Gardens 12 Brewery Metropolis: London Postal Code: WX1 6LT Country: UK Phone: (171) 555 - 2282 Fax: (171) 555 - 9199 Product Details: Product ID Product Name Quantity Unit Price 2 Chang 10 15. ii twenty two Gustaf ' s Knäckebröd 12 16. 8 72 Mozzarella di Giovanni 10 27. 8 TotalPrice 631. 6 Page 1",
+        "Invoice Order i.d.: 10435 Customer gem state: CONSH Order Date: 2017 - 02 - 04 Customer Details: Contact Name: Elizabeth Brown Address: Berkeley Gardens twelve Brewery City: London Postal Codification: WX1 6LT Country: UK Phone: (171) 555 - 2282 Fax: (171) 555 - 9199 Product Item: Product ID Product Name Quantity Unit Price 2 Chang 10 15. deuce 22 Gustaf ' s Knäckebröd twelve 16. octet 72 Mozzarella di Giovanni 10 27. 8 TotalPrice 631. 6 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 1043520.Customer Name: Elizabeth Brown.Contact Address:Berkeley Gardens 12. Brewery. City: London. Postal Code: WX1 6LT. Country: UK. Phone: 555-2282.Fax: 560-9199. Price: 631.6 dollars."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10467.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10467\nCustomer ID: MAGAA\nOrder Date: 2017-03-06\nCustomer Details:\nContact Name:\nGiovanni Rovelli\nAddress:\nVia Ludovico il Moro 22\nCity:\nBergamo\nPostal Code:\n24100\nCountry:\nItaly\nPhone:\n035-640230\nFax:\n035-640231\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n24\nGuaraná Fantástica\n28\n3.6\n25\nNuNuCa Nuß-Nougat-Creme\n12\n11.2\n \n \nTotalPrice\n235.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10467 Customer ID: MAGAA Order Engagement: 2017 - 03 - 06 Customer Item: Contact Name: Giovanni Rovelli Address: Via Ludovico il Moro 22 City: Bergamo Postal Codification: 24100 Rural area: Italy Phone: 035 - 640230 Fax: 035 - 640231 Product Details: Product ID Product Name Quantity Unit Price 24 Guaraná Fantástica xxviii 3. 6 25 NuNuCa Nuß - Nougat - Creme 12 eleven. 2 TotalPrice 235. 2 Page 1",
+        "Invoice Decree ID: 10467 Customer ID: MAGAA Order Date: 2017 - 03 - 06 Customer Details: Contact Name: Giovanni Rovelli Address: Via Ludovico il Moro 22 City: Bergamo Postal Computer code: 24100 Country: Italy Phone: 035 - 640230 Fax: 035 - 640231 Product Details: Product ID Product Name Quantity Unit Price 24 Guaraná Fantástica xxviii 3. 6 25 NuNuCa Nuß - Nougat - Creme 12 eleven. 2 TotalPrice 235. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: MAGAA. Order Date: 2017-03-06. Customer Details:iovanni Rovelli. Address:Via Ludovico il Moro 22, Bergamo. Postal Code: 24100. Country: Italy. Phone:035-640230. fax:640231. Unit Price:235.2 euros."
+}

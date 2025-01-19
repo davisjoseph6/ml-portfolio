@@ -1,0 +1,24 @@
+{
+    "filename": "order_10447.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10447\nShipping Details:\nShip Name: Ricardo Adocicados\nShip Address: Av. Copacabana, 267\nShip City: Rio de Janeiro\nShip Region: South America\nShip Postal Code: 02389-890\nShip Country: Brazil\nCustomer Details:\nCustomer ID: RICAR\nCustomer Name: Ricardo Adocicados\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-02-14\nShipped Date: 2017-03-07\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Teatime Chocolate Biscuits\nQuantity: 40\nUnit Price: 7.3\nTotal: 292.0\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper Sauce\nQuantity: 35\nUnit Price: 16.8\nTotal: 588.0\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 2\nUnit Price: 17.2\nTotal: 34.4\nTotal Price:\nTotal Price: 914.4\n",
+    "augmented_texts": [
+        "Order ID: 10447 Shipping Detail: Ship Name: Ricardo Adocicados Ship Reference: Av. Copacabana, 267 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 02389 - 890 Ship Country: Brazil Customer Details: Customer ID: RICAR Customer Name: Ricardo Adocicados Employee Details: Employee Public figure: Margaret Peacock Shipper Details: Shipper idaho: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 02 - 14 Shipped Date: 2017 - 03 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Cookie Quantity: 40 Unit Price: 7. 3 Total: 292. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: 35 Unit Price: 16. 8 Total: 588. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 2 Unit Price: 17. two Total: 34. 4 Total Price: Total Price: 914. 4",
+        "Order ID: 10447 Shipping Details: Ship Name: Ricardo Adocicados Ship Address: Av. Copacabana, 267 Ship City: Rio de Janeiro Ship Realm: South United states of america Ship Postal Code: 02389 - 890 Ship Country: Brazil Customer Details: Customer gem state: RICAR Customer Name: Ricardo Adocicados Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: ii Shipper Name: United Package Order Details: Order Date: 2017 - 02 - 14 Shipped Date: 2017 - 03 - 07 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Biscuits Quantity: 40 Unit Price: 7. 3 Sum: 292. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Amount: 35 Unit Price: 16. 8 Total: 588. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Flotemysost Quantity: 2 Social unit Price: 17. 2 Total: 34. 4 Total Price: Total Price: 914. 4"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10447. Ship Address: Av. Copacabana, 267, Rio de Janeiro. Postal Code: 02389-890. Country: Brazil. Customer: Ricardo Adocicados. Employee: Margaret Peacock. Shipper: United Package. Products: Teatime Chocolate Biscuits."
+}

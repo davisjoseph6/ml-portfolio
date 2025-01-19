@@ -1,0 +1,24 @@
+{
+    "filename": "order_10488.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10488\nShipping Details:\nShip Name: Frankenversand\nShip Address: Berliner Platz 43\nShip City: München\nShip Region: Western Europe\nShip Postal Code: 80805\nShip Country: Germany\nCustomer Details:\nCustomer ID: FRANK\nCustomer Name: Frankenversand\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-03-27\nShipped Date: 2017-04-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 30\nUnit Price: 44.0\nTotal: 1320.0\n--------------------------------------------------------------------------------------------------\nProduct: Röd Kaviar\nQuantity: 20\nUnit Price: 12.0\nTotal: 240.0\nTotal Price:\nTotal Price: 1560.0\n",
+    "augmented_texts": [
+        "Order ID: 10488 Shipping Details: Ship Name: Frankenversand Ship Address: Berliner Platz 43 Ship Urban center: München Ship Region: Western Common market Ship Postal Code: 80805 Ship Country: Frg Customer Details: Customer ID: FRANK Customer Name: Frankenversand Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 03 - 27 Shipped Date: 2017 - 04 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 30 Whole Price: 44. 0 Total: 1320. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Röd Kaviar Amount: 20 Unit Price: twelve. 0 Total: 240. 0 Total Price: Total Price: 1560. 0",
+        "Order idaho: 10488 Shipping Details: Ship Figure: Frankenversand Ship Address: Berliner Platz forty three Ship City: München Ship Region: Western Europe Ship Postal Code: 80805 Ship Country: Germany Customer Details: Customer ID: FRANK Customer Name: Frankenversand Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper i.d.: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 03 - 27 Shipped Date: 2017 - 04 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 30 Unit Price: 44. 0 Total: 1320. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Röd Kaviar Quantity: 20 Unit Price: 12. 0 Total: 240. 0 Full Price: Total Leontyne price: 1560. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10488. Ship Address: Berliner Platz 43. Postal Code: 80805. Country: Germany. Customer: Frankenversand. Shipper: United Package. Product: Röd Kaviar. Unit Price: 12.0 pounds."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10392.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10392\nShipping Details:\nShip Name: Piccolo und mehr\nShip Address: Geislweg 14\nShip City: Salzburg\nShip Region: Western Europe\nShip Postal Code: 5020\nShip Country: Austria\nCustomer Details:\nCustomer ID: PICCO\nCustomer Name: Piccolo und mehr\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-24\nShipped Date: 2017-01-01\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 50\nUnit Price: 28.8\nTotal: 1440.0\nTotal Price:\nTotal Price: 1440.0\n",
+    "augmented_texts": [
+        "Order ID: 10392 Shipping Details: Ship Figure: Piccolo und mehr Ship Address: Geislweg 14 Ship City: Salzburg Ship Region: Western Eec Ship Postal Code: 5020 Ship Country: Austria Customer Details: Customer ID: PICCO Client Name: Piccolo und mehr Employee Item: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 12 - 24 Shipped Appointment: 2017 - 01 - 01 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 50 Unit Price: 28. 8 Amount: 1440. 0 Total Price: Total Price: 1440. 0",
+        "Order ID: 10392 Shipping Details: Ship Epithet: Piccolo und mehr Ship Address: Geislweg 14 Ship City: Salzburg Ship Region: Western Europe Ship Postal Code: 5020 Ship Country: Austria Customer Details: Client ID: PICCO Customer Name: Piccolo und mehr Employee Details: Employee Name: Andrew Richard buckminster fuller Shipper Details: Shipper ID: deuce ace Shipper Name: Federal Transport Order Details: Ordering Date: 2016 - 12 - 24 Shipped Date: 2017 - 01 - 01 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 50 Unit Price: 28. 8 Total: 1440. 0 Total Price: Total Price: 1440. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10392. Order Name: Piccolo und mehr. Ship Address: Geislweg 14. Postal Code: 5020. Country: Austria. Shipper: Federal Shipping. Product: Gudbrandsdalsost. Unit Price: 28.8 pounds. Price per unit: 1440.0 euros."
+}

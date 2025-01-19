@@ -1,0 +1,24 @@
+{
+    "filename": "order_10629.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10629\nShipping Details:\nShip Name: Godos Cocina Típica\nShip Address: C/ Romero, 33\nShip City: Sevilla\nShip Region: Southern Europe\nShip Postal Code: 41101\nShip Country: Spain\nCustomer Details:\nCustomer ID: GODOS\nCustomer Name: Godos Cocina Típica\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-08-12\nShipped Date: 2017-08-20\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Thüringer Rostbratwurst\nQuantity: 20\nUnit Price: 123.79\nTotal: 2475.8\n--------------------------------------------------------------------------------------------------\nProduct: Wimmers gute Semmelknödel\nQuantity: 9\nUnit Price: 33.25\nTotal: 299.25\nTotal Price:\nTotal Price: 2775.05\n",
+    "augmented_texts": [
+        "Order ID: 10629 Shipping Details: Ship Name: Godos Cocina Típica Ship Address: C / Romero, 33 Ship City: Sevilla Ship Realm: Southern Common market Ship Postal Computer code: 41101 Ship Country: Espana Customer Details: Customer ID: GODOS Customer Name: Godos Cocina Típica Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: trinity Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 08 - 12 Shipped Date: 2017 - 08 - 20 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Quantity: 20 Unit Price: 123. 79 Total: 2475. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Wimmers gute Semmelknödel Quantity: 9 Unit Price: 33. 25 Total: 299. 25 Total Monetary value: Total Price: 2775. 05",
+        "Order ID: 10629 Shipping Details: Ship Public figure: Godos Cocina Típica Ship Address: C / Romero, 33 Ship City: Sevilla Ship Region: Southern Europe Ship Postal Code: 41101 Ship Country: Spain Customer Details: Customer ID: GODOS Customer Name: Godos Cocina Típica Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 08 - 12 Shipped Date: 2017 - 08 - 20 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Thüringer Rostbratwurst Quantity: 20 Social unit Price: 123. 79 Total: 2475. 8 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Wimmers gute Semmelknödel Quantity: 9 Unit Price: 33. 25 Total: 299. 25 Total Price: Total Cost: 2775. 05"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10629. Order Name: Godos Cocina Típica. Ship Address: C/ Romero, 33. City: Sevilla. Region: Southern Europe. Postal Code: 41101. Country: Spain. Customer: GODOS. Employee: Margaret Peacock. Shipper: Federal Shipping."
+}

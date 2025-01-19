@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10323.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10323\nCustomer ID: KOENE\nOrder Date: 2016-10-07\nCustomer Details:\nContact Name:\nPhilip Cramer\nAddress:\nMaubelstr. 90\nCity:\nBrandenburg\nPostal Code:\n14776\nCountry:\nGermany\nPhone:\n0555-09876\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n15\nGenen Shouyu\n5\n12.4\n25\nNuNuCa Nuß-Nougat-Creme\n4\n11.2\n39\nChartreuse verte\n4\n14.4\n \n \nTotalPrice\n164.4\nPage 1\n",
+    "augmented_texts": [
+        "Bill Order i.d.: 10323 Customer ID: KOENE Order Date: 2016 - 10 - 07 Customer Details: Contact Name: Philip Cramer Address: Maubelstr. 90 City: Brandenburg Postal Code: 14776 Country: Germany Phone: 0555 - 09876 Fax: None Product Details: Product ID Product Name Quantity Unit Damage 15 Genen Shouyu 5 12. 4 25 NuNuCa Nuß - Nougat - Creme 4 11. 2 thirty nine Chartreuse verte 4 14. quaternary TotalPrice 164. 4 Page 1",
+        "Invoice Order ID: 10323 Customer ID: KOENE Order Date: 2016 - 10 - 07 Customer Details: Contact Name: Prince philip Cramer Address: Maubelstr. 90 City: Brandenburg Postal Computer code: 14776 Country: Germany Phone: 0555 - 09876 Fax: None Product Details: Product ID Mathematical product Name Quantity Building block Price 15 Genen Shouyu 5 12. 4 25 NuNuCa Nuß - Nougat - Creme iv xi. 2 39 Chartreuse verte 4 14. 4 TotalPrice 164. 4 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: KOENE. Order Date: 2016-10-07.Customer Details:Philip Cramer. Address: \"Maubelstr. 90,\" Brandenburg. Postal Code: 14776. Phone: 555-09876.Fax: 020-9082-0555. Product Name is \"Nuß-Nougat-Creme\" Price is $164.4."
+}

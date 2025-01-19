@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-07_6.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-07 \n Category : Meat/Poultry  \n id category : 6  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nAlice Mutton\n30\n0\n39\nThüringer Rostbratwurst\n10\n0\n123.79\nPerth Pasties\n15\n0\n32.8\nPâté chinois\n21\n115\n24\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 07 Category: Substance / Poultry id category: 6 Product Units Sold Unit of measurement in Stock Unit Price Alice Mutton 30 0 39 Thüringer Rostbratwurst 10 0 123. ilxxx Perth Pasties 15 0 32. 8 Pâté chinois 21 115 24",
+        "Stock Report for 2016 - 07 Category: Meat / Poultry id category: 6 Intersection Units Sold Units in Stock Unit Price Alice Mutton 30 cipher 39 Thüringer Rostbratwurst 10 0 123. 79 Perth Pasty 15 0 32. ogdoad Pâté chinois 21 115 24"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-07. Category : Meat/Poultry. id category : 6                  Product                Units Sold                 units in Stock                Unit Price                Alice Mutton                30                0.39                Thüringer Rostbratwurst                10                1.79                Perth Pasties                 15                2.8                Pâté chinois                21                115     â€™s."
+}

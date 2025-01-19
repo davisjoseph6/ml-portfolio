@@ -1,0 +1,24 @@
+{
+    "filename": "order_10296.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10296\nShipping Details:\nShip Name: LILA-Supermercado\nShip Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo\nShip City: Barquisimeto\nShip Region: South America\nShip Postal Code: 3508\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: LILAS\nCustomer Name: LILA-Supermercado\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-09-03\nShipped Date: 2016-09-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 12\nUnit Price: 16.8\nTotal: 201.60000000000002\n--------------------------------------------------------------------------------------------------\nProduct: Pavlova\nQuantity: 30\nUnit Price: 13.9\nTotal: 417.0\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 15\nUnit Price: 28.8\nTotal: 432.0\nTotal Price:\nTotal Price: 1050.6\n",
+    "augmented_texts": [
+        "Order ID: 10296 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo Ship City: Barquisimeto Ship Region: South America Ship Postal Code: 3508 Ship Country: Venezuela Customer Details: Customer ID: LILAS Customer Name: LILA - Supermercado Employee Details: Employee Gens: Michael Suyama Shipper Details: Shipper i.d.: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 09 - 03 Shipped Date: 2016 - 09 - 11 Mathematical product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 12 Unit Price: 16. 8 Total: 201. 60000000000002 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Quantity: 30 Unit Price: 13. 9 Sum: 417. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 15 Building block Price: 28. 8 Total: 432. 0 Total Price: Total Price: 1050. 6",
+        "Order ID: 10296 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo Ship City: Barquisimeto Ship Region: South America Ship Postal Code: 3508 Ship Land: Venezuela Customer Details: Client ID: LILAS Customer Public figure: LILA - Supermercado Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 09 - 03 Shipped Date: 2016 - 09 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 12 Social unit Price: 16. 8 Total: 201. 60000000000002 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pavlova Measure: 30 Unit Price: 13. 9 Total: 417. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 15 Unit Price: 28. 8 Total: 432. 0 Total Price: Full Price: 1050. 6"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10296. Ship Name: LILA-SupermercadoShip Address: Carrera 52 con Ave. Bolívar #65-98 Llano LargoShip City: BarquisimetoShip Region: South America. Postal Code: 3508.Ship Country: Venezuela."
+}

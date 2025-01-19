@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10449.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10449\n2017-02-18\nFrédérique Citeaux\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n10\nIkura\n14\n24.8\n52\nFilo Mix\n20\n5.6\n62\nTarte au sucre\n35\n39.4\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Dictate ID Order Date Customer Name 10449 2017 - 02 - eighteen Frédérique Citeaux Products Product ID: Product: Quantity: Unit Price: 10 Ikura fourteen 24. 8 52 Filo Mix xx 5. 6 62 Tarte au sucre 35 39. 4 Page 1",
+        "Purchase Orders Order idaho Order Date Customer Name 10449 2017 - 02 - 18 Frédérique Citeaux Products Product i.d.: Product: Quantity: Unit Price: 10 Ikura 14 24. 8 52 Filo Mix 20 5. 6 62 Tarte au sucre 35 ixl. four Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: Filo Mix, Tarte au sucre, and Frédérique Citeaux. Product ID:Product: product: Quantity: unit Price: 10,000 francs per item. Customers can order by phone at 1-800-273-8255 or by clicking here."
+}

@@ -1,0 +1,12 @@
+{
+    "filename": "24007867.jpg",
+    "metadata": {},
+    "text": "06/20/88IL. P.C. LMICHO6781 200.00 200.00\n14017710 200.00\n\n \n\n200.00 200.00\n\nTHE TOBACCO INSTITUTE. INC\n\n \n\n \n\nTHLBC 014050\n\f",
+    "augmented_texts": [
+        "06 / twenty / 88IL. P. Hundred. LMICHO6781 200. 00 200. 00 14017710 200. 00 200. 00 200. 00 THE TOBACCO INSTITUTE. INC THLBC 014050",
+        "06 / 20 / 88IL. P. C. LMICHO6781 200. 00 200. 00 14017710 200. 00 200. 00 200. 00 THE tobacco plant INSTITUTE. INC THLBC 014050"
+    ],
+    "predicted_cluster": 1,
+    "predicted_label": "cluster_1",
+    "summary": "06/20/88IL. P.C. LMICHO6781 200.00 200,000 €. The ToBACCO INSTITUTE. INC. is a non-profit organization. It was established in 1998 to help people in need of financial assistance."
+}

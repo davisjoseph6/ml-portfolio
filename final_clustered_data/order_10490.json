@@ -1,0 +1,24 @@
+{
+    "filename": "order_10490.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10490\nShipping Details:\nShip Name: HILARION-Abastos\nShip Address: Carrera 22 con Ave. Carlos Soublette #8-35\nShip City: San Cristóbal\nShip Region: South America\nShip Postal Code: 5022\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: HILAA\nCustomer Name: HILARION-Abastos\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-03-31\nShipped Date: 2017-04-03\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 60\nUnit Price: 44.0\nTotal: 2640.0\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 30\nUnit Price: 10.0\nTotal: 300.0\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 36\nUnit Price: 6.2\nTotal: 223.20000000000002\nTotal Price:\nTotal Price: 3163.2\n",
+    "augmented_texts": [
+        "Lodge ID: 10490 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Customer ID: HILAA Customer Name: HILARION - Abastos Employee Details: Employee Figure: Robert King Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 03 - 31 Shipped Day of the month: 2017 - 04 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: lx Unit Price: 44. 0 Total: 2640. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: xxx Unit Price: 10. cipher Total: 300. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 36 Unit Price: 6. 2 Total: 223. 20000000000002 Entire Price: Total Price: 3163. ii",
+        "Order ID: 10490 Shipping Details: Ship Name: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship City: San Cristóbal Ship Region: S America Ship Postal Code: 5022 Ship Country: Venezuela Customer Details: Client ID: HILAA Customer Figure: HILARION - Abastos Employee Details: Employee Epithet: Robert Top executive Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 03 - 31 Shipped Date: 2017 - 04 - 03 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 60 Unit Price: 44. 0 Total: 2640. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 30 Unit Price: 10. 0 Total: 300. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 36 Unit Price: 6. ii Total: 223. 20000000000002 Total Price: Total Price: 3163. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10490. Ship Address: Carrera 22 con Ave. Carlos Soublette #8-35, San Cristóbal. Postal Code: 5022. Country: Venezuela. Customer: HILARION-Abastos. Employee: Robert King. Shipper: United Package."
+}

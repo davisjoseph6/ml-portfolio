@@ -1,0 +1,12 @@
+{
+    "filename": "2028837742.jpg",
+    "metadata": {},
+    "text": "$2 nus. wo ZOA\n\nINBIFO Institut fOr blologische Forschung : Kdin\n\nFORM 29. KW 84\n\nRO/SN _SN103 BIG\n\nSUBPROTOCOL-LAUFZETTEL (a)\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nP f:\nTITEL:\nVORGANG IsTELLE [DATUM 2N\nB2W.\nPERSON ' |EINGANG | AUSGANG\nT\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n(a) Brlauterungen\n\nsiehe Riickseite\n\n \n\n \n\n \n\f",
+    "augmented_texts": [
+        "$ 2 nu. wo ZOA INBIFO Institut fOr blologische Forschung: Kdin FORM 29. KW 84 RO / atomic number 50 _SN103 BIG SUBPROTOCOL - LAUFZETTEL (a) P f: TITEL: VORGANG IsTELLE [DATUM 2N B2W. someone ' | EINGANG | AUSGANG T (a) Brlauterungen siehe Riickseite",
+        "$ ii nu. wo ZOA INBIFO Institut fOr blologische Forschung: Kdin FORM twenty nine. KW lxxxiv RO / SN _SN103 BIG SUBPROTOCOL - LAUFZETTEL (a) P f: TITEL: VORGANG IsTELLE [DATUM 2N B2W. PERSON ' | EINGANG | AUSGANG T (a) Brlauterungen siehe Riickseite"
+    ],
+    "predicted_cluster": 3,
+    "predicted_label": "cluster_3",
+    "summary": "$2 nus. wo ZOA. Institut fOr blologische Forschung : Kdin. KW 84/SN103 BIG. SUBPROTOCOL-LAUFZETTEL. (a) Brlauterungen."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10601.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10601\nCustomer ID: HILAA\nOrder Date: 2017-07-16\nCustomer Details:\nContact Name:\nCarlos Hernández\nAddress:\nCarrera 22 con Ave. Carlos Soublette #8-35\nCity:\nSan Cristóbal\nPostal Code:\n5022\nCountry:\nVenezuela\nPhone:\n(5) 555-1340\nFax:\n(5) 555-1948\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n13\nKonbu\n60\n6.0\n59\nRaclette Courdavault\n35\n55.0\n \n \nTotalPrice\n2285.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Holy order idaho: 10601 Customer ID: HILAA Order Date: 2017 - 07 - xvi Customer Detail: Striking Name: Carlos Hernández Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 City: San Cristóbal Postal Code: 5022 Country: Venezuela Phone: (5) 555 - 1340 Fax: (5) 555 - 1948 Product Details: Product ID Merchandise Name Quantity Unit Price 13 Konbu 60 6. 0 59 Raclette Courdavault thirty five 55. 0 TotalPrice 2285. 0 Page unity",
+        "Invoice Edict ID: 10601 Customer idaho: HILAA Order Date: 2017 - 07 - 16 Customer Details: Contact Name: Carlos Hernández Address: Carrera twenty two con Ave. Carlos Soublette # 8 - 35 City: San Cristóbal Postal Code: 5022 Country: Venezuela Headphone: (5) 555 - 1340 Fax: (quint) 555 - 1948 Product Details: Product ID Merchandise Name Quantity Unit Price 13 Konbu sixty 6. zero 59 Raclette Courdavault 35 fifty five. 0 TotalPrice 2285. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: HILAA. Order Date: 2017-07-16. Customer: Carlos Hernández. Company: Carrera 22 con Ave. Carlos Soublette #8-35. Country: San Cristóbal. Postal Code: 5022. Phone: 555-1340.Fax: 545-1948. Product: 2285."
+}

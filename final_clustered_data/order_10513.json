@@ -1,0 +1,24 @@
+{
+    "filename": "order_10513.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10513\nShipping Details:\nShip Name: Die Wandernde Kuh\nShip Address: Adenauerallee 900\nShip City: Stuttgart\nShip Region: Western Europe\nShip Postal Code: 70563\nShip Country: Germany\nCustomer Details:\nCustomer ID: WANDK\nCustomer Name: Die Wandernde Kuh\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-04-22\nShipped Date: 2017-04-28\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 40\nUnit Price: 10.0\nTotal: 400.0\n--------------------------------------------------------------------------------------------------\nProduct: Mascarpone Fabioli\nQuantity: 50\nUnit Price: 32.0\nTotal: 1600.0\n--------------------------------------------------------------------------------------------------\nProduct: Sirop d'érable\nQuantity: 15\nUnit Price: 28.5\nTotal: 427.5\nTotal Price:\nTotal Price: 2427.5\n",
+    "augmented_texts": [
+        "Order ID: 10513 Shipping Details: Ship Name: Die Wandernde Kuh Ship Address: Adenauerallee 900 Ship City: Stuttgart Ship Region: Western Europe Ship Postal Code: 70563 Ship Country: Germany Customer Details: Customer ID: WANDK Customer Name: Die Wandernde Kuh Employee Details: Employee Name: Robert Billie jean king Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Rules of order Date: 2017 - 04 - 22 Shipped Engagement: 2017 - 04 - 28 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Sir Rodney ' s Scones Quantity: 40 Unit Price: 10. 0 Amount: 400. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mascarpone Fabioli Quantity: 50 Unit Price: 32. 0 Total: 1600. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sirop d ' érable Quantity: 15 Unit Price: 28. 5 Total: 427. 5 Total Price: Total Price: 2427. 5",
+        "Order ID: 10513 Shipping Details: Ship Name: Die Wandernde Kuh Ship Address: Adenauerallee 900 Ship City: Stuttgart Ship Area: Western Eec Ship Postal Code: 70563 Ship Country: Germany Customer Details: Customer ID: WANDK Customer Name: Dice Wandernde Kuh Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 04 - xxii Shipped Date: 2017 - 04 - 28 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Amount: 40 Unit Price: 10. 0 Total: 400. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mascarpone Fabioli Quantity: 50 Unit Price: thirty two. 0 Total: 1600. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sirop d ' érable Quantity: 15 Unit Price: 28. 5 Total: 427. quintuplet Total Price: Total Cost: 2427. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10513. Ship Address: Adenauerallee 900. Postal Code: 70563. Country: Germany. Customer: Die Wandernde Kuh. Employee: Robert King. Shipper: Speedy Express. Product: Sir Rodney's Scones. Price: 10.0 euros."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10262.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10262\nShipping Details:\nShip Name: Rattlesnake Canyon Grocery\nShip Address: 2817 Milton Dr.\nShip City: Albuquerque\nShip Region: North America\nShip Postal Code: 87110\nShip Country: USA\nCustomer Details:\nCustomer ID: RATTC\nCustomer Name: Rattlesnake Canyon Grocery\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-07-22\nShipped Date: 2016-07-25\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chef Anton's Gumbo Mix\nQuantity: 12\nUnit Price: 17.0\nTotal: 204.0\n--------------------------------------------------------------------------------------------------\nProduct: Uncle Bob's Organic Dried Pears\nQuantity: 15\nUnit Price: 24.0\nTotal: 360.0\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 2\nUnit Price: 30.4\nTotal: 60.8\nTotal Price:\nTotal Price: 624.8\n",
+    "augmented_texts": [
+        "Order ID: 10262 Shipping Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship City: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Client Name: Rattlesnake Canyon Grocery Employee Details: Employee Name: Laura Callahan Shipper Detail: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 07 - 22 Shipped Date: 2016 - 07 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Hibiscus esculentus Mix Quantity: twelve Unit Price: 17. 0 Total: 204. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Uncle Bob ' s Organic Dried Pears Measure: 15 Unit Price: xxiv. cipher Aggregate: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 2 Unit Price: 30. 4 Total: 60. 8 Total Price: Total Price: 624. 8",
+        "Order ID: 10262 Ship Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship Metropolis: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Customer Name: Rattler Canyon Grocery Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 07 - 22 Shipped Date: 2016 - 07 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Gumbo Mixing Quantity: 12 Unit Price: 17. 0 Total: 204. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Uncle Bob ' s Organic Dried Pears Quantity: 15 Unit Mary leontyne price: twenty four. zero Total: 360. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 2 Unit Price: 30. 4 Total: 60. 8 Total Price: Total Price: 624. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10262. Order Name: Rattlesnake Canyon Grocery. Ship Address: 2817 Milton Dr.Ship Postal Code: 87110. Customers: RATTC. Shipper: Federal Shipping. Products: Chef Anton's Gumbo Mix, Uncle Bob's Organic Dried Pears."
+}

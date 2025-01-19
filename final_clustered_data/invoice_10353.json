@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10353.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10353\nCustomer ID: PICCO\nOrder Date: 2016-11-13\nCustomer Details:\nContact Name:\nGeorg Pipps\nAddress:\nGeislweg 14\nCity:\nSalzburg\nPostal Code:\n5020\nCountry:\nAustria\nPhone:\n6562-9722\nFax:\n6562-9723\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n11\nQueso Cabrales\n12\n16.8\n38\nCôte de Blaye\n50\n210.8\n \n \nTotalPrice\n10741.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10353 Customer idaho: PICCO Order Date: 2016 - 11 - 13 Customer Detail: Contact Name: Georg Pipps Address: Geislweg 14 City: Salzburg Postal Computer code: 5020 Country: Austria Phone: 6562 - 9722 Fax: 6562 - 9723 Product Details: Product ID Product Name Quantity Unit Price 11 Queso Cabrales 12 16. 8 thirty eight Côte de Blaye 50 210. 8 TotalPrice 10741. 6 Page 1",
+        "Invoice Order ID: 10353 Customer ID: PICCO Order Date: 2016 - 11 - 13 Customer Details: Contact lens Name: Georg Pipps Address: Geislweg 14 City: Salzburg Postal Code: 5020 Country: Austria Phone: 6562 - 9722 Facsimile machine: 6562 - 9723 Product Details: Product ID Product Name Quantity Unit Price xi Queso Cabrales 12 16. 8 38 Côte de Blaye fifty 210. 8 TotalPrice 10741. 6 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: PICCO. Order Date: 2016-11-13.Customer Details:Georg Pipps. Address:Geislweg 14. City: Salzburg. Postal Code: 5020. Country: Austria. Phone: 6562-9722.Fax:6562 -9723. Product ID: 10353. Unit Price: 10741.6."
+}

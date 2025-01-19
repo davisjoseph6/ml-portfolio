@@ -1,0 +1,24 @@
+{
+    "filename": "order_10355.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10355\nShipping Details:\nShip Name: Around the Horn\nShip Address: Brook Farm Stratford St. Mary\nShip City: Colchester\nShip Region: British Isles\nShip Postal Code: CO7 6JX\nShip Country: UK\nCustomer Details:\nCustomer ID: AROUT\nCustomer Name: Around the Horn\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-11-15\nShipped Date: 2016-11-20\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 25\nUnit Price: 3.6\nTotal: 90.0\n--------------------------------------------------------------------------------------------------\nProduct: Ravioli Angelo\nQuantity: 25\nUnit Price: 15.6\nTotal: 390.0\nTotal Price:\nTotal Price: 480.0\n",
+    "augmented_texts": [
+        "Order ID: 10355 Shipping Details: Ship Name: Around the Horn Ship Computer address: Brook Farm Stratford St. Mary Ship City: Colchester Ship Region: British Isle Ship Postal Computer code: CO7 6JX Ship Country: UK Client Details: Customer ID: AROUT Customer Name: Around the Horn Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 1 Shipper Public figure: Speedy Express Order Details: Order Date: 2016 - 11 - 15 Shipped Date: 2016 - xi - 20 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: twenty five Unit Price: 3. 6 Total: 90. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 25 Unit Price: 15. 6 Total: 390. 0 Total Price: Total Price: 480. 0",
+        "Order ID: 10355 Shipping Details: Ship Name: Around the Horn Ship Address: Brook Farm Stratford St. Mary Ship Metropolis: Colchester Ship Region: British Isles Ship Postal Code: CO7 6JX Ship Country: UK Customer Details: Customer ID: AROUT Customer Name: Around the Horn Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 1 Shipper Figure: Speedy Express Order Details: Order Date: 2016 - 11 - 15 Shipped Date: 2016 - 11 - 20 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: xxv Unit Price: 3. 6 Total: 90. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Ravioli Angelo Quantity: 25 Unit Price: 15. 6 Total: 390. nought Total Toll: Total Price: 480. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10355. Ship Address: Brook Farm Stratford St. Mary, Colchester. Postal Code: CO7 6JX. Customer Name: Around the Horn. Employee: Michael Suyama. Shipper: Speedy Express. Order Date: 2016-11-15."
+}

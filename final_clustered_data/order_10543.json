@@ -1,0 +1,24 @@
+{
+    "filename": "order_10543.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10543\nShipping Details:\nShip Name: LILA-Supermercado\nShip Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo\nShip City: Barquisimeto\nShip Region: South America\nShip Postal Code: 3508\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: LILAS\nCustomer Name: LILA-Supermercado\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-05-21\nShipped Date: 2017-05-23\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Manchego La Pastora\nQuantity: 30\nUnit Price: 38.0\nTotal: 1140.0\n--------------------------------------------------------------------------------------------------\nProduct: Tunnbröd\nQuantity: 70\nUnit Price: 9.0\nTotal: 630.0\nTotal Price:\nTotal Price: 1770.0\n",
+    "augmented_texts": [
+        "Order ID: 10543 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # sixty five - 98 Llano Largo Ship City: Barquisimeto Ship Region: South America Ship Postal Code: 3508 Ship Country: Venezuela Customer Details: Customer ID: LILAS Customer Name: LILA - Supermercado Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Day of the month: 2017 - 05 - 21 Shipped Date: 2017 - 05 - twenty three Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Manchego La Pastora Quantity: 30 Whole Price: 38. 0 Total: 1140. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Tunnbröd Quantity: 70 Unit Price: 9. 0 Total: 630. 0 Total Price: Total Price: 1770. 0",
+        "Order ID: 10543 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo Ship City: Barquisimeto Ship Region: Due south America Ship Postal Code: 3508 Ship Country: Venezuela Customer Details: Customer ID: LILAS Client Name: LILA - Supermercado Employee Details: Employee Name: Laura Callahan Shipper Detail: Shipper idaho: 2 Shipper Name: United Package Order Item: Order Date: 2017 - 05 - 21 Shipped Appointment: 2017 - 05 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Queso Manchego Atomic number 57 Pastora Quantity: 30 Unit Price: 38. 0 Total: 1140. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tunnbröd Quantity: 70 Unit Price: 9. 0 Total: 630. 0 Total Price: Total Price: 1770. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10543. Order Name: LILA-Supermercado. Ship Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo. Postal Code: 3508. Country: Venezuela. Customer: Laura Callahan. Shipper: United Package. Product: Tunnbröd."
+}

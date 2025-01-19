@@ -1,0 +1,24 @@
+{
+    "filename": "order_10344.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10344\nShipping Details:\nShip Name: White Clover Markets\nShip Address: 1029 - 12th Ave. S.\nShip City: Seattle\nShip Region: North America\nShip Postal Code: 98124\nShip Country: USA\nCustomer Details:\nCustomer ID: WHITC\nCustomer Name: White Clover Markets\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-11-01\nShipped Date: 2016-11-05\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chef Anton's Cajun Seasoning\nQuantity: 35\nUnit Price: 17.6\nTotal: 616.0\n--------------------------------------------------------------------------------------------------\nProduct: Northwoods Cranberry Sauce\nQuantity: 70\nUnit Price: 32.0\nTotal: 2240.0\nTotal Price:\nTotal Price: 2856.0\n",
+    "augmented_texts": [
+        "Order ID: 10344 Shipping Details: Ship Name: White Clover Markets Ship Address: 1029 - 12th Ave. S. Ship City: Seattle Ship Region: North America Ship Postal Code: 98124 Ship Country: USA Customer Details: Customer ID: WHITC Customer Name: White Trefoil Market place Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Social club Details: Order Escort: 2016 - 11 - 01 Shipped Date: 2016 - 11 - 05 Intersection: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Seasoning Quantity: 35 Unit Price: 17. 6 Total: 616. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Northwoods Cranberry Sauce Quantity: lxx Unit Price: 32. 0 Total: 2240. 0 Total Price: Total Price: 2856. 0",
+        "Order ID: 10344 Shipping Details: Ship Name: White Clover Markets Ship Address: 1029 - twelfth Ave. S. Ship City: Seattle Ship Region: North America Ship Postal Code: 98124 Ship Country: USA Customer Details: Customer ID: WHITC Customer Name: White Clover Markets Employee Details: Employee Public figure: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 11 - 01 Shipped Date: 2016 - eleven - 05 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chef Anton ' s Cajun Seasoning Quantity: 35 Unit Price: 17. 6 Sum: 616. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Northwoods Cranberry Sauce Quantity: 70 Unit Price: 32. 0 Sum: 2240. cypher Total Price: Total Price: 2856. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10344; Ship Address: 1029 - 12th Ave. S.; Postal Code: 98124; Country: USA; City: Seattle; Region: North America. Order Type: \"Cajun Seasoning\" Order Quantity: 35; Unit Price: 17.6; Price per Serving: 32.0. Ship Date: 2016-11-01; Shipper: White Clover Markets; Delivery: United Package."
+}

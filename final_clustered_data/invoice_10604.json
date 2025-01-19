@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10604.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10604\nCustomer ID: FURIB\nOrder Date: 2017-07-18\nCustomer Details:\nContact Name:\nLino Rodriguez\nAddress:\nJardim das rosas n. 32\nCity:\nLisboa\nPostal Code:\n1675\nCountry:\nPortugal\nPhone:\n(1) 354-2534\nFax:\n(1) 354-2535\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n48\nChocolade\n6\n12.75\n76\nLakkalikööri\n10\n18.0\n \n \nTotalPrice\n256.5\nPage 1\n",
+    "augmented_texts": [
+        "Account Order ID: 10604 Customer ID: FURIB Parliamentary law Date: 2017 - 07 - 18 Customer Details: Impinging Name: Lino Rodriguez Address: Jardim das rosas n. 32 City: Capital of portugal Postal Code: 1675 Country: Portugal Phone: (1) 354 - 2534 Fax: (1) 354 - 2535 Product Details: Product ID Merchandise Name Quantity Unit Price 48 Chocolade 6 dozen. 75 76 Lakkalikööri 10 18. 0 TotalPrice 256. 5 Page 1",
+        "Invoice Rescript ID: 10604 Customer ID: FURIB Social club Engagement: 2017 - 07 - 18 Customer Details: Contact Name: Lino Rodriguez Address: Jardim das rosas n. 32 City: Lisboa Postal Codification: 1675 Country: Portuguese republic Speech sound: (1) 354 - 2534 Fax: (i) 354 - 2535 Product Details: Product ID Production Name Quantity Unit Price 48 Chocolade 6 12. 75 76 Lakkalikööri 10 18. 0 TotalPrice 256. 5 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: FURIB. Order Date: 2017-07-18. Customer: Lino Rodriguez. Postal Code: 1675. Phone number: 354-2534. Email: lino.rodriguez@furib.com. Product ID: 10604. Price: $256.5."
+}

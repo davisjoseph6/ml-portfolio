@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10635.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10635\nCustomer ID: MAGAA\nOrder Date: 2017-08-18\nCustomer Details:\nContact Name:\nGiovanni Rovelli\nAddress:\nVia Ludovico il Moro 22\nCity:\nBergamo\nPostal Code:\n24100\nCountry:\nItaly\nPhone:\n035-640230\nFax:\n035-640231\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n4\nChef Anton's Cajun Seasoning\n10\n22.0\n5\nChef Anton's Gumbo Mix\n15\n21.35\n22\nGustaf's Knäckebröd\n40\n21.0\n \n \nTotalPrice\n1380.25\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10635 Customer ID: MAGAA Order Date: 2017 - 08 - 18 Customer Point: Contact Name: Giovanni Rovelli Address: Via Ludovico il Moro xxii City: Bergamo Postal Code: 24100 Country: Italy Phone: 035 - 640230 Fax: 035 - 640231 Product Detail: Merchandise ID Product Name Quantity Unit Price 4 Chef Anton ' s Cajun Seasoning 10 22. cipher 5 Chef Anton ' s Gumbo Mix 15 21. thirty five 22 Gustaf ' s Knäckebröd 40 21. 0 TotalPrice 1380. 25 Page 1",
+        "Bill Order ID: 10635 Customer ID: MAGAA Order Date: 2017 - 08 - 18 Customer Details: Contact Name: Giovanni Rovelli Address: Via Ludovico il Moro 22 City: Bergamo Postal Code: 24100 Country: Italy Headphone: 035 - 640230 Fax: 035 - 640231 Product Details: Product ID Product Name Quantity Unit Price 4 Chef Anton ' s Cajun Seasoning 10 22. 0 5 Chef Anton ' s Gumbo Mix 15 twenty one. 35 22 Gustaf ' s Knäckebröd 40 xxi. 0 TotalPrice 1380. 25 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: MAGAA. Order Date: 2017-08-18. Customer Details:iovanni Rovelli. Address:Via Ludovico il Moro 22. Postal Code: 24100. Country: Italy. Phone:035-640230. fax:640231. Product: Cajun Seasoning. Price: 1380.25 euros."
+}

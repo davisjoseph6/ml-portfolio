@@ -1,0 +1,24 @@
+{
+    "filename": "order_10532.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10532\nShipping Details:\nShip Name: Eastern Connection\nShip Address: 35 King George\nShip City: London\nShip Region: British Isles\nShip Postal Code: WX3 6FW\nShip Country: UK\nCustomer Details:\nCustomer ID: EASTC\nCustomer Name: Eastern Connection\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-05-09\nShipped Date: 2017-05-12\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Nord-Ost Matjeshering\nQuantity: 15\nUnit Price: 25.89\nTotal: 388.35\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Hot Spiced Okra\nQuantity: 24\nUnit Price: 17.0\nTotal: 408.0\nTotal Price:\nTotal Price: 796.35\n",
+    "augmented_texts": [
+        "Order gem state: 10532 Shipping Detail: Ship Name: Eastern Connection Ship Address: 35 King George Ship Metropolis: London Ship Region: British Isles Ship Postal Code: WX3 6FW Ship Country: UK Customer Details: Client ID: EASTC Customer Name: Eastern Connection Employee Details: Employee Name: Robert Big businessman Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 05 - 09 Shipped Date: 2017 - 05 - 12 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Nord - Ost Matjeshering Quantity: 15 Building block Price: 25. 89 Total: 388. 35 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Hot Spiced Okra Quantity: 24 Unit Price: 17. 0 Total: 408. 0 Total Price: Total Price: 796. 35",
+        "Order idaho: 10532 Shipping Detail: Ship Name: Eastern Connection Ship Address: 35 King George Ship City: London Ship Region: British Isles Ship Postal Codification: WX3 6FW Ship Country: UK Customer Details: Customer ID: EASTC Customer Name: Eastern Connection Employee Details: Employee Name: Robert King Shipper Details: Shipper idaho: ternary Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 05 - 09 Shipped Date: 2017 - 05 - 12 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Nord - Ost Matjeshering Quantity: 15 Unit Price: 25. 89 Total: 388. thirty five - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Hot Spiced Okra Quantity: 24 Unit Cost: 17. 0 Total: 408. 0 Total Price: Total Price: 796. 35"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10532. Ship Address: 35 King George. City: London. Region: British Isles. Postal Code: WX3 6FW. Country: UK. Customer: EASTC. Shipper: Eastern Connection. Product: Louisiana Hot Spiced Okra. Unit Price: 25.89."
+}

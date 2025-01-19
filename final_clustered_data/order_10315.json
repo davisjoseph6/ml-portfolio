@@ -1,0 +1,24 @@
+{
+    "filename": "order_10315.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10315\nShipping Details:\nShip Name: Island Trading\nShip Address: Garden House Crowther Way\nShip City: Cowes\nShip Region: British Isles\nShip Postal Code: PO31 7PJ\nShip Country: UK\nCustomer Details:\nCustomer ID: ISLAT\nCustomer Name: Island Trading\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-09-26\nShipped Date: 2016-10-03\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sasquatch Ale\nQuantity: 14\nUnit Price: 11.2\nTotal: 156.79999999999998\n--------------------------------------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 30\nUnit Price: 12.0\nTotal: 360.0\nTotal Price:\nTotal Price: 516.8\n",
+    "augmented_texts": [
+        "Order ID: 10315 Shipping Details: Ship Name: Island Trading Ship Address: Garden House Crowther Way Ship City: Cowes Ship Region: British Isles Ship Postal Code: PO31 7PJ Ship Country: UK Customer Details: Customer ID: ISLAT Customer Name: Island Trading Employee Details: Employee Name: Margaret Peacock Shipper Particular: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 26 Shipped Date: 2016 - 10 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 14 Unit Price: 11. 2 Total: 156. 79999999999998 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Outback Laager Amount: 30 Unit Price: 12. 0 Total: 360. 0 Total Price: Total Price: 516. 8",
+        "Order ID: 10315 Shipping Details: Ship Name: Island Trading Ship Address: Garden House Crowther Way Ship City: Cowes Ship Region: British Isles Ship Postal Codification: PO31 7PJ Ship Country: UK Customer Details: Customer ID: ISLAT Customer Name: Island Trading Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Parcel Order Details: Order Date: 2016 - 09 - 26 Shipped Escort: 2016 - 10 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sasquatch Ale Quantity: 14 Unit Price: 11. 2 Total: 156. 79999999999998 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 30 Unit Price: 12. 0 Total: 360. 0 Total Price: Entire Price: 516. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10315. Ship Address: Garden House Crowther Way, Cowes. Postal Code: PO31 7PJ. Country: UK. Customer: Island Trading. Shipper: United Package. Order Details: 2016-09-26. shipper. name: ISLAT. Product: Outback Lager. Unit Price: 12.0."
+}

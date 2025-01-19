@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10585.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10585\nCustomer ID: WELLI\nOrder Date: 2017-07-01\nCustomer Details:\nContact Name:\nPaula Parente\nAddress:\nRua do Mercado, 12\nCity:\nResende\nPostal Code:\n08737-363\nCountry:\nBrazil\nPhone:\n(14) 555-8122\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n47\nZaanse koeken\n15\n9.5\n \n \nTotalPrice\n142.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10585 Customer idaho: WELLI Order Particular date: 2017 - 07 - 01 Customer Details: Contact Name: Paula Parente Address: Rua do Mercado, 12 City: Resende Postal Code: 08737 - 363 Country: Brazil Phone: (14) 555 - 8122 Fax: None Product Details: Product ID Product Name Quantity Unit Price 47 Zaanse koeken xv nine. 5 TotalPrice 142. 5 Page 1",
+        "Invoice Decree ID: 10585 Customer ID: WELLI Order Date: 2017 - 07 - 01 Client Details: Contact Figure: Paula Parente Address: Rua do Mercado, twelve Metropolis: Resende Postal Codification: 08737 - 363 Country: Brazil Phone: (14) 555 - 8122 Fax: None Product Details: Product ID Ware Name Quantity Unit Price 47 Zaanse koeken 15 9. 5 TotalPrice 142. 5 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: WELLI. Order ID: 10585. Customer ID is: \"Paula Parente\" Order Date: 2017-07-01. Price: $142.5. Product Name is \"Zaanse koeken,\" Price is $15.9."
+}

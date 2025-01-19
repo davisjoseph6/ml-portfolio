@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10542.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10542\nCustomer ID: KOENE\nOrder Date: 2017-05-20\nCustomer Details:\nContact Name:\nPhilip Cramer\nAddress:\nMaubelstr. 90\nCity:\nBrandenburg\nPostal Code:\n14776\nCountry:\nGermany\nPhone:\n0555-09876\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n11\nQueso Cabrales\n15\n21.0\n54\nTourtière\n24\n7.45\n \n \nTotalPrice\n493.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10542 Customer ID: KOENE Order of magnitude Date: 2017 - 05 - 20 Client Detail: Contact lens Public figure: Philip Cramer Address: Maubelstr. 90 City: Brandenburg Postal Code: 14776 Country: Germany Phone: 0555 - 09876 Fax: None Product Details: Product ID Product Name Quantity Unit Price 11 Queso Cabrales 15 21. nought 54 Tourtière 24 7. 45 TotalPrice 493. 8 Page 1",
+        "Invoice Orderliness ID: 10542 Customer ID: KOENE Order Date: 2017 - 05 - 20 Customer Detail: Contact Name: Philip Cramer Address: Maubelstr. 90 City: Brandenburg Postal Code: 14776 Country: Germany Phone: 0555 - 09876 Fax: None Cartesian product Contingent: Product ID Product Name Quantity Social unit Price eleven Queso Cabrales 15 21. 0 54 Tourtière 24 7. 45 TotalPrice 493. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: KOENE. Order Date: 2017-05-20.Customer Details:Philip Cramer. Address: Maubelstr. 90, Brandenburg. Postal Code: 14776. Country: Germany. Phone: 05555-09876. fax: None."
+}

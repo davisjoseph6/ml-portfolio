@@ -1,0 +1,24 @@
+{
+    "filename": "order_10461.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10461\nShipping Details:\nShip Name: LILA-Supermercado\nShip Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo\nShip City: Barquisimeto\nShip Region: South America\nShip Postal Code: 3508\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: LILAS\nCustomer Name: LILA-Supermercado\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-02-28\nShipped Date: 2017-03-05\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 40\nUnit Price: 8.0\nTotal: 320.0\n--------------------------------------------------------------------------------------------------\nProduct: Nord-Ost Matjeshering\nQuantity: 28\nUnit Price: 20.7\nTotal: 579.6\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 60\nUnit Price: 19.2\nTotal: 1152.0\nTotal Price:\nTotal Price: 2051.6\n",
+    "augmented_texts": [
+        "Order ID: 10461 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo Ship City: Barquisimeto Ship Region: South The states Ship Postal Codification: 3508 Ship Country: Venezuela Customer Details: Client ID: LILAS Customer Name: LILA - Supermercado Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper idaho: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 02 - 28 Shipped Date: 2017 - 03 - 05 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: 40 Unit Cost: 8. 0 Total: 320. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Nord - Ost Matjeshering Quantity: 28 Unit Price: 20. seven Total: 579. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 60 Unit Price: 19. 2 Total: 1152. 0 Total Price: Total Price: 2051. 6",
+        "Order ID: 10461 Shipping Details: Ship Name: LILA - Supermercado Ship Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo Ship City: Barquisimeto Ship Region: Confederacy America Ship Postal Code: 3508 Ship Land: Venezuela Customer Details: Customer ID: LILAS Client Name: LILA - Supermercado Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 02 - 28 Shipped Date: 2017 - 03 - 05 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' sulphur Scone Quantity: 40 Unit Price: 8. 0 Total: 320. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Nord - Ost Matjeshering Quantity: 28 Unit Price: 20. 7 Total: 579. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 60 Unit Price: 19. 2 Total: 1152. 0 Total Price: Total Price: 2051. 6"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10461. Ship Address: Carrera 52 con Ave. Bolívar #65-98 Llano Largo. Postal Code: 3508. Country: Venezuela. Customer Name: LILA-Supermercado. Employee: Nancy Davolio. Shipper: Federal Shipping."
+}

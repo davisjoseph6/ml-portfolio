@@ -1,0 +1,24 @@
+{
+    "filename": "order_10571.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10571\nShipping Details:\nShip Name: Ernst Handel\nShip Address: Kirchgasse 6\nShip City: Graz\nShip Region: Western Europe\nShip Postal Code: 8010\nShip Country: Austria\nCustomer Details:\nCustomer ID: ERNSH\nCustomer Name: Ernst Handel\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-06-17\nShipped Date: 2017-07-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 11\nUnit Price: 23.25\nTotal: 255.75\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 28\nUnit Price: 14.0\nTotal: 392.0\nTotal Price:\nTotal Price: 647.75\n",
+    "augmented_texts": [
+        "Purchase order ID: 10571 Shipping Details: Ship Name: Ernst Handel Ship Address: Kirchgasse 6 Ship Urban center: Graz Ship Region: Western Europe Ship Postal Code: 8010 Ship Country: Oesterreich Customer Detail: Customer gem state: ERNSH Customer Name: Ernst Handel Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper idaho: 3 Shipper Figure: Federal Shipping Order Details: Order Date: 2017 - 06 - 17 Shipped Date: 2017 - 07 - 04 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Quantity: 11 Unit Price: 23. 25 Total: 255. 75 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 28 Unit Toll: 14. 0 Total: 392. 0 Total Price: Total Price: 647. 75",
+        "Order ID: 10571 Shipping Details: Ship Name: Ernst Handel Ship Address: Kirchgasse hexad Ship City: Graz Ship Region: Western Common market Ship Postal Computer code: 8010 Ship Country: Austria Customer Details: Customer ID: ERNSH Customer Name: Ernst Handel Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper idaho: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 06 - 17 Shipped Date: 2017 - 07 - 04 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tofu Measure: 11 Unit of measurement Price: xxiii. 25 Aggregate: 255. 75 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 28 Unit Price: 14. 0 Total: 392. 0 Total Price: Total Price: 647. 75"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10571. Order Name: Ernst Handel. Ship Address: Kirchgasse 6. Graz, Austria. Postal Code: 8010. Customers: ERNSH. Shipper: Federal Shipping. Products: Tofu, Singaporean Hokkien Fried Mee. Price: 647.75."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10561.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10561\nShipping Details:\nShip Name: Folk och fä HB\nShip Address: Åkergatan 24\nShip City: Bräcke\nShip Region: Northern Europe\nShip Postal Code: S-844 67\nShip Country: Sweden\nCustomer Details:\nCustomer ID: FOLKO\nCustomer Name: Folk och fä HB\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-06-06\nShipped Date: 2017-06-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gula Malacca\nQuantity: 10\nUnit Price: 19.45\nTotal: 194.5\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 50\nUnit Price: 53.0\nTotal: 2650.0\nTotal Price:\nTotal Price: 2844.5\n",
+    "augmented_texts": [
+        "Order gem state: 10561 Shipping Details: Ship Name: Folk och fä HB Ship Address: Åkergatan 24 Ship City: Bräcke Ship Region: Northern Europe Ship Postal Code: S - 844 67 Ship Country: Sweden Customer Details: Customer idaho: FOLKO Customer Name: Folk och fä HB Employee Detail: Employee Name: Andrew Buckminster fuller Shipper Details: Shipper ID: 2 Shipper Name: United Package Club Details: Order Date: 2017 - 06 - 06 Shipped Date: 2017 - 06 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Quantity: x Social unit Mary leontyne price: 19. 45 Total: 194. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 50 Unit Price: 53. 0 Sum: 2650. 0 Total Price: Total Terms: 2844. 5",
+        "Order ID: 10561 Ship Details: Ship Name: Folk och fä HB Ship Address: Åkergatan 24 Ship City: Bräcke Ship Region: Northern Eec Ship Postal Code: S - 844 67 Ship Rural area: Sweden Client Details: Customer ID: FOLKO Customer Name: Folk och fä haemoglobin Employee Detail: Employee Name: Andrew Fuller Shipper Detail: Shipper ID: 2 Shipper Name: United Package Orderliness Details: Order Date: 2017 - 06 - 06 Shipped Date: 2017 - 06 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gula Malacca Amount: 10 Unit Price: 19. 45 Total: 194. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 50 Unit Price: 53. 0 Total: 2650. 0 Total Price: Total Price: 2844. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10561. Ship Name: Folk och fä HB. Address: Åkergatan 24. Postal Code: S-844 67 67. Customers: FOLKO. Shipper: United Package. Products: Gula Malacca, Manjimup Dried Apples."
+}

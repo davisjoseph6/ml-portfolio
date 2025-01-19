@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10418.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10418\nCustomer ID: QUICK\nOrder Date: 2017-01-17\nCustomer Details:\nContact Name:\nHorst Kloss\nAddress:\nTaucherstraße 10\nCity:\nCunewalde\nPostal Code:\n01307\nCountry:\nGermany\nPhone:\n0372-035188\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n2\nChang\n60\n15.2\n47\nZaanse koeken\n55\n7.6\n61\nSirop d'érable\n16\n22.8\n74\nLonglife Tofu\n15\n8.0\n \n \nTotalPrice\n1814.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10418 Customer ID: fast Order Date: 2017 - 01 - xvii Customer Details: Contact Name: Horst Kloss Address: Taucherstraße 10 City: Cunewalde Postal Code: 01307 Country: Germany Phone: 0372 - 035188 Fax: None Product Details: Product ID Product Name Quantity Unit Leontyne price 2 Yangtze kiang 60 15. 2 47 Zaanse koeken 55 7. sise 61 Sirop vitamin d ' érable 16 22. 8 lxxiv Longlife Bean curd 15 8. 0 TotalPrice 1814. 8 Page 1",
+        "Invoice Ordination ID: 10418 Client ID: QUICK Order Date: 2017 - 01 - 17 Customer Details: Contact Name: Horst Kloss Address: Taucherstraße 10 City: Cunewalde Postal Code: 01307 Country: Frg Phone: 0372 - 035188 Fax: None Product Details: Product ID Product Public figure Measure Unit of measurement Price 2 Chang lx 15. 2 47 Zaanse koeken 55 7. 6 61 Sirop d ' érable 16 22. 8 74 Longlife Tofu 15 8. 0 TotalPrice 1814. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10418.Customer ID: QUICK. Order Date: 2017-01-17. Customers: Horst Kloss. Product: Tofu. Price: $1814.8.Product Name: \"Zaanse koeken,\" Unit Price is $15.2."
+}

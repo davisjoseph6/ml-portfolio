@@ -1,0 +1,24 @@
+{
+    "filename": "order_10477.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10477\nShipping Details:\nShip Name: Princesa Isabel Vinhos\nShip Address: Estrada da saúde n. 58\nShip City: Lisboa\nShip Region: Southern Europe\nShip Postal Code: 1756\nShip Country: Portugal\nCustomer Details:\nCustomer ID: PRINI\nCustomer Name: Princesa Isabel Vinhos\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-03-17\nShipped Date: 2017-03-25\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 15\nUnit Price: 14.4\nTotal: 216.0\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 21\nUnit Price: 8.0\nTotal: 168.0\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 20\nUnit Price: 14.4\nTotal: 288.0\nTotal Price:\nTotal Price: 672.0\n",
+    "augmented_texts": [
+        "Order i.d.: 10477 Shipping Details: Ship Name: Princesa Isabel Vinhos Ship Address: Estrada da saúde n. 58 Ship City: Lisboa Ship Region: Southern Europe Ship Postal Code: 1756 Ship Country: Portugal Customer Details: Customer ID: PRINI Customer Name: Princesa Isabel Vinhos Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 03 - 17 Shipped Date: 2017 - 03 - twenty five Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 15 Unit Leontyne price: 14. 4 Total: 216. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: 21 Unit Damage: 8. 0 Total: 168. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Chartreuse verte Quantity: xx Unit Price: 14. 4 Total: 288. 0 Total Price: Total Price: 672. 0",
+        "Order i.d.: 10477 Shipping Details: Ship Name: Princesa Isabel Vinhos Ship Address: Estrada da saúde n. 58 Ship City: Lisboa Ship Region: Southern Europe Ship Postal Code: 1756 Ship Country: Portugal Customer Details: Customer ID: PRINI Client Name: Princesa Isabel Vinhos Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: 2 Shipper Gens: United Package Order Details: Order Date: 2017 - 03 - 17 Shipped Date: 2017 - 03 - 25 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 15 Unit of measurement Price: 14. 4 Total: 216. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Sir Rodney ' s Scones Quantity: 21 Unit Price: 8. 0 Total: 168. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Quantity: 20 Unit Price: 14. 4 Total: 288. 0 Total Price: Total Price: 672. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10477. Ship Address: Estrada da saúde n. 58 in Lisboa. Postal Code: 1756. Country: Portugal. Customer: Princesa Isabel Vinhos. Employee: Steven Buchanan. Shipper: United Package. Products: Chai, Sir Rodney's Scones."
+}

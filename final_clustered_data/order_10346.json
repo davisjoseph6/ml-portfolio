@@ -1,0 +1,24 @@
+{
+    "filename": "order_10346.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10346\nShipping Details:\nShip Name: Rattlesnake Canyon Grocery\nShip Address: 2817 Milton Dr.\nShip City: Albuquerque\nShip Region: North America\nShip Postal Code: 87110\nShip Country: USA\nCustomer Details:\nCustomer ID: RATTC\nCustomer Name: Rattlesnake Canyon Grocery\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-11-05\nShipped Date: 2016-11-08\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Alice Mutton\nQuantity: 36\nUnit Price: 31.2\nTotal: 1123.2\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 20\nUnit Price: 30.4\nTotal: 608.0\nTotal Price:\nTotal Price: 1731.2\n",
+    "augmented_texts": [
+        "Order ID: 10346 Shipping Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship City: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Client Name: Rattlesnake Canyon Grocery Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper i.d.: 3 Shipper Name: Federal Shipping Order Details: Order Escort: 2016 - xi - 05 Shipped Date: 2016 - 11 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 36 Unit Mary leontyne price: 31. 2 Total: 1123. 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 20 Unit Price: 30. 4 Total: 608. 0 Entire Price: Total Price: 1731. 2",
+        "Order ID: 10346 Shipping Details: Ship Name: Rattlesnake Canyon Grocery Ship Address: 2817 Milton Dr. Ship City: Albuquerque Ship Region: North America Ship Postal Code: 87110 Ship Country: USA Customer Details: Customer ID: RATTC Customer Name: Rattler Canyon Grocery Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Public figure: Fed Merchant marine Order Details: Order Date: 2016 - 11 - 05 Shipped Escort: 2016 - 11 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mouton Quantity: 36 Unit Mary leontyne price: 31. 2 Total: 1123. 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 20 Unit Price: 30. 4 Total: 608. 0 Total Price: Total Price: 1731. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10346. Ship Address: 2817 Milton Dr. in Albuquerque, New Mexico. Postal Code: 87110. Customer Name: Rattlesnake Canyon Grocery. Shipper: Federal Shipping. Order Date: 2016-11-05. shipper. name: RATTC. Product: Gnocchi di nonna Alice."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10379.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10379\nShipping Details:\nShip Name: Que Delícia\nShip Address: Rua da Panificadora, 12\nShip City: Rio de Janeiro\nShip Region: South America\nShip Postal Code: 02389-673\nShip Country: Brazil\nCustomer Details:\nCustomer ID: QUEDE\nCustomer Name: Que Delícia\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-12-11\nShipped Date: 2016-12-13\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 8\nUnit Price: 7.7\nTotal: 61.6\n--------------------------------------------------------------------------------------------------\nProduct: Vegie-spread\nQuantity: 16\nUnit Price: 35.1\nTotal: 561.6\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper Sauce\nQuantity: 20\nUnit Price: 16.8\nTotal: 336.0\nTotal Price:\nTotal Price: 959.2\n",
+    "augmented_texts": [
+        "Order ID: 10379 Shipping Details: Ship Name: Que Delícia Ship Address: Rua da Panificadora, 12 Ship City: Rio de Janeiro Ship Region: Confederate states America Ship Postal Code: 02389 - 673 Ship Country: Brazil nut Customer Details: Customer ID: QUEDE Customer Name: Que Delícia Employee Details: Employee Name: Andrew Buckminster fuller Shipper Details: Shipper ID: 1 Shipper Epithet: Speedy Express Order Inside information: Order Date: 2016 - 12 - 11 Shipped Date: 2016 - 12 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 8 Unit Price: 7. 7 Total: 61. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Vegie - spread Quantity: 16 Unit Price: 35. 1 Total: 561. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Louisiana Fiery Hot Pepper Sauce Quantity: 20 Unit Price: 16. 8 Total: 336. 0 Total Price: Total Price: 959. 2",
+        "Club ID: 10379 Shipping Details: Ship Epithet: Que Delícia Ship Address: Rua da Panificadora, 12 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 02389 - 673 Ship Country: Brazil Customer Details: Customer ID: QUEDE Customer Epithet: Que Delícia Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - xii - 11 Shipped Date: 2016 - 12 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 8 Unit Price: 7. 7 Total: sixty one. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Vegie - spread Quantity: 16 Unit of measurement Price: 35. 1 Totality: 561. 6 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: 20 Unit Price: 16. 8 Amount: 336. 0 Total Price: Total Price: 959. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10379. Ship Address: Rua da Panificadora, 12, Rio de Janeiro. Postal Code: 02389-673. Country: Brazil. Customer: Que Delícia. Employee: Andrew Fuller. Shipper: Speedy Express. Product: Louisiana Fiery Hot Pepper Sauce."
+}

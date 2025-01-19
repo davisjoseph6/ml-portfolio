@@ -1,0 +1,24 @@
+{
+    "filename": "order_10279.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10279\nShipping Details:\nShip Name: Lehmanns Marktstand\nShip Address: Magazinweg 7\nShip City: Frankfurt a.M.\nShip Region: Western Europe\nShip Postal Code: 60528\nShip Country: Germany\nCustomer Details:\nCustomer ID: LEHMS\nCustomer Name: Lehmanns Marktstand\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-08-13\nShipped Date: 2016-08-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Alice Mutton\nQuantity: 15\nUnit Price: 31.2\nTotal: 468.0\nTotal Price:\nTotal Price: 468.0\n",
+    "augmented_texts": [
+        "Order ID: 10279 Ship Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfurt a. M. Ship Region: Western Europe Ship Postal Computer code: 60528 Ship Country: Deutschland Customer Details: Customer ID: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 08 - 13 Shipped Date: 2016 - 08 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Amount: 15 Unit Price: 31. 2 Total: 468. 0 Full Price: Total Damage: 468. 0",
+        "Order ID: 10279 Shipping Details: Ship Name: Lehmanns Marktstand Ship Address: Magazinweg 7 Ship City: Frankfurt a. M. Ship Region: Western Europe Ship Postal Code: 60528 Ship Country: Germany Customer Details: Customer i.d.: LEHMS Customer Name: Lehmanns Marktstand Employee Details: Employee Epithet: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Software Edict Details: Order Date: 2016 - 08 - 13 Shipped Date: 2016 - 08 - 16 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Alice Mutton Quantity: 15 Unit Price: 31. 2 Total: 468. 0 Total Price: Total Price: 468. cypher"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10279; Ship Address: Magazinweg 7; Postal Code: 60528; City: Frankfurt a.M.; Country: Germany; Region: Western Europe. Product: Alice Mutton; Quantity: 15; Unit Price: 31.2; Price per unit: 468.0."
+}

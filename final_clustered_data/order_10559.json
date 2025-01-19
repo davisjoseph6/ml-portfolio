@@ -1,0 +1,24 @@
+{
+    "filename": "order_10559.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10559\nShipping Details:\nShip Name: Blondel père et fils\nShip Address: 24, place Kléber\nShip City: Strasbourg\nShip Region: Western Europe\nShip Postal Code: 67000\nShip Country: France\nCustomer Details:\nCustomer ID: BLONP\nCustomer Name: Blondesddsl père et fils\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-06-05\nShipped Date: 2017-06-13\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 12\nUnit Price: 9.65\nTotal: 115.80000000000001\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 18\nUnit Price: 24.0\nTotal: 432.0\nTotal Price:\nTotal Price: 547.8\n",
+    "augmented_texts": [
+        "Order i.d.: 10559 Shipping Details: Ship Name: Blondel père et fils Ship Address: 24, place Kléber Ship City: Strasbourg Ship Region: Western Europe Ship Postal Code: 67000 Ship Country: France Customer Details: Client ID: BLONP Customer Name: Blondesddsl père et fils Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: ane Shipper Name: Speedy Express Order Details: Order Date: 2017 - 06 - 05 Shipped Date: 2017 - 06 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 12 Unit Price: 9. 65 Amount: 115. 80000000000001 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 18 Unit Price: 24. zero Total: 432. 0 Total Price: Total Price: 547. 8",
+        "Monastic order ID: 10559 Shipping Particular: Ship Name: Blondel père et fils Ship Address: 24, place Kléber Ship City: Strasbourg Ship Region: Western Europe Ship Postal Code: 67000 Ship Country: France Customer Details: Customer ID: BLONP Client Name: Blondesddsl père et fils Employee Details: Employee Name: Michael Suyama Shipper Inside information: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Social club Date: 2017 - 06 - 05 Shipped Date: 2017 - 06 - 13 Intersection: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 12 Unit Price: 9. 65 Total: 115. 80000000000001 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 18 Unit Price: 24. 0 Total: 432. 0 Total Price: Total Price: 547. 8"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10559; Ship Address: 24, place Kléber; Postal Code: 67000. Ship Country: France; Customer: Blondesddsl père et fils; Shipper: Speedy Express. Order Date: 2017-06-05; shipment date: 2018-07-01; Order Quantity: 12; Unit Price: 9.65; Price per pound: 547.8."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10634.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10634\n2017-08-15\nMartine Rancé\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n7\nUncle Bob's Organic Dried Pears\n35\n30\n18\nCarnarvon Tigers\n50\n62.5\n51\nManjimup Dried Apples\n15\n53\n75\nRhönbräu Klosterbier\n2\n7.75\nPage 1\n",
+    "augmented_texts": [
+        "Leverage Orders Order ID Order Date Client Name 10634 2017 - 08 - xv Martine Rancé Products Product ID: Product: Quantity: Unit Price: 7 Uncle Bob ' s Organic Dried Pears 35 30 18 Carnarvon Tigers 50 62. 5 51 Manjimup Dried Apples fifteen 53 75 Rhönbräu Klosterbier 2 vii. 75 Page 1",
+        "Leverage Orders Order ID Order Date Customer Name 10634 2017 - 08 - 15 Martine Rancé Products Product ID: Product: Quantity: Unit Damage: 7 Uncle Bob ' s Organic Dried Pears 35 xxx 18 Carnarvon Tigers 50 lxii. 5 fifty one Manjimup Dried Apples 15 53 75 Rhönbräu Klosterbier 2 7. 75 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than just fruit and vegetables. Items include apples, pears, apples cider, and applesauce. Customers can order by phone, email, or in-store. Prices start at $1.99 per fruit or $7.75 for a bag of apples."
+}

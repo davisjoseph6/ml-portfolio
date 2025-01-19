@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10583.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10583\n2017-06-30\nPirkko Koskitalo\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n29\nThüringer Rostbratwurst\n10\n123.79\n60\nCamembert Pierrot\n24\n34\n69\nGudbrandsdalsost\n10\n36\nPage 1\n",
+    "augmented_texts": [
+        "Leverage Orders Order ID Order Date Customer Name 10583 2017 - 06 - 30 Pirkko Koskitalo Merchandise Product i.d.: Product: Quantity: Unit Terms: 29 Thüringer Rostbratwurst 10 123. seventy nine 60 Camembert Pierrot 24 34 69 Gudbrandsdalsost 10 36 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10583 2017 - 06 - 30 Pirkko Koskitalo Products Product ID: Product: Quantity: Unit Price: 29 Thüringer Rostbratwurst ten 123. 79 60 Camembert Pierrot 24 thirty four ilxx Gudbrandsdalsost 10 36 Thomas nelson page single"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: wurst, sausage, bratwurst and gudbrands. The product ID is the product name used to identify the products and the date they were purchased. For more information, go to www.pirkko Koskitalo.com."
+}

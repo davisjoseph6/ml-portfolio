@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10454.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10454\nCustomer ID: LAMAI\nOrder Date: 2017-02-21\nCustomer Details:\nContact Name:\nAnnette Roulet\nAddress:\n1 rue Alsace-Lorraine\nCity:\nToulouse\nPostal Code:\n31000\nCountry:\nFrance\nPhone:\n61.77.61.10\nFax:\n61.77.61.11\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n16\nPavlova\n20\n13.9\n33\nGeitost\n20\n2.0\n46\nSpegesild\n10\n9.6\n \n \nTotalPrice\n414.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order gem state: 10454 Customer ID: LAMAI Order Date: 2017 - 02 - 21 Customer Details: Contact Name: Annette Roulet Reference: 1 rue Alsace - Lorraine City: Toulouse Postal Code: 31000 Rural area: France Phone: 61. 77. lxi. 10 Fax: sixty one. 77. 61. 11 Product Details: Merchandise ID Product Name Amount Unit Price 16 Anna pavlova 20 13. 9 33 Geitost 20 two. 0 46 Spegesild 10 9. 6 TotalPrice 414. 0 Page 1",
+        "Invoice Order ID: 10454 Customer ID: LAMAI Lodge Date: 2017 - 02 - 21 Customer Details: Contact Name: Annette Roulet Address: 1 rue Alsace - Lorraine City: Toulouse Postal Code: 31000 Country: Anatole france Phone: 61. seventy seven. 61. 10 Fax: 61. seventy seven. 61. 11 Product Item: Product gem state Merchandise Name Quantity Unit Price 16 Anna pavlova 20 13. 9 xxxiii Geitost 20 2. 0 46 Spegesild 10 9. 6 TotalPrice 414. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10454.Customer ID: LAMAI. Order Date: 2017-02-21. Customer: Annette Roulet. Address: rue Alsace-Lorraine, Toulouse, France. Postal Code: P/A/C/S/F/H/P/G/M/D/T/B/W."
+}

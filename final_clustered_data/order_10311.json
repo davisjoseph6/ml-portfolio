@@ -1,0 +1,24 @@
+{
+    "filename": "order_10311.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10311\nShipping Details:\nShip Name: Du monde entier\nShip Address: 67, rue des Cinquante Otages\nShip City: Nantes\nShip Region: Western Europe\nShip Postal Code: 44000\nShip Country: France\nCustomer Details:\nCustomer ID: DUMON\nCustomer Name: Du monde entier\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-09-20\nShipped Date: 2016-09-26\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 6\nUnit Price: 11.2\nTotal: 67.19999999999999\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 7\nUnit Price: 28.8\nTotal: 201.6\nTotal Price:\nTotal Price: 268.79999999999995\n",
+    "augmented_texts": [
+        "Order ID: 10311 Shipping Details: Ship Name: Du monde entier Ship Speech: 67, regret des Cinquante Otages Ship City: Nantes Ship Region: Western European community Ship Postal Code: 44000 Ship Country: France Customer Details: Customer ID: DUMON Customer Name: Du monde entier Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 09 - 20 Shipped Engagement: 2016 - 09 - 26 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Singaporean Hokkien Fried Mee Quantity: 6 Unit Price: 11. 2 Total: 67. 19999999999999 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 7 Unit Price: 28. 8 Aggregate: 201. vi Full Price: Total Price: 268. 79999999999995",
+        "Order ID: 10311 Shipping Details: Ship Name: Du monde entier Ship Address: 67, rue des Cinquante Otages Ship City: Nantes Ship Region: Western Europe Ship Postal Code: 44000 Ship Country: France Customer Contingent: Client ID: DUMON Customer Name: Du monde entier Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Club Details: Order Date: 2016 - 09 - 20 Shipped Date: 2016 - 09 - 26 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 6 Unit Cost: 11. 2 Total: 67. 19999999999999 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 7 Unit Price: xxviii. 8 Total: 201. 6 Total Price: Entire Price: 268. 79999999999995"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10311. Order Name: Du monde entier. Ship Address: 67, rue des Cinquante Otages, Nantes, France. Postal Code: 44000. Customers can choose to pay by cash or by credit card. Shipper: Federal Shipping. Products: Singaporean Hokkien Fried Mee."
+}

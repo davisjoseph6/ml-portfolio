@@ -1,0 +1,24 @@
+{
+    "filename": "order_10356.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10356\nShipping Details:\nShip Name: Die Wandernde Kuh\nShip Address: Adenauerallee 900\nShip City: Stuttgart\nShip Region: Western Europe\nShip Postal Code: 70563\nShip Country: Germany\nCustomer Details:\nCustomer ID: WANDK\nCustomer Name: Die Wandernde Kuh\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-11-18\nShipped Date: 2016-11-27\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 30\nUnit Price: 10.0\nTotal: 300.0\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 12\nUnit Price: 19.2\nTotal: 230.39999999999998\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 20\nUnit Price: 28.8\nTotal: 576.0\nTotal Price:\nTotal Price: 1106.4\n",
+    "augmented_texts": [
+        "Order ID: 10356 Shipping Details: Ship Name: Die Wandernde Kuh Ship Address: Adenauerallee 900 Ship City: Stuttgart Ship Region: Western Europe Ship Postal Code: 70563 Ship Country: Germany Customer Detail: Customer ID: WANDK Customer Name: Die Wandernde Kuh Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper gem state: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 11 - 18 Shipped Date: 2016 - xi - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Gorgonzola Telino Quantity: 30 Unit Price: 10. 0 Total: 300. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 12 Social unit Price: 19. 2 Total: 230. 39999999999998 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 20 Unit Price: 28. 8 Total: 576. 0 Total Price: Total Mary leontyne price: 1106. quaternity",
+        "Order ID: 10356 Shipping Details: Ship Name: Die Wandernde Kuh Ship Address: Adenauerallee 900 Ship Metropolis: Stuttgart Ship Region: Western Europe Ship Postal Code: 70563 Ship Country: Frg Customer Details: Client ID: WANDK Client Epithet: Die Wandernde Kuh Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 11 - 18 Shipped Date: 2016 - 11 - 27 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 30 Unit Price: 10. 0 Total: 300. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Pâté chinois Quantity: 12 Unit Price: 19. 2 Total: 230. 39999999999998 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 20 Unit Price: 28. 8 Totality: 576. 0 Entire Price: Total Price: 1106. 4"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10356. Ship Address: Adenauerallee 900. Postal Code: 70563. Customer Name: Die Wandernde Kuh. Shipper: United Package. Product: Gorgonzola Telino. Order Date: 2016-11-18."
+}

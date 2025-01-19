@@ -1,0 +1,24 @@
+{
+    "filename": "order_10549.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10549\nShipping Details:\nShip Name: QUICK-Stop\nShip Address: Taucherstraße 10\nShip City: Cunewalde\nShip Region: Western Europe\nShip Postal Code: 1307\nShip Country: Germany\nCustomer Details:\nCustomer ID: QUICK\nCustomer Name: QUICK-Stop\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-05-27\nShipped Date: 2017-05-30\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 55\nUnit Price: 12.5\nTotal: 687.5\n--------------------------------------------------------------------------------------------------\nProduct: Rogede sild\nQuantity: 100\nUnit Price: 9.5\nTotal: 950.0\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 48\nUnit Price: 53.0\nTotal: 2544.0\nTotal Price:\nTotal Price: 4181.5\n",
+    "augmented_texts": [
+        "Order ID: 10549 Shipping Details: Ship Name: QUICK - Stop Ship Address: Taucherstraße 10 Ship City: Cunewalde Ship Region: Western Europe Ship Postal Code: 1307 Ship Country: Frg Customer Detail: Customer ID: QUICK Customer Name: QUICK - Stop Employee Details: Employee Name: Steven Buchanan Shipper Details: Shipper ID: ace Shipper Name: Speedy Express Order Details: Order Date: 2017 - 05 - 27 Shipped Date: 2017 - 05 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Measure: 55 Unit Price: 12. phoebe Total: 687. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rogede sild Quantity: 100 Unit Price: 9. 5 Total: 950. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 48 Unit Price: 53. 0 Total: 2544. 0 Total Price: Total Price: 4181. 5",
+        "Order gem state: 10549 Shipping Details: Ship Name: QUICK - Stop Ship Address: Taucherstraße 10 Ship City: Cunewalde Ship Region: Western Europe Ship Postal Code: 1307 Ship Country: Germany Customer Details: Client ID: QUICK Customer Name: QUICK - Stop Employee Details: Employee Name: Steven James buchanan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Monastic order Details: Order Date: 2017 - 05 - 27 Shipped Date: 2017 - 05 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Measure: fifty five Unit Price: 12. 5 Total: 687. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Rogede sild Quantity: 100 Unit Price: 9. 5 Total: 950. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 48 Unit Price: 53. 0 Total: 2544. 0 Total Price: Total Price: 4181. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10549. Order Name: QUICK-Stop. Ship Address: Taucherstraße 10, Cunewalde, Germany. Postal Code: 1307. Customers: 1-10549-STOP. Shipper: Speedy Express. Products: Gorgonzola Telino."
+}

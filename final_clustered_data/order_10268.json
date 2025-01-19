@@ -1,0 +1,24 @@
+{
+    "filename": "order_10268.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10268\nShipping Details:\nShip Name: GROSELLA-Restaurante\nShip Address: 5ª Ave. Los Palos Grandes\nShip City: Caracas\nShip Region: South America\nShip Postal Code: 1081\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: GROSR\nCustomer Name: GROSELLA-Restaurante\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-07-30\nShipped Date: 2016-08-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Thüringer Rostbratwurst\nQuantity: 10\nUnit Price: 99.0\nTotal: 990.0\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 4\nUnit Price: 27.8\nTotal: 111.2\nTotal Price:\nTotal Price: 1101.2\n",
+    "augmented_texts": [
+        "Ordination ID: 10268 Shipping Details: Ship Name: GROSELLA - Restaurante Ship Address: 5ª Ave. Los Palos Grandes Ship City: Caracas Ship Region: Confederate states America Ship Postal Code: 1081 Ship Country: Venezuela Customer Details: Customer ID: GROSR Customer Name: GROSELLA - Restaurante Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 07 - 30 Shipped Date: 2016 - 08 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Quantity: 10 Unit Price: ic. zero Total: 990. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Mozzarella di Giovanni Quantity: 4 Unit Price: 27. eighter Total: 111. 2 Total Price: Total Price: 1101. 2",
+        "Order ID: 10268 Shipping Details: Ship Name: GROSELLA - Restaurante Ship Address: 5ª Ave. Los Palos Grandes Ship City: Caracas Ship Region: South America Ship Postal Code: 1081 Ship Country: Republic of venezuela Customer Details: Customer ID: GROSR Customer Name: GROSELLA - Restaurante Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Name: Fed Shipping Order Details: Order Date: 2016 - 07 - 30 Shipped Date: 2016 - 08 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Measure: 10 Unit Cost: 99. 0 Total: 990. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mozzarella di Giovanni Measure: 4 Unit Price: 27. 8 Total: 111. 2 Total Price: Total Price: 1101. 2"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10268. Order Name: GROSELLA-Restaurante. Ship Address: 5ª Ave. Los Palos Grandes, Caracas. Country: Venezuela. Postal Code: 1-1081. Shipper: Federal Shipping. Product: Thüringer Rostbratwurst. Price: 990.0."
+}

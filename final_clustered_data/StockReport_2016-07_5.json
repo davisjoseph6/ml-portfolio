@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-07_5.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-07 \n Category : Grains/Cereals  \n id category : 5  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nGustaf's Knäckebröd\n6\n104\n21\nSingaporean Hokkien Fried Mee\n10\n26\n14\nGnocchi di nonna Alice\n2\n21\n38\nRavioli Angelo\n65\n36\n19.5\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 07 Category: Grains / Cereals id class: 5 Product Units Sold Units in Stock Unit Price Gustaf ' randomness Knäckebröd 6 104 twenty one Singaporean Hokkien Fried Mee 10 26 14 Gnocchi di nonna Alice 2 21 38 Ravioli Angelo 65 thirty six 19. 5",
+        "Stock Written report for 2016 - 07 Category: Grains / Cereal id class: 5 Product Units Sold Units in Stock Unit Price Gustaf ' s Knäckebröd 6 104 21 Singaporean Hokkien Fried Mee 10 twenty six 14 Gnocchi di nonna Alice 2 21 38 Ravioli Angelo 65 36 19. 5"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-07. Category : Grains/Cereals. id category : 5.                 Product          Units Sold Sold units in Stock                Unit Price                                 Gustaf's Knäckebröd6.6774104                                          ‚”’“‘‪‬‼ ”, “ ‚ ’,    ‘,  ‬ •,• ‼, and ″″,   –‭‿‹※‡‾‟ ‹ ※ ‡ ‭ ‟,"
+}

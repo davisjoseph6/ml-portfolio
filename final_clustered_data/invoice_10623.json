@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10623.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10623\nCustomer ID: FRANK\nOrder Date: 2017-08-07\nCustomer Details:\nContact Name:\nPeter Franken\nAddress:\nBerliner Platz 43\nCity:\nMünchen\nPostal Code:\n80805\nCountry:\nGermany\nPhone:\n089-0877310\nFax:\n089-0877451\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n14\nTofu\n21\n23.25\n19\nTeatime Chocolate Biscuits\n15\n9.2\n21\nSir Rodney's Scones\n25\n10.0\n24\nGuaraná Fantástica\n3\n4.5\n35\nSteeleye Stout\n30\n18.0\n \n \nTotalPrice\n1429.75\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Lodge ID: 10623 Customer ID: free spoken Order Date: 2017 - 08 - 07 Customer Details: Physical contact Name: St. peter the apostle Franken Address: Berliner Platz 43 City: München Postal Code: 80805 Country: Germany Phone: 089 - 0877310 Fax: 089 - 0877451 Cartesian product Details: Product ID Mathematical product Name Quantity Unit Damage 14 Tofu 21 23. 25 19 Teatime Chocolate Biscuits 15 9. 2 21 Sir Rodney ' s Scones 25 tenner. 0 24 Guaraná Fantástica 3 4. 5 35 Steeleye Stout 30 18. 0 TotalPrice 1429. lxxv Page 1",
+        "Invoice Purchase order ID: 10623 Customer ID: FRANK Order Engagement: 2017 - 08 - 07 Customer Details: Contact Name: Peter Franken Destination: Berliner Platz 43 City: München Postal Code: 80805 Country: Germany Phone: 089 - 0877310 Fax: 089 - 0877451 Product Details: Product ID Product Name Quantity Unit of measurement Price 14 Tofu 21 23. 25 nineteen Teatime Chocolate Biscuits xv 9. 2 21 Sir Rodney ' s Scones 25 10. 0 24 Guaraná Fantástica 3 4. cinque 35 Steeleye Stout 30 18. 0 TotalPrice 1429. 75 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: FRANK. Order Date: 2017-08-07.Customer Details:         Peter Franken. Address: Berliner Platz 43. City: München, Germany. Postal Code:  “’”. Country: “Germans. ‘‘."
+}

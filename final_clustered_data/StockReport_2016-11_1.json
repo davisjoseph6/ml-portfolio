@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-11_1.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-11 \n Category : Beverages  \n id category : 1  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nChai\n27\n39\n18\nGuaraná Fantástica\n45\n20\n4.5\nSasquatch Ale\n46\n111\n14\nCôte de Blaye\n80\n17\n263.5\nChartreuse verte\n104\n69\n18\nRhönbräu Klosterbier\n18\n125\n7.75\nLakkalikööri\n12\n57\n18\n",
+    "augmented_texts": [
+        "Stock Reputation for 2016 - xi Category: Beverages id category: 1 Product Social unit Sold Units in Stock Unit Price Chai 27 39 18 Guaraná Fantástica 45 20 foursome. quintuplet Sasquatch Ale 46 111 14 Côte de Blaye 80 17 263. 5 Chartreuse verte 104 69 18 Rhönbräu Klosterbier 18 125 7. 75 Lakkalikööri 12 57 18",
+        "Ancestry Report for 2016 - 11 Category: Beverages id category: 1 Product Units Sold Units in Stock Unit Price Chai twenty seven 39 18 Guaraná Fantástica 45 20 4. 5 Bigfoot Ale forty six 111 14 Côte de Blaye 80 17 263. 5 Chartreuse verte 104 69 18 Rhönbräu Klosterbier 18 125 7. 75 Lakkalikööri 12 57 18"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-11. Category : Beverages. id category : 1              Product : Beverages - Units Sold, Units in Stock, Unit Price.     Côte de Blaye, Chai, Fasquatch Ale, Rhönbräu Klosterbier, Lakkalikööri."
+}

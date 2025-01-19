@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10634.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10634\nCustomer ID: FOLIG\nOrder Date: 2017-08-15\nCustomer Details:\nContact Name:\nMartine Rancé\nAddress:\n184, chaussée de Tournai\nCity:\nLille\nPostal Code:\n59000\nCountry:\nFrance\nPhone:\n20.16.10.16\nFax:\n20.16.10.17\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n7\nUncle Bob's Organic Dried Pears\n35\n30.0\n18\nCarnarvon Tigers\n50\n62.5\n51\nManjimup Dried Apples\n15\n53.0\n75\nRhönbräu Klosterbier\n2\n7.75\n \n \nTotalPrice\n4985.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10634 Customer ID: FOLIG Order Date: 2017 - 08 - xv Customer Particular: Contact Name: Martine Rancé Address: 184, chaussée de Tournai City: Lille Postal Code: 59000 Country: France Phone: 20. 16. 10. 16 Fax: 20. 16. 10. 17 Product Details: Product ID Product Name Quantity Unit Price 7 Uncle Bob ' s Organic Dried Pears 35 30. zero 18 Carnarvon Tigers 50 62. v 51 Manjimup Dried Orchard apple tree 15 53. 0 75 Rhönbräu Klosterbier 2 septet. 75 TotalPrice 4985. five Pageboy 1",
+        "Invoice Order ID: 10634 Customer ID: FOLIG Order Date: 2017 - 08 - 15 Customer Details: Contact Name: Martine Rancé Address: 184, chaussée de Tournai City: Lille Postal Code: 59000 Country: France Phone: twenty. 16. 10. 16 Facsimile machine: xx. 16. 10. seventeen Product Details: Merchandise ID Product Name Quantity Building block Price 7 Uncle Bob ' s Organic Dried Pears 35 30. 0 18 Carnarvon Ltte fifty 62. 5 51 Manjimup Dried Apples 15 fifty three. 0 75 Rhönbräu Klosterbier 2 7. 75 TotalPrice 4985. 5 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: FOLIG. Order Date: 2017-08-15. Customer: Martine Rancé. Product: Rhönbräu Klosterbier. Price: $4985.5. Customers can order online at folig.com/folign."
+}

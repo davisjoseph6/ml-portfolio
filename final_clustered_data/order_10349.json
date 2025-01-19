@@ -1,0 +1,24 @@
+{
+    "filename": "order_10349.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10349\nShipping Details:\nShip Name: Split Rail Beer & Ale\nShip Address: P.O. Box 555\nShip City: Lander\nShip Region: North America\nShip Postal Code: 82520\nShip Country: USA\nCustomer Details:\nCustomer ID: SPLIR\nCustomer Name: Split Rail Beer & Ale\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-11-08\nShipped Date: 2016-11-15\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 24\nUnit Price: 5.9\nTotal: 141.60000000000002\nTotal Price:\nTotal Price: 141.60000000000002\n",
+    "augmented_texts": [
+        "Order ID: 10349 Shipping Details: Ship Name: Split Rail Beer & Ale Ship Address: P. O. Box 555 Ship City: Lander Ship Region: North America Ship Postal Computer code: 82520 Ship Country: USA Customer Details: Customer ID: SPLIR Customer Name: Split Rail Beer & Ale Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 1 Shipper Public figure: Speedy Express Order Details: Order Date: 2016 - 11 - 08 Shipped Date: 2016 - 11 - 15 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 24 Whole Terms: 5. nina from carolina Total: 141. 60000000000002 Entire Price: Total Price: 141. 60000000000002",
+        "Lodge ID: 10349 Ship Details: Ship Name: Split Rail Beer & Ale Ship Address: P. O. Box 555 Ship City: Lander Ship Area: North America Ship Postal Code: 82520 Ship Country: USA Customer Details: Customer ID: SPLIR Customer Name: Rip Rail Beer & Ale Employee Details: Employee Name: Robert King Shipper Detail: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Rescript Date: 2016 - 11 - 08 Shipped Date: 2016 - 11 - 15 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Tourtière Quantity: 24 Unit Price: 5. nina from carolina Total: 141. 60000000000002 Total Price: Total Cost: 141. 60000000000002"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10349. Ship Address: P.O. Box 555. Postal Code: 82520. Country: USA. Order Date: 2016-11-08. Shipper: Speedy Express. Product Name: Split Rail Beer & Ale. Unit Price: 5.9."
+}

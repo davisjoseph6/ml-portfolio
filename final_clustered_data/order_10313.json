@@ -1,0 +1,24 @@
+{
+    "filename": "order_10313.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10313\nShipping Details:\nShip Name: QUICK-Stop\nShip Address: Taucherstraße 10\nShip City: Cunewalde\nShip Region: Western Europe\nShip Postal Code: 1307\nShip Country: Germany\nCustomer Details:\nCustomer ID: QUICK\nCustomer Name: QUICK-Stop\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-09-24\nShipped Date: 2016-10-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Inlagd Sill\nQuantity: 12\nUnit Price: 15.2\nTotal: 182.39999999999998\nTotal Price:\nTotal Price: 182.39999999999998\n",
+    "augmented_texts": [
+        "Order ID: 10313 Shipping Details: Ship Gens: QUICK - Stop Ship Address: Taucherstraße 10 Ship City: Cunewalde Ship Region: Western Europe Ship Postal Code: 1307 Ship Country: Germany Customer Details: Customer ID: QUICK Customer Gens: QUICK - Stop Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: ii Shipper Public figure: United Package Order Details: Order Date: 2016 - 09 - 24 Shipped Date: 2016 - x - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 12 Unit Price: xv. 2 Total: 182. 39999999999998 Total Price: Total Price: 182. 39999999999998",
+        "Order ID: 10313 Shipping Details: Ship Name: QUICK - Stop Ship Address: Taucherstraße 10 Ship City: Cunewalde Ship Region: Western Europe Ship Postal Code: 1307 Ship Country: Frg Customer Details: Customer ID: QUICK Client Name: QUICK - Stop Employee Details: Employee Name: Andrew Fuller Shipper Detail: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 24 Shipped Date: 2016 - 10 - 04 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Measure: twelve Unit Price: 15. 2 Total: 182. 39999999999998 Total Monetary value: Total Price: 182. 39999999999998"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10313. Order Name: QUICK-Stop. Ship Address: Taucherstraße 10, Cunewalde, Germany. Postal Code: 1307. Country: Germany; Region: Western Europe; Ship City: C unewalde."
+}

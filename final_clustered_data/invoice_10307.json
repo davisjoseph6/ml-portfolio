@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10307.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10307\nCustomer ID: LONEP\nOrder Date: 2016-09-17\nCustomer Details:\nContact Name:\nFran Wilson\nAddress:\n89 Chiaroscuro Rd.\nCity:\nPortland\nPostal Code:\n97219\nCountry:\nUSA\nPhone:\n(503) 555-9573\nFax:\n(503) 555-9646\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n62\nTarte au sucre\n10\n39.4\n68\nScottish Longbreads\n3\n10.0\n \n \nTotalPrice\n424.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10307 Customer ID: LONEP Order Date: 2016 - 09 - 17 Customer Details: Contact Name: Fran Charles thomson rees wilson Address: 89 Chiaroscuro Rd. City: Portland Postal Code: 97219 Country: USA Sound: (503) 555 - 9573 Fax: (503) 555 - 9646 Mathematical product Details: Product ID Product Name Measure Unit Price 62 Tarte au sucre 10 thirty nine. little joe 68 Scottish Longbreads 3 decade. 0 TotalPrice 424. 0 Page 1",
+        "Invoice Order ID: 10307 Customer ID: LONEP Order Date: 2016 - 09 - 17 Client Details: Contact Figure: Fran Wilson Address: 89 Chiaroscuro Rd. Urban center: Portland Postal Code: 97219 Country: USA Phone: (503) 555 - 9573 Fax: (503) 555 - 9646 Product Details: Product ID Product Name Quantity Unit Price 62 Tarte au sucre 10 39. quaternion 68 Scottish Longbreads troika 10. 0 TotalPrice 424. 0 Page one"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 10307.Customer IDs: LONEP and LOPEP. Order Date: 2016-09-17. Customer Details:                .Contact Name:Fran Wilson. Address: 89 Chiaroscuro Rd, Portland, Oregon. Postal Code: 97219. Country: USA. Phone: 555-9573."
+}

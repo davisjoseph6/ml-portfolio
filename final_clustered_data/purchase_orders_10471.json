@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10471.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10471\n2017-03-11\nVictoria Ashworth\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n7\nUncle Bob's Organic Dried Pears\n30\n24\n56\nGnocchi di nonna Alice\n20\n30.4\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10471 2017 - 03 - 11 Victoria Ashworth Products Cartesian product ID: Product: Quantity: Unit Monetary value: 7 Uncle Bob ' s Organic Dried Pears 30 24 56 Gnocchi di nonna Alice twenty 30. 4 Page ane",
+        "Purchase Orders Order ID Order Date Customer Name 10471 2017 - 03 - 11 Victoria Ashworth Product Product ID: Product: Amount: Unit Price: 7 Uncle Bob ' s Organic fertilizer Dried Pears 30 24 56 Gnocchi di nonna Alice 20 30. 4 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass the following products: Pears, apples, cherries, pears and applesauce. The products are sold by Victoria Ashworth, who is also the owner of Uncle Bob's Organic Dried P Bears. For more information on the products, visit Victoria's website."
+}

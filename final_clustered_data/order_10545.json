@@ -1,0 +1,24 @@
+{
+    "filename": "order_10545.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10545\nShipping Details:\nShip Name: Lazy K Kountry Store\nShip Address: 12 Orchestra Terrace\nShip City: Walla Walla\nShip Region: North America\nShip Postal Code: 99362\nShip Country: USA\nCustomer Details:\nCustomer ID: LAZYK\nCustomer Name: Lazy K Kountry Store\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-05-22\nShipped Date: 2017-06-26\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 10\nUnit Price: 21.0\nTotal: 210.0\nTotal Price:\nTotal Price: 210.0\n",
+    "augmented_texts": [
+        "Order ID: 10545 Ship Details: Ship Name: Lazy K Kountry Shop Ship Address: 12 Orchestra Terrace Ship Metropolis: Walla Walla Ship Region: North America Ship Postal Code: 99362 Ship Country: USA Customer Details: Customer ID: LAZYK Customer Epithet: Lazy K Kountry Store Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 05 - 22 Shipped Date: 2017 - 06 - 26 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Measure: 10 Unit Price: 21. 0 Totality: 210. 0 Full Price: Full Price: 210. 0",
+        "Order ID: 10545 Shipping Details: Ship Name: Lazy Kib Kountry Store Ship Address: 12 Orchestra Terrace Ship City: Walla Walla Ship Region: Compass north America Ship Postal Code: 99362 Ship Country: united states Client Details: Customer ID: LAZYK Customer Name: Lazy K Kountry Store Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Public figure: United Package Order Details: Order Date: 2017 - 05 - twenty two Shipped Date: 2017 - 06 - 26 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: x Unit Price: 21. 0 Total: 210. 0 Total Price: Full Price: 210. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10545. Ship address: 12 Orchestra Terrace. Postal Code: 99362. Country: USA. Order date: 2017-05-22. Shipper: United Package. Product: Queso Cabrales.Unit Price: 21.0. Unit Quantity: 10."
+}

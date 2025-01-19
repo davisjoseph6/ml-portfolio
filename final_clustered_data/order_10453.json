@@ -1,0 +1,24 @@
+{
+    "filename": "order_10453.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10453\nShipping Details:\nShip Name: Around the Horn\nShip Address: Brook Farm Stratford St. Mary\nShip City: Colchester\nShip Region: British Isles\nShip Postal Code: CO7 6JX\nShip Country: UK\nCustomer Details:\nCustomer ID: AROUT\nCustomer Name: Around the Horn\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-02-21\nShipped Date: 2017-02-26\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chocolade\nQuantity: 15\nUnit Price: 10.2\nTotal: 153.0\n--------------------------------------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 25\nUnit Price: 12.0\nTotal: 300.0\nTotal Price:\nTotal Price: 453.0\n",
+    "augmented_texts": [
+        "Order ID: 10453 Shipping Details: Ship Name: Around the Horn Ship Address: Creek Farm Stratford St. Mary Ship City: Colchester Ship Region: British Isles Ship Postal Codification: CO7 6JX Ship Country: UK Customer Details: Client ID: AROUT Customer Name: Around the Horn Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Point: Order Date: 2017 - 02 - 21 Shipped Date: 2017 - 02 - 26 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chocolade Quantity: 15 Unit Price: 10. 2 Total: 153. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 25 Unit Price: 12. 0 Totality: 300. nought Total Price: Total Price: 453. 0",
+        "Order i.d.: 10453 Shipping Details: Ship Gens: Around the Horn Ship Address: Brook Farm Stratford St. Mary Ship City: Colchester Ship Region: British Isles Ship Postal Code: CO7 6JX Ship Country: UK Customer Detail: Customer ID: AROUT Customer Name: Around the Horn Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 02 - 21 Shipped Date: 2017 - 02 - 26 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chocolade Quantity: fifteen Unit Cost: 10. 2 Total: 153. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 25 Unit Price: 12. 0 Total: 300. 0 Total Price: Total Price: 453. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10453. Ship Address: Brook Farm Stratford St. Mary, Colchester, UK. Postal Code: CO7 6JX. Customer Name: Around the Horn. Shipper: United Package. Products: Chocolade, Outback Lager."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10480.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10480\nShipping Details:\nShip Name: Folies gourmandes\nShip Address: 184, chaussée de Tournai\nShip City: Lille\nShip Region: Western Europe\nShip Postal Code: 59000\nShip Country: France\nCustomer Details:\nCustomer ID: FOLIG\nCustomer Name: Folies gourmandes\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-03-20\nShipped Date: 2017-03-24\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Zaanse koeken\nQuantity: 30\nUnit Price: 7.6\nTotal: 228.0\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 12\nUnit Price: 44.0\nTotal: 528.0\nTotal Price:\nTotal Price: 756.0\n",
+    "augmented_texts": [
+        "Order ID: 10480 Shipping Details: Ship Name: Folies gourmandes Ship Address: 184, chaussée de Tournai Ship City: Lille Ship Region: Western Europe Ship Postal Code: 59000 Ship Body politic: France Customer Details: Customer idaho: FOLIG Customer Name: Folies gourmandes Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 03 - 20 Shipped Date: 2017 - 03 - 24 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Zaanse koeken Quantity: 30 Unit Price: 7. 6 Total: 228. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Raclette Courdavault Amount: 12 Unit Price: 44. 0 Total: 528. 0 Total Price: Total Price: 756. 0",
+        "Order ID: 10480 Shipping Details: Ship Name: Folies gourmandes Ship Address: 184, chaussée de Tournai Ship Metropolis: Lille Ship Region: Western European economic community Ship Postal Code: 59000 Ship Country: France Client Details: Customer ID: FOLIG Customer Name: Folies gourmandes Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Detail: Ordering Engagement: 2017 - 03 - 20 Shipped Date: 2017 - 03 - 24 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Zaanse koeken Quantity: 30 Unit Price: 7. 6 Total: 228. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 12 Unit Price: 44. 0 Total: 528. 0 Total Price: Total Price: 756. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10480. Order Name: Folies gourmandes. Ship Address: 184, chaussée de Tournai. City: Lille. Region: Western Europe. Postal Code: 59000. Country: France. Customer: FOLIG. Shipper: United Package."
+}

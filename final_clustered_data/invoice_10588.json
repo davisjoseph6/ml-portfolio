@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10588.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10588\nCustomer ID: QUICK\nOrder Date: 2017-07-03\nCustomer Details:\nContact Name:\nHorst Kloss\nAddress:\nTaucherstraße 10\nCity:\nCunewalde\nPostal Code:\n01307\nCountry:\nGermany\nPhone:\n0372-035188\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n18\nCarnarvon Tigers\n40\n62.5\n42\nSingaporean Hokkien Fried Mee\n100\n14.0\n \n \nTotalPrice\n3900.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Ordination ID: 10588 Customer ID: QUICK Order Date: 2017 - 07 - 03 Customer Details: Contact Name: Horst Kloss Address: Taucherstraße 10 City: Cunewalde Postal Code: 01307 Country: Germany Phone: 0372 - 035188 Fax: None Intersection Detail: Product ID Product Name Quantity Building block Price 18 Carnarvon Tigers 40 62. 5 42 Singaporean Hokkien Fried Mee 100 14. 0 TotalPrice 3900. 0 Page 1",
+        "Invoice Order ID: 10588 Customer ID: QUICK Order Date: 2017 - 07 - 03 Customer Detail: Contact Name: Horst Kloss Computer address: Taucherstraße 10 Metropolis: Cunewalde Postal Code: 01307 Country: Germany Phone: 0372 - 035188 Fax: None Product Details: Product ID Product Name Quantity Building block Price 18 Carnarvon Tigers 40 sixty two. 5 42 Singaporean Hokkien Fried Mee 100 14. zero TotalPrice 3900. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10588.Customer ID: QUICK. Order Date: 2017-07-03. Customers: Horst Kloss. Product: Singaporean Hokkien Fried Mee. Price: $3900.0.Product Name: \"Hooker\""
+}

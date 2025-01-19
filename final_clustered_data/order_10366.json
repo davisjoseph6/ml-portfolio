@@ -1,0 +1,24 @@
+{
+    "filename": "order_10366.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10366\nShipping Details:\nShip Name: Galería del gastronómo\nShip Address: Rambla de Cataluña, 23\nShip City: Barcelona\nShip Region: Southern Europe\nShip Postal Code: 8022\nShip Country: Spain\nCustomer Details:\nCustomer ID: GALED\nCustomer Name: Galería del gastrónomo\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-11-28\nShipped Date: 2016-12-30\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper Sauce\nQuantity: 5\nUnit Price: 16.8\nTotal: 84.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 5\nUnit Price: 10.4\nTotal: 52.0\nTotal Price:\nTotal Price: 136.0\n",
+    "augmented_texts": [
+        "Order gem state: 10366 Shipping Details: Ship Name: Galería del gastronómo Ship Address: Rambla de Cataluña, 23 Ship City: Barcelona Ship Region: Southern Eec Ship Postal Code: 8022 Ship Country: Spain Customer Details: Customer idaho: GALED Customer Name: Galería del gastrónomo Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 11 - twenty eight Shipped Date: 2016 - 12 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: 5 Unit Price: 16. 8 Total: 84. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 5 Unit Monetary value: 10. 4 Total: 52. 0 Total Price: Entire Price: 136. 0",
+        "Order gem state: 10366 Shipping Details: Ship Epithet: Galería del gastronómo Ship Address: Rambla de Cataluña, 23 Ship City: Barcelona Ship Region: Southern Europe Ship Postal Codification: 8022 Ship Country: Spain Customer Details: Client ID: GALED Customer Name: Galería del gastrónomo Employee Details: Employee Name: Laura Callahan Shipper Detail: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 11 - 28 Shipped Date: 2016 - 12 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: 5 Unit Price: 16. 8 Total: 84. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: 5 Unit Price: 10. 4 Total: 52. 0 Total Terms: Full Price: 136. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10366. Order Name: Galería del gastronómo. Ship Address: Rambla de Cataluña, 23. City: Barcelona. Region: Southern Europe. Postal Code: 8022. Country: Spain. Customer: GALED. Employee: Laura Callahan."
+}

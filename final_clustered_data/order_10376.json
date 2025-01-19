@@ -1,0 +1,24 @@
+{
+    "filename": "order_10376.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10376\nShipping Details:\nShip Name: Mère Paillarde\nShip Address: 43 rue St. Laurent\nShip City: Montréal\nShip Region: North America\nShip Postal Code: H1J 1C3\nShip Country: Canada\nCustomer Details:\nCustomer ID: MEREP\nCustomer Name: Mère Paillarde\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-12-09\nShipped Date: 2016-12-13\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 42\nUnit Price: 10.0\nTotal: 420.0\nTotal Price:\nTotal Price: 420.0\n",
+    "augmented_texts": [
+        "Holy order ID: 10376 Shipping Details: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship City: Montréal Ship Region: North America Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 12 - 09 Shipped Date: 2016 - 12 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 42 Unit Price: 10. 0 Total: 420. zero Total Price: Total Leontyne price: 420. 0",
+        "Order ID: 10376 Shipping Details: Ship Name: Mère Paillarde Ship Address: 43 ruefulness St. Laurent Ship City: Montréal Ship Region: North America Ship Postal Codification: H1J 1C3 Ship Country: Canada Client Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Rules of order Details: Order Date: 2016 - 12 - 09 Shipped Date: 2016 - 12 - xiii Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gorgonzola Telino Quantity: 42 Whole Price: 10. 0 Total: 420. 0 Total Price: Total Price: 420. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10376. Order Name: Mère Paillarde. Ship Address: 43 rue St. Laurent, Montréal. Postal Code: H1J 1C3. Country: Canada. Shipper: United Package. Product: Gorgonzola Telino. Unit Quantity: 42. Price: 420.0."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10647.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10647\n2017-08-27\nBernardo Batista\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n19\nTeatime Chocolate Biscuits\n30\n9.2\n39\nChartreuse verte\n20\n18\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10647 2017 - 08 - xxvii Bernardo Batista Products Production ID: Product: Quantity: Unit Monetary value: 19 Teatime Chocolate Cooky 30 9. 2 thirty nine Chartreuse verte 20 18 Page 1",
+        "Purchase Ordination Order ID Order Date Customer Name 10647 2017 - 08 - 27 Bernardo Batista Products Product ID: Product: Quantity: Unit Price: 19 Teatime Chocolate Cookie xxx 9. 2 39 Chartreuse verte 20 18 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass chocolate biscuits, chocolates, chocolate chips, and chocolate ice cream. The product ID is: \"Chocolate Biscuits\" The customer name is \"Bernardo Batista\" and the order date is August 27, 2017. For more information, visit www.chocolatebiscuit.com."
+}

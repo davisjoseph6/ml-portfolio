@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10600.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10600\nCustomer ID: HUNGC\nOrder Date: 2017-07-16\nCustomer Details:\nContact Name:\nYoshi Latimer\nAddress:\nCity Center Plaza 516 Main St.\nCity:\nElgin\nPostal Code:\n97827\nCountry:\nUSA\nPhone:\n(503) 555-6874\nFax:\n(503) 555-2376\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n54\nTourtière\n4\n7.45\n73\nRöd Kaviar\n30\n15.0\n \n \nTotalPrice\n479.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order gem state: 10600 Customer ID: HUNGC Order Date: 2017 - 07 - 16 Customer Details: Contact Name: Yoshi Latimer Address: City Snapper Plaza 516 Briny St. City: Elgin Postal Code: 97827 Country: USA Speech sound: (503) 555 - 6874 Fax: (503) 555 - 2376 Product Details: Product ID Product Public figure Amount Unit Price 54 Tourtière 4 7. 45 73 Röd Kaviar 30 15. 0 TotalPrice 479. 8 Page 1",
+        "Invoice Order idaho: 10600 Client ID: HUNGC Order Date: 2017 - 07 - 16 Customer Detail: Contact Name: Yoshi Latimer Address: City Center Plaza 516 Main St. City: Elgin Postal Code: 97827 Country: USA Phone: (503) 555 - 6874 Fax: (503) 555 - 2376 Cartesian product Details: Product ID Production Name Quantity Unit Price 54 Tourtière quadruplet 7. 45 73 Röd Kaviar 30 15. 0 TotalPrice 479. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: \"Yoshi Latimer\" Invoice ID: 10600; customer name: HUNGC; order date: 2017-07-16; invoices number: 516 Main St. Order quantity: 54.54 pounds; unit price: 7.45 euros; page number is 1.0."
+}

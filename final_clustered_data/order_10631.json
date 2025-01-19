@@ -1,0 +1,24 @@
+{
+    "filename": "order_10631.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10631\nShipping Details:\nShip Name: La maison d-Asie\nShip Address: 1 rue Alsace-Lorraine\nShip City: Toulouse\nShip Region: Western Europe\nShip Postal Code: 31000\nShip Country: France\nCustomer Details:\nCustomer ID: LAMAI\nCustomer Name: La maison d'Asie\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-08-14\nShipped Date: 2017-08-15\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 8\nUnit Price: 7.75\nTotal: 62.0\nTotal Price:\nTotal Price: 62.0\n",
+    "augmented_texts": [
+        "Order ID: 10631 Shipping Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Westerly Europe Ship Postal Code: 31000 Ship Country: France Customer Detail: Customer ID: LAMAI Client Name: La maison d ' Asie Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Club Date: 2017 - 08 - 14 Shipped Date: 2017 - 08 - fifteen Ware: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Rhönbräu Klosterbier Quantity: 8 Unit Price: 7. 75 Total: 62. 0 Total Price: Total Price: 62. 0",
+        "Order ID: 10631 Shipping Details: Ship Name: La maison d - Asie Ship Speech: 1 rue Alsace - Lothringen Ship City: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Country: France Customer Details: Customer ID: LAMAI Customer Public figure: La maison d ' Asie Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Fiat Details: Order of magnitude Date: 2017 - 08 - 14 Shipped Date: 2017 - 08 - 15 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 8 Unit Price: 7. 75 Total: 62. 0 Total Price: Total Price: sixty two. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "The Rhönbräu Klosterbier is a beer produced in Toulouse, France. The beer is produced by the company La maison d'Asie. It is available in 8-ounce bottles and is priced between 7.75 and 62.0 euros."
+}

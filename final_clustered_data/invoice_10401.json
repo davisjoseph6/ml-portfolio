@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10401.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10401\nCustomer ID: RATTC\nOrder Date: 2017-01-01\nCustomer Details:\nContact Name:\nPaula Wilson\nAddress:\n2817 Milton Dr.\nCity:\nAlbuquerque\nPostal Code:\n87110\nCountry:\nUSA\nPhone:\n(505) 555-5939\nFax:\n(505) 555-3620\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n30\nNord-Ost Matjeshering\n18\n20.7\n56\nGnocchi di nonna Alice\n70\n30.4\n65\nLouisiana Fiery Hot Pepper Sauce\n20\n16.8\n71\nFlotemysost\n60\n17.2\n \n \nTotalPrice\n3868.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Rules of order ID: 10401 Customer ID: RATTC Order Date: 2017 - 01 - 01 Customer Details: Inter group communication Epithet: Paula President wilson Address: 2817 John milton Dr. City: Albuquerque Postal Code: 87110 Country: USA Phone: (505) 555 - 5939 Fax: (505) 555 - 3620 Product Details: Product ID Product Name Quantity Unit Price xxx Nord - Ost Matjeshering 18 20. 7 56 Gnocchi di nonna Alice 70 30. 4 65 Louisiana Fiery Hot Pepper Sauce 20 16. octonary 71 Flotemysost 60 seventeen. 2 TotalPrice 3868. 6 Page 1",
+        "Invoice Order ID: 10401 Customer ID: RATTC Order Date: 2017 - 01 - 01 Client Details: Contact Name: Paula Angus frank johnstone wilson Address: 2817 Milton Dr. City: Albuquerque Postal Code: 87110 Rural area: u.s. Phone: (505) 555 - 5939 Fax: (505) 555 - 3620 Mathematical product Details: Cartesian product ID Product Name Quantity Unit Price 30 Nord - Ost Matjeshering eighteen 20. 7 fifty six Gnocchi di nonna Alice 70 30. quaternity 65 Louisiana Fiery Hot Pepper Sauce 20 16. 8 71 Flotemysost 60 17. 2 TotalPrice 3868. 6 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Louisiana Fiery Hot Pepper Sauce. Invoice ID: 10401.Customer ID : RATTC. Order Date: 2017-01-1. Customer Details:                .Contact Name:                                         Paula Wilson. Address:           2817 Milton Dr. Albuquerque, New Mexico."
+}

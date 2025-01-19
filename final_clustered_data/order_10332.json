@@ -1,0 +1,24 @@
+{
+    "filename": "order_10332.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10332\nShipping Details:\nShip Name: Mère Paillarde\nShip Address: 43 rue St. Laurent\nShip City: Montréal\nShip Region: North America\nShip Postal Code: H1J 1C3\nShip Country: Canada\nCustomer Details:\nCustomer ID: MEREP\nCustomer Name: Mère Paillarde\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-10-17\nShipped Date: 2016-10-21\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Carnarvon Tigers\nQuantity: 40\nUnit Price: 50.0\nTotal: 2000.0\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 10\nUnit Price: 11.2\nTotal: 112.0\n--------------------------------------------------------------------------------------------------\nProduct: Zaanse koeken\nQuantity: 16\nUnit Price: 7.6\nTotal: 121.6\nTotal Price:\nTotal Price: 2233.6\n",
+    "augmented_texts": [
+        "Order idaho: 10332 Shipping Details: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship City: Montréal Ship Region: North America Ship Postal Code: H1J 1C3 Ship Country: Canada Client Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Software program Order Details: Order Date: 2016 - decade - 17 Shipped Date: 2016 - 10 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Carnarvon Tigers Quantity: 40 Social unit Price: 50. 0 Total: 2000. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 10 Unit Price: 11. 2 Total: 112. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Zaanse koeken Quantity: 16 Unit Price: 7. six Sum: 121. 6 Total Price: Total Price: 2233. 6",
+        "Order ID: 10332 Shipping Details: Ship Name: Mère Paillarde Ship Address: 43 rue St. Laurent Ship City: Montréal Ship Region: North America Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 10 - 17 Shipped Date: 2016 - 10 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Tigers Measure: 40 Unit Price: 50. 0 Total: 2000. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Measure: 10 Unit Damage: 11. 2 Total: 112. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Zaanse koeken Quantity: 16 Unit Price: 7. 6 Total: 121. 6 Full Price: Total Price: 2233. 6"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10332. Order Name: Mère Paillarde. Ship Address: 43 rue St. Laurent, Montréal. Postal Code: H1J 1C3. Country: Canada. Customers: MEREP, Janet Leverling. Shipper: United Package."
+}

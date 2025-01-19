@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10483.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10483\nCustomer ID: WHITC\nOrder Date: 2017-03-24\nCustomer Details:\nContact Name:\nKarl Jablonski\nAddress:\n305 - 14th Ave. S. Suite 3B\nCity:\nSeattle\nPostal Code:\n98128\nCountry:\nUSA\nPhone:\n(206) 555-4112\nFax:\n(206) 555-4115\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n34\nSasquatch Ale\n35\n11.2\n77\nOriginal Frankfurter grüne Soße\n30\n10.4\n \n \nTotalPrice\n704.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10483 Client ID: WHITC Order Date: 2017 - 03 - twenty four Customer Details: Contact Name: Karl Jablonski Address: 305 - 14th Ave. S. Suite 3B City: Seattle Postal Codification: 98128 Country: USA Phone: (206) 555 - 4112 Fax: (206) 555 - 4115 Product Details: Product ID Product Name Quantity Unit Terms 34 Bigfoot Ale 35 11. 2 seventy seven Original Frankfurter grüne Soße 30 x. 4 TotalPrice 704. 0 Page 1",
+        "Invoice Order gem state: 10483 Customer ID: WHITC Order Date: 2017 - 03 - 24 Customer Details: Contact Name: Karl Jablonski Savoir faire: 305 - 14th Ave. S. Suite 3B City: Seattle Postal Code: 98128 Country: u.s.a. Phone: (206) 555 - 4112 Fax: (206) 555 - 4115 Product Details: Product ID Product Gens Quantity Unit Price 34 Sasquatch Ale 35 11. 2 77 Original Frankfurter grüne Soße 30 x. 4 TotalPrice 704. 0 Varlet 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10483.Customer ID: WHITC. Order Date: 2017-03-24. Customer: Karl Jablonski. Product: Sasquatch Ale. Price: $35.11. Original Frankfurter grüne Soße: €10.4 per person."
+}

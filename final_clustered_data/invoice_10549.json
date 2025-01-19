@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10549.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10549\nCustomer ID: QUICK\nOrder Date: 2017-05-27\nCustomer Details:\nContact Name:\nHorst Kloss\nAddress:\nTaucherstraße 10\nCity:\nCunewalde\nPostal Code:\n01307\nCountry:\nGermany\nPhone:\n0372-035188\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n31\nGorgonzola Telino\n55\n12.5\n45\nRogede sild\n100\n9.5\n51\nManjimup Dried Apples\n48\n53.0\n \n \nTotalPrice\n4181.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10549 Client ID: QUICK Rescript Date: 2017 - 05 - 27 Customer Details: Contact Name: Horst Kloss Address: Taucherstraße 10 City: Cunewalde Postal Code: 01307 State: Frg Phone: 0372 - 035188 Facsimile: None Product Details: Product ID Product Name Quantity Unit Price 31 Gorgonzola Telino 55 12. 5 45 Rogede sild 100 9. 5 51 Manjimup Dried Apples 48 53. 0 TotalPrice 4181. 5 Thomas nelson page i",
+        "Invoice Order ID: 10549 Customer ID: QUICK Order Date: 2017 - 05 - 27 Client Details: Contact Name: Horst Kloss Name and address: Taucherstraße 10 City: Cunewalde Postal Code: 01307 Country: Germany Phone: 0372 - 035188 Fax: None Product Details: Merchandise ID Product Epithet Measure Unit Price 31 Gorgonzola Telino 55 dozen. 5 45 Rogede sild 100 9. 5 51 Manjimup Dried Apples 48 53. 0 TotalPrice 4181. v Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: QUICK. Order Date: 2017-05-27. Customer: Horst Kloss. Product: Gorgonzola Telino, Manjimup Dried Apples, Rogede sild. Price: $4181.5."
+}

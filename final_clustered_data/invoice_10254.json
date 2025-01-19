@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10254.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10254\nCustomer ID: CHOPS\nOrder Date: 2016-07-11\nCustomer Details:\nContact Name:\nYang Wang\nAddress:\nHauptstr. 29\nCity:\nBern\nPostal Code:\n3012\nCountry:\nSwitzerland\nPhone:\n0452-076545\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n24\nGuaraná Fantástica\n15\n3.6\n55\nPâté chinois\n21\n19.2\n74\nLonglife Tofu\n21\n8.0\n \n \nTotalPrice\n625.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Holy order ID: 10254 Customer ID: CHOPS Order Date: 2016 - 07 - xi Customer Details: Contact Name: Yang Wang Address: Hauptstr. 29 City: Bern Postal Code: 3012 Country: Svizzera Phone: 0452 - 076545 Fax: None Product Details: Product ID Product Gens Quantity Unit Price 24 Guaraná Fantástica 15 3. 6 55 Pâté chinois 21 19. 2 74 Longlife Tofu 21 8. 0 TotalPrice 625. 2 Sir frederick handley page 1",
+        "Invoice Order ID: 10254 Customer ID: CHOPS Order Date: 2016 - 07 - 11 Client Details: Contact Public figure: Yang Wang Address: Hauptstr. 29 Urban center: Bern Postal Computer code: 3012 Land: Switzerland Phone: 0452 - 076545 Fax: None Product Details: Product i.d. Product Name Quantity Unit Price 24 Guaraná Fantástica 15 3. 6 55 Pâté chinois 21 19. 2 74 Longlife Tofu 21 8. 0 TotalPrice 625. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: CHOPS. Order Date: 2016-07-11. Customer: Yang Wang. Country: Switzerland. Product: Guaraná Fantástica. Unit Price: $625.2. Price per page: £1,000.00."
+}

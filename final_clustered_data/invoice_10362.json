@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10362.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10362\nCustomer ID: BONAP\nOrder Date: 2016-11-25\nCustomer Details:\nContact Name:\nLaurence Lebihan\nAddress:\n12, rue des Bouchers\nCity:\nMarseille\nPostal Code:\n13008\nCountry:\nFrance\nPhone:\n91.24.45.40\nFax:\n91.24.45.41\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n25\nNuNuCa Nuß-Nougat-Creme\n50\n11.2\n51\nManjimup Dried Apples\n20\n42.4\n54\nTourtière\n24\n5.9\n \n \nTotalPrice\n1549.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10362 Customer idaho: BONAP Order Date: 2016 - 11 - 25 Customer Details: Contact Name: Laurence Lebihan Address: 12, rue des Bouchers City: Marseille Postal Code: 13008 Country: France Phone: xci. twenty four. 45. 40 Facsimile machine: 91. 24. 45. 41 Product Details: Product ID Product Name Quantity Whole Damage 25 NuNuCa Nuß - Nougat - Creme 50 eleven. 2 51 Manjimup Dried Apples 20 42. 4 54 Tourtière 24 5. 9 TotalPrice 1549. 6 Page 1",
+        "Invoice Order ID: 10362 Customer ID: BONAP Order Day of the month: 2016 - 11 - 25 Client Details: Contact Name: Laurence Lebihan Address: 12, rue des Bouchers City: Marseille Postal Code: 13008 Country: France Speech sound: 91. two dozen. 45. 40 Fax: 91. 24. 45. 41 Product Details: Product ID Product Name Quantity Unit Monetary value 25 NuNuCa Nuß - Nougat - Creme 50 11. ii 51 Manjimup Dried Apples 20 42. 4 54 Tourtière xxiv 5. 9 TotalPrice 1549. 6 Page one"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10362.Customer: Laurence Lebihan. Product: Manjimup Dried Apples. Price: Nuß-Nougat-Creme. Customer: BONAP. Order Date: 2016-11-25.Product Name: \"Nouveau Creme\""
+}

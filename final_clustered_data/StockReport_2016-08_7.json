@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-08_7.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-08 \n Category : Produce  \n id category : 7  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nRössle Sauerkraut\n20\n26\n45.6\nManjimup Dried Apples\n2\n20\n53\n",
+    "augmented_texts": [
+        "Broth Report for 2016 - 08 Category: Produce id category: 7 Mathematical product Units Sold Units in Stock Unit Price Rössle Sauerkraut 20 xxvi 45. 6 Manjimup Dried Apples 2 20 53",
+        "Stock Report for 2016 - 08 Class: Green groceries id category: 7 Product Units Sold Units in Stock Unit Price Rössle Sauerkraut 20 26 45. 6 Manjimup Dried Apples 2 20 53"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-08. Category : Produce. id category : 7                   Product: Sauerkraut, Dried Apples, Rössle. Price: €1.50 per kilogram. Number of tonnes sold: 2,856 tonnes."
+}

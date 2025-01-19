@@ -1,0 +1,24 @@
+{
+    "filename": "order_10250.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10250\nShipping Details:\nShip Name: Hanari Carnes\nShip Address: Rua do Paço, 67\nShip City: Rio de Janeiro\nShip Region: South America\nShip Postal Code: 05454-876\nShip Country: Brazil\nCustomer Details:\nCustomer ID: HANAR\nCustomer Name: Hanari Carnes\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-07-08\nShipped Date: 2016-07-12\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 10\nUnit Price: 7.7\nTotal: 77.0\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 35\nUnit Price: 42.4\nTotal: 1484.0\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper Sauce\nQuantity: 15\nUnit Price: 16.8\nTotal: 252.0\nTotal Price:\nTotal Price: 1813.0\n",
+    "augmented_texts": [
+        "Order ID: 10250 Shipping Details: Ship Name: Hanari Carnes Ship Address: Rua do Paço, 67 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 05454 - 876 Ship Country: Brazil Customer Detail: Customer ID: HANAR Customer Name: Hanari Carnes Employee Item: Employee Name: Margaret Peacock Shipper Item: Shipper idaho: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 07 - 08 Shipped Date: 2016 - 07 - 12 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 10 Unit Price: 7. 7 Total: 77. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 35 Unit of measurement Price: 42. 4 Total: 1484. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: fifteen Unit Price: 16. 8 Total: 252. 0 Total Price: Total Price: 1813. 0",
+        "Order ID: 10250 Shipping Details: Ship Name: Hanari Carnes Ship Address: Rua do Paço, 67 Ship City: Rio de Janeiro Ship Region: South America Ship Postal Code: 05454 - 876 Ship Country: Brazil Client Details: Customer ID: HANAR Customer Name: Hanari Carnes Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 07 - 08 Shipped Date: 2016 - 07 - 12 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 10 Unit Price: 7. septenary Total: seventy seven. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 35 Unit Price: 42. 4 Amount: 1484. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: 15 Social unit Toll: 16. 8 Total: 252. 0 Total Price: Total Price: 1813. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10250. Ship Address: Rua do Paço, 67, Rio de Janeiro, Brazil. Postal Code: 05454-876. Customer Name: Hanari Carnes. Employee: Margaret Peacock. Shipper: United Package. Product: Manjimup Dried Apples."
+}

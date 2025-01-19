@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10379.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10379\nCustomer ID: QUEDE\nOrder Date: 2016-12-11\nCustomer Details:\nContact Name:\nBernardo Batista\nAddress:\nRua da Panificadora, 12\nCity:\nRio de Janeiro\nPostal Code:\n02389-673\nCountry:\nBrazil\nPhone:\n(21) 555-4252\nFax:\n(21) 555-4545\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n41\nJack's New England Clam Chowder\n8\n7.7\n63\nVegie-spread\n16\n35.1\n65\nLouisiana Fiery Hot Pepper Sauce\n20\n16.8\n \n \nTotalPrice\n959.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10379 Customer ID: QUEDE Ordering Date: 2016 - 12 - 11 Customer Details: Liaison Figure: Bernardo Batista Address: Rua district attorney Panificadora, 12 City: Rio de Janeiro Postal Code: 02389 - 673 Country: Brazil Telephone set: (21) 555 - 4252 Fax: (21) 555 - 4545 Product Details: Product ID Product Name Quantity Unit Price 41 Jack ' s New England Clam Chowder 8 7. seven 63 Vegie - spread sixteen 35. 1 65 Louisiana Fiery Hot Pepper Sauce 20 16. 8 TotalPrice 959. 2 Page one",
+        "Invoice Order ID: 10379 Customer ID: QUEDE Order Date: 2016 - 12 - 11 Customer Details: Contact Name: Bernardo Batista Address: Rua da Panificadora, 12 City: Rio de Janeiro Postal Code: 02389 - 673 Country: Brazil nut Phone: (xxi) 555 - 4252 Fax: (21) 555 - 4545 Product Details: Product ID Product Name Quantity Unit Price 41 Jack ' s New England Clam Chowder 8 7. sevener 63 Vegie - spread 16 thirty five. 1 65 Louisiana Fiery Hot Pepper Sauce 20 16. 8 TotalPrice 959. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10379.Customer ID: QUEDE. Order Date: 2016-12-11.Product: Jack's New England Clam Chowder, Louisiana Fiery Hot Pepper Sauce, Vegie-spread. Price: 959.2."
+}

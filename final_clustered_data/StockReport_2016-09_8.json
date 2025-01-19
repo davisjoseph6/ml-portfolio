@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-09_8.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-09 \n Category : Seafood  \n id category : 8  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nCarnarvon Tigers\n25\n42\n62.5\nNord-Ost Matjeshering\n10\n10\n25.89\nInlagd Sill\n52\n112\n19\nBoston Crab Meat\n50\n123\n18.4\nJack's New England Clam Chowder\n10\n85\n9.65\nEscargots de Bourgogne\n30\n62\n13.25\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 09 Category: Seafood id category: 8 Product Social unit Sold Units in Stock Unit Price Carnarvon Tiger 25 42 62. 5 Nord - Ost Matjeshering 10 ten 25. 89 Inlagd Sill 52 112 19 Boston Crab Meat 50 123 18. 4 Jack ' s New England Clam Chowder 10 85 9. 65 Escargots de Bourgogne 30 sixty two 13. 25",
+        "Stock Report for 2016 - 09 Category: Seafood id category: 8 Product Units Sold Units in Stock Whole Monetary value Carnarvon Tigers 25 xlii 62. 5 Nord - Ost Matjeshering 10 10 25. 89 Inlagd Sill 52 112 19 Boston Crab Meat 50 123 18. 4 Jackass ' s New England Clam Chowder 10 85 9. 65 Escargots de Bourgogne 30 62 13. xxv"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-09. Category : Seafood. id category : 8                  Product: \"Seafood\"  Category: seafood. Id category: 8, id type : \"Product,\" id: \"Seawood\", id : 8,  type of product: fish, meat, fish product, seafood product. Unit Price: $1,000."
+}

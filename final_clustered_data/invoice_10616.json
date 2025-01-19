@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10616.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10616\nCustomer ID: GREAL\nOrder Date: 2017-07-31\nCustomer Details:\nContact Name:\nHoward Snyder\nAddress:\n2732 Baker Blvd.\nCity:\nEugene\nPostal Code:\n97403\nCountry:\nUSA\nPhone:\n(503) 555-7555\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n38\nCôte de Blaye\n15\n263.5\n56\nGnocchi di nonna Alice\n14\n38.0\n70\nOutback Lager\n15\n15.0\n71\nFlotemysost\n15\n21.5\n \n \nTotalPrice\n5032.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10616 Customer ID: GREAL Order Date: 2017 - 07 - 31 Customer Details: Contact Name: Howard Snyder Address: 2732 Baker Blvd. City: Eugene Postal Code: 97403 Country: USA Phone: (503) 555 - 7555 Fax: None Product Details: Product ID Product Name Quantity Unit Cost 38 Côte de Blaye 15 263. 5 56 Gnocchi di nonna Alice xiv 38. 0 70 Outback Lager 15 fifteen. 0 71 Flotemysost 15 xxi. 5 TotalPrice 5032. 0 Page 1",
+        "Invoice Order ID: 10616 Client ID: GREAL Order Date: 2017 - 07 - 31 Customer Detail: Contact Name: Leslie howard stainer Snyder Address: 2732 Baker Blvd. City: Eugene Postal Code: 97403 Country: USA Phone: (503) 555 - 7555 Fax: None Product Details: Product ID Production Name Amount Unit Price 38 Côte de Blaye 15 263. 5 56 Gnocchi di nonna Alice 14 38. 0 70 Outback Laager 15 15. 0 71 Flotemysost 15 21. 5 TotalPrice 5032. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 106161620.Customer Name: GREAL. Order Date: 2017-07-31. Customer Details: GUILTY. Phone:(503) 555-7555.Fax: (Portland, Oregon) (PORTLAND, U.S.) Email: Howard. Snyder."
+}

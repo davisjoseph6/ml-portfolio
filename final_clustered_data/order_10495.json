@@ -1,0 +1,24 @@
+{
+    "filename": "order_10495.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10495\nShipping Details:\nShip Name: Laughing Bacchus Wine Cellars\nShip Address: 2319 Elm St.\nShip City: Vancouver\nShip Region: North America\nShip Postal Code: V3F 2K1\nShip Country: Canada\nCustomer Details:\nCustomer ID: LAUGB\nCustomer Name: Laughing Bacchus Wine Cellars\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-04-03\nShipped Date: 2017-04-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tunnbröd\nQuantity: 10\nUnit Price: 7.2\nTotal: 72.0\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 20\nUnit Price: 7.7\nTotal: 154.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 5\nUnit Price: 10.4\nTotal: 52.0\nTotal Price:\nTotal Price: 278.0\n",
+    "augmented_texts": [
+        "Order ID: 10495 Ship Details: Ship Name: Laughing Bacchus Wine Cellars Ship Address: 2319 Elm tree St. Ship City: Vancouver Ship Region: North America Ship Postal Code: V3F 2K1 Ship Country: Canada Customer Details: Customer ID: LAUGB Customer Name: Laughing Bacchus Wine Cellars Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 04 - 03 Shipped Date: 2017 - 04 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tunnbröd Quantity: 10 Unit Price: 7. 2 Total: 72. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Jack ' s New England Clam Chowder Quantity: 20 Unit Price: 7. 7 Total: 154. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frankfurter grüne Soße Quantity: little phoebe Unit Price: 10. 4 Total: 52. 0 Total Price: Total Price: 278. 0",
+        "Order idaho: 10495 Shipping Details: Ship Name: Laughing Bacchus Wine Cellars Ship Address: 2319 Elm St. Ship City: Vancouver Ship Region: Frederick north America Ship Postal Code: V3F 2K1 Ship Country: Canada Customer Details: Customer ID: LAUGB Customer Name: Laughing Bacchus Wine Cellars Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 04 - 03 Shipped Date: 2017 - 04 - 11 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tunnbröd Quantity: 10 Unit Price: 7. 2 Total: 72. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: twenty Unit Price: heptad. vii Total: 154. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Original Frank grüne Soße Quantity: 5 Unit Price: 10. quaternion Total: 52. 0 Entire Price: Total Price: 278. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10495. Ship Address: 2319 Elm St. Shop Name: Laughing Bacchus Wine Cellars. Postal Code: V3F 2K1. Country: Canada. Customer: LAUGB. Shipper: Federal Shipping. Product: Tunnbröd. Price: 7.2."
+}

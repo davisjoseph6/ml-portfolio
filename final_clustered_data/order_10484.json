@@ -1,0 +1,24 @@
+{
+    "filename": "order_10484.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10484\nShipping Details:\nShip Name: B-s Beverages\nShip Address: Fauntleroy Circus\nShip City: London\nShip Region: British Isles\nShip Postal Code: EC2 5NT\nShip Country: UK\nCustomer Details:\nCustomer ID: BSBEV\nCustomer Name: B's Beverages\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-03-24\nShipped Date: 2017-04-01\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 14\nUnit Price: 8.0\nTotal: 112.0\n--------------------------------------------------------------------------------------------------\nProduct: Boston Crab Meat\nQuantity: 10\nUnit Price: 14.7\nTotal: 147.0\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 3\nUnit Price: 42.4\nTotal: 127.19999999999999\nTotal Price:\nTotal Price: 386.2\n",
+    "augmented_texts": [
+        "Order idaho: 10484 Shipping Details: Ship Name: B - s Beverages Ship Address: Fauntleroy Circus Ship City: London Ship Region: British Isles Ship Postal Code: EC2 5NT Ship Country: UK Customer Details: Customer ID: BSBEV Customer Name: Group b ' s Beverages Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Transportation Order Details: Order Escort: 2017 - 03 - 24 Shipped Date: 2017 - 04 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' southward Scones Quantity: 14 Unit Price: 8. 0 Total: 112. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Quantity: 10 Unit Price: 14. 7 Total: 147. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Manjimup Dried Apples Quantity: 3 Unit Price: 42. 4 Total: 127. 19999999999999 Total Price: Total Price: 386. 2",
+        "Order ID: 10484 Shipping Details: Ship Name: B - siemens Beverages Ship Address: Fauntleroy Circus Ship City: London Ship Region: British Isles Ship Postal Codification: EC2 5NT Ship Country: UK Customer Details: Client ID: BSBEV Customer Name: Barn ' s Beverages Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 03 - 24 Shipped Date: 2017 - 04 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Quantity: xiv Unit Price: 8. 0 Total: 112. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Boston Crab Meat Measure: 10 Unit Price: 14. 7 Total: 147. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Manjimup Dried Apples Quantity: 3 Unit Price: 42. 4 Total: 127. 19999999999999 Total Price: Total Price: 386. ii"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10484. Ship Address: Fauntleroy Circus. Postal Code: EC2 5NT. Country: UK. Customer: BSBEV. Shipper: Federal Shipping. Product: Sir Rodney's Scones. Order: 2017-03-24."
+}

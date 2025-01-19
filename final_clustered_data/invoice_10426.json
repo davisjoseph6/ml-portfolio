@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10426.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10426\nCustomer ID: GALED\nOrder Date: 2017-01-27\nCustomer Details:\nContact Name:\nEduardo Saavedra\nAddress:\nRambla de Cataluña, 23\nCity:\nBarcelona\nPostal Code:\n08022\nCountry:\nSpain\nPhone:\n(93) 203 4560\nFax:\n(93) 203 4561\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n56\nGnocchi di nonna Alice\n5\n30.4\n64\nWimmers gute Semmelknödel\n7\n26.6\n \n \nTotalPrice\n338.20000000000005\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order gem state: 10426 Customer ID: GALED Order Date: 2017 - 01 - 27 Client Inside information: Contact Epithet: Eduardo Saavedra Address: Rambla de Cataluña, 23 City: Barcelona Postal Code: 08022 Country: Spain Phone: (ninety three) 203 4560 Fax: (93) 203 4561 Product Details: Product ID Mathematical product Name Quantity Unit Price 56 Gnocchi di nonna Alice 5 30. 4 64 Wimmers gute Semmelknödel septenary 26. 6 TotalPrice 338. 20000000000005 Page 1",
+        "Invoice Order ID: 10426 Client ID: GALED Order Date: 2017 - 01 - 27 Customer Details: Contact Name: Eduardo Saavedra Address: Rambla de Cataluña, 23 Metropolis: Barcelona Postal Code: 08022 Country: Spain Phone: (93) 203 4560 Fax: (93) 203 4561 Product Details: Product ID Product Name Amount Unit Toll 56 Gnocchi di nonna Alice 5 30. 4 64 Wimmers gute Semmelknödel 7 26. 6 TotalPrice 338. 20000000000005 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: GALED. Order Date: 2017-01-27. Customer Details:duardo Saavedra. Phone: (93) 203 4560.Fax:(93), 203 4561. Product: Wimmers gute Semmelknödel. Price: $338.200.005."
+}

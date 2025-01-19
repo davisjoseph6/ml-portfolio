@@ -33,6 +33,7 @@ ml-portfolio/
 │   ├── training_args.bin
 │   └── vocab.json
 ├── my_summarization_model.tar.gz       # Summarization model tarball for SageMaker deployment.
+├── model.tar.gz			# Unsupervised clustering SageMaker final artifacts (output JSON/model)
 ├── scripts/                            # Main folder for Python scripts (deploy, train, RAG, etc.).│   
 │   ├── data_prep.py                    	# Prepares data for DistilBERT classification training (tokenization, etc.). 
 │   ├── model.py                        	# DistilBERT model creation (TF). 
@@ -54,8 +55,8 @@ ml-portfolio/
 │   ├── create_endpoint.py              	# Creates Summarization SageMaker endpoint from model config.
 │   ├── test_summar_endpoint.py         	# Tests a deployed summarization endpoint with sample input.
 │   ├── rag/                            	# Retrieval-Augmented Generation pipeline code.
+│   │   ├── chunk_and_summarize.py                      # Splits docs into chunks, and summarizes.
 │   │   ├── build_rag_index_multi.py    		# Builds FAISS index from multiple summarized data dirs.
-│   │   ├── chunk_and_summarize.py      		# Splits docs into chunks, and summarizes.
 │   │   ├── faiss_index.bin             		# Example FAISS index (binary).
 │   │   ├── index_metadata.json         		# Metadata for the FAISS index.
 │   │   └── rag_query.py                		# Queries the RAG index + generative model for answers.

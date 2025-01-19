@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10556.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10556\nCustomer ID: SIMOB\nOrder Date: 2017-06-03\nCustomer Details:\nContact Name:\nJytte Petersen\nAddress:\nVinbæltet 34\nCity:\nKobenhavn\nPostal Code:\n1734\nCountry:\nDenmark\nPhone:\n31 12 34 56\nFax:\n31 13 35 57\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n72\nMozzarella di Giovanni\n24\n34.8\n \n \nTotalPrice\n835.1999999999999\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10556 Customer ID: SIMOB Order Date: 2017 - 06 - 03 Customer Details: Contact Name: Jytte Petersen Address: Vinbæltet 34 City: Kobenhavn Postal Code: 1734 Country: Denmark Phone: 31 12 xxxiv 56 Fax: xxxi 13 35 57 Product Item: Intersection ID Product Name Measure Whole Price 72 Mozzarella di Giovanni 24 thirty four. 8 TotalPrice 835. 1999999999999 Page 1",
+        "Invoice Parliamentary law ID: 10556 Customer ID: SIMOB Order Engagement: 2017 - 06 - 03 Customer Details: Contact Name: Jytte Petersen Address: Vinbæltet thirty four City: Kobenhavn Postal Codification: 1734 Country: Danmark Phone: 31 12 34 56 Fax: xxxi 13 35 57 Product Details: Product ID Ware Name Quantity Unit Leontyne price 72 Mozzarella di Giovanni 24 34. 8 TotalPrice 835. 1999999999999 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10556.Customer ID: SIMOB. Order Date: 2017-06-03. Customers: Jytte Petersen, Jens Petersen. Product Name: \"Vinbæltet 34,\" Product ID is \"Pentagon\", Product Quantity is 1,000."
+}

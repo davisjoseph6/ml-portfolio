@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-01_1.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-01 \n Category : Beverages  \n id category : 1  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nChai\n34\n39\n18\nChang\n60\n17\n19\nSteeleye Stout\n95\n20\n18\nCôte de Blaye\n99\n17\n263.5\nOutback Lager\n8\n15\n15\nLakkalikööri\n34\n57\n18\n",
+    "augmented_texts": [
+        "Descent Report for 2017 - 01 Category: Beverages id category: 1 Ware Units Sold Units in Stock Unit Price Chai 34 39 18 Chang jiang 60 17 19 Steeleye Stout ninety five 20 18 Côte de Blaye 99 17 263. cinque Outback Lager 8 15 15 Lakkalikööri 34 57 18",
+        "Stock Report for 2017 - 01 Category: Beverages id family: 1 Product Units Sold Units in Stock Unit Cost Chai 34 39 eighteen Chang 60 xvii 19 Steeleye Stout 95 20 18 Côte de Blaye 99 17 263. 5 Outback Lager 8 15 xv Lakkalikööri 34 57 18"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-01  encompasses beverages. Beverages include beer, wine, spirits, cider, beer and wine. The report is based on the latest figures available to the public on January 1, 2017. For more information, go to: http://www.dailymailonline.co.uk/news/article-261538/Stock-Report-for-2017-1-Beverages-includes-beverage-cargo-drinks.html?storylink=cpy."
+}

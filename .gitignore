@@ -35,3 +35,4 @@ __pycache__/
 models/
 distilbert_model.tar.gz
 my_summarization_model.tar.gz
+model.tar.gz

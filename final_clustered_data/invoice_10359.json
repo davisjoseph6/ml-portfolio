@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10359.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10359\nCustomer ID: SEVES\nOrder Date: 2016-11-21\nCustomer Details:\nContact Name:\nHari Kumar\nAddress:\n90 Wadhurst Rd.\nCity:\nLondon\nPostal Code:\nOX15 4NB\nCountry:\nUK\nPhone:\n(171) 555-1717\nFax:\n(171) 555-5646\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n16\nPavlova\n56\n13.9\n31\nGorgonzola Telino\n70\n10.0\n60\nCamembert Pierrot\n80\n27.2\n \n \nTotalPrice\n3654.4\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10359 Customer ID: SEVES Order Date: 2016 - 11 - xxi Customer Details: Contact Name: Hari Kumar Address: 90 Wadhurst Rd. City: London Postal Code: OX15 4NB Country: UK Phone: (171) 555 - 1717 Fax: (171) 555 - 5646 Product Details: Merchandise i.d. Product Gens Measure Unit Terms 16 Pavlova 56 13. 9 31 Gorgonzola Telino lxx 10. 0 60 Camembert Pierrot 80 27. ii TotalPrice 3654. 4 Page one",
+        "Account Parliamentary law ID: 10359 Customer gem state: SEVES Order Date: 2016 - 11 - xxi Customer Details: Contact Name: Hari Kumar Address: 90 Wadhurst Rd. City: London Postal Code: OX15 4NB Country: UK Phone: (171) 555 - 1717 Fax: (171) 555 - 5646 Product Detail: Intersection ID Product Name Measure Whole Price 16 Pavlova 56 13. 9 xxxi Gorgonzola Telino 70 10. 0 60 Camembert Pierrot 80 27. 2 TotalPrice 3654. 4 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 10359.Customer Name: SEVES. Order Date: 2016-11-21. Customer Details:                . contact name: Hari Kumar. Phone:(171) 555-1717.Fax: (171), (5646) 5646. Product ID product nameProduct Name product price product quantityProduct quantity product numberProduct details: 26."
+}

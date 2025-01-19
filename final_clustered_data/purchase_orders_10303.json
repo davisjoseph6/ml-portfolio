@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10303.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10303\n2016-09-11\nJosé Pedro Freyre\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n40\nBoston Crab Meat\n40\n14.7\n65\nLouisiana Fiery Hot Pepper Sauce\n30\n16.8\n68\nScottish Longbreads\n15\n10\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10303 2016 - 09 - xi José Pedro Freyre Products Product ID: Product: Quantity: Unit Damage: 40 Boston Crab Meat 40 14. 7 65 Louisiana Fiery Hot Pepper Sauce 30 16. octad lxviii Scottish Longbreads 15 10 Pageboy 1",
+        "Leverage Parliamentary procedure Order ID Order Date Customer Name 10303 2016 - 09 - xi José Pedro Freyre Products Product ID: Product: Quantity: Unit Price: 40 Boston Crab Meat 40 14. 7 65 Louisiana Fiery Hot Pepper Sauce 30 16. 8 68 Scots Longbreads 15 x Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than one product. The product ID is the product's quantity and the price is its unit price. Customers can choose to pay by cash or check. For more information, go to www.josé Pedro Freyre.com or call 1-800-947-8255."
+}

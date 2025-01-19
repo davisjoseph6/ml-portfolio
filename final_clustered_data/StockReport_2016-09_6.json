@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-09_6.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-09 \n Category : Meat/Poultry  \n id category : 6  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nAlice Mutton\n40\n0\n39\nThüringer Rostbratwurst\n25\n0\n123.79\nPerth Pasties\n30\n0\n32.8\nTourtière\n5\n21\n7.45\n",
+    "augmented_texts": [
+        "Stock Report for 2016 - 09 Category: Meat / Poultry id category: 6 Product Units Sold Units in Stock Unit Price Alice Mutton twoscore 0 39 Thüringer Rostbratwurst xxv 0 123. 79 Perth Pasties 30 0 32. 8 Tourtière quintuplet 21 7. 45",
+        "Stock Report for 2016 - 09 Category: Meat / Poultry id class: 6 Product Unit Sold Units in Stock Social unit Price Alice Mutton 40 0 39 Thüringer Rostbratwurst 25 0 123. seventy nine Perth Pasties 30 0 32. 8 Tourtière 5 21 7. 45"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-09. Category : Meat/Poultry. id category : 6                  Product.                Units Sold.   Units in Stock                Unit Price                Alice Mutton                40                0.39                Thüringer Rostbratwurst                25                1.79                Perth Pasties                30                2.8                Tourtière                5                21                7.45"
+}

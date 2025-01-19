@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10325.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10325\nCustomer ID: KOENE\nOrder Date: 2016-10-09\nCustomer Details:\nContact Name:\nPhilip Cramer\nAddress:\nMaubelstr. 90\nCity:\nBrandenburg\nPostal Code:\n14776\nCountry:\nGermany\nPhone:\n0555-09876\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n6\nGrandma's Boysenberry Spread\n6\n20.0\n13\nKonbu\n12\n4.8\n14\nTofu\n9\n18.6\n31\nGorgonzola Telino\n4\n10.0\n72\nMozzarella di Giovanni\n40\n27.8\n \n \nTotalPrice\n1497.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10325 Customer ID: KOENE Order Date: 2016 - x - 09 Customer Details: Contact Gens: Philip Cramer Address: Maubelstr. xc City: Brandenburg Postal Code: 14776 Country: Germany Phone: 0555 - 09876 Fax: None Product Point: Product idaho Product Name Quantity Unit Price 6 Grandma ' s Boysenberry Spread 6 20. 0 xiii Konbu twelve 4. 8 fourteen Tofu 9 18. 6 31 Gorgonzola Telino 4 10. 0 72 Mozzarella di Giovanni 40 27. eight TotalPrice 1497. 0 Page 1",
+        "Invoice Order ID: 10325 Customer ID: KOENE Order Engagement: 2016 - 10 - 09 Customer Details: Contact Public figure: Philip Cramer Name and address: Maubelstr. 90 City: Brandenburg Postal Code: 14776 Country: Germany Phone: 0555 - 09876 Fax: None Product Details: Product ID Product Name Quantity Unit Price 6 Grandma ' s Boysenberry Spread 6 20. 0 13 Konbu 12 4. 8 fourteen Tofu 9 18. 6 31 Gorgonzola Telino 4 10. 0 72 Mozzarella di Giovanni 40 twenty seven. 8 TotalPrice 1497. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 1032520.Customer IDs: KOENE and Cramer. Order Date: 2016-10-09. Customer Details:phthalmologist.com,philip.cramer@co.uk. Product Name: \"Grandma's Boysenberry Spread\" Price: $1497.0."
+}

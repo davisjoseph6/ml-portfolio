@@ -1,0 +1,24 @@
+{
+    "filename": "order_10305.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10305\nShipping Details:\nShip Name: Old World Delicatessen\nShip Address: 2743 Bering St.\nShip City: Anchorage\nShip Region: North America\nShip Postal Code: 99508\nShip Country: USA\nCustomer Details:\nCustomer ID: OLDWO\nCustomer Name: Old World Delicatessen\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-09-13\nShipped Date: 2016-10-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Carnarvon Tigers\nQuantity: 25\nUnit Price: 50.0\nTotal: 1250.0\n--------------------------------------------------------------------------------------------------\nProduct: Thüringer Rostbratwurst\nQuantity: 25\nUnit Price: 99.0\nTotal: 2475.0\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 30\nUnit Price: 14.4\nTotal: 432.0\nTotal Price:\nTotal Price: 4157.0\n",
+    "augmented_texts": [
+        "Order ID: 10305 Shipping Details: Ship Name: Old World Delicatessen Ship Address: 2743 Bering St. Ship City: Anchorage Ship Neighborhood: North America Ship Postal Code: 99508 Ship Country: us Customer Details: Customer ID: OLDWO Client Name: Old World Delicatessen Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 3 Shipper Figure: Federal Shipping Order Details: Order Date: 2016 - 09 - 13 Shipped Engagement: 2016 - 10 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Carnarvon Tigers Quantity: 25 Unit Price: 50. 0 Total: 1250. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Quantity: twenty five Unit Price: 99. 0 Total: 2475. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Chartreuse verte Quantity: xxx Unit Price: 14. 4 Total: 432. 0 Total Price: Total Price: 4157. 0",
+        "Society ID: 10305 Shipping Details: Ship Name: Old World Delicatessen Ship Address: 2743 Bering St. Ship City: Anchorage Ship Region: North America Ship Postal Code: 99508 Ship Country: USA Customer Details: Customer ID: OLDWO Customer Name: Old World Delicatessen Employee Inside information: Employee Name: Laura Callahan Shipper Details: Shipper i.d.: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 09 - 13 Shipped Date: 2016 - 10 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Mathematical product: Carnarvon Tigers Quantity: xxv Unit Price: 50. 0 Total: 1250. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Thüringer Rostbratwurst Quantity: xxv Unit Price: 99. 0 Total: 2475. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chartreuse verte Measure: 30 Unit Price: 14. 4 Total: 432. 0 Total Price: Full Price: 4157. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10305. Order Name: Old World Delicatessen. Ship Address: 2743 Bering St. City: Anchorage. Region: North America. Postal Code: 99508.Ship Country: USA. Customer: OLDWO. Employee: Laura Callahan. Shipper: Federal Shipping."
+}

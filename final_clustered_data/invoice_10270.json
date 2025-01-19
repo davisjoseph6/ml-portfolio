@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10270.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10270\nCustomer ID: WARTH\nOrder Date: 2016-08-01\nCustomer Details:\nContact Name:\nPirkko Koskitalo\nAddress:\nTorikatu 38\nCity:\nOulu\nPostal Code:\n90110\nCountry:\nFinland\nPhone:\n981-443655\nFax:\n981-443655\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n36\nInlagd Sill\n30\n15.2\n43\nIpoh Coffee\n25\n36.8\n \n \nTotalPrice\n1376.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10270 Customer ID: WARTH Order Date: 2016 - 08 - 01 Customer Details: Contact Name: Pirkko Koskitalo Address: Torikatu 38 City: Oulu Postal Code: 90110 Country: Finland Phone: 981 - 443655 Fax: 981 - 443655 Product Details: Ware ID Product Name Quantity Social unit Price 36 Inlagd Sill 30 15. 2 43 Ipoh Coffee xxv 36. eight TotalPrice 1376. 0 Page 1",
+        "Invoice Rescript ID: 10270 Customer gem state: WARTH Order Date: 2016 - 08 - 01 Customer Details: Contact Public figure: Pirkko Koskitalo Address: Torikatu 38 City: Oulu Postal Code: 90110 Country: Finland Phone: 981 - 443655 Fax: 981 - 443655 Production Details: Product ID Product Name Quantity Unit Price xxxvi Inlagd Sill 30 15. 2 43 Ipoh Coffee 25 36. 8 TotalPrice 1376. cypher Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10270.Customer ID: WARTH. Order Date: 2016-08-01. Customer: Pirkko Koskitalo. Product: Ipoh Coffee. Price: 1376.0 euros per cup. Cost of production: $1.2 million."
+}

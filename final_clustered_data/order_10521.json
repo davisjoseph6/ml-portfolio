@@ -1,0 +1,24 @@
+{
+    "filename": "order_10521.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10521\nShipping Details:\nShip Name: Cactus Comidas para llevar\nShip Address: Cerrito 333\nShip City: Buenos Aires\nShip Region: South America\nShip Postal Code: 1010\nShip Country: Argentina\nCustomer Details:\nCustomer ID: CACTU\nCustomer Name: Cactus Comidas para llevar\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-04-29\nShipped Date: 2017-05-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 3\nUnit Price: 18.0\nTotal: 54.0\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 10\nUnit Price: 9.65\nTotal: 96.5\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 6\nUnit Price: 12.5\nTotal: 75.0\nTotal Price:\nTotal Price: 225.5\n",
+    "augmented_texts": [
+        "Order ID: 10521 Shipping Details: Ship Name: Cactus Comidas para llevar Ship Address: Cerrito 333 Ship City: Buenos Aires Ship Region: South America Ship Postal Computer code: 1010 Ship Country: Argentina Customer Details: Customer ID: CACTU Customer Name: Cactus Comidas para river llevar Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Club Date: 2017 - 04 - 29 Shipped Engagement: 2017 - 05 - 02 Merchandise: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Measure: 3 Unit Price: 18. 0 Total: 54. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 10 Unit Price: 9. 65 Total: 96. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scotch Longbreads Quantity: 6 Unit Price: 12. 5 Total: 75. 0 Total Cost: Total Price: 225. 5",
+        "Order ID: 10521 Shipping Detail: Ship Name: Cactus Comidas para llevar Ship Address: Cerrito 333 Ship City: Buenos River aire Ship Region: Dixie America Ship Postal Code: 1010 Ship Country: Argentina Customer Details: Customer ID: CACTU Customer Name: Cactus Comidas parity llevar Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 04 - 29 Shipped Date: 2017 - 05 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 3 Unit Price: eighteen. 0 Total: 54. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 10 Unit Price: 9. 65 Total: 96. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: sextuplet Whole Price: 12. 5 Total: 75. 0 Total Price: Total Price: 225. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10521. Order Name: Cactus Comidas para llevar. Ship Address: Cerrito 333. Postal Code: 1010. Country: Argentina. Customer: Laura Callahan. Shipper: United Package. Product: Steeleye Stout. Price: 18.0 pounds."
+}

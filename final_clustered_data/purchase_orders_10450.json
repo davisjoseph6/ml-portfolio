@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10450.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10450\n2017-02-19\nMary Saveley\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n10\nIkura\n20\n24.8\n54\nTourtière\n6\n5.9\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Set up ID Order Day of the month Customer Name 10450 2017 - 02 - 19 Mary Saveley Products Product ID: Product: Quantity: Unit Price: 10 Ikura 20 24. 8 fifty four Tourtière vi 5. 9 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10450 2017 - 02 - 19 Blessed virgin Saveley Products Product ID: Product: Quantity: Unit Price: 10 Ikura 20 24. 8 54 Tourtière 6 5. 9 Page 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders are delivered to your home or office in the U.S. or Canada. The price of each item is determined by the customer's order quantity and the date of delivery. Customers can choose to pay by credit card, cash, check or check. For more information, visit www.mrr.com."
+}

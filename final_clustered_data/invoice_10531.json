@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10531.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10531\nCustomer ID: OCEAN\nOrder Date: 2017-05-08\nCustomer Details:\nContact Name:\nYvonne Moncada\nAddress:\nIng. Gustavo Moncada 8585 Piso 20-A\nCity:\nBuenos Aires\nPostal Code:\n1010\nCountry:\nArgentina\nPhone:\n(1) 135-5333\nFax:\n(1) 135-5535\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n59\nRaclette Courdavault\n2\n55.0\n \n \nTotalPrice\n110.0\nPage 1\n",
+    "augmented_texts": [
+        "Bill Social club ID: 10531 Customer ID: OCEAN Order Date: 2017 - 05 - 08 Customer Details: Contact Name: Yvonne Moncada Address: Ing. Gustavo Moncada 8585 Piso 20 - A City: Buenos Aires Postal Code: 1010 Country: Argentina Sound: (1) 135 - 5333 Fax: (1) 135 - 5535 Product Details: Product ID Product Epithet Quantity Whole Price 59 Raclette Courdavault 2 fifty five. 0 TotalPrice 110. 0 Page 1",
+        "Invoice Order ID: 10531 Customer idaho: OCEAN Order Date: 2017 - 05 - 08 Customer Details: Contact Name: Yvonne Moncada Address: Ing. Gustavo Moncada 8585 Piso 20 - A City: Buenos Aires Postal Code: 1010 Country: Argentine republic Phone: (1) cxxxv - 5333 Facsimile: (1) 135 - 5535 Product Details: Product ID Product Name Quantity Whole Price fifty nine Raclette Courdavault 2 55. 0 TotalPrice 110. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "The company is based in Buenos Aires, Argentina. The company was founded by Gustavo Moncada and his wife, Yvonne. It was acquired by OCEAN in 2007. In 2008, the company changed its name to \"APEAN\" and has since gone through several name changes."
+}

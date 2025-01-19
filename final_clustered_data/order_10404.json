@@ -1,0 +1,24 @@
+{
+    "filename": "order_10404.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10404\nShipping Details:\nShip Name: Magazzini Alimentari Riuniti\nShip Address: Via Ludovico il Moro 22\nShip City: Bergamo\nShip Region: Southern Europe\nShip Postal Code: 24100\nShip Country: Italy\nCustomer Details:\nCustomer ID: MAGAA\nCustomer Name: Magazzini Alimentari Riuniti\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-01-03\nShipped Date: 2017-01-08\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gumbär Gummibärchen\nQuantity: 30\nUnit Price: 24.9\nTotal: 747.0\n--------------------------------------------------------------------------------------------------\nProduct: Singaporean Hokkien Fried Mee\nQuantity: 40\nUnit Price: 11.2\nTotal: 448.0\n--------------------------------------------------------------------------------------------------\nProduct: Maxilaku\nQuantity: 30\nUnit Price: 16.0\nTotal: 480.0\nTotal Price:\nTotal Price: 1675.0\n",
+    "augmented_texts": [
+        "Order ID: 10404 Ship Details: Ship Name: Magazzini Alimentari Riuniti Ship Address: Via Ludovico il Moro 22 Ship City: Bergamo Ship Region: Southern Europe Ship Postal Code: 24100 Ship Country: Italy Client Details: Customer gem state: MAGAA Customer Name: Magazzini Alimentari Riuniti Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 01 - 03 Shipped Date: 2017 - 01 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Quantity: 30 Unit Price: 24. 9 Total: 747. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 40 Unit Price: 11. 2 Total: 448. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Quantity: 30 Unit Leontyne price: 16. 0 Sum: 480. 0 Total Price: Total Price: 1675. cipher",
+        "Order ID: 10404 Shipping Detail: Ship Name: Magazzini Alimentari Riuniti Ship Computer address: Via Ludovico il Moro 22 Ship City: Bergamo Ship Region: Southern Europe Ship Postal Code: 24100 Ship Country: Italian republic Client Details: Customer ID: MAGAA Customer Name: Magazzini Alimentari Riuniti Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 01 - 03 Shipped Date: 2017 - 01 - 08 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gumbär Gummibärchen Quantity: 30 Unit Price: 24. 9 Totality: 747. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Singaporean Hokkien Fried Mee Quantity: 40 Unit Price: 11. 2 Total: 448. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Quantity: 30 Unit Price: 16. 0 Total: 480. 0 Total Price: Total Price: 1675. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10404. Ship Address: Via Ludovico il Moro 22, Bergamo, Italy. Postal Code: 24100. Customer Name: Magazzini Alimentari Riuniti. Shipper: Speedy Express. Product: Gumbär Gummibärchen."
+}

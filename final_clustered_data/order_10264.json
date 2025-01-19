@@ -1,0 +1,24 @@
+{
+    "filename": "order_10264.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10264\nShipping Details:\nShip Name: Folk och fä HB\nShip Address: Åkergatan 24\nShip City: Bräcke\nShip Region: Northern Europe\nShip Postal Code: S-844 67\nShip Country: Sweden\nCustomer Details:\nCustomer ID: FOLKO\nCustomer Name: Folk och fä HB\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-07-24\nShipped Date: 2016-08-23\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chang\nQuantity: 35\nUnit Price: 15.2\nTotal: 532.0\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 25\nUnit Price: 7.7\nTotal: 192.5\nTotal Price:\nTotal Price: 724.5\n",
+    "augmented_texts": [
+        "Order ID: 10264 Shipping Details: Ship Name: Folk och fä HB Ship Address: Åkergatan 24 Ship City: Bräcke Ship Region: Northern Europe Ship Postal Codification: S - 844 67 Ship Country: Sweden Client Details: Customer ID: FOLKO Customer Name: Folk och fä HB Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 07 - 24 Shipped Date: 2016 - 08 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Quantity: 35 Unit Price: 15. 2 Total: 532. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Diddly ' s New England Clam Chowder Quantity: twenty five Unit Price: 7. 7 Total: 192. 5 Total Price: Total Price: 724. 5",
+        "Order idaho: 10264 Shipping Details: Ship Name: Folk och fä HB Ship Address: Åkergatan 24 Ship City: Bräcke Ship Region: Northern Europe Ship Postal Code: S - 844 sixty seven Ship Country: Sweden Customer Details: Client ID: FOLKO Customer Public figure: Folk och fä HB Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper idaho: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 07 - 24 Shipped Date: 2016 - 08 - 23 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Quantity: 35 Unit Leontyne price: 15. 2 Total: 532. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Jack ' s New England Clam Chowder Quantity: 25 Unit Price: 7. 7 Total: 192. 5 Total Price: Total Price: 724. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10264. Ship Address: Åkergatan 24, Bräcke, Sweden. Postal Code: S-844 67 67. Customers: FOLKO, Folk och fä HB. Shipper: Federal Shipping. Order Date: 2016-07-24."
+}

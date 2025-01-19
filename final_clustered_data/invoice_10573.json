@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10573.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10573\nCustomer ID: ANTON\nOrder Date: 2017-06-19\nCustomer Details:\nContact Name:\nAntonio Moreno\nAddress:\nMataderos  2312\nCity:\nMéxico D.F.\nPostal Code:\n05023\nCountry:\nMexico\nPhone:\n(5) 555-3932\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n17\nAlice Mutton\n18\n39.0\n34\nSasquatch Ale\n40\n14.0\n53\nPerth Pasties\n25\n32.8\n \n \nTotalPrice\n2082.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10573 Customer ID: ANTON Order Date: 2017 - 06 - xix Customer Details: Contact Name: Antonio Moreno Address: Mataderos 2312 City: México D. Farad. Postal Code: 05023 Country: United mexican states Phone: (5) 555 - 3932 Fax: None Product Details: Cartesian product ID Product Name Quantity Unit Price 17 Alice Mutton 18 39. 0 34 Sasquatch Ale 40 xiv. 0 53 Perth Pasties 25 32. 8 TotalPrice 2082. 0 Page 1",
+        "Invoice Order ID: 10573 Customer ID: ANTON Social club Date: 2017 - 06 - 19 Customer Details: Contact Figure: Antonio Moreno Address: Mataderos 2312 City: México D. Degree fahrenheit. Postal Code: 05023 Country: United mexican states Phone: (5) 555 - 3932 Facsimile machine: None Product Detail: Product ID Product Name Quantity Unit Price 17 Alice Mutton 18 39. 0 thirty four Sasquatch Ale 40 xiv. 0 53 Perth Pasties 25 32. 8 TotalPrice 2082. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: 10573.Customer ID: ANTONIA. Order Date: 2017-06-19. Customer Details:         Antonio Moreno. Address: 2312 Mataderos, Mexico City. Postal Code: 05023. Country: México D.F. Phone: 555-3932.Fax: 02082.0."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10406.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10406\nCustomer ID: QUEEN\nOrder Date: 2017-01-07\nCustomer Details:\nContact Name:\nLúcia Carvalho\nAddress:\nAlameda dos Canàrios, 891\nCity:\nSao Paulo\nPostal Code:\n05487-020\nCountry:\nBrazil\nPhone:\n(11) 555-1189\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n1\nChai\n10\n14.4\n21\nSir Rodney's Scones\n30\n8.0\n28\nRössle Sauerkraut\n42\n36.4\n36\nInlagd Sill\n5\n15.2\n40\nBoston Crab Meat\n2\n14.7\n \n \nTotalPrice\n2018.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10406 Customer ID: QUEEN Order Date: 2017 - 01 - 07 Client Details: Contact Name: Lúcia Carvalho Address: Alameda dos Canàrios, 891 City: Sao Paulo Postal Computer code: 05487 - 020 Country: Brazil Phone: (eleven) 555 - 1189 Fax: None Product Details: Product ID Product Name Quantity Unit Price 1 Chai 10 14. 4 21 Sir Rodney ' s Scones 30 8. zero xxviii Rössle Sauerkraut 42 36. 4 36 Inlagd Sill 5 15. 2 40 Boston Crab Meat 2 14. 7 TotalPrice 2018. two Page 1",
+        "Invoice Order ID: 10406 Customer gem state: QUEEN Order Date: 2017 - 01 - 07 Customer Details: Contact Name: Lúcia Carvalho Address: Alameda dos Canàrios, 891 City: Sao Paulo Postal Code: 05487 - 020 Country: Brazil Telephone set: (11) 555 - 1189 Fax: None Product Details: Product ID Intersection Name Quantity Building block Price unity Chai 10 14. 4 21 Sir Rodney ' sulfur Scones 30 8. 0 28 Rössle Sauerkraut forty two 36. 4 36 Inlagd Sill 5 15. 2 40 Boston Crab Meat 2 14. 7 TotalPrice 2018. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10406.Customer ID: QUEEN. Order Date: 2017-01-07. Customer Name: Lúcia Carvalho. Address: 891 Alameda dos Canàrios. Postal Code: 05487-020. Country: \"Sao Paulo\""
+}

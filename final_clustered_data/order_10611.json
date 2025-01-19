@@ -1,0 +1,24 @@
+{
+    "filename": "order_10611.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10611\nShipping Details:\nShip Name: Wolski Zajazd\nShip Address: ul. Filtrowa 68\nShip City: Warszawa\nShip Region: Eastern Europe\nShip Postal Code: 01-012\nShip Country: Poland\nCustomer Details:\nCustomer ID: WOLZA\nCustomer Name: Wolski Zajazd\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-07-25\nShipped Date: 2017-08-01\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 6\nUnit Price: 18.0\nTotal: 108.0\n--------------------------------------------------------------------------------------------------\nProduct: Chang\nQuantity: 10\nUnit Price: 19.0\nTotal: 190.0\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 15\nUnit Price: 34.0\nTotal: 510.0\nTotal Price:\nTotal Price: 808.0\n",
+    "augmented_texts": [
+        "Order ID: 10611 Shipping Details: Ship Name: Wolski Zajazd Ship Address: ul. Filtrowa 68 Ship City: Warszawa Ship Region: Eastern Europe Ship Postal Codification: 01 - 012 Ship Country: Poland Customer Details: Customer ID: WOLZA Client Name: Wolski Zajazd Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Parliamentary law Details: Order Date: 2017 - 07 - 25 Shipped Date: 2017 - 08 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Intersection: Chai Quantity: 6 Unit Price: 18. 0 Amount: 108. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Quantity: 10 Unit Price: 19. zero Total: one hundred ninety. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 15 Unit Price: 34. 0 Total: 510. nought Total Price: Total Price: 808. 0",
+        "Order gem state: 10611 Shipping Details: Ship Name: Wolski Zajazd Ship Address: ul. Filtrowa 68 Ship City: Warszawa Ship Region: Eastern Eu Ship Postal Code: 01 - 012 Ship Country: Poland Customer Details: Customer ID: WOLZA Customer Name: Wolski Zajazd Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 07 - xxv Shipped Date: 2017 - 08 - 01 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 6 Unit Price: 18. 0 Total: 108. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chang Amount: 10 Unit Price: nineteen. 0 Total: one hundred ninety. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 15 Unit Price: 34. 0 Total: 510. 0 Total Price: Full Price: 808. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10611. Order Name: Wolski Zajazd. Ship Address: ul. Filtrowa 68, Warszawa, Poland. Postal Code: 01-012. Customers: \"Wolza,\" \"Customer ID\": WOLZA, \"Shipper\": \"United Package,\" and \"Ship\" Ship Date: 2017-07-25."
+}

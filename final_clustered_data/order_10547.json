@@ -1,0 +1,24 @@
+{
+    "filename": "order_10547.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10547\nShipping Details:\nShip Name: Seven Seas Imports\nShip Address: 90 Wadhurst Rd.\nShip City: London\nShip Region: British Isles\nShip Postal Code: OX15 4NB\nShip Country: UK\nCustomer Details:\nCustomer ID: SEVES\nCustomer Name: Seven Seas Imports\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-05-23\nShipped Date: 2017-06-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Mascarpone Fabioli\nQuantity: 24\nUnit Price: 32.0\nTotal: 768.0\n--------------------------------------------------------------------------------------------------\nProduct: Inlagd Sill\nQuantity: 60\nUnit Price: 19.0\nTotal: 1140.0\nTotal Price:\nTotal Price: 1908.0\n",
+    "augmented_texts": [
+        "Order ID: 10547 Shipping Details: Ship Name: Seven Seas Imports Ship Address: 90 Wadhurst Rd. Ship City: London Ship Region: British Isles Ship Postal Computer code: OX15 4NB Ship Country: UK Client Details: Customer ID: SEVES Customer Name: Seven Seas Imports Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 2 Shipper Epithet: United Package Order Detail: Order Date: 2017 - 05 - 23 Shipped Date: 2017 - 06 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mascarpone Fabioli Quantity: 24 Unit Price: 32. cypher Total: 768. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Amount: 60 Unit Price: 19. 0 Total: 1140. 0 Total Price: Total Price: 1908. 0",
+        "Order ID: 10547 Shipping Details: Ship Name: Seven Seas Imports Ship Address: 90 Wadhurst Rd. Ship City: London Ship Region: British Isles Ship Postal Code: OX15 4NB Ship Country: UK Client Details: Customer ID: SEVES Customer Name: Seven Seas Imports Employee Detail: Employee Name: Janet Leverling Shipper Inside information: Shipper ID: 2 Shipper Name: United Package Order Details: Ordering Date: 2017 - 05 - xxiii Shipped Date: 2017 - 06 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Mascarpone Fabioli Quantity: 24 Unit Monetary value: 32. 0 Total: 768. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 60 Unit Price: 19. 0 Total: 1140. 0 Total Price: Total Price: 1908. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10547. Ship Name: Seven Seas ImportsShip Address: 90 Wadhurst Rd.Ship Postal Code: OX15 4NBShip Country: UK. Customers: SEVES. Shippers: United Package. Products: Mascarpone Fabioli, Inlagd Sill."
+}

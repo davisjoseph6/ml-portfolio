@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2016-08_4.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2016-08 \n Category : Dairy Products  \n id category : 4  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nGorgonzola Telino\n55\n0\n12.5\nGeitost\n44\n112\n2.5\nRaclette Courdavault\n21\n79\n55\nCamembert Pierrot\n76\n19\n34\nFlotemysost\n20\n26\n21.5\nMozzarella di Giovanni\n34\n14\n34.8\n",
+    "augmented_texts": [
+        "Caudex Report for 2016 - 08 Category: Dairy Products id category: 4 Product Units Sold Units in Stock Unit Price Gorgonzola Telino 55 0 12. 5 Geitost 44 112 2. quint Raclette Courdavault 21 79 55 Camembert Pierrot 76 19 34 Flotemysost 20 26 21. 5 Mozzarella di Giovanni thirty four 14 34. 8",
+        "Stock Report for 2016 - 08 Category: Dairy farm Products id category: 4 Product Units Sold Units in Stock Unit Price Gorgonzola Telino 55 0 12. 5 Geitost forty four 112 2. 5 Raclette Courdavault 21 79 55 Camembert Pierrot 76 19 34 Flotemysost 20 26 21. 5 Mozzarella di Giovanni 34 14 34. eighter"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2016-08. Dairy Products. Category : Dairy products. id category : 4.Product Category: Dairy. Product Type: Milk. Price: $1.29 per kilogram. Unit Price is $0.99 per kg. The price of each kilo of dairy products is based on the weight of the product."
+}

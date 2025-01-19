@@ -1,0 +1,24 @@
+{
+    "filename": "order_10562.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10562\nShipping Details:\nShip Name: Reggiani Caseifici\nShip Address: Strada Provinciale 124\nShip City: Reggio Emilia\nShip Region: Southern Europe\nShip Postal Code: 42100\nShip Country: Italy\nCustomer Details:\nCustomer ID: REGGC\nCustomer Name: Reggiani Caseifici\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-06-09\nShipped Date: 2017-06-12\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 20\nUnit Price: 2.5\nTotal: 50.0\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 10\nUnit Price: 49.3\nTotal: 493.0\nTotal Price:\nTotal Price: 543.0\n",
+    "augmented_texts": [
+        "Order ID: 10562 Shipping Details: Ship Name: Reggiani Caseifici Ship Address: Strada Provinciale 124 Ship City: Reggio Emilia Ship Region: Southern Eec Ship Postal Code: 42100 Ship Country: Italy Customer Details: Customer ID: REGGC Customer Name: Reggiani Caseifici Employee Details: Employee Gens: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express mail Order Details: Order Date: 2017 - 06 - 09 Shipped Date: 2017 - 06 - 12 Ware: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: 20 Unit Leontyne price: 2. 5 Total: fifty. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Measure: 10 Unit Price: 49. 3 Total: 493. 0 Total Mary leontyne price: Total Price: 543. 0",
+        "Order ID: 10562 Shipping Details: Ship Name: Reggiani Caseifici Ship Address: Strada Provinciale 124 Ship City: Reggio Emilia Ship Region: Southern Europe Ship Postal Code: 42100 Ship Country: Italian republic Customer Details: Customer ID: REGGC Customer Name: Reggiani Caseifici Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Detail: Order Engagement: 2017 - 06 - 09 Shipped Date: 2017 - 06 - 12 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Geitost Quantity: twenty Unit Price: 2. v Total: 50. zero - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tarte au sucre Quantity: 10 Unit Price: 49. 3 Total: 493. 0 Full Cost: Total Price: 543. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10562. Order Name: Reggiani Caseifici. Ship Address: Strada Provinciale 124. Postal Code: 42100. Country: Italy. Customers: REGGC. Shippers: Speedy Express. Products: Geitost, Tarte au sucre."
+}

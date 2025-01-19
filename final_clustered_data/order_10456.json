@@ -1,0 +1,24 @@
+{
+    "filename": "order_10456.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10456\nShipping Details:\nShip Name: Königlich Essen\nShip Address: Maubelstr. 90\nShip City: Brandenburg\nShip Region: Western Europe\nShip Postal Code: 14776\nShip Country: Germany\nCustomer Details:\nCustomer ID: KOENE\nCustomer Name: Königlich Essen\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-02-25\nShipped Date: 2017-02-28\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 40\nUnit Price: 8.0\nTotal: 320.0\n--------------------------------------------------------------------------------------------------\nProduct: Maxilaku\nQuantity: 21\nUnit Price: 16.0\nTotal: 336.0\nTotal Price:\nTotal Price: 656.0\n",
+    "augmented_texts": [
+        "Order ID: 10456 Shipping Point: Ship Name: Königlich Essen Ship Address: Maubelstr. 90 Ship City: Brandenburg Ship Part: Western Europe Ship Postal Code: 14776 Ship Country: Germany Customer Details: Customer ID: KOENE Customer Name: Königlich Essen Employee Details: Employee Name: Laura Callahan Shipper Detail: Shipper ID: 2 Shipper Name: United Package Order Details: Purchase order Date: 2017 - 02 - 25 Shipped Date: 2017 - 02 - 28 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' sulfur Scones Quantity: 40 Unit Price: 8. 0 Total: 320. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Quantity: 21 Unit Price: 16. 0 Sum: 336. 0 Total Damage: Total Price: 656. 0",
+        "Order ID: 10456 Shipping Item: Ship Name: Königlich Essen Ship Address: Maubelstr. 90 Ship Urban center: Brandenburg Ship Region: Western Europe Ship Postal Code: 14776 Ship Country: Germany Customer Details: Customer ID: KOENE Customer Name: Königlich Essen Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: two Shipper Name: United Package Monastic order Item: Order Date: 2017 - 02 - 25 Shipped Date: 2017 - 02 - 28 Ware: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Scones Amount: 40 Unit Price: 8. cipher Total: 320. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Maxilaku Quantity: 21 Whole Price: 16. 0 Total: 336. 0 Total Price: Total Monetary value: 656. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10456. Order Name: Königlich Essen. Ship Address: Maubelstr. 90, Brandenburg, Germany. Postal Code: 14776. Customers: KOENE, Laura Callahan. Shipper: United Package. Products: Sir Rodney's Scones, Maxilaku."
+}

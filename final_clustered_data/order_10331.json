@@ -1,0 +1,24 @@
+{
+    "filename": "order_10331.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10331\nShipping Details:\nShip Name: Bon app-\nShip Address: 12, rue des Bouchers\nShip City: Marseille\nShip Region: Western Europe\nShip Postal Code: 13008\nShip Country: France\nCustomer Details:\nCustomer ID: BONAP\nCustomer Name: Bon app'\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-10-16\nShipped Date: 2016-10-21\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 15\nUnit Price: 5.9\nTotal: 88.5\nTotal Price:\nTotal Price: 88.5\n",
+    "augmented_texts": [
+        "Order ID: 10331 Shipping Detail: Ship Figure: Bon app - Ship Address: 12, rue des Bouchers Ship Metropolis: Marseille Ship Region: Westerly Europe Ship Postal Code: 13008 Ship Country: France Customer Details: Customer idaho: BONAP Customer Name: Bon app ' Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 1 Shipper Figure: Speedy Express Order Details: Order Date: 2016 - 10 - 16 Shipped Date: 2016 - 10 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Tourtière Quantity: 15 Unit Price: 5. 9 Total: 88. 5 Total Price: Total Price: 88. 5",
+        "Order ID: 10331 Shipping Item: Ship Name: Bon app - Ship Address: 12, regret des Bouchers Ship City: Marseille Ship Area: Western Europe Ship Postal Code: 13008 Ship Country: France Customer Details: Customer ID: BONAP Customer Name: Bon app ' Employee Details: Employee Name: Anne Dodsworth Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Day of the month: 2016 - 10 - 16 Shipped Date: 2016 - 10 - 21 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Tourtière Quantity: 15 Unit Monetary value: 5. 9 Total: 88. 5 Total Price: Total Price: 88. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10331. Ship Address: 12, rue des Bouchers, Marseille. Postal Code: 13008. Country: France. Order Date: 2016-10-16. Shipper: Speedy Express. Product: Tourtière. Quantity: 15. Unit Price: 5.9."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10299.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10299\nShipping Details:\nShip Name: Ricardo Adocicados\nShip Address: Av. Copacabana, 267\nShip City: Rio de Janeiro\nShip Region: South America\nShip Postal Code: 02389-890\nShip Country: Brazil\nCustomer Details:\nCustomer ID: RICAR\nCustomer Name: Ricardo Adocicados\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-09-06\nShipped Date: 2016-09-13\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Teatime Chocolate Biscuits\nQuantity: 15\nUnit Price: 7.3\nTotal: 109.5\n--------------------------------------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 20\nUnit Price: 12.0\nTotal: 240.0\nTotal Price:\nTotal Price: 349.5\n",
+    "augmented_texts": [
+        "Order ID: 10299 Shipping Details: Ship Name: Ricardo Adocicados Ship Address: Av. Copacabana, 267 Ship City: Rio de Janeiro Ship Region: Southward America Ship Postal Code: 02389 - 890 Ship Country: Brazil Customer Details: Customer ID: RICAR Customer Name: Ricardo Adocicados Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper gem state: 2 Shipper Name: United Package Order Details: Parliamentary law Date: 2016 - 09 - 06 Shipped Date: 2016 - 09 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Chocolate Biscuits Quantity: 15 Unit Price: 7. 3 Total: 109. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager beer Quantity: xx Unit Price: 12. zero Total: 240. 0 Total Price: Full Price: 349. 5",
+        "Order ID: 10299 Shipping Details: Ship Gens: Ricardo Adocicados Ship Address: Av. Copacabana, 267 Ship City: Rio de janeiro de Janeiro Ship Part: South America Ship Postal Code: 02389 - 890 Ship Country: Brazil Customer Details: Customer ID: RICAR Customer Name: David ricardo Adocicados Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 09 - 06 Shipped Date: 2016 - 09 - 13 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Teatime Hot chocolate Biscuits Quantity: 15 Unit Price: 7. 3 Total: 109. 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Outback Lager Quantity: 20 Unit Mary leontyne price: 12. cypher Total: 240. 0 Total Price: Total Toll: 349. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10299. Ship Address: Av. Copacabana, 267, Rio de Janeiro. Postal Code: 02389-890. Country: Brazil. Customer: Ricardo Adocicados. Employee: Margaret Peacock. Shipper: United Package. Product: Teatime Chocolate Biscuits."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10326.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10326\nCustomer ID: BOLID\nOrder Date: 2016-10-10\nCustomer Details:\nContact Name:\nMartín Sommer\nAddress:\nC/ Araquil, 67\nCity:\nMadrid\nPostal Code:\n28023\nCountry:\nSpain\nPhone:\n(91) 555 22 82\nFax:\n(91) 555 91 99\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n4\nChef Anton's Cajun Seasoning\n24\n17.6\n57\nRavioli Angelo\n16\n15.6\n75\nRhönbräu Klosterbier\n50\n6.2\n \n \nTotalPrice\n982.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order i.d.: 10326 Customer ID: BOLID Order Escort: 2016 - ten - 10 Customer Details: Contact Name: Martín Sommer Savoir faire: C / Araquil, 67 City: Madrid Postal Code: 28023 Country: Spain Phone: (91) 555 22 82 Fax: (91) 555 91 99 Product Details: Product gem state Product Name Quantity Unit Price 4 Chef Anton ' randomness Cajun Seasoning 24 17. six 57 Ravioli Angelo 16 15. 6 75 Rhönbräu Klosterbier 50 6. 2 TotalPrice 982. cipher Page 1",
+        "Invoice Order ID: 10326 Client ID: BOLID Order Date: 2016 - 10 - 10 Customer Details: Contact Epithet: Martín Sommer Address: C / Araquil, 67 City: Madrid Postal Code: 28023 Country: Spain Phone: (91) 555 22 82 Fax: (91) 555 91 99 Product Details: Product ID Product Epithet Quantity Unit Price 4 Chef Anton ' s Cajun Flavorer 24 17. six 57 Ravioli Angelo 16 fifteen. 6 75 Rhönbräu Klosterbier fifty 6. 2 TotalPrice 982. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10326.Customer ID: BOLID. Order Date: 2016-10- 10. Customer Details:         Martín Sommer. Address: Araquil, 67/C/Madrid. Postal Code: 28023. Country: Spain. Phone: (91) 555 22 82.Fax:(91), 555 91 99."
+}

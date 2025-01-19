@@ -1,0 +1,24 @@
+{
+    "filename": "order_10419.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10419\nShipping Details:\nShip Name: Richter Supermarkt\nShip Address: Starenweg 5\nShip City: Genève\nShip Region: Western Europe\nShip Postal Code: 1204\nShip Country: Switzerland\nCustomer Details:\nCustomer ID: RICSU\nCustomer Name: Richter Supermarkt\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-01-20\nShipped Date: 2017-01-30\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 60\nUnit Price: 27.2\nTotal: 1632.0\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 20\nUnit Price: 28.8\nTotal: 576.0\nTotal Price:\nTotal Price: 2208.0\n",
+    "augmented_texts": [
+        "Order ID: 10419 Shipping Details: Ship Name: Richter Supermarkt Ship Address: Starenweg 5 Ship City: Genève Ship Region: Western European community Ship Postal Code: 1204 Ship Country: Switzerland Customer Details: Customer ID: RICSU Client Name: Richter Supermarkt Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2017 - 01 - 20 Shipped Date: 2017 - 01 - 30 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 60 Unit Price: 27. ii Total: 1632. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 20 Unit Price: 28. 8 Total: 576. 0 Total Price: Total Price: 2208. zero",
+        "Order of magnitude ID: 10419 Shipping Details: Ship Name: Richter Supermarkt Ship Address: Starenweg v Ship Metropolis: Genève Ship Region: Western Europe Ship Postal Code: 1204 Ship Country: Switzerland Customer Details: Customer ID: RICSU Customer Name: Richter Supermarkt Employee Detail: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 2 Shipper Name: United Package Ordering Details: Order Date: 2017 - 01 - 20 Shipped Date: 2017 - 01 - 30 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Camembert Pierrot Quantity: 60 Unit Terms: 27. 2 Total: 1632. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 20 Unit Price: 28. 8 Total: 576. 0 Total Price: Full Price: 2208. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10419. Ship Address: Starenweg 5, Genève, Switzerland. Postal Code: 1204. Customers: RICSU, Gudbrandsdalsost, United Package, Richter Supermarkt. Products: Camembert Pierrot."
+}

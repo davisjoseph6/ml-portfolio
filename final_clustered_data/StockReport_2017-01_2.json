@@ -1,0 +1,24 @@
+{
+    "filename": "StockReport_2017-01_2.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "untitled",
+        "author": "anonymous",
+        "subject": "unspecified",
+        "keywords": "",
+        "creator": "ReportLab PDF Library - www.reportlab.com",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529113116+00'00'",
+        "modDate": "D:20230529113116+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Stock Report for 2017-01 \n Category : Condiments  \n id category : 2  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nAniseed Syrup\n50\n13\n10\nGula Malacca\n40\n27\n19.45\nSirop d'érable\n16\n113\n28.5\nVegie-spread\n100\n24\n43.9\nLouisiana Fiery Hot Pepper Sauce\n20\n76\n21.05\nOriginal Frankfurter grüne Soße\n45\n32\n13\n",
+    "augmented_texts": [
+        "Stock Report for 2017 - 01 Category: Condiments id category: 2 Product Unit Sold Units in Lineage Unit Price Aniseed Syrup 50 thirteen 10 Gula Malacca 40 27 19. 45 Sirop d ' érable xvi 113 28. 5 Vegie - spread 100 24 43. 9 Louisiana Fiery Hot Pepper Sauce 20 76 twenty one. 05 Original Frankfurter grüne Soße 45 32 13",
+        "Stock Report card for 2017 - 01 Category: Condiments id category: 2 Product Units Sold Units in Stock Unit Price Aniseed Syrup 50 13 10 Gula Malacca 40 27 xix. 45 Sirop d ' érable 16 113 28. 5 Vegie - spread 100 xxiv 43. ix Louisiana Fiery Hot Pepper Sauce 20 76 21. 05 Original Frankfurter grüne Soße 45 xxxii 13"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Stock Report for 2017-01. Category : Condiments. id category : 2. Price: $1.50 per pound. Number of units sold: 1,000. Total stock value: £1,500. No stock price change since the last report in January 2016."
+}

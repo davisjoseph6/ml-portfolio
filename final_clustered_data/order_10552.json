@@ -1,0 +1,24 @@
+{
+    "filename": "order_10552.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10552\nShipping Details:\nShip Name: HILARION-Abastos\nShip Address: Carrera 22 con Ave. Carlos Soublette #8-35\nShip City: San Cristóbal\nShip Region: South America\nShip Postal Code: 5022\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: HILAA\nCustomer Name: HILARION-Abastos\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-05-29\nShipped Date: 2017-06-05\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 18\nUnit Price: 36.0\nTotal: 648.0\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 30\nUnit Price: 7.75\nTotal: 232.5\nTotal Price:\nTotal Price: 880.5\n",
+    "augmented_texts": [
+        "Order idaho: 10552 Shipping Details: Ship Gens: HILARION - Abastos Ship Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship City: San Cristóbal Ship Realm: South America Ship Postal Code: 5022 Ship Nation: Venezuela Customer Details: Customer ID: HILAA Customer Public figure: HILARION - Abastos Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 05 - 29 Shipped Date: 2017 - 06 - 05 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Gudbrandsdalsost Amount: 18 Unit Price: 36. 0 Total: 648. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 30 Unit Price: 7. 75 Total: 232. 5 Total Price: Total Price: 880. 5",
+        "Order ID: 10552 Shipping Details: Ship Name: HILARION - Abastos Ship Computer address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Ship Metropolis: San Cristóbal Ship Region: South America Ship Postal Code: 5022 Ship Land: Venezuela Customer Details: Customer ID: HILAA Client Name: HILARION - Abastos Employee Details: Employee Name: Andrew Fuller Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 05 - 29 Shipped Date: 2017 - 06 - 05 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 18 Unit Cost: thirty six. 0 Total: 648. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Rhönbräu Klosterbier Quantity: 30 Unit Price: 7. 75 Total: 232. 5 Total Price: Total Price: 880. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10552. Ship Address: Carrera 22 con Ave. Carlos Soublette #8-35, San Cristóbal. Postal Code: 5022. Country: Venezuela. Customer: HILARION-Abastos. Employee: Andrew Fuller. Shipper: Speedy Express."
+}

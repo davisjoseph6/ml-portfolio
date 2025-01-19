@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10297.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10297\nCustomer ID: BLONP\nOrder Date: 2016-09-04\nCustomer Details:\nContact Name:\nFrédérique Citeaux\nAddress:\n24, place Kléber\nCity:\nStrasbourg\nPostal Code:\n67000\nCountry:\nFrance\nPhone:\n88.60.15.31\nFax:\n88.60.15.32\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n39\nChartreuse verte\n60\n14.4\n72\nMozzarella di Giovanni\n20\n27.8\n \n \nTotalPrice\n1420.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Rescript ID: 10297 Client ID: BLONP Order Date: 2016 - 09 - 04 Client Contingent: Contact Name: Frédérique Citeaux Address: 24, place Kléber City: Strasbourg Postal Code: 67000 Country: France Phone: 88. 60. 15. 31 Fax: 88. 60. 15. 32 Mathematical product Details: Product ID Product Name Quantity Unit Price 39 Chartreuse verte sixty 14. 4 72 Mozzarella di Giovanni 20 twenty seven. 8 TotalPrice 1420. nought Page 1",
+        "Invoice Order ID: 10297 Client ID: BLONP Order of magnitude Date: 2016 - 09 - 04 Customer Details: Contact Figure: Frédérique Citeaux Address: 24, place Kléber City: Strassburg Postal Code: 67000 Res publica: France Phone: 88. 60. 15. xxxi Fax: 88. lx. 15. 32 Product Details: Product ID Product Name Quantity Unit Price thirty nine Chartreuse verte 60 14. 4 72 Mozzarella di Giovanni 20 27. 8 TotalPrice 1420. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10297.Customer ID: BLONP. Order Date: 2016-09-04. Customer Details:.Contact Name: \"Frédérique Citeaux,\". Address: 24, place Kléber, France, postal code: 67000. Product: 1420.0."
+}

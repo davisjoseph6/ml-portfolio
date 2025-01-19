@@ -1,0 +1,24 @@
+{
+    "filename": "order_10275.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10275\nShipping Details:\nShip Name: Magazzini Alimentari Riuniti\nShip Address: Via Ludovico il Moro 22\nShip City: Bergamo\nShip Region: Southern Europe\nShip Postal Code: 24100\nShip Country: Italy\nCustomer Details:\nCustomer ID: MAGAA\nCustomer Name: Magazzini Alimentari Riuniti\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-08-07\nShipped Date: 2016-08-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 12\nUnit Price: 3.6\nTotal: 43.2\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 6\nUnit Price: 44.0\nTotal: 264.0\nTotal Price:\nTotal Price: 307.2\n",
+    "augmented_texts": [
+        "Order ID: 10275 Shipping Details: Ship Name: Magazzini Alimentari Riuniti Ship Address: Via Ludovico il Moro 22 Ship City: Bergamo Ship Region: Southern Europe Ship Postal Code: 24100 Ship Country: Italy Customer Details: Customer ID: MAGAA Customer Name: Magazzini Alimentari Riuniti Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Particular: Order Date: 2016 - 08 - 07 Shipped Day of the month: 2016 - 08 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 12 Unit Price: triad. 6 Total: 43. deuce - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 6 Unit Price: 44. 0 Total: 264. 0 Total Price: Total Cost: 307. 2",
+        "Order ID: 10275 Shipping Details: Ship Name: Magazzini Alimentari Riuniti Ship Address: Via Ludovico il Moro 22 Ship City: Bergamo Ship Region: Southern Europe Ship Postal Code: 24100 Ship Country: Italy Customer Details: Customer ID: MAGAA Customer Name: Magazzini Alimentari Riuniti Employee Details: Employee Epithet: Nancy Davolio Shipper Particular: Shipper ID: 1 Shipper Gens: Speedy Express Order Details: Order Date: 2016 - 08 - 07 Shipped Date: 2016 - 08 - 09 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 12 Unit Price: 3. 6 Total: 43. 2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Amount: 6 Unit Price: 44. 0 Total: 264. 0 Entire Price: Total Price: 307. two"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10275. Ship Address: Via Ludovico il Moro 22, Bergamo. Postal Code: 24100. Country: Italy. Customer: Magazzini Alimentari Riuniti. Employee: Nancy Davolio. Shipper: Speedy Express. Product: Guaraná Fantástica."
+}

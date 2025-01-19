@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10461.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10461\nCustomer ID: LILAS\nOrder Date: 2017-02-28\nCustomer Details:\nContact Name:\nCarlos González\nAddress:\nCarrera 52 con Ave. Bolívar #65-98 Llano Largo\nCity:\nBarquisimeto\nPostal Code:\n3508\nCountry:\nVenezuela\nPhone:\n(9) 331-6954\nFax:\n(9) 331-7256\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n21\nSir Rodney's Scones\n40\n8.0\n30\nNord-Ost Matjeshering\n28\n20.7\n55\nPâté chinois\n60\n19.2\n \n \nTotalPrice\n2051.6\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10461 Customer ID: LILAS Order Date: 2017 - 02 - 28 Customer Detail: Physical contact Name: Carlos González Address: Carrera 52 confidence trick Ave. Bolívar # 65 - 98 Llano Largo City: Barquisimeto Postal Codification: 3508 Country: Venezuela Phone: (9) 331 - 6954 Fax: (9) 331 - 7256 Product Details: Product ID Mathematical product Name Quantity Unit Price 21 Sir Rodney ' s Scones 40 8. 0 30 Nord - Ost Matjeshering 28 20. 7 55 Pâté chinois 60 nineteen. 2 TotalPrice 2051. sextuplet Page i",
+        "Invoice Orderliness ID: 10461 Customer ID: LILAS Monastic order Date: 2017 - 02 - xxviii Customer Item: Contact Name: Carlos González Address: Carrera 52 con Ave. Bolívar # 65 - 98 Llano Largo City: Barquisimeto Postal Code: 3508 Body politic: Venezuela Phone: (9) 331 - 6954 Fax: (9) 331 - 7256 Product Inside information: Product ID Intersection Name Quantity Unit Price xxi Sir Rodney ' s Scones 40 8. 0 30 Nord - Ost Matjeshering 28 20. 7 55 Pâté chinois 60 19. 2 TotalPrice 2051. six Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10461.Customer: LILAS. Order Date: 2017-02-28. Product: Pâté chinois. Price: $2051.6. Page 1: 1. The product name is \"Venezuela\" and the product is called \"Carrera 52 con Ave. Bolívar\""
+}

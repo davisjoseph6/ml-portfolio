@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10393.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10393\nCustomer ID: SAVEA\nOrder Date: 2016-12-25\nCustomer Details:\nContact Name:\nJose Pavarotti\nAddress:\n187 Suffolk Ln.\nCity:\nBoise\nPostal Code:\n83720\nCountry:\nUSA\nPhone:\n(208) 555-8097\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n2\nChang\n25\n15.2\n14\nTofu\n42\n18.6\n25\nNuNuCa Nuß-Nougat-Creme\n7\n11.2\n26\nGumbär Gummibärchen\n70\n24.9\n31\nGorgonzola Telino\n32\n10.0\n \n \nTotalPrice\n3302.6000000000004\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10393 Customer gem state: SAVEA Order Date: 2016 - 12 - 25 Client Details: Contact Public figure: Jose Pavarotti Address: 187 Suffolk Ln. Metropolis: Boise Postal Code: 83720 Country: america Phone: (208) 555 - 8097 Fax: None Product Item: Product ID Production Name Quantity Unit Monetary value 2 Chang 25 15. 2 14 Tofu 42 18. 6 25 NuNuCa Nuß - Nougat - Creme 7 11. 2 xxvi Gumbär Gummibärchen 70 24. 9 31 Gorgonzola Telino 32 10. 0 TotalPrice 3302. 6000000000004 Page 1",
+        "Invoice Order ID: 10393 Customer ID: SAVEA Order Appointment: 2016 - 12 - 25 Client Details: Contact Figure: Jose Pavarotti Destination: 187 Suffolk Ln. City: Capital of idaho Postal Code: 83720 Country: USA Phone: (208) 555 - 8097 Fax: None Product Details: Mathematical product idaho Product Name Quantity Unit Price 2 Chang 25 15. 2 14 Bean curd 42 18. 6 25 NuNuCa Nuß - Nougat - Creme 7 11. two 26 Gumbär Gummibärchen 70 24. nine 31 Gorgonzola Telino 32 10. 0 TotalPrice 3302. 6000000000004 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: SAVEA Customer ID: \"Jose Pavarotti\" Order Date: 2016-12-25 Customer Details:           \"Jose\" Pavarotti Contact Name:     \"Paula\" Customer Id:    \"###\" Product name:    \"Gumbär Gummibärchen\" Unit Price: €3302.6000000000004 page 1."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "order_10317.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10317\nShipping Details:\nShip Name: Lonesome Pine Restaurant\nShip Address: 89 Chiaroscuro Rd.\nShip City: Portland\nShip Region: North America\nShip Postal Code: 97219\nShip Country: USA\nCustomer Details:\nCustomer ID: LONEP\nCustomer Name: Lonesome Pine Restaurant\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-09-30\nShipped Date: 2016-10-10\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 20\nUnit Price: 14.4\nTotal: 288.0\nTotal Price:\nTotal Price: 288.0\n",
+    "augmented_texts": [
+        "Order ID: 10317 Shipping Details: Ship Name: Lonesome Pine Restaurant Ship Address: 89 Chiaroscuro Rd. Ship City: Portland Ship Realm: North America Ship Postal Computer code: 97219 Ship State: USA Customer Details: Customer ID: LONEP Customer Name: Lonesome Pine Restaurant Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Edict Details: Order Date: 2016 - 09 - 30 Shipped Date: 2016 - 10 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Quantity: 20 Unit Price: 14. iv Total: 288. 0 Total Price: Total Price: 288. 0",
+        "Order ID: 10317 Shipping Details: Ship Epithet: Lonesome Pine Restaurant Ship Address: 89 Chiaroscuro Rd. Ship City: Portland Ship Region: North America Ship Postal Code: 97219 Ship Country: USA Customer Details: Customer ID: LONEP Customer Name: Lonesome Pine Restaurant Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper gem state: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 09 - xxx Shipped Date: 2016 - 10 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Chai Amount: 20 Unit of measurement Cost: 14. 4 Total: 288. 0 Total Price: Total Price: 288. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10317. Ship Address: 89 Chiaroscuro Rd.Ship Postal Code: 97219. Customers can order online at lonesomepinerestaurant.com or by calling 1-800-273-8255. Prices start at $14.4 per unit and go up to $288.0 per order."
+}

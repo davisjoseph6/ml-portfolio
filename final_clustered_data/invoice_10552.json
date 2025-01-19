@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10552.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10552\nCustomer ID: HILAA\nOrder Date: 2017-05-29\nCustomer Details:\nContact Name:\nCarlos Hernández\nAddress:\nCarrera 22 con Ave. Carlos Soublette #8-35\nCity:\nSan Cristóbal\nPostal Code:\n5022\nCountry:\nVenezuela\nPhone:\n(5) 555-1340\nFax:\n(5) 555-1948\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n69\nGudbrandsdalsost\n18\n36.0\n75\nRhönbräu Klosterbier\n30\n7.75\n \n \nTotalPrice\n880.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order i.d.: 10552 Customer ID: HILAA Order Date: 2017 - 05 - xxix Customer Details: Contact Name: Carlos Hernández Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 City: San Cristóbal Postal Codification: 5022 Country: Venezuela Phone: (5) 555 - 1340 Fax: (5) 555 - 1948 Product Details: Product ID Product Name Quantity Unit Price 69 Gudbrandsdalsost 18 36. cypher 75 Rhönbräu Klosterbier 30 7. 75 TotalPrice 880. 5 Sir frederick handley page 1",
+        "Invoice Order ID: 10552 Customer ID: HILAA Order Appointment: 2017 - 05 - 29 Customer Details: Inter group communication Name: Carlos Hernández Address: Carrera 22 con Ave. Carlos Soublette # 8 - 35 Metropolis: San Cristóbal Postal Code: 5022 Country: Venezuela Phone: (5) 555 - 1340 Fax: (5) 555 - 1948 Product Details: Product ID Product Public figure Measure Unit Price 69 Gudbrandsdalsost 18 thirty six. 0 75 Rhönbräu Klosterbier 30 7. 75 TotalPrice 880. 5 Varlet 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: HILAA Hernández. Order Date: 2017-05-29.Customer Details:                 Carlos Hernánez Carrera 22 con Ave. Carlos Soublette #8-35. Postal Code:  “5022”. Country: Venezuela."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10440.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10440\nCustomer ID: SAVEA\nOrder Date: 2017-02-10\nCustomer Details:\nContact Name:\nJose Pavarotti\nAddress:\n187 Suffolk Ln.\nCity:\nBoise\nPostal Code:\n83720\nCountry:\nUSA\nPhone:\n(208) 555-8097\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n2\nChang\n45\n15.2\n16\nPavlova\n49\n13.9\n29\nThüringer Rostbratwurst\n24\n99.0\n61\nSirop d'érable\n90\n22.8\n \n \nTotalPrice\n5793.1\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order gem state: 10440 Customer ID: SAVEA Order Date: 2017 - 02 - 10 Customer Details: Contact Name: Jose Luciano pavarotti Address: 187 Suffolk Ln. City: Boise Postal Code: 83720 Country: USA Phone: (208) 555 - 8097 Fax: None Product Details: Product ID Product Name Quantity Unit Price 2 Chang 45 15. 2 16 Pavlova 49 thirteen. 9 twenty nine Thüringer Rostbratwurst 24 99. 0 sixty one Sirop five hundred ' érable 90 22. 8 TotalPrice 5793. 1 Page single",
+        "Invoice Order ID: 10440 Customer ID: SAVEA Order Date: 2017 - 02 - 10 Customer Inside information: Contact Name: Jose Pavarotti Address: 187 Suffolk Ln. City: Boise Postal Code: 83720 Country: USA Phone: (208) 555 - 8097 Facsimile: None Intersection Details: Product ID Product Name Quantity Unit Price 2 Chang 45 xv. 2 16 Pavlova 49 13. ix 29 Thüringer Rostbratwurst twenty four 99. 0 61 Sirop viosterol ' érable 90 22. 8 TotalPrice 5793. 1 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice. Name: SAVEA Customer ID: \"Pavlova\" Customer. Address: Jose Pavarotti. Phone:(208) 555-8097.Fax: (203) 837-83720. Product. name is \"Thüringer Rostbratwurst\" Price is $5793.1."
+}

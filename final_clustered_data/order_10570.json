@@ -1,0 +1,24 @@
+{
+    "filename": "order_10570.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10570\nShipping Details:\nShip Name: Mère Paillarde\nShip Address: 43 rue St. Laurent\nShip City: Montréal\nShip Region: North America\nShip Postal Code: H1J 1C3\nShip Country: Canada\nCustomer Details:\nCustomer ID: MEREP\nCustomer Name: Mère Paillarde\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-06-17\nShipped Date: 2017-06-19\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 15\nUnit Price: 21.0\nTotal: 315.0\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 60\nUnit Price: 38.0\nTotal: 2280.0\nTotal Price:\nTotal Price: 2595.0\n",
+    "augmented_texts": [
+        "Order ID: 10570 Shipping Details: Ship Epithet: Mère Paillarde Ship Address: 43 rue St. Laurent Ship City: Montréal Ship Region: North U.s. Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Customer Name: Mère Paillarde Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2017 - 06 - 17 Shipped Date: 2017 - 06 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Production: Queso Cabrales Quantity: 15 Unit Price: 21. 0 Total: 315. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 60 Unit Leontyne price: 38. 0 Total: 2280. 0 Total Price: Total Price: 2595. 0",
+        "Order ID: 10570 Shipping Details: Ship Name: Mère Paillarde Ship Address: forty three rue St. Laurent Ship City: Montréal Ship Region: North America Ship Postal Code: H1J 1C3 Ship Country: Canada Customer Details: Customer ID: MEREP Client Name: Mère Paillarde Employee Details: Employee Name: Janet Leverling Shipper Details: Shipper ID: 3 Shipper Public figure: Federal Shipping Order Detail: Order Date: 2017 - 06 - xvii Shipped Particular date: 2017 - 06 - 19 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Queso Cabrales Quantity: 15 Unit Price: 21. 0 Total: 315. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gnocchi di nonna Alice Quantity: 60 Unit Price: 38. 0 Total: 2280. 0 Total Price: Total Price: 2595. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10570. Order Name: Mère Paillarde. Ship Address: 43 rue St. Laurent, Montréal. Postal Code: H1J 1C3. Country: Canada. Shipper: Federal Shipping. Customer: MEREP. Employee: Janet Leverling."
+}

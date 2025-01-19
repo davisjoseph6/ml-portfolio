@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10514.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10514\n2017-04-22\nRoland Mendel\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n20\nSir Rodney's Marmalade\n39\n81\n28\nRössle Sauerkraut\n35\n45.6\n56\nGnocchi di nonna Alice\n70\n38\n65\nLouisiana Fiery Hot Pepper Sauce\n39\n21.05\n75\nRhönbräu Klosterbier\n50\n7.75\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Order Date Customer Name 10514 2017 - 04 - 22 Roland Mendel Products Product ID: Product: Quantity: Unit Price: 20 Sir Rodney ' s Marmalade 39 81 28 Rössle Sauerkraut 35 45. 6 56 Gnocchi di nonna Alice 70 38 sixty five Louisiana Fiery Hot Pepper Sauce 39 21. 05 75 Rhönbräu Klosterbier fifty 7. 75 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10514 2017 - 04 - 22 Roland Mendel Products Product ID: Product: Quantity: Unit Price: 20 Sir Rodney ' s Marmalade 39 81 twenty eight Rössle Sauerkraut thirty five forty five. 6 56 Gnocchi di nonna Alice 70 38 65 Louisiana Fiery Hot Pepper Sauce 39 21. 05 75 Rhönbräu Klosterbier 50 septenary. 75 Varlet 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders encompass more than one product. The product ID is the product's quantity, not the price. Customers can choose to pay by credit card or cash. For more information, go to Roland Mendel's website: www.RolandMendel.com."
+}

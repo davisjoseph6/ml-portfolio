@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10291.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10291\nCustomer ID: QUEDE\nOrder Date: 2016-08-27\nCustomer Details:\nContact Name:\nBernardo Batista\nAddress:\nRua da Panificadora, 12\nCity:\nRio de Janeiro\nPostal Code:\n02389-673\nCountry:\nBrazil\nPhone:\n(21) 555-4252\nFax:\n(21) 555-4545\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n13\nKonbu\n20\n4.8\n44\nGula Malacca\n24\n15.5\n51\nManjimup Dried Apples\n2\n42.4\n \n \nTotalPrice\n552.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Social club i.d.: 10291 Customer ID: QUEDE Guild Date: 2016 - 08 - 27 Customer Details: Contact Name: Bernardo Batista Address: Rua da Panificadora, 12 Metropolis: Rio de Janeiro Postal Computer code: 02389 - 673 Country: Brazil Phone: (21) 555 - 4252 Fax: (21) 555 - 4545 Product Details: Merchandise ID Product Name Quantity Unit Price 13 Konbu 20 4. viii 44 Gluttony Malacca 24 15. 5 51 Manjimup Dried Apples 2 42. 4 TotalPrice 552. 8 Page 1",
+        "Invoice Order ID: 10291 Customer ID: QUEDE Rules of order Day of the month: 2016 - 08 - 27 Customer Details: Impinging Name: Bernardo Batista Address: Rua da Panificadora, 12 City: Rio de Janeiro Postal Code: 02389 - 673 Country: Brazil Phone: (21) 555 - 4252 Fax: (21) 555 - 4545 Product Details: Product ID Product Gens Measure Unit Monetary value 13 Konbu 20 4. 8 44 Gula Malacca 24 fifteen. 5 51 Manjimup Dried Apples 2 42. 4 TotalPrice 552. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: QUEDE. Order Date: 2016-08-27. Customer Details:Bernardo Batista. Address: Rua da Panificadora, 12. City: Rio de Janeiro. Postal Code:02389-673. Country: Brazil. Phone: (21) 555-4252."
+}

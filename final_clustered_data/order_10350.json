@@ -1,0 +1,24 @@
+{
+    "filename": "order_10350.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10350\nShipping Details:\nShip Name: La maison d-Asie\nShip Address: 1 rue Alsace-Lorraine\nShip City: Toulouse\nShip Region: Western Europe\nShip Postal Code: 31000\nShip Country: France\nCustomer Details:\nCustomer ID: LAMAI\nCustomer Name: La maison d'Asie\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-11-11\nShipped Date: 2016-12-03\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Valkoinen suklaa\nQuantity: 15\nUnit Price: 13.0\nTotal: 195.0\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 18\nUnit Price: 28.8\nTotal: 518.4\nTotal Price:\nTotal Price: 713.4\n",
+    "augmented_texts": [
+        "Order ID: 10350 Ship Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Westerly Europe Ship Postal Code: 31000 Ship Country: France Client Details: Customer ID: LAMAI Customer Name: La maison d ' Asie Employee Details: Employee Name: Michael Suyama Shipper Item: Shipper ID: 2 Shipper Name: United Package Order Details: Order Appointment: 2016 - 11 - 11 Shipped Date: 2016 - 12 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Valkoinen suklaa Quantity: 15 Unit Price: 13. 0 Total: 195. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: 18 Unit Price: xxviii. octonary Total: 518. 4 Total Price: Total Damage: 713. 4",
+        "Order ID: 10350 Shipping Details: Ship Name: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Westerly Europe Ship Postal Computer code: 31000 Ship Country: France Customer Details: Customer ID: LAMAI Customer Name: La maison d ' Asie Employee Details: Employee Name: Michael Suyama Shipper Details: Shipper ID: 2 Shipper Name: United Package Order Item: Order Date: 2016 - 11 - 11 Shipped Date: 2016 - 12 - 03 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Valkoinen suklaa Quantity: 15 Unit Leontyne price: 13. 0 Total: 195. cipher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Gudbrandsdalsost Quantity: eighteen Unit Price: 28. 8 Total: 518. 4 Total Price: Total Price: 713. 4"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10350. Order Name: La maison d-Asie. Ship Address: 1 rue Alsace-Lorraine, Toulouse. Postal Code: 31000. Country: France. Customer: LAMAI. Employee: Michael Suyama."
+}

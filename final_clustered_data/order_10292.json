@@ -1,0 +1,24 @@
+{
+    "filename": "order_10292.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112630+00'00'",
+        "modDate": "D:20230529112630+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10292\nShipping Details:\nShip Name: Tradiçao Hipermercados\nShip Address: Av. Inês de Castro, 414\nShip City: Sao Paulo\nShip Region: South America\nShip Postal Code: 05634-030\nShip Country: Brazil\nCustomer Details:\nCustomer ID: TRADH\nCustomer Name: Tradição Hipermercados\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-08-28\nShipped Date: 2016-09-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Marmalade\nQuantity: 20\nUnit Price: 64.8\nTotal: 1296.0\nTotal Price:\nTotal Price: 1296.0\n",
+    "augmented_texts": [
+        "Parliamentary procedure ID: 10292 Ship Details: Ship Public figure: Tradiçao Hipermercados Ship Address: Av. Inês de Castro, 414 Ship City: Sao Paulo Ship Region: South United states Ship Postal Code: 05634 - 030 Ship Country: Brazil Customer Details: Customer ID: TRADH Customer Name: Tradição Hipermercados Employee Details: Employee Name: Nancy Davolio Shipper Detail: Shipper ID: 2 Shipper Name: United Package Order Details: Order Date: 2016 - 08 - 28 Shipped Particular date: 2016 - 09 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Ware: Sir Rodney ' southward Marmalade Quantity: 20 Building block Price: 64. 8 Total: 1296. 0 Total Price: Total Price: 1296. 0",
+        "Order ID: 10292 Ship Details: Ship Name: Tradiçao Hipermercados Ship Address: Av. Inês de Castro, 414 Ship City: Sao Paulo Ship Realm: South America Ship Postal Code: 05634 - 030 Ship Area: Brazil Client Details: Customer ID: TRADH Client Name: Tradição Hipermercados Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 2 Shipper Name: United Package Monastic order Details: Order Date: 2016 - 08 - 28 Shipped Date: 2016 - 09 - 02 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Sir Rodney ' s Marmalade Amount: 20 Unit Price: 64. 8 Total: 1296. 0 Total Price: Total Price: 1296. zero"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10292; Ship Address: Av. Inês de Castro, 414; Postal Code: 05634-030; City: Sao Paulo; Region: South America; Country: Brazil. Product: Sir Rodney's Marmalade; Unit Price: 64.8; Price per pound: 1296.0."
+}

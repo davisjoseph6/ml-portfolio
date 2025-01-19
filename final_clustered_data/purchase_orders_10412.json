@@ -1,0 +1,24 @@
+{
+    "filename": "purchase_orders_10412.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529112122",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10412\n2017-01-13\nPirkko Koskitalo\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n14\nTofu\n20\n18.6\nPage 1\n",
+    "augmented_texts": [
+        "Purchase Orders Order ID Club Date Customer Name 10412 2017 - 01 - 13 Pirkko Koskitalo Products Merchandise ID: Product: Measure: Unit Price: 14 Tofu 20 18. 6 Page 1",
+        "Purchase Orders Order ID Order Date Customer Name 10412 2017 - 01 - 13 Pirkko Koskitalo Products Product i.d.: Product: Quantity: Unit Price: 14 Tofu 20 18. 6 Varlet 1"
+    ],
+    "predicted_cluster": 2,
+    "predicted_label": "cluster_2",
+    "summary": "Purchase Orders are delivered to your home or office. Order ID is the product name used to order the products. The product is sold by Kirkko Koskitalo, based in Finland. For more information, visitirkko.co.uk or visit www.kirkkokositalos.com."
+}

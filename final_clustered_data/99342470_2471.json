@@ -1,0 +1,12 @@
+{
+    "filename": "99342470_2471.jpg",
+    "metadata": {},
+    "text": "SURGEON GENERAL'S WARNING: Smoking\nCauses Lung Cancer, Heart\nE And Ms\n\n \n\f",
+    "augmented_texts": [
+        "SURGEON GENERAL ' Randomness WARNING: Smoking Causes Lung Cancer, Heart E And Ms",
+        "SURGEON full general ' S WARNING: Smoking Causes Lung Cancer, Heart E And Ms"
+    ],
+    "predicted_cluster": 1,
+    "predicted_label": "cluster_1",
+    "summary": "SURGEON GENERAL'S WARNING: SmokingCauses Lung Cancer, HeartE And Ms. And Mr Smoking. Smoking is linked to lung cancer, heart disease, stroke, and other conditions. Smoking is also a cause of lung and heart cancer. smoking is a factor in the development of many cancers."
+}

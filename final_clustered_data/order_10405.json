@@ -1,0 +1,24 @@
+{
+    "filename": "order_10405.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112632+00'00'",
+        "modDate": "D:20230529112632+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10405\nShipping Details:\nShip Name: LINO-Delicateses\nShip Address: Ave. 5 de Mayo Porlamar\nShip City: I. de Margarita\nShip Region: South America\nShip Postal Code: 4980\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: LINOD\nCustomer Name: LINO-Delicateses\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-01-06\nShipped Date: 2017-01-22\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Aniseed Syrup\nQuantity: 50\nUnit Price: 8.0\nTotal: 400.0\nTotal Price:\nTotal Price: 400.0\n",
+    "augmented_texts": [
+        "Order ID: 10405 Shipping Details: Ship Name: LINO - Delicateses Ship Address: Ave. 5 de Mayo Porlamar Ship Metropolis: I. de Margarita Ship Region: South America Ship Postal Code: 4980 Ship Country: Venezuela Customer Detail: Customer ID: LINOD Customer Name: LINO - Delicateses Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: ace Shipper Name: Speedy Express Order Details: Order Date: 2017 - 01 - 06 Shipped Date: 2017 - 01 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Anise Syrup Quantity: 50 Unit Price: 8. zero Total: 400. 0 Total Price: Total Price: 400. 0",
+        "Order ID: 10405 Ship Details: Ship Name: LINO - Delicateses Ship Address: Ave. 5 de Mayo Porlamar Ship Urban center: I. de Margarita Ship Region: South U.s.a. Ship Postal Code: 4980 Ship Country: Venezuela Client Details: Customer ID: LINOD Customer Name: LINO - Delicateses Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 01 - 06 Shipped Date: 2017 - 01 - 22 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Aniseed Syrup Quantity: 50 Unit Price: 8. 0 Total: 400. 0 Total Price: Total Toll: 400. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order ID: 10405. Order Name: LINO-Delicateses. Ship Address: Ave. 5 de Mayo Porlamar, I. de Margarita. Postal Code: 4980. Country: Venezuela. Product: Aniseed Syrup. Unit Price: 8.0 pounds. Price per pound: $1.50. Shipper: Speedy Express."
+}

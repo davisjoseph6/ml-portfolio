@@ -1,0 +1,24 @@
+{
+    "filename": "order_10371.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10371\nShipping Details:\nShip Name: La maison d-Asie\nShip Address: 1 rue Alsace-Lorraine\nShip City: Toulouse\nShip Region: Western Europe\nShip Postal Code: 31000\nShip Country: France\nCustomer Details:\nCustomer ID: LAMAI\nCustomer Name: La maison d'Asie\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-12-03\nShipped Date: 2016-12-24\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Inlagd Sill\nQuantity: 6\nUnit Price: 15.2\nTotal: 91.19999999999999\nTotal Price:\nTotal Price: 91.19999999999999\n",
+    "augmented_texts": [
+        "Order ID: 10371 Shipping Details: Ship Name: La maison cholecalciferol - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Country: France Customer Details: Customer ID: LAMAI Customer Name: La maison d ' Asie Employee Details: Employee Name: Nancy Davolio Shipper Detail: Shipper i.d.: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 12 - 03 Shipped Date: 2016 - 12 - 24 Production: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Cartesian product: Inlagd Sill Quantity: 6 Unit Price: 15. 2 Total: 91. 19999999999999 Full Monetary value: Total Price: 91. 19999999999999",
+        "Order ID: 10371 Ship Details: Ship Public figure: La maison d - Asie Ship Address: 1 rue Alsace - Lorraine Ship City: Toulouse Ship Region: Western Europe Ship Postal Code: 31000 Ship Country: France Customer Details: Customer ID: LAMAI Customer Public figure: La maison d ' Asie Employee Details: Employee Name: Nancy Davolio Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2016 - 12 - 03 Shipped Date: 2016 - 12 - 24 Mathematical product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Inlagd Sill Quantity: 6 Unit Price: 15. 2 Total: ninety one. 19999999999999 Full Price: Total Price: ninety one. 19999999999999"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": " order for La maison d-Asie in Toulouse, France. The order was placed on December 3, 2016. It was shipped on November 24, 2015. For more information on the order, visit LaMaisonDAsIE.com. for details on how to order online."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10544.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10544\nCustomer ID: LONEP\nOrder Date: 2017-05-21\nCustomer Details:\nContact Name:\nFran Wilson\nAddress:\n89 Chiaroscuro Rd.\nCity:\nPortland\nPostal Code:\n97219\nCountry:\nUSA\nPhone:\n(503) 555-9573\nFax:\n(503) 555-9646\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n28\nRössle Sauerkraut\n7\n45.6\n67\nLaughing Lumberjack Lager\n7\n14.0\n \n \nTotalPrice\n417.2\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10544 Customer idaho: LONEP Club Appointment: 2017 - 05 - 21 Customer Detail: Contact Name: Fran Wilson Name and address: 89 Chiaroscuro Rd. City: Portland Postal Code: 97219 Country: USA Phone: (503) 555 - 9573 Fax: (503) 555 - 9646 Product Details: Product ID Product Name Quantity Unit Price 28 Rössle Sauerkraut septet 45. 6 67 Laughing Lumberjack Lager 7 xiv. 0 TotalPrice 417. 2 Page 1",
+        "Invoice Order ID: 10544 Customer ID: LONEP Order Date: 2017 - 05 - 21 Client Details: Contact Figure: Fran Wilson Address: 89 Chiaroscuro Rd. City: Portland Postal Code: 97219 Res publica: us Phone: (503) 555 - 9573 Fax: (503) 555 - 9646 Product Details: Product ID Product Gens Quantity Unit Price 28 Rössle Sauerkraut 7 45. 6 67 Laughing Lumberman Lager 7 14. 0 TotalPrice 417. 2 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice ID: 1054420.Customer Name: LONEP. Customer ID is: \"Fran Wilson\" Order Date: 2017-05-21. Email: Fran Wilson at Fran.Wilson@lonep.com. Phone: (503) 555-9573.Fax:(503), (Portland, Oregon)"
+}

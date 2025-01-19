@@ -1,0 +1,12 @@
+{
+    "filename": "82894853.jpg",
+    "metadata": {},
+    "text": "INVOICE \"\n\n \n\nMANAGEMENT SCIENCE ASSOCIATES, INC.\n‘SEND REMITTANCE TO:\n6565 Penn Avenue at Fifth a\nPittsburgh, PA 15206-4490 aes Gotance Abeoaiatee, Inc\n(412) 362-2000 poee ae one\n\n \n\nTs. sarah Evans\nLORILLARD TOBACCO COMPANY\nMarketing Research - 17th Floor\nOne Park Avenue\n\n   \n\n \n\nNew York, NY 10016-5896\n\n[FEDERAL 10 WO. 25-1128418\n\n9209068 September 9, 1992 NET 10 DAYS\nDescription NOUN\n\n \n\nFOR WORK DONE THROUGH AUGUST 1992 FOR LORILLARD TOBACCO COMPANY\n\n5673-1092 TRUE SNAPSHOT REPORT (30/18151\n\nduly 1992 $502.00\n\nTOTAL AMOUNT DUE $502.00\n\nWilld L, Hi. Futules f\n\n2\n=\nesereeze\n\n \n\n \n\nPitsburgh New York Chicago Phoenix Toronto ‘Washineion, OC\n\f",
+    "augmented_texts": [
+        "INVOICE \" MANAGEMENT SCIENCE ASSOCIATES, INC. ‘ SEND REMITTANCE TO: 6565 Penn Avenue at Fifth a Pittsburgh, PA 15206 - 4490 aes Gotance Abeoaiatee, Inc (412) 362 - 2000 poee ae one Ts. sarah Evans LORILLARD TOBACCO society Marketing Research - 17th Floor One Park Avenue New York, NY 10016 - 5896 [FEDERAL 10 WO. 25 - 1128418 9209068 Sept 9, 1992 NET 10 DAYS Verbal description NOUN FOR workplace DONE THROUGH AUGUST 1992 FOR LORILLARD TOBACCO COMPANY 5673 - 1092 TRUE SNAPSHOT REPORT (30 / 18151 duly 1992 $ 502. 00 TOTAL AMOUNT DUE $ 502. 00 Willd L, Hi. Futules f 2 = esereeze Pitsburgh New York Windy city Phoenix Toronto ‘ Washineion, OC",
+        "INVOICE \" MANAGEMENT SCIENCE ASSOCIATES, INC. ‘ SEND remitment TO: 6565 Pennsylvania Avenue at Fifth a Pittsburgh, protactinium 15206 - 4490 aes Gotance Abeoaiatee, Inc (412) 362 - 2000 poee ae one Ts. sarah Evans LORILLARD TOBACCO COMPANY Marketing Research - 17th Floor One Park Avenue New York, NY 10016 - 5896 [FEDERAL 10 WO. 25 - 1128418 9209068 September 9, 1992 NET 10 DAYS Description NOUN FOR WORK DONE THROUGH AUGUST 1992 FOR LORILLARD TOBACCO companionship 5673 - 1092 TRUE SNAPSHOT REPORT (thirty / 18151 duly 1992 $ 502. 00 TOTAL AMOUNT DUE $ 502. 00 Willd L, Hi. Futules f 2 = esereeze Pitsburgh New House of york Chicago Phoenix Toronto ‘ Washineion, OC"
+    ],
+    "predicted_cluster": 1,
+    "predicted_label": "cluster_1",
+    "summary": "INVOICE:  ‘SEND REMITTANCE TO: ‘MANAGEMENT SCIENCE ASSOCIATES, INC.’ The report was completed on September 9, 1992. The total cost of the project was $502.00."
+}

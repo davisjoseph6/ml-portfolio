@@ -1,0 +1,24 @@
+{
+    "filename": "order_10520.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112633+00'00'",
+        "modDate": "D:20230529112633+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10520\nShipping Details:\nShip Name: Santé Gourmet\nShip Address: Erling Skakkes gate 78\nShip City: Stavern\nShip Region: Scandinavia\nShip Postal Code: 4110\nShip Country: Norway\nCustomer Details:\nCustomer ID: SANTG\nCustomer Name: Santé Gourmet\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-04-29\nShipped Date: 2017-05-01\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 8\nUnit Price: 4.5\nTotal: 36.0\n--------------------------------------------------------------------------------------------------\nProduct: Perth Pasties\nQuantity: 5\nUnit Price: 32.8\nTotal: 164.0\nTotal Price:\nTotal Price: 200.0\n",
+    "augmented_texts": [
+        "Order ID: 10520 Shipping Details: Ship Name: Santé Gourmet Ship Address: Erling Skakkes gate lxxviii Ship City: Stavern Ship Region: Scandinavia Ship Postal Code: 4110 Ship Country: Norway Customer Details: Customer ID: SANTG Customer Name: Santé Gourmet Employee Details: Employee Name: Robert King Shipper Point: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 04 - 29 Shipped Date: 2017 - 05 - 01 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 8 Unit Price: 4. 5 Amount: 36. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Merchandise: Perth Pasties Quantity: quint Unit Price: 32. 8 Total: 164. cypher Total Price: Total Price: 200. 0",
+        "Order ID: 10520 Shipping Details: Ship Name: Santé Gourmet Ship Address: Erling Skakkes gate 78 Ship City: Stavern Ship Region: Scandinavia Ship Postal Code: 4110 Ship Country: Kingdom of norway Customer Details: Customer ID: SANTG Customer Name: Santé Gourmet Employee Details: Employee Name: Robert King Shipper Details: Shipper gem state: 1 Shipper Name: Speedy Express Gild Details: Order Date: 2017 - 04 - twenty nine Shipped Date: 2017 - 05 - 01 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Guaraná Fantástica Quantity: 8 Unit Price: 4. 5 Total: 36. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Perth Pasties Quantity: 5 Unit Cost: xxxii. 8 Total: 164. 0 Full Price: Total Price: 200. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10520. Ship Address: Erling Skakkes gate 78, Stavern, Norway. Postal Code: 4110. Customer Name: Santé Gourmet. Employee: Robert King. Shipper: Speedy Express. Order Date: 2017-04-29."
+}

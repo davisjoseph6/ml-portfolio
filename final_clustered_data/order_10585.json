@@ -1,0 +1,24 @@
+{
+    "filename": "order_10585.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10585\nShipping Details:\nShip Name: Wellington Importadora\nShip Address: Rua do Mercado, 12\nShip City: Resende\nShip Region: South America\nShip Postal Code: 08737-363\nShip Country: Brazil\nCustomer Details:\nCustomer ID: WELLI\nCustomer Name: Wellington Importadora\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-07-01\nShipped Date: 2017-07-10\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Zaanse koeken\nQuantity: 15\nUnit Price: 9.5\nTotal: 142.5\nTotal Price:\nTotal Price: 142.5\n",
+    "augmented_texts": [
+        "Order ID: 10585 Shipping Details: Ship Name: Wellington Importadora Ship Address: Rua serve Mercado, 12 Ship City: Resende Ship Region: Due south America Ship Postal Code: 08737 - 363 Ship Country: Brazil Customer Details: Customer ID: WELLI Client Name: Wellington Importadora Employee Details: Employee Name: Robert King Shipper Details: Shipper i.d.: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 07 - 01 Shipped Date: 2017 - 07 - 10 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Zaanse koeken Quantity: 15 Unit Price: 9. 5 Total: 142. 5 Total Price: Total Price: 142. 5",
+        "Order gem state: 10585 Shipping Details: Ship Name: Wellington Importadora Ship Address: Rua do Mercado, twelve Ship City: Resende Ship Neighborhood: South America Ship Postal Code: 08737 - 363 Ship Country: Brazil Customer Details: Customer ID: WELLI Customer Name: Wellington Importadora Employee Details: Employee Name: Robert King Shipper Details: Shipper ID: 1 Shipper Name: Speedy Express Order Details: Order Date: 2017 - 07 - 01 Shipped Date: 2017 - 07 - 10 Product: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Zaanse koeken Quantity: 15 Unit Price: 9. 5 Total: 142. 5 Total Cost: Total Price: 142. 5"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10585. Order Name: Wellington Importadora. Ship Address: Rua do Mercado, 12. City: Resende. Region: South America. Postal Code: 08737-363.Ship Country: Brazil. Customer: WELLI. Shipper: Speedy Express. Product: Zaanse koeken. Unit Price: 9.5."
+}

@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10591.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10591\nCustomer ID: VAFFE\nOrder Date: 2017-07-07\nCustomer Details:\nContact Name:\nPalle Ibsen\nAddress:\nSmagsloget 45\nCity:\nÅrhus\nPostal Code:\n8200\nCountry:\nDenmark\nPhone:\n86 21 32 43\nFax:\n86 22 33 44\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n3\nAniseed Syrup\n14\n10.0\n7\nUncle Bob's Organic Dried Pears\n10\n30.0\n54\nTourtière\n50\n7.45\n \n \nTotalPrice\n812.5\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10591 Customer ID: VAFFE Order Engagement: 2017 - 07 - 07 Customer Details: Contact Name: Palle Ibsen Address: Smagsloget 45 City: Århus Postal Computer code: 8200 Country: Denmark Phone: 86 21 32 xliii Fax: 86 twenty two 33 44 Product Details: Product ID Product Name Quantity Unit Price 3 Aniseed Syrup xiv 10. 0 7 Uncle Dock ' s Organic Dried Pears 10 30. 0 54 Tourtière 50 7. forty five TotalPrice 812. 5 Pageboy 1",
+        "Invoice Order ID: 10591 Customer ID: VAFFE Order Date: 2017 - 07 - 07 Customer Details: Contact Name: Palle Ibsen Computer address: Smagsloget forty five City: Århus Postal Code: 8200 Country: Danmark Earphone: 86 21 32 43 Fax: 86 xxii 33 xliv Product Details: Product ID Product Name Quantity Unit Price 3 Anise seed Syrup 14 10. 0 7 Uncle Bob ' s Organic Dried Pears 10 30. 0 54 Tourtière 50 7. 45 TotalPrice 812. 5 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10591.Customer ID: VAFFE. Order Date: 2017-07-7. Customer Details:                Contact Name:                         Palle Ibsen. Postal Code:                8200. Country: Denmark. Phone:  “”; Fax: ” ’; Phone Number: 1."
+}

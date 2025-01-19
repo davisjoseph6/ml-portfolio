@@ -1,0 +1,24 @@
+{
+    "filename": "order_10589.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112634+00'00'",
+        "modDate": "D:20230529112634+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10589\nShipping Details:\nShip Name: Great Lakes Food Market\nShip Address: 2732 Baker Blvd.\nShip City: Eugene\nShip Region: North America\nShip Postal Code: 97403\nShip Country: USA\nCustomer Details:\nCustomer ID: GREAL\nCustomer Name: Great Lakes Food Market\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-07-04\nShipped Date: 2017-07-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 4\nUnit Price: 18.0\nTotal: 72.0\nTotal Price:\nTotal Price: 72.0\n",
+    "augmented_texts": [
+        "Order ID: 10589 Transport Details: Ship Name: Great Lakes Food Market Ship Address: 2732 Baker Blvd. Ship City: Eugene Ship Region: North America Ship Postal Code: 97403 Ship Country: USA Customer Details: Customer ID: GREAL Customer Name: Great Lake Food Market Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper ID: 2 Shipper Name: United Software system Order Details: Order Date: 2017 - 07 - 04 Shipped Date: 2017 - 07 - 14 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Quantity: 4 Unit Price: 18. 0 Total: 72. 0 Full Price: Total Price: 72. cipher",
+        "Order ID: 10589 Shipping Details: Ship Name: Great Lakes Food Market Ship Address: 2732 Baker Blvd. Ship City: Eugene Ship Area: North America Ship Postal Code: 97403 Ship Country: USA Customer Details: Customer ID: GREAL Customer Name: Great Lakes Food Market place Employee Details: Employee Name: Laura Callahan Shipper Details: Shipper gem state: 2 Shipper Name: United Package Order Detail: Order Date: 2017 - 07 - 04 Shipped Date: 2017 - 07 - xiv Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Steeleye Stout Amount: little joe Unit Price: 18. 0 Total: 72. 0 Total Price: Total Price: 72. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10589. Ship Address: 2732 Baker Blvd.Ship Postal Code: 97403. Country: USA. Shipper: United Package. Product: Steeleye Stout. Unit Price: 18.0 pounds. Price per ounce: 72. 0 pounds, or $18.99."
+}

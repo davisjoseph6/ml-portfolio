@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10309.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10309\nCustomer ID: HUNGO\nOrder Date: 2016-09-19\nCustomer Details:\nContact Name:\nPatricia McKenna\nAddress:\n8 Johnstown Road\nCity:\nCork\nPostal Code:\nNone\nCountry:\nIreland\nPhone:\n2967 542\nFax:\n2967 3333\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n4\nChef Anton's Cajun Seasoning\n20\n17.6\n6\nGrandma's Boysenberry Spread\n30\n20.0\n42\nSingaporean Hokkien Fried Mee\n2\n11.2\n43\nIpoh Coffee\n20\n36.8\n71\nFlotemysost\n3\n17.2\n \n \nTotalPrice\n1762.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10309 Customer ID: HUNGO Order Date: 2016 - 09 - 19 Customer Details: Contact Name: Patricia McKenna Address: eighter from decatur Johnstown Road City: Cork Postal Code: None Country: Ireland Phone: 2967 542 Fax: 2967 3333 Product Detail: Product ID Product Name Quantity Unit Price 4 Chef Anton ' s Cajun Seasoning twenty seventeen. 6 6 Grandma ' s Boysenberry Spread 30 20. 0 42 Singaporean Hokkien Fried Mee ii 11. ii 43 Ipoh Coffee 20 36. 8 71 Flotemysost 3 17. 2 TotalPrice 1762. nought Page 1",
+        "Invoice Holy order ID: 10309 Customer ID: HUNGO Order Date: 2016 - 09 - 19 Customer Details: Contact Gens: Patricia McKenna Savoir faire: 8 Johnstown Route City: Cork Postal Code: None Country: Ireland Phone: 2967 542 Fax: 2967 3333 Product Details: Product ID Product Name Quantity Unit Price 4 Chef Anton ' s Cajun Seasoning xx 17. 6 6 Grandma ' s Boysenberry Spread 30 20. 0 42 Singaporean Hokkien Fried Mee 2 11. 2 43 Ipoh Coffee berry 20 36. 8 71 Flotemysost 3 xvii. 2 TotalPrice 1762. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10309.Customer ID: HUNGO. Customer Name: Patricia McKenna. Address: Johnstown Road, Cork, Ireland. Order Date: 2016-09-19. Product: Cajun Seasoning, Ipoh Coffee, Hokkien Fried Mee. Price: 1762.0."
+}

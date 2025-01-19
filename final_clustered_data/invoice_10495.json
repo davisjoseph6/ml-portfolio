@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10495.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10495\nCustomer ID: LAUGB\nOrder Date: 2017-04-03\nCustomer Details:\nContact Name:\nYoshi Tannamuri\nAddress:\n1900 Oak St.\nCity:\nVancouver\nPostal Code:\nV3F 2K1\nCountry:\nCanada\nPhone:\n(604) 555-3392\nFax:\n(604) 555-7293\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n23\nTunnbröd\n10\n7.2\n41\nJack's New England Clam Chowder\n20\n7.7\n77\nOriginal Frankfurter grüne Soße\n5\n10.4\n \n \nTotalPrice\n278.0\nPage 1\n",
+    "augmented_texts": [
+        "Bill Order ID: 10495 Customer ID: LAUGB Order Day of the month: 2017 - 04 - 03 Customer Details: Contact Name: Yoshi Tannamuri Computer address: 1900 Oak St. City: Vancouver Postal Code: V3F 2K1 Land: Canada Phone: (604) 555 - 3392 Facsimile machine: (604) 555 - 7293 Product Details: Product ID Product Name Quantity Unit Price twenty three Tunnbröd 10 7. 2 41 Jack ' s New England Clam Chowder 20 septet. 7 77 Original Frankfurter grüne Soße 5 10. 4 TotalPrice 278. 0 Sir frederick handley page 1",
+        "Invoice Order ID: 10495 Customer ID: LAUGB Order Date: 2017 - 04 - 03 Customer Details: Contact Figure: Yoshi Tannamuri Address: 1900 Oak tree St. City: Vancouver Postal Code: V3F 2K1 Country: Canada Phone: (604) 555 - 3392 Facsimile: (604) 555 - 7293 Product Details: Product ID Product Name Measure Unit Price 23 Tunnbröd 10 7. 2 41 Jack ' s New England Dollar Chowder 20 sevener. 7 77 Original Frank grüne Soße 5 ten. 4 TotalPrice 278. 0 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice: 10495.Customer ID: LAUGB. Order Date: 2017-04-03. Customer Details:                         Yoshi Tannamuri, P.A., C.E.C.I.R.P.S. A."
+}

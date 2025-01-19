@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10316.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10316\nCustomer ID: RATTC\nOrder Date: 2016-09-27\nCustomer Details:\nContact Name:\nPaula Wilson\nAddress:\n2817 Milton Dr.\nCity:\nAlbuquerque\nPostal Code:\n87110\nCountry:\nUSA\nPhone:\n(505) 555-5939\nFax:\n(505) 555-3620\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n41\nJack's New England Clam Chowder\n10\n7.7\n62\nTarte au sucre\n70\n39.4\n \n \nTotalPrice\n2835.0\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order i.d.: 10316 Customer ID: RATTC Order Particular date: 2016 - 09 - 27 Customer Details: Contact Name: Paula Wilson Address: 2817 Milton Dr. City: Albuquerque Postal Code: 87110 Country: USA Telephone: (505) 555 - 5939 Facsimile: (505) 555 - 3620 Product Details: Product ID Product Name Quantity Unit Mary leontyne price forty one Jack ' s New England Clam Chowder 10 7. 7 62 Tarte au sucre 70 39. 4 TotalPrice 2835. 0 Page 1",
+        "Invoice Order ID: 10316 Customer ID: RATTC Order Date: 2016 - 09 - 27 Customer Details: Contact Name: Paula Wilson Address: 2817 John milton Dr. City: Albuquerque Postal Code: 87110 Country: USA Phone: (505) 555 - 5939 Fax: (505) 555 - 3620 Product Details: Product idaho Product Name Quantity Whole Price 41 Squat ' s New England Clam Chowder 10 7. 7 lxii Tarte au sucre 70 39. quatern TotalPrice 2835. 0 Page one"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: RATTC.Customer ID:  RAT TC. Order Date: 2016-09-27. Customer Details:                         Paula Wilson. Address:           2817 Milton Dr. Albuquerque, New Mexico. Phone Number: 505-555-5939.Fax number:505-527-3620."
+}

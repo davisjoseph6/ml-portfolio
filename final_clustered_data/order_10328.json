@@ -1,0 +1,24 @@
+{
+    "filename": "order_10328.pdf",
+    "metadata": {
+        "format": "PDF 1.4",
+        "title": "(anonymous)",
+        "author": "(anonymous)",
+        "subject": "(unspecified)",
+        "keywords": "",
+        "creator": "(unspecified)",
+        "producer": "ReportLab PDF Library - www.reportlab.com",
+        "creationDate": "D:20230529112631+00'00'",
+        "modDate": "D:20230529112631+00'00'",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Order ID: 10328\nShipping Details:\nShip Name: Furia Bacalhau e Frutos do Mar\nShip Address: Jardim das rosas n. 32\nShip City: Lisboa\nShip Region: Southern Europe\nShip Postal Code: 1675\nShip Country: Portugal\nCustomer Details:\nCustomer ID: FURIB\nCustomer Name: Furia Bacalhau e Frutos do Mar\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-10-14\nShipped Date: 2016-10-17\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 9\nUnit Price: 44.0\nTotal: 396.0\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper Sauce\nQuantity: 40\nUnit Price: 16.8\nTotal: 672.0\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 10\nUnit Price: 10.0\nTotal: 100.0\nTotal Price:\nTotal Price: 1168.0\n",
+    "augmented_texts": [
+        "Order ID: 10328 Shipping Details: Ship Name: Furia Bacalhau e Frutos do Mar Ship Address: Jardim das rosas n. 32 Ship City: Lisboa Ship Area: Southern Europe Ship Postal Code: 1675 Ship Country: Portugal Customer Details: Customer idaho: FURIB Customer Name: Furia Bacalhau e Frutos do Mar Employee Details: Employee Name: Margaret Inachis io Shipper Details: Shipper ID: 3 Shipper Name: Federal Shipping Order Details: Order Date: 2016 - 10 - 14 Shipped Date: 2016 - 10 - 17 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 9 Social unit Price: 44. 0 Total: 396. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: 40 Unit Price: 16. 8 Total: 672. cipher - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Amount: 10 Unit Price: 10. 0 Total: 100. 0 Total Price: Total Price: 1168. 0",
+        "Order ID: 10328 Shipping Details: Ship Figure: Furia Bacalhau e Frutos do Mar Ship Address: Jardim das rosas n. 32 Ship City: Lisboa Ship Region: Southern Europe Ship Postal Code: 1675 Ship Country: Portugal Customer Details: Customer ID: FURIB Customer Name: Furia Bacalhau e Frutos do Mar Employee Details: Employee Name: Margaret Peacock Shipper Details: Shipper ID: 3 Shipper Name: Federal Merchant vessels Order Details: Ordering Escort: 2016 - 10 - 14 Shipped Date: 2016 - 10 - 17 Products: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Raclette Courdavault Quantity: 9 Unit Price: 44. 0 Total: 396. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Louisiana Fiery Hot Pepper Sauce Quantity: 40 Unit Toll: 16. 8 Total: 672. 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Product: Scottish Longbreads Quantity: 10 Unit Mary leontyne price: 10. cypher Amount: 100. 0 Total Price: Total Price: 1168. 0"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Order ID: 10328. Ship Name: Furia Bacalhau e Frutos do Mar. Address: Jardim das rosas n. 32. City: Lisboa. Region: Southern Europe. Postal Code: 1675. Country: Portugal. Customer: Margaret Peacock. Shipper: Federal Shipping. Customers: FURIB."
+}

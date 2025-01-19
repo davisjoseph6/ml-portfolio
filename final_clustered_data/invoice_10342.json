@@ -1,0 +1,24 @@
+{
+    "filename": "invoice_10342.pdf",
+    "metadata": {
+        "format": "PDF 1.3",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+        "creationDate": "D:20230529103523",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+    },
+    "text": "Invoice\nOrder ID: 10342\nCustomer ID: FRANK\nOrder Date: 2016-10-30\nCustomer Details:\nContact Name:\nPeter Franken\nAddress:\nBerliner Platz 43\nCity:\nMünchen\nPostal Code:\n80805\nCountry:\nGermany\nPhone:\n089-0877310\nFax:\n089-0877451\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n2\nChang\n24\n15.2\n31\nGorgonzola Telino\n56\n10.0\n36\nInlagd Sill\n40\n15.2\n55\nPâté chinois\n40\n19.2\n \n \nTotalPrice\n2300.8\nPage 1\n",
+    "augmented_texts": [
+        "Invoice Order ID: 10342 Customer ID: FRANK Order Appointment: 2016 - 10 - 30 Customer Details: Contact Name: Peter Franken Address: Berliner Platz forty three City: München Postal Code: 80805 Country: Germany Sound: 089 - 0877310 Fax: 089 - 0877451 Product Details: Mathematical product ID Product Name Quantity Unit Price 2 Chang 24 15. 2 31 Gorgonzola Telino 56 10. 0 36 Inlagd Sill 40 15. two 55 Pâté chinois 40 19. 2 TotalPrice 2300. octad Page 1",
+        "Invoice Order ID: 10342 Client idaho: FRANK Order Date: 2016 - 10 - 30 Customer Details: Middleman Name: Peter Franken Address: Berliner Platz 43 Urban center: München Postal Code: 80805 Country: Germany Speech sound: 089 - 0877310 Fax: 089 - 0877451 Product Details: Product ID Product Name Quantity Unit Price 2 Chang 24 15. 2 31 Gorgonzola Telino 56 10. 0 36 Inlagd Sill 40 fifteen. 2 55 Pâté chinois 40 19. 2 TotalPrice 2300. 8 Page 1"
+    ],
+    "predicted_cluster": 4,
+    "predicted_label": "cluster_4",
+    "summary": "Invoice Name: 10342.Customer ID: FRANK. Order Date: 2016-10-30. Customer Details:         Peter Franken, Peter Franken. Address: Berliner Platz 43. City: München, Germany. Postal Code:  “”."
+}
