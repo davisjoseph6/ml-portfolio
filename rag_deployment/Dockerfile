@@ -1,15 +1,14 @@
-# Dockerfile
 FROM 763104351884.dkr.ecr.eu-west-2.amazonaws.com/huggingface-pytorch-inference:2.0.0-transformers4.28.1-cpu-py310-ubuntu20.04-v1.3
 
-# Install additional packages needed by your RAG pipeline
+# Force the same Transformers version as the container (4.28.1).
+# And pin sentence-transformers so it doesn't pull in a bigger transformers version.
 RUN pip install --no-cache-dir \
-    faiss-cpu==1.7.3 \
-    sentence-transformers
+    "transformers==4.28.1" \
+    "sentence-transformers<2.2.0" \
+    faiss-cpu==1.7.3
 
-# Copy your inference script to the correct location
 COPY inference.py /opt/ml/model/code/inference.py
 
-# Environment variables for clarity
 ENV PYTHONUNBUFFERED=TRUE
 ENV PYTHONDONTWRITEBYTECODE=TRUE
 ENV FAISS_INDEX_S3="s3://aym-client-data-in/rag/faiss_index.bin"
