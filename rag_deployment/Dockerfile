@@ -1,5 +1,10 @@
 # Dockerfile
-FROM 763104351884.dkr.ecr.eu-west-2.amazonaws.com/huggingface-pytorch-inference:2.0.0-transformers4.28.1-cpu-py310-ubuntu20.04-v1.3
+
+# Instead of the private DLC repo, do:
+FROM public.ecr.aws/huggingface-inference:2.0.0-pytorch-cpu-py310
+# or whichever version suits your needs
+
+# FROM 763104351884.dkr.ecr.eu-west-2.amazonaws.com/huggingface-pytorch-inference:2.0.0-transformers4.28.1-cpu-py310-ubuntu20.04-v1.3
 
 RUN pip install --no-cache-dir faiss-cpu==1.7.3 sentence-transformers
 
