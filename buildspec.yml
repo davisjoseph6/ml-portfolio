@@ -2,10 +2,10 @@ version: 0.2
 
 env:
   variables:
-    AWS_REGION: "eu-west-2"            # your AWS region
-    AWS_ACCOUNT_ID: "637423166046"     # your AWS account
-    ECR_REPO: "my-rag-inference-repo"  # name of your ECR repository
-    IMAGE_TAG: "v2"                    # image tag you want to push
+    AWS_REGION: "eu-west-2"
+    AWS_ACCOUNT_ID: "637423166046"
+    ECR_REPO: "my-rag-inference-repo"
+    IMAGE_TAG: "v2"
 
 phases:
   install:
@@ -20,7 +20,9 @@ phases:
   build:
     commands:
       - echo "Building the Docker image..."
-      - docker build -t rag-inference:$IMAGE_TAG .
+      # 1) Use `-f` to point to your Dockerfile path:
+      # 2) The final argument is the build context directory: `rag_deployment/`
+      - docker build -f rag_deployment/Dockerfile -t rag-inference:$IMAGE_TAG rag_deployment/
       - echo "Tagging image for ECR..."
       - docker tag rag-inference:$IMAGE_TAG $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/$ECR_REPO:$IMAGE_TAG
   post_build:
