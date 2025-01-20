@@ -23,17 +23,18 @@ phases:
       - echo "Logging into OUR ECR for push..."
       - /usr/local/bin/aws ecr get-login-password --region "$AWS_REGION" | docker login --username AWS --password-stdin "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com"
 
-      - echo "Logging into Hugging Face DLC ECR (763104351884) for base image pull..."
-      - ECR_PASS=$(/usr/local/bin/aws ecr get-login-password --region "$AWS_REGION" --registry-ids=763104351884)
-      - docker login --username AWS --password-stdin "763104351884.dkr.ecr.$AWS_REGION.amazonaws.com" <<< "$ECR_PASS"
+    # remove the hugging face login lines if unneeded
 
   build:
     commands:
+      - echo "Building Docker image..."
       - docker build -f rag_deployment/Dockerfile -t rag-inference:"$IMAGE_TAG" rag_deployment/
+      - echo "Tagging image..."
       - docker tag rag-inference:"$IMAGE_TAG" "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/$ECR_REPO:$IMAGE_TAG"
 
   post_build:
     commands:
+      - echo "Pushing image..."
       - docker push "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/$ECR_REPO:$IMAGE_TAG"
-      - echo "Build and push completed!"
+      - echo "Build & push completed!"
 
