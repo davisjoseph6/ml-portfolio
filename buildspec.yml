@@ -5,7 +5,7 @@ env:
     AWS_REGION: "eu-west-2"
     AWS_ACCOUNT_ID: "637423166046"
     ECR_REPO: "my-rag-inference-repo"
-    IMAGE_TAG: "v2"
+    IMAGE_TAG: "v3"
 
 phases:
   install:
