@@ -4,7 +4,7 @@ import json
 
 def main():
     region = "eu-west-2"
-    endpoint_name = "rag-endpoint"  # The name you used in deploy_rag_endpoint.py
+    endpoint_name = "rag-endpoint-v3"  # The name you used in deploy_rag_endpoint.py
 
     # 1) Initialize a sagemaker-runtime client
     runtime = boto3.client("sagemaker-runtime", region_name=region)
