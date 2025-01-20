@@ -1,12 +1,14 @@
 # Dockerfile
 
-FROM public.ecr.aws/huggingface/transformers-pytorch-inference:2.0.0-transformers4.28.1-cpu-py310-ubuntu20.04-v1.2
-# ^ Make sure the tag actually exists in https://gallery.ecr.aws/huggingface/transformers-pytorch-inference
+FROM public.ecr.aws/huggingface/transformers-pytorch-inference:2.1.0-pytorch-cpu-py39
 
+# Additional packages
 RUN pip install --no-cache-dir faiss-cpu==1.7.3 sentence-transformers
 
+# Copy your custom inference code
 COPY inference.py /opt/ml/model/code/inference.py
 
+# Environment variables
 ENV PYTHONUNBUFFERED=TRUE
 ENV PYTHONDONTWRITEBYTECODE=TRUE
 ENV FAISS_INDEX_S3="s3://aym-client-data-in/rag/faiss_index.bin"
