@@ -1,14 +1,15 @@
 # Dockerfile
+FROM 763104351884.dkr.ecr.eu-west-2.amazonaws.com/huggingface-pytorch-inference:2.0.0-transformers4.28.1-cpu-py310-ubuntu20.04-v1.3
 
-FROM public.ecr.aws/huggingface/transformers-pytorch-inference:2.1.0-pytorch-cpu-py39
+# Install additional packages needed by your RAG pipeline
+RUN pip install --no-cache-dir \
+    faiss-cpu==1.7.3 \
+    sentence-transformers
 
-# Additional packages
-RUN pip install --no-cache-dir faiss-cpu==1.7.3 sentence-transformers
-
-# Copy your custom inference code
+# Copy your inference script to the correct location
 COPY inference.py /opt/ml/model/code/inference.py
 
-# Environment variables
+# Environment variables for clarity
 ENV PYTHONUNBUFFERED=TRUE
 ENV PYTHONDONTWRITEBYTECODE=TRUE
 ENV FAISS_INDEX_S3="s3://aym-client-data-in/rag/faiss_index.bin"

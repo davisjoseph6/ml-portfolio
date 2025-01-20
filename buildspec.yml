@@ -10,35 +10,43 @@ env:
 phases:
   install:
     commands:
+      - echo "Installing Docker, Curl, and Unzip..."
       - apt-get update
       - apt-get install -y docker.io curl unzip
-      # Remove old AWS CLI if present
+
+      # (Optional) Remove older OS-provided AWS CLI if it causes conflicts
       - which aws && apt-get remove -y awscli || true
-      # Download & install the latest AWS CLI v2
-      - curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+
+      - echo "Downloading & installing a newer AWS CLI v2..."
+      # 2.30.0 or any version that supports --registry-ids
+      - curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64-2.30.0.zip" -o "awscliv2.zip"
       - unzip -q awscliv2.zip
       - ./aws/install --update
-      # Verify AWS CLI
-      - /usr/local/bin/aws --version
+
+      - echo "Verifying new AWS CLI version..."
+      - which aws
+      - aws --version
 
   pre_build:
     commands:
-      - echo "Logging into OUR ECR (for push to $AWS_ACCOUNT_ID) ..."
-      - /usr/local/bin/aws ecr get-login-password --region "$AWS_REGION" | docker login --username AWS --password-stdin "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com"
+      - echo "Logging into our ECR repo for push to $AWS_ACCOUNT_ID..."
+      - aws ecr get-login-password --region "$AWS_REGION" \
+        | docker login --username AWS --password-stdin "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com"
 
-      # No second login for Hugging Face ECR—using public container instead
+      - echo "Logging into Hugging Face DLC ECR for base image pull (account 763104351884)..."
+      - aws ecr get-login-password --region "$AWS_REGION" --registry-ids 763104351884 \
+        | docker login --username AWS --password-stdin "763104351884.dkr.ecr.$AWS_REGION.amazonaws.com"
 
   build:
     commands:
-      - echo "Building Docker image..."
-      # Build from your Dockerfile that references the public HF container
+      - echo "Building the Docker image..."
       - docker build -f rag_deployment/Dockerfile -t "rag-inference:$IMAGE_TAG" rag_deployment/
-      - echo "Tagging image..."
+      - echo "Tagging image for ECR..."
       - docker tag "rag-inference:$IMAGE_TAG" "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/$ECR_REPO:$IMAGE_TAG"
 
   post_build:
     commands:
-      - echo "Pushing image..."
+      - echo "Pushing the Docker image to ECR..."
       - docker push "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/$ECR_REPO:$IMAGE_TAG"
       - echo "Build & push completed!"
 
