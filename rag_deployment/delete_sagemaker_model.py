@@ -4,7 +4,7 @@ import boto3
 
 def main():
     region = "eu-west-2"       # adjust as needed
-    model_name = "rag-model-v1"  # the existing model you want to delete
+    model_name = "rag-model-v3"  # the existing model you want to delete
 
     sm_client = boto3.client("sagemaker", region_name=region)
 

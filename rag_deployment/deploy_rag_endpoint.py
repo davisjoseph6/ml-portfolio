@@ -5,7 +5,7 @@ import time
 
 def main():
     region = "eu-west-2"
-    model_name = "rag-model-v1"  # same as from deploy_rag_model.py
+    model_name = "rag-model-v3"  # same as from deploy_rag_model.py
     endpoint_config_name = "rag-endpoint-config-v3"
     endpoint_name = "rag-endpoint-v3"
 

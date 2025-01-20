@@ -4,8 +4,8 @@ import boto3
 
 def main():
     region = "eu-west-2"
-    endpoint_name = "rag-endpoint"
-    endpoint_config_name = "rag-endpoint-config"
+    endpoint_name = "rag-endpoint-v3"
+    endpoint_config_name = "rag-endpoint-config-v3"
 
     sm_client = boto3.client("sagemaker", region_name=region)
 
