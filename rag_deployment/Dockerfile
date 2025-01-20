@@ -2,17 +2,17 @@
 FROM 763104351884.dkr.ecr.eu-west-2.amazonaws.com/huggingface-pytorch-inference:2.0.0-transformers4.28.1-cpu-py310-ubuntu20.04-v1.3
 
 # 1) Install your core libraries
-#    - Transformers pinned to 4.28.1 (matches base image)
+#    - Transformers pinned to 4.28.1 (matches base container)
 #    - sentence-transformers pinned below 2.2.0 (if needed)
-#    - Faiss CPU
+#    - Faiss CPU pinned to 1.7.3
 RUN pip install --no-cache-dir \
     "transformers==4.28.1" \
     "sentence-transformers<2.2.0" \
     faiss-cpu==1.7.3
 
-# 2) Force upgrade huggingface-hub so we have snapshot_download
-#    (0.27.1 is just an example version known to support snapshot_download)
-RUN pip install --no-cache-dir --upgrade huggingface-hub==0.27.1
+# 2) *Downgrade* or *pin* huggingface-hub to a version that still has `cached_download`.
+#    0.12.1 is a good sweet spot (includes both snapshot_download *and* cached_download)
+RUN pip install --no-cache-dir --upgrade huggingface-hub==0.12.1
 
 # 3) Print out the final environment for debugging in build logs
 RUN pip freeze
