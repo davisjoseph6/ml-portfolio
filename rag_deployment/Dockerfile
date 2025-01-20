@@ -5,31 +5,28 @@ FROM 763104351884.dkr.ecr.eu-west-2.amazonaws.com/huggingface-pytorch-inference:
 # Use bash so we can use conda commands
 SHELL ["/bin/bash", "-c"]
 
-# We'll assume the env name is huggingface_py310. Confirm with `conda env list`.
-ENV ENV_NAME="huggingface_py310"
-# Make sure the environment’s bin is on PATH for subsequent RUN commands
-ENV PATH="/opt/conda/envs/${ENV_NAME}/bin:$PATH"
-
-# (Optional) Show us which conda envs exist (for debugging)
+# 1) (Optional) Show which conda envs exist (for debug)
 RUN conda env list
 
-# 1) Install pinned Transformers, Sentence Transformers, plus Faiss in that environment
-RUN conda run -n $ENV_NAME pip install --no-cache-dir \
-    "transformers==4.28.1" \
-    "sentence-transformers<2.2.0" \
-    "faiss-cpu==1.7.3"
+# 2) Install pinned Transformers, Sentence Transformers, plus Faiss in the 'base' conda env
+RUN source activate base && \
+    pip install --no-cache-dir \
+        "transformers==4.28.1" \
+        "sentence-transformers<2.2.0" \
+        "faiss-cpu==1.7.3"
 
-# 2) Now force-upgrade huggingface-hub so snapshot_download is available
-RUN conda run -n $ENV_NAME pip install --no-cache-dir --upgrade --force-reinstall "huggingface-hub==0.15.1"
+# 3) Now force-upgrade huggingface-hub so snapshot_download is available
+RUN source activate base && \
+    pip install --no-cache-dir --upgrade --force-reinstall "huggingface-hub==0.15.1"
 
-# 3) Verify huggingface-hub version
-RUN conda run -n $ENV_NAME pip show huggingface-hub
-RUN conda run -n $ENV_NAME python -c "import huggingface_hub; print('huggingface_hub version:', huggingface_hub.__version__)"
+# 4) Verify huggingface-hub version
+RUN source activate base && pip show huggingface-hub
+RUN source activate base && python -c "import huggingface_hub; print('huggingface_hub version:', huggingface_hub.__version__)"
 
-# 4) Copy your custom inference script to the correct location
+# 5) Copy your custom inference script to the correct location
 COPY inference.py /opt/ml/model/code/inference.py
 
-# 5) Environment variables (so your container code knows where to load from)
+# 6) Environment variables (so your container code knows where to load from)
 ENV PYTHONUNBUFFERED=TRUE
 ENV PYTHONDONTWRITEBYTECODE=TRUE
 
