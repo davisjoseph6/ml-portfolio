@@ -10,16 +10,22 @@ env:
 phases:
   install:
     commands:
-      - echo "Installing Docker and Python3 pip so we can upgrade AWS CLI..."
+      - echo "Installing Docker, Curl, and Unzip..."
       - apt-get update
-      - apt-get install -y docker.io python3-pip
+      - apt-get install -y docker.io curl unzip
 
-      - echo "Upgrading AWS CLI to ensure we have a recent version..."
-      - pip3 install --upgrade awscli
+      - echo "Downloading and installing AWS CLI v2..."
+      - curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+      - unzip awscliv2.zip
+      - ./aws/install --update
+
+      # Confirm the newly installed CLI location and version
+      - which aws
+      - aws --version
 
   pre_build:
     commands:
-      - echo "Logging into our ECR repo for push..."
+      - echo "Logging into OUR ECR repo for push..."
       - aws ecr get-login-password --region $AWS_REGION | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com
 
       - echo "Logging into the Hugging Face DLC ECR for base image pull (account 763104351884)..."
