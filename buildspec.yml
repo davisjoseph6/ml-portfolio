@@ -15,13 +15,16 @@ phases:
       - apt-get install -y docker.io
   pre_build:
     commands:
-      - echo "Logging into ECR..."
-      - aws ecr get-login-password --region $AWS_REGION | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com
+      - echo "Logging into our ECR repo for push..."
+      - aws ecr get-login-password --region $AWS_REGION \
+        | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com
+
+      - echo "Logging into the Hugging Face DLC ECR for base image pull (account 763104351884)..."
+      - aws ecr get-login-password --region $AWS_REGION --registry-ids 763104351884 \
+        | docker login --username AWS --password-stdin 763104351884.dkr.ecr.$AWS_REGION.amazonaws.com
   build:
     commands:
       - echo "Building the Docker image..."
-      # 1) Use `-f` to point to your Dockerfile path:
-      # 2) The final argument is the build context directory: `rag_deployment/`
       - docker build -f rag_deployment/Dockerfile -t rag-inference:$IMAGE_TAG rag_deployment/
       - echo "Tagging image for ECR..."
       - docker tag rag-inference:$IMAGE_TAG $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/$ECR_REPO:$IMAGE_TAG
