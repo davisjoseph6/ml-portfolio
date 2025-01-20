@@ -14,17 +14,16 @@ phases:
       - apt-get update
       - apt-get install -y docker.io curl unzip
 
-      # Optional: Remove the OS-provided AWS CLI if it’s interfering
+      - echo "Remove OS AWS CLI if present..."
       - which aws && apt-get remove -y awscli || true
 
-      - echo "Downloading and installing AWS CLI v2..."
-      # *Pin* a known-later version if you like:
-      #   https://docs.aws.amazon.com/cli/latest/userguide/getting-started-version.html
-      - curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64-2.30.0.zip" -o "awscliv2.zip"
+      - echo "Downloading official AWS CLI v2 (latest stable) ..."
+      - curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+
+      - echo "Unzipping AWS CLI v2..."
       - unzip -q awscliv2.zip
       - ./aws/install --update
 
-      # Confirm the newly installed CLI location and version
       - which aws
       - aws --version
 
