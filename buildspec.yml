@@ -30,8 +30,7 @@ phases:
   pre_build:
     commands:
       - echo "Logging into OUR ECR repo for push..."
-      - aws ecr get-login-password --region "$AWS_REGION" \
-        | docker login --username AWS --password-stdin "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com"
+      - aws ecr get-login-password --region "$AWS_REGION" | docker login --username AWS --password-stdin "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com"
 
       - echo "Logging into the Hugging Face DLC ECR for base image pull (account 763104351884)..."
       - >
