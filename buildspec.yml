@@ -10,21 +10,12 @@ env:
 phases:
   install:
     commands:
-      - echo "Installing Docker, Curl, and Unzip..."
       - apt-get update
       - apt-get install -y docker.io curl unzip
-
-      - echo "Remove OS AWS CLI if present..."
       - which aws && apt-get remove -y awscli || true
-
-      - echo "Downloading official AWS CLI v2 (latest stable) ..."
       - curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
-
-      - echo "Unzipping AWS CLI v2..."
       - unzip -q awscliv2.zip
       - ./aws/install --update
-
-      - which aws
       - aws --version
 
   pre_build:
@@ -32,26 +23,17 @@ phases:
       - echo "Logging into OUR ECR repo for push..."
       - aws ecr get-login-password --region "$AWS_REGION" | docker login --username AWS --password-stdin "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com"
 
-      - echo "Logging into the Hugging Face DLC ECR for base image pull (account 763104351884)..."
-      - >
-        ECR_PASS=$(
-          aws ecr get-login-password 
-            --region "$AWS_REGION" 
-            --registry-ids "763104351884"
-        )
-      - echo "Got ECR_PASS, now docker login..."
+      - echo "Logging into Hugging Face DLC ECR (763104351884)..."
+      - ECR_PASS=$(aws ecr get-login-password --region "$AWS_REGION" --registry-ids "763104351884")
       - docker login --username AWS --password-stdin "763104351884.dkr.ecr.$AWS_REGION.amazonaws.com" <<< "$ECR_PASS"
 
   build:
     commands:
-      - echo "Building the Docker image..."
       - docker build -f rag_deployment/Dockerfile -t rag-inference:"$IMAGE_TAG" rag_deployment/
-      - echo "Tagging image for ECR..."
       - docker tag rag-inference:"$IMAGE_TAG" "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/$ECR_REPO:$IMAGE_TAG"
 
   post_build:
     commands:
-      - echo "Pushing the Docker image to ECR..."
       - docker push "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/$ECR_REPO:$IMAGE_TAG"
       - echo "Build and push completed!"
 
