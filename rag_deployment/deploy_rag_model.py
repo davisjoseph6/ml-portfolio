@@ -6,7 +6,7 @@ def main():
     region = "eu-west-2"
     account_id = "637423166046"
     ecr_repository = "my-rag-inference-repo"
-    image_tag = "v1"
+    image_tag = "v2"
 
     # The ECR image URI we pushed
     ecr_image_uri = f"{account_id}.dkr.ecr.{region}.amazonaws.com/{ecr_repository}:{image_tag}"
