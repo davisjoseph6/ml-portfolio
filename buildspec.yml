@@ -10,22 +10,30 @@ env:
 phases:
   install:
     commands:
-      - echo "Installing Docker..."
+      - echo "Installing Docker and Python3 pip so we can upgrade AWS CLI..."
       - apt-get update
-      - apt-get install -y docker.io
+      - apt-get install -y docker.io python3-pip
+
+      - echo "Upgrading AWS CLI to ensure we have a recent version..."
+      - pip3 install --upgrade awscli
+
   pre_build:
     commands:
       - echo "Logging into our ECR repo for push..."
-      - aws ecr get-login-password --region $AWS_REGION | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com
+      - aws ecr get-login-password --region $AWS_REGION \
+        | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com
 
       - echo "Logging into the Hugging Face DLC ECR for base image pull (account 763104351884)..."
-      - aws ecr get-login-password --region $AWS_REGION --registry-ids 763104351884 | docker login --username AWS --password-stdin 763104351884.dkr.ecr.$AWS_REGION.amazonaws.com
+      - aws ecr get-login-password --region $AWS_REGION --registry-ids 763104351884 \
+        | docker login --username AWS --password-stdin 763104351884.dkr.ecr.$AWS_REGION.amazonaws.com
+
   build:
     commands:
       - echo "Building the Docker image..."
       - docker build -f rag_deployment/Dockerfile -t rag-inference:$IMAGE_TAG rag_deployment/
       - echo "Tagging image for ECR..."
       - docker tag rag-inference:$IMAGE_TAG $AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com/$ECR_REPO:$IMAGE_TAG
+
   post_build:
     commands:
       - echo "Pushing the Docker image to ECR..."
