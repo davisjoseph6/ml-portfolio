@@ -24,7 +24,7 @@ phases:
       - /usr/local/bin/aws ecr get-login-password --region "$AWS_REGION" | docker login --username AWS --password-stdin "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com"
 
       - echo "Logging into Hugging Face DLC ECR (763104351884) for base image pull..."
-      - ECR_PASS=$(/usr/local/bin/aws ecr get-login-password --region "$AWS_REGION" --registry-ids 763104351884)
+      - ECR_PASS=$(/usr/local/bin/aws ecr get-login-password --region "$AWS_REGION" --registry-ids=763104351884)
       - docker login --username AWS --password-stdin "763104351884.dkr.ecr.$AWS_REGION.amazonaws.com" <<< "$ECR_PASS"
 
   build:
