@@ -1,10 +1,8 @@
-# requirements.txt
-
 transformers==4.28.1
 sentence-transformers<2.2.0
 faiss-cpu==1.7.3
 huggingface-hub==0.15.1
-boto3>=1.28,<2.0  # If you need AWS in the container
-numpy>=1.20       # If not already in base
-torch>=1.13       # Typically in the base HF container, but can pin if needed
+boto3>=1.28,<2.0
+numpy>=1.20
+torch>=1.13
 
