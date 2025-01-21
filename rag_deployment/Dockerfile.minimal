@@ -20,15 +20,20 @@ COPY inference.py /opt/ml/model/code/inference.py
 
 ENV PYTHONUNBUFFERED=TRUE
 ENV PYTHONDONTWRITEBYTECODE=TRUE
+
+# Environment variables for your retrieval-augmented generation logic
 ENV FAISS_INDEX_S3="s3://aym-client-data-in/rag/faiss_index.bin"
 ENV METADATA_S3="s3://aym-client-data-in/rag/index_metadata.json"
 ENV EMBED_MODEL_NAME="sentence-transformers/all-MiniLM-L6-v2"
 ENV GEN_MODEL_NAME="my_summarization_model"
 
-# Tells the sagemaker-inference container that "model_fn" is in inference.py
+# Tells the SageMaker Inference Toolkit where to find your script
 ENV SAGEMAKER_PROGRAM=inference.py
 ENV SAGEMAKER_SUBMIT_DIRECTORY=/opt/ml/model/code
 
-# No custom ENTRYPOINT, so it uses sagemaker-inference's default
-# which calls model_fn at startup, then calls predict_fn for each request.
+# Entry point: run the SageMaker Inference Toolkit
+ENTRYPOINT ["python", "-m", "sagemaker_inference"]
+
+# "serve" is the command that launches the model server
+CMD ["serve"]
 
