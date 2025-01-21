@@ -5,15 +5,10 @@ import time
 
 def main():
     region = "eu-west-2"
+    model_name = "rag-model-minimal"   # same as from deploy_rag_model.py
+    endpoint_config_name = "rag-endpoint-config-minimal"
+    endpoint_name = "rag-endpoint-minimal"
 
-    # Must match your new model name from deploy_rag_model.py
-    model_name = "rag-model-v4"
-
-    # We'll create an endpoint config and endpoint for "v4"
-    endpoint_config_name = "rag-endpoint-config-v4"
-    endpoint_name = "rag-endpoint-v4"
-
-    # Create a SageMaker client
     sm_client = boto3.client("sagemaker", region_name=region)
 
     # 1) Create Endpoint Config
@@ -26,7 +21,7 @@ def main():
                     "VariantName": "AllTraffic",
                     "ModelName": model_name,
                     "InitialInstanceCount": 1,
-                    "InstanceType": "ml.m5.xlarge",  # or ml.g4dn.xlarge for GPU
+                    "InstanceType": "ml.m5.xlarge",  # CPU instance
                     "InitialVariantWeight": 1.0
                 }
             ]
@@ -34,7 +29,7 @@ def main():
         print("Endpoint config ARN:", create_config_resp["EndpointConfigArn"])
     except sm_client.exceptions.ClientError as e:
         if "EndpointConfigNameAlreadyExists" in str(e):
-            print("Endpoint config already exists. Reusing or consider deleting first.")
+            print("Endpoint config already exists. Reusing or delete first.")
         else:
             raise e
 
