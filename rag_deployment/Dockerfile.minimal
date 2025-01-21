@@ -1,39 +1,28 @@
-# Dockerfile.minimal
-
 FROM python:3.9-slim
 
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    g++ \
-    libblas-dev \
-    liblapack-dev \
-    ca-certificates \
- && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y --no-install-recommends g++ libblas-dev liblapack-dev ca-certificates \
+    && rm -rf /var/lib/apt/lists/*
 
+RUN pip install --no-cache-dir --upgrade pip setuptools wheel
+RUN pip install --no-cache-dir "numpy<2.0"
+
+# Install an older huggingface_hub that still has `cached_download`:
+RUN pip install --no-cache-dir "huggingface-hub==0.9.1"
+
+# Install an older Transformers that can live with hub==0.9.1:
 RUN pip install --no-cache-dir \
-    torch==2.0.1 \
-    transformers==4.30.2 \
-    faiss-cpu==1.7.3 \
-    sentence-transformers==2.2.2 \
-    sagemaker-inference==1.9.1
+    "transformers==4.22.2" \
+    "faiss-cpu==1.7.3" \
+    "sentence-transformers==2.2.2" \
+    boto3 \
+    flask \
+    gunicorn \
+    # If you also want torch pinned:
+    "torch==2.0.1"
 
-COPY inference.py /opt/ml/model/code/inference.py
+COPY app.py /opt/ml/code/app.py
+WORKDIR /opt/ml/code
+EXPOSE 8080
 
-ENV PYTHONUNBUFFERED=TRUE
-ENV PYTHONDONTWRITEBYTECODE=TRUE
-
-# Environment variables for your retrieval-augmented generation logic
-ENV FAISS_INDEX_S3="s3://aym-client-data-in/rag/faiss_index.bin"
-ENV METADATA_S3="s3://aym-client-data-in/rag/index_metadata.json"
-ENV EMBED_MODEL_NAME="sentence-transformers/all-MiniLM-L6-v2"
-ENV GEN_MODEL_NAME="my_summarization_model"
-
-# Tells the SageMaker Inference Toolkit where to find your script
-ENV SAGEMAKER_PROGRAM=inference.py
-ENV SAGEMAKER_SUBMIT_DIRECTORY=/opt/ml/model/code
-
-# Entry point: run the SageMaker Inference Toolkit
-ENTRYPOINT ["python", "-m", "sagemaker_inference"]
-
-# "serve" is the command that launches the model server
-CMD ["serve"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "app:app"]
 

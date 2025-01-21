@@ -22,8 +22,8 @@ def main():
         "EMBED_MODEL_NAME": "sentence-transformers/all-MiniLM-L6-v2",
         "GEN_MODEL_NAME": "my_summarization_model",
         # Tells sagemaker_inference to use /opt/ml/model/code/inference.py
-        "SAGEMAKER_PROGRAM": "inference.py",
-        "SAGEMAKER_SUBMIT_DIRECTORY": "/opt/ml/model/code"
+        # "SAGEMAKER_PROGRAM": "inference.py",
+        # "SAGEMAKER_SUBMIT_DIRECTORY": "/opt/ml/model/code"
     }
 
     response = sm_client.create_model(
