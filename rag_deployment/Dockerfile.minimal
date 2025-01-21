@@ -1,28 +1,48 @@
+# Dockerfile.minimal
 FROM python:3.9-slim
 
-RUN apt-get update && apt-get install -y --no-install-recommends g++ libblas-dev liblapack-dev ca-certificates \
-    && rm -rf /var/lib/apt/lists/*
+# 1) Install system dependencies, including git
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    g++ \
+    git \
+    libblas-dev \
+    liblapack-dev \
+    ca-certificates \
+ && rm -rf /var/lib/apt/lists/*
 
+# 2) Upgrade pip & wheel
 RUN pip install --no-cache-dir --upgrade pip setuptools wheel
+
+# 3) Pin numpy<2.0 so Faiss doesn't crash
 RUN pip install --no-cache-dir "numpy<2.0"
 
-# Install an older huggingface_hub that still has `cached_download`:
-RUN pip install --no-cache-dir "huggingface-hub==0.9.1"
-
-# Install an older Transformers that can live with hub==0.9.1:
+# 4) Install main libraries (torch, faiss, etc.)
 RUN pip install --no-cache-dir \
-    "transformers==4.22.2" \
-    "faiss-cpu==1.7.3" \
-    "sentence-transformers==2.2.2" \
+    "torch==2.0.1" \
+    faiss-cpu==1.7.3 \
     boto3 \
     flask \
-    gunicorn \
-    # If you also want torch pinned:
-    "torch==2.0.1"
+    gunicorn
 
+# 5) Install a newer Transformers (supports safetensors)
+RUN pip install --no-cache-dir transformers --upgrade
+
+# 6) Install sentence-transformers from GitHub master
+RUN pip install --no-cache-dir git+https://github.com/UKPLab/sentence-transformers.git@master
+
+# Copy your FAISS + Summarization model files
+COPY faiss_index.bin /opt/ml/model/faiss_index.bin
+COPY index_metadata.json /opt/ml/model/index_metadata.json
+COPY my_summarization_model /opt/ml/model/my_summarization_model
+
+# Point your code to the local summarization model
+ENV GEN_MODEL_NAME=/opt/ml/model/my_summarization_model
+
+# Copy Flask app
 COPY app.py /opt/ml/code/app.py
 WORKDIR /opt/ml/code
 EXPOSE 8080
 
-CMD ["gunicorn", "--bind", "0.0.0.0:8080", "app:app"]
+# ADD --timeout 120 (2 min) or more
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "app:app", "--timeout", "120"]
 
