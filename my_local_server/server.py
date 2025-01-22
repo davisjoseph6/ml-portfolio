@@ -20,10 +20,36 @@ REGION_NAME             = "eu-west-2"  # or your region
 # Create a single runtime client we can reuse
 runtime = boto3.client("sagemaker-runtime", region_name=REGION_NAME)
 
+# -----------------------------------------------------
+# POST-PROCESSING: Map Hugging Face "LABEL_XX" -> friendly label
+LABEL_MAP = {
+    "LABEL_0":  "advertisement",
+    "LABEL_1":  "budget",
+    "LABEL_2":  "email",
+    "LABEL_3":  "form",
+    "LABEL_4":  "handwritten",
+    "LABEL_5":  "inventory_report",
+    "LABEL_6":  "invoice",
+    "LABEL_7":  "letter",
+    "LABEL_8":  "memo",
+    "LABEL_9":  "news_business",
+    "LABEL_10": "news_entertainment",
+    "LABEL_11": "news_general",
+    "LABEL_12": "news_sport",
+    "LABEL_13": "presentation",
+    "LABEL_14": "purchase_orders",
+    "LABEL_15": "questionnaire",
+    "LABEL_16": "resume",
+    "LABEL_17": "scientific_publication",
+    "LABEL_18": "scientific_report",
+    "LABEL_19": "shipping_orders",
+    "LABEL_20": "specification"
+}
+# -----------------------------------------------------
+
 def extract_text_from_pdf(file_bytes: bytes) -> str:
     """Extract text from a PDF file (in-memory bytes) using PyMuPDF."""
     text_content = ""
-    # Use fitz.open with a BytesIO wrapper
     with fitz.open(stream=file_bytes, filetype="pdf") as doc:
         for page in doc:
             text_content += page.get_text()
@@ -62,7 +88,7 @@ async def classify_file(file: UploadFile = File(...)):
     1) Receives a file (PDF/IMG/TXT)
     2) Extracts text locally
     3) Sends the text to the classification endpoint
-    4) Returns the predicted label
+    4) Returns the predicted label (post-processed to friendly name)
     """
     try:
         text = extract_text_from_file_upload(file)
@@ -78,6 +104,12 @@ async def classify_file(file: UploadFile = File(...)):
             Body=json.dumps(payload),
         )
         result = json.loads(response["Body"].read().decode("utf-8"))
+
+        # POST-PROCESS the label to replace "LABEL_XX" with our friendly name
+        if isinstance(result, list) and len(result) > 0 and "label" in result[0]:
+            raw_label = result[0]["label"]  # e.g. "LABEL_14"
+            friendly_label = LABEL_MAP.get(raw_label, raw_label)
+            result[0]["label"] = friendly_label
 
         return JSONResponse({"classification_result": result})
 
@@ -142,7 +174,6 @@ async def rag_query(request: Request):
         result = json.loads(response["Body"].read().decode("utf-8"))
 
         # The structure of the result depends on your RAG container.
-        # Suppose it returns { "answer": "...", "context": [...] } or similar
         return JSONResponse({"rag_result": result})
 
     except Exception as e:

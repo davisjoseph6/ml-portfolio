@@ -11,6 +11,7 @@ my_summarization_model/
 my_summarization_model_original/
 final_clustered_data/
 rag_deployment/my_summarization_model/
+/train_clustering/my_local_data/
 
 # Except for examples folder in output
 !output/examples/
