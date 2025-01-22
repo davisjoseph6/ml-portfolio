@@ -1,31 +1,32 @@
 #!/usr/bin/env python3
+
 import boto3
 import json
 
 def main():
     region = "eu-west-2"
-    endpoint_name = "rag-endpoint-v4"  # Must match what you created in deploy_rag_endpoint.py
+    endpoint_name = "rag-endpoint-minimal-v1"  # Must match what you created
+    query_text = "What is the capital of France?"
+    top_k = 2
 
-    # Create a sagemaker-runtime client
-    runtime = boto3.client("sagemaker-runtime", region_name=region)
+    runtime = boto3.client("runtime.sagemaker", region_name=region)
 
-    # Prepare a sample JSON payload
     payload = {
-        "query": "Where is the shipping_orders doc location?",
-        "top_k": 2
+        "query": query_text,
+        "top_k": top_k
     }
 
-    # Invoke the endpoint
+    print(f"Invoking endpoint {endpoint_name} with query: {query_text}")
     response = runtime.invoke_endpoint(
         EndpointName=endpoint_name,
-        Body=json.dumps(payload),
-        ContentType="application/json"
+        ContentType="application/json",
+        Body=json.dumps(payload)
     )
 
-    # Parse and print the result
-    body_str = response["Body"].read().decode("utf-8")
-    result = json.loads(body_str)
-    print("RAG Answer:", result)
+    # The response body is the raw JSON
+    result = json.loads(response["Body"].read().decode("utf-8"))
+    print("Endpoint response:", result)
+
 
 if __name__ == "__main__":
     main()

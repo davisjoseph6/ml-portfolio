@@ -1,34 +1,37 @@
 # Dockerfile
 FROM python:3.9-slim
 
-# Install system dependencies
+# 1) Install system dependencies (including git)
 RUN apt-get update && apt-get install -y --no-install-recommends \
     g++ \
+    git \
     libblas-dev \
     liblapack-dev \
     ca-certificates \
     tar \
     && rm -rf /var/lib/apt/lists/*
 
-# Upgrade pip & install Python libraries
+# 2) Upgrade pip & install Python libraries
 RUN pip install --no-cache-dir --upgrade pip setuptools wheel
+
+# 3) Install the main libraries (no pinned transformers)
 RUN pip install --no-cache-dir \
     "numpy<2.0" \
     torch==2.0.1 \
     faiss-cpu==1.7.3 \
-    sentence-transformers==2.2.2 \
-    transformers==4.30.2 \
     flask \
     gunicorn \
-    boto3
+    boto3 \
+    git+https://github.com/UKPLab/sentence-transformers.git@master
 
-# Copy your Flask app
+# *** Create /opt/ml/model so Boto3 can write Faiss + metadata here ***
+RUN mkdir -p /opt/ml/model
+
+# 4) Copy your Flask app
 COPY app.py /opt/ml/code/app.py
 
-# Set working directory & expose port 8080
 WORKDIR /opt/ml/code
 EXPOSE 8080
 
-# Use gunicorn to serve the app on port 8080
 CMD ["gunicorn", "--bind", "0.0.0.0:8080", "app:app", "--timeout", "120"]
 

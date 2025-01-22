@@ -1,8 +1,0 @@
-#!/usr/bin/env python3
-
-from sagemaker_inference import model_server
-
-if __name__ == "__main__":
-    # For sagemaker-inference==1.10.1, we don't pass 'handler=':
-    model_server.start_model_server()
-
