@@ -1,6 +1,6 @@
 # For the reviewer:
 
-Project status as of **18th January, 2025**:
+Project status as of **18th January, 2025** :
 
 ## Project overview:
 
