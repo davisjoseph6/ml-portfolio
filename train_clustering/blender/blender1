@@ -1,0 +1,82 @@
+import bpy
+import json
+import os
+
+# Adjust to your actual file path:
+JSON_PATH = "/C:\Users\davis\OneDrive\Desktop\datasets\presentation/kmeans_data.json"
+
+# How many frames to skip between iterations? 
+# e.g. If 10 iterations in data, and you want them from Frame 1..100, 
+# set iteration_gap = 10. 
+iteration_gap = 10
+
+def create_or_get_sphere(obj_name):
+    """
+    If an object named 'obj_name' exists, return it.
+    Otherwise, create a new sphere (UV sphere) and rename it.
+    """
+    if obj_name in bpy.data.objects:
+        return bpy.data.objects[obj_name]
+    else:
+        bpy.ops.mesh.primitive_uv_sphere_add(radius=0.1, location=(0,0,0))
+        sphere = bpy.context.object
+        sphere.name = obj_name
+        # Optionally add a new material here, or set color, etc.
+        return sphere
+
+def main():
+    # 1) Load the JSON data
+    with open(JSON_PATH, "r") as f:
+        data = json.load(f)
+    
+    # 2) For each iteration, set the scene frame, place points
+    for iteration_index, iteration_data in enumerate(data):
+        iteration = iteration_data["iteration"]
+        points = iteration_data["points"]
+        centroids = iteration_data.get("centroids", [])
+
+        # Calculate which frame in Blender timeline we want
+        # e.g. iteration_gap=10 means iteration 0→frame1, iteration1→frame11, etc.
+        frame_num = iteration * iteration_gap
+
+        # Switch to that frame
+        bpy.context.scene.frame_set(frame_num)
+
+        # 3) Process points
+        for p in points:
+            p_id = p["id"]
+            x = p["x"]
+            y = p["y"]
+            z = p["z"]
+            cluster_id = p.get("cluster", 0)
+
+            # Create or get sphere
+            sphere_name = f"point_{p_id}"
+            sphere = create_or_get_sphere(sphere_name)
+
+            # Move sphere
+            sphere.location = (x, y, z)
+
+            # Insert a keyframe for location
+            sphere.keyframe_insert(data_path="location", frame=frame_num)
+
+            # Optionally, color by cluster
+            # (You can handle this with multiple materials or vertex colors.)
+            # For example, you might store materials named "Cluster0", "Cluster1", etc.
+
+        # 4) Process centroids similarly
+        for c in centroids:
+            c_id = c["id"]
+            cx = c["x"]
+            cy = c["y"]
+            cz = c["z"]
+            centroid_name = f"centroid_{c_id}"
+            cent = create_or_get_sphere(centroid_name)
+            # Maybe make centroid bigger:
+            cent.scale = (0.2, 0.2, 0.2)
+            cent.location = (cx, cy, cz)
+            cent.keyframe_insert(data_path="location", frame=frame_num)
+
+    print("Data import and keyframing complete!")
+
+main()

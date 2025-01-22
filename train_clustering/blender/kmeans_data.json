@@ -1,0 +1,105 @@
+[
+  {
+    "iteration": 0,
+    "points": [
+      {
+        "id": 0,
+        "title": "Invoice doc #1",
+        "snippet": "Invoice\nOrder ID: 10368\nCustomer ID: ERNSH...",
+        "x": 0.1,
+        "y": 1.2,
+        "z": -0.1,
+        "cluster": 0
+      },
+      {
+        "id": 1,
+        "title": "Philip Morris memo",
+        "snippet": "PHILIP MORRIS INCORPORATED\nResearch and Development...",
+        "x": 1.6,
+        "y": 0.9,
+        "z": 0.4,
+        "cluster": 1
+      },
+      {
+        "id": 2,
+        "title": "Surprise win for anti-Bush film",
+        "snippet": "Michael Moore's anti-Bush documentary Fahrenheit 9/11...",
+        "x": 2.1,
+        "y": 0.4,
+        "z": 0.1,
+        "cluster": 2
+      },
+      {
+        "id": 3,
+        "title": "Stock Report for 2017-02",
+        "snippet": "Stock Report for 2017-02\nCategory: Condiments\nUnits Sold...",
+        "x": 0.2,
+        "y": -0.5,
+        "z": 0.2,
+        "cluster": 3
+      },
+      {
+        "id": 4,
+        "title": "Invoice #7930",
+        "snippet": "INVOICE NO. 7930\n190 UNION STREET...\nP.O. BOX 2564...",
+        "x": 1.2,
+        "y": 2.0,
+        "z": 0.3,
+        "cluster": 4
+      },
+      {
+        "id": 5,
+        "title": "Stock analysis snippet #2",
+        "snippet": "Category: Dairy Products...\nProduct: Queso Manchego\nUnits Sold: 75",
+        "x": 0.0,
+        "y": -0.8,
+        "z": 0.1,
+        "cluster": 3
+      },
+      {
+        "id": 6,
+        "title": "Memo #2",
+        "snippet": "PHILIP MORRIS test #32...\nDistribution\nMr. A. Britton\nMr. G. Dawson",
+        "x": 1.5,
+        "y": 1.0,
+        "z": 0.3,
+        "cluster": 1
+      },
+      {
+        "id": 7,
+        "title": "Invoice doc #2",
+        "snippet": "Invoice #XYZ\nCustomer ID: ABC\nOrder Date: 2017-05-10",
+        "x": 0.2,
+        "y": 1.3,
+        "z": 0.0,
+        "cluster": 0
+      },
+      {
+        "id": 8,
+        "title": "Another surprise doc #1",
+        "snippet": "Fahrenheit 9/11\nBest film at the US People's Choice Awards...",
+        "x": 2.3,
+        "y": 0.7,
+        "z": 0.2,
+        "cluster": 2
+      },
+      {
+        "id": 9,
+        "title": "More shipping orders",
+        "snippet": "SHIPPING ORDER ID: 2021-11\nDetails: Surplus stock for Q3",
+        "x": 1.3,
+        "y": 2.1,
+        "z": 0.2,
+        "cluster": 4
+      }
+    ],
+    "centroids": [
+      { "id": 0, "x": 0.15, "y": 1.25, "z": -0.05 },
+      { "id": 1, "x": 1.55, "y": 0.95, "z": 0.35 },
+      { "id": 2, "x": 2.2,  "y": 0.55, "z": 0.15 },
+      { "id": 3, "x": 0.1,  "y": -0.65,"z": 0.15 },
+      { "id": 4, "x": 1.25, "y": 2.05, "z": 0.25 }
+    ]
+  }
+]
+
