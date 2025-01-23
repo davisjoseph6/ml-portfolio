@@ -1,12 +1,13 @@
 # For the reviewer:
 
-Project status as of **18th January, 2025** :
+Project status as of **23rd January, 2025** :
 
 ## Project overview:
 
 Notes:
 - Some directories and files (such as model artifacts, raw and preprocessed data) could not be uploaded due to github limitations on size.
 - Main scripts for preprocessing, training, and RAG are found in the directory called `scripts/`
+- Models are deployed on AWS SageMaker and AWS have been created
 - Please scroll to the right in the directory structure below to view clipped information. 
 
 ```bash
@@ -71,8 +72,6 @@ ml-portfolio/
 │   ├── Dockerfile
 │   ├── serve.sh
 │   ├── deploy_rag_model.py
-│   ├── serve.sh
-│   ├── deploy_rag_model.py
 │   ├── deploy_rag_endpoint.py
 │   └── test_rag_invoke.py
 ├── policies/                           # JSON policy files for controlling S3 or IAM permissions in AWS.
@@ -87,6 +86,10 @@ ml-portfolio/
 ├── requirements2.txt                   # Secondary or alternative dependency file.
 ├── aws_config/
 ├── dependencies.zip                    # A zip of extra dependencies or modules.
+├── my_local_server/			# Local host server
+│   ├── server.py
+│   ├── static/
+│   │   └──index.html
 ├── data/                               # Primary data directory (raw, preprocessed, summarized).
 │   ├── examples/                       	# Example documents or samples for demonstration.
 │   ├── preprocessed/                   	# Data that has been partially or fully preprocessed.
@@ -127,4 +130,13 @@ ml-portfolio/
 │   └── summarized/                     	# Data with generated summaries (post-processing).
 
 ```
+
+## Author
+
+## Author
+
+Davis Joseph (C-21 France) for [Holberton School](https://www.holbertonschool.fr/)
+
+- [LinkedIn](https://www.linkedin.com/in/davisjoseph767/)
+- [GitHub](https://github.com/davisjoseph6)
 
