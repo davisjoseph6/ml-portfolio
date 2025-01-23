@@ -66,6 +66,15 @@ ml-portfolio/
 │   ├── clustering_with_embeddings.py   	# Similar KMeans script adapted for SageMaker TrainingJob.
 │   ├── requirements.txt                	# Dependencies to install in the SageMaker training container.
 │   └── run_clustering_job.py           	# Python driver to launch the clustering job on SageMaker.
+├── rag_deployment/ 			# Deployment of RAG as a SageMaker endpoint
+│   ├── app.py
+│   ├── Dockerfile
+│   ├── serve.sh
+│   ├── deploy_rag_model.py
+│   ├── serve.sh
+│   ├── deploy_rag_model.py
+│   ├── deploy_rag_endpoint.py
+│   └── test_rag_invoke.py
 ├── policies/                           # JSON policy files for controlling S3 or IAM permissions in AWS.
 │   ├── client-data-in-policy.json
 │   ├── client-data-out-policy.json
