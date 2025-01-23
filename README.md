@@ -133,8 +133,6 @@ ml-portfolio/
 
 ## Author
 
-## Author
-
 Davis Joseph (C-21 France) for [Holberton School](https://www.holbertonschool.fr/)
 
 - [LinkedIn](https://www.linkedin.com/in/davisjoseph767/)
