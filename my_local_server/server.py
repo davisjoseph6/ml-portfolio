@@ -6,16 +6,29 @@ from PIL import Image
 import boto3
 import json
 from fastapi import FastAPI, File, UploadFile, Request
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, HTMLResponse
+from fastapi.staticfiles import StaticFiles
 
 app = FastAPI()
+
+# Mount the 'static' directory to serve HTML/JS/CSS
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+# Optional: Serve 'static/index.html' at the root URL
+@app.get("/")
+def read_root():
+    # If you prefer to redirect, you can redirect to "/static/index.html"
+    # But let's just load index.html here:
+    with open("static/index.html", "r", encoding="utf-8") as f:
+        html_content = f.read()
+    return HTMLResponse(content=html_content, status_code=200)
 
 # ----- Update these to match your actual endpoints in AWS SageMaker -----
 CLASSIFICATION_ENDPOINT = "distilbert-tf-endpoint"
 SUMMARIZATION_ENDPOINT  = "my-summar-endpoint"
 RAG_ENDPOINT            = "rag-endpoint-minimal-v1"
 
-REGION_NAME             = "eu-west-2"  # or your region
+REGION_NAME = "eu-west-2"  # or your region
 
 # Create a single runtime client we can reuse
 runtime = boto3.client("sagemaker-runtime", region_name=REGION_NAME)

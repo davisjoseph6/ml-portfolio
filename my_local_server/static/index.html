@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>My ML Endpoints</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+    section {
+      margin-bottom: 40px;
+      border: 1px solid #ccc;
+      padding: 10px;
+      border-radius: 5px;
+    }
+    h2 {
+      margin-top: 0;
+    }
+    .result {
+      background: #f9f9f9;
+      padding: 1em;
+      margin-top: 1em;
+      white-space: pre-wrap; /* preserve JSON newlines */
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <h1>Chat-Secure - personal, secure, customizable</h1>
+
+  <!-- Section 1: Classification -->
+  <section>
+    <h2>Classification</h2>
+    <form id="classifyForm">
+      <label for="classifyFile">Select File (pdf, jpg, png, txt):</label>
+      <input type="file" id="classifyFile" name="file" required />
+      <button type="submit">Classify</button>
+    </form>
+    <div id="classifyResult" class="result"></div>
+  </section>
+
+  <!-- Section 2: Summarization -->
+  <section>
+    <h2>Summarization</h2>
+    <form id="summarizeForm">
+      <label for="summarizeFile">Select File (pdf, jpg, png, txt):</label>
+      <input type="file" id="summarizeFile" name="file" required />
+      <button type="submit">Summarize</button>
+    </form>
+    <div id="summarizeResult" class="result"></div>
+  </section>
+
+  <!-- Section 3: RAG Query -->
+  <section>
+    <h2>RAG Query</h2>
+    <form id="ragForm">
+      <label for="ragQuestion">Enter your question:</label>
+      <input type="text" id="ragQuestion" name="question" size="60" required />
+      <button type="submit">Ask</button>
+    </form>
+    <div id="ragResult" class="result"></div>
+  </section>
+
+  <script>
+    // --- 1) Classification Form Submit ---
+    const classifyForm = document.getElementById("classifyForm");
+    const classifyResultDiv = document.getElementById("classifyResult");
+
+    classifyForm.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      classifyResultDiv.textContent = "Processing... please wait.";
+
+      const fileInput = document.getElementById("classifyFile");
+      const formData = new FormData();
+      formData.append("file", fileInput.files[0]);
+
+      try {
+        const response = await fetch("/classify", {
+          method: "POST",
+          body: formData,
+        });
+        const data = await response.json();
+        classifyResultDiv.textContent = JSON.stringify(data, null, 2);
+      } catch (err) {
+        classifyResultDiv.textContent = "Error: " + err.message;
+      }
+    });
+
+    // --- 2) Summarization Form Submit ---
+    const summarizeForm = document.getElementById("summarizeForm");
+    const summarizeResultDiv = document.getElementById("summarizeResult");
+
+    summarizeForm.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      summarizeResultDiv.textContent = "Summarizing... please wait.";
+
+      const fileInput = document.getElementById("summarizeFile");
+      const formData = new FormData();
+      formData.append("file", fileInput.files[0]);
+
+      try {
+        const response = await fetch("/summarize", {
+          method: "POST",
+          body: formData,
+        });
+        const data = await response.json();
+        summarizeResultDiv.textContent = JSON.stringify(data, null, 2);
+      } catch (err) {
+        summarizeResultDiv.textContent = "Error: " + err.message;
+      }
+    });
+
+    // --- 3) RAG Query Form Submit ---
+    const ragForm = document.getElementById("ragForm");
+    const ragResultDiv = document.getElementById("ragResult");
+
+    ragForm.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      ragResultDiv.textContent = "Querying RAG... please wait.";
+
+      const questionInput = document.getElementById("ragQuestion");
+      const payload = {
+        question: questionInput.value,
+        // If needed, you can also add top_k here: top_k: 3
+      };
+
+      try {
+        const response = await fetch("/rag", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(payload),
+        });
+        const data = await response.json();
+        ragResultDiv.textContent = JSON.stringify(data, null, 2);
+      } catch (err) {
+        ragResultDiv.textContent = "Error: " + err.message;
+      }
+    });
+  </script>
+</body>
+</html>
+
