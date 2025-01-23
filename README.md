@@ -1,4 +1,4 @@
-# For the reviewer:
+# Secure Chat
 
 Project status as of **23rd January, 2025** :
 
