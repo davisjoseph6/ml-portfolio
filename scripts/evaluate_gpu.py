@@ -4,31 +4,14 @@ import os
 import argparse
 import numpy as np
 from tqdm import tqdm
-
-# -------------------------------------------------------------------------
-# Disable GPU: Two main approaches. We'll use tf.config.set_visible_devices.
-# -------------------------------------------------------------------------
 import tensorflow as tf
-
-# Option A: Use tf.config.set_visible_devices to remove GPU devices
-try:
-    # If there are any GPU devices, remove them so we only see CPU
-    gpus = tf.config.list_physical_devices("GPU")
-    if gpus:
-        tf.config.set_visible_devices([], "GPU")
-        print("All GPUs have been disabled. Running on CPU only.")
-except Exception as e:
-    # If something goes wrong, fallback: hide GPUs using an environment variable.
-    os.environ["CUDA_VISIBLE_DEVICES"] = ""
-    print("Could not disable GPUs via tf.config. Falling back to 'CUDA_VISIBLE_DEVICES' method.")
-
 from sklearn.metrics import confusion_matrix, classification_report
 from transformers import DistilBertTokenizerFast, TFDistilBertForSequenceClassification
 
 # Import your data loading & dataset creation utilities
 from data_prep import load_data_from_directory, create_tf_dataset
-import json
 
+import json  # <-- We'll load the label map JSON
 
 def main():
     parser = argparse.ArgumentParser()
@@ -47,7 +30,10 @@ def main():
     print(f"Test samples: {len(X_test)}")
 
     # ------------------------------------------------------------------------
-    # Instead of building label map from test data, load label_map.json
+    # REMOVE the old label map build from test data:
+    #     label2id, id2label = build_label_map(y_test)
+    #
+    # INSTEAD, load the label map JSON that you saved in train_distilbert.py
     # ------------------------------------------------------------------------
     label_map_path = os.path.join(args.model_dir, "label_map.json")
     if not os.path.exists(label_map_path):
@@ -59,7 +45,9 @@ def main():
     with open(label_map_path, "r", encoding="utf-8") as f:
         saved_data = json.load(f)
     label2id = saved_data["label2id"]
-    # Reverse map: index -> label string
+
+    # Reverse map: from index -> label string
+    # e.g., if label2id = {"advertisement":0, "invoice":1, ...}
     id2label = {int(v): k for k, v in label2id.items()}
 
     print("Loading tokenizer and model...")
@@ -82,6 +70,7 @@ def main():
     y_true = []
     y_pred = []
 
+    # Batch inference
     for batch in tqdm(test_dataset, desc="Evaluating", unit="batch"):
         inputs, labels = batch
         logits = model(inputs, training=False).logits
@@ -94,8 +83,16 @@ def main():
     print("Confusion Matrix:")
     print(cm)
 
-    # Sort label names by alphabetical order of the label keys
-    sorted_label_names = sorted(label2id.keys())
+    # ------------------------------------------------------------------------
+    # Build a consistent label ordering. We'll get the label names from the
+    # label2id dictionary keys, sorted by alphabetical order or by ID:
+    # ------------------------------------------------------------------------
+    sorted_label_names = sorted(label2id.keys())  
+    # Or if you want them in ascending ID order, you can do:
+    #   sorted_label_names = [id2label[i] for i in range(len(id2label))]
+
+    # classification_report requires we specify 'labels' as the numeric IDs
+    # and 'target_names' as the string labels in that same order.
     label_indices = range(len(sorted_label_names))
 
     print("Classification Report:")
@@ -109,7 +106,6 @@ def main():
 
     accuracy = np.mean(np.array(y_true) == np.array(y_pred))
     print(f"Test Accuracy: {accuracy:.4f}")
-
 
 if __name__ == "__main__":
     main()
