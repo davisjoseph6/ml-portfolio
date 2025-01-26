@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Chat-Secure: Classification</title>
+  <style>
+    /* Dark theme styling */
+    body {
+      background-color: #000;
+      color: #fff;
+      margin: 20px;
+      font-family: sans-serif;
+    }
+    nav a {
+      margin-right: 15px;
+      padding: 6px 12px;
+      background: #00ddff;
+      color: #000;
+      text-decoration: none;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      background-color: #00b5cc;
+    }
+    section {
+      margin-top: 30px;
+      border: 1px solid #444;
+      padding: 10px;
+      border-radius: 5px;
+      background-color: #1c1c1c;
+    }
+    h1, h2, label {
+      color: #00ddff;
+    }
+    .result {
+      background: #333;
+      padding: 1em;
+      margin-top: 1em;
+      white-space: pre-wrap;
+      border-radius: 5px;
+    }
+    .label { color: #ffd700; font-weight: bold; }
+    .confidence { color: #ffa500; font-weight: bold; }
+    button {
+      background-color: #00ddff;
+      color: #000;
+      border: none;
+      padding: 8px 16px;
+      cursor: pointer;
+      font-weight: bold;
+      border-radius: 4px;
+    }
+    button:hover {
+      background-color: #00b5cc;
+    }
+    input[type="file"] {
+      background-color: #333;
+      color: #fff;
+      border: 1px solid #666;
+      border-radius: 3px;
+      padding: 5px;
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Simple navbar -->
+  <nav>
+    <a href="/">Home</a>
+    <a href="/classification">Classification</a>
+    <a href="/summarize_rag">Summarization & RAG</a>
+    <a href="/unsupervised">Unsupervised</a>
+  </nav>
+
+  <section>
+    <h1>Classification</h1>
+    <form id="classifyForm">
+      <label for="classifyFile">Select File (pdf, jpg, png, txt):</label><br/>
+      <input type="file" id="classifyFile" name="file" required />
+      <button type="submit">Classify</button>
+    </form>
+    <div id="classifyResult" class="result"></div>
+  </section>
+
+  <script>
+    // Classification form
+    const classifyForm = document.getElementById("classifyForm");
+    const classifyResultDiv = document.getElementById("classifyResult");
+
+    classifyForm.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      classifyResultDiv.textContent = "Processing... please wait.";
+
+      const fileInput = document.getElementById("classifyFile");
+      const formData = new FormData();
+      formData.append("file", fileInput.files[0]);
+
+      try {
+        const response = await fetch("/classify", {
+          method: "POST",
+          body: formData,
+        });
+        const data = await response.json();
+
+        if (data.classification_result && data.classification_result.length > 0) {
+          const resultItem = data.classification_result[0];
+          const label = resultItem.label;
+          const score = resultItem.score;
+
+          classifyResultDiv.innerHTML = `
+            <div>
+              <span class="label">Label:</span> ${label}<br/>
+              <span class="confidence">Confidence:</span> ${score.toFixed(4)}
+            </div>
+          `;
+        } else if (data.error) {
+          classifyResultDiv.textContent = "Error: " + data.error;
+        } else {
+          classifyResultDiv.textContent = JSON.stringify(data, null, 2);
+        }
+      } catch (err) {
+        classifyResultDiv.textContent = "Error: " + err.message;
+      }
+    });
+  </script>
+</body>
+</html>
+
