@@ -4,36 +4,66 @@
   <meta charset="UTF-8" />
   <title>Chat-Secure Home</title>
   <style>
+    /* Use a gradient background for an AI / futuristic feel */
     body {
-      background-color: #000;  /* black background */
-      color: #fff;
+      margin: 0;
+      padding: 0;
       font-family: sans-serif;
-      margin: 20px;
-      text-align: center;      /* center align text */
+      text-align: center;
+      color: #fff;
+      /* Dark gradient background */
+      background: linear-gradient(115deg, #020024 0%, #090979 50%, #00d4ff 100%);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
     }
+
     h1 {
+      font-size: 3em;
+      margin-bottom: 0.1em;
+      /* Neon glow effect */
       color: #00ddff;
-      font-size: 2em;
-      margin-bottom: 0.2em;
+      text-shadow: 
+        0 0 10px  #00ddff, 
+        0 0 20px  #00ddff, 
+        0 0 30px  #0088ff, 
+        0 0 40px  #0088ff;
     }
+
     h2 {
-      color: #00ddff;
+      color: #ffffff;
       font-size: 1.2em;
       margin-top: 0;
       font-weight: normal;
+      opacity: 0.9;
     }
-    a {
+
+    p {
+      margin: 20px auto;
+      max-width: 600px;
+      line-height: 1.5;
+    }
+
+    /* Button links */
+    .nav-links {
+      margin-top: 30px;
+    }
+    .nav-links a {
       display: inline-block;
       margin: 15px;
-      padding: 10px 20px;
+      padding: 14px 24px;
       background: #00ddff;
       color: #000;
       text-decoration: none;
       border-radius: 4px;
       font-weight: bold;
+      transition: background 0.3s, box-shadow 0.3s;
     }
-    a:hover {
+    .nav-links a:hover {
       background-color: #00b5cc;
+      box-shadow: 0 0 10px #00ddff;
     }
   </style>
 </head>
@@ -42,12 +72,14 @@
   <h1>Chat-Secure</h1>
   <h2>secure, personal, customizable</h2>
 
-  <p>Welcome to Chat-Secure! Choose a feature below:</p>
+  <p>Welcome to Chat-Secure, your AI-driven platform for document classification, summarization, and more. Get started below:</p>
 
-  <!-- Navigation links to other pages -->
-  <a href="/classification">Classification</a>
-  <a href="/summarize_rag">Summarization & RAG</a>
-  <a href="/unsupervised">Unsupervised</a>
+  <div class="nav-links">
+    <!-- Navigation links to other pages -->
+    <a href="/classification">Classification</a>
+    <a href="/summarize_rag">Summarization & RAG</a>
+    <a href="/unsupervised">Unsupervised</a>
+  </div>
 
 </body>
 </html>
