@@ -74,6 +74,7 @@ ml-portfolio/
 │   ├── deploy_rag_model.py
 │   ├── deploy_rag_endpoint.py
 │   └── test_rag_invoke.py
+├── buildspec.yml			# YAML file for pushing Docker to AWS Elastic Container
 ├── policies/                           # JSON policy files for controlling S3 or IAM permissions in AWS.
 │   ├── client-data-in-policy.json
 │   ├── client-data-out-policy.json

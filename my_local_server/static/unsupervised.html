@@ -38,6 +38,13 @@
     .my-image-container {
       margin: 20px 0;
     }
+    /* Divider styling */
+    .divider {
+      width: 60%;
+      margin: 20px auto;
+      border: 0;
+      border-top: 2px solid #444;
+    }
   </style>
 </head>
 <body>
@@ -56,20 +63,22 @@
 
     <div class="gif-container">
       <!-- Example animated GIF -->
-      <img 
-        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdydWRwbm96YmRldjM3ejJiamdoem90NDJsYWd4bzZnMmdyMmU2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQtJFhSqDHPVkDGtcF/giphy.gif" 
-        alt="Sample GIF" 
+      <img
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdydWRwbm96YmRldjM3ejJiamdoem90NDJsYWd4bzZnMmdyMmU2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQtJFhSqDHPVkDGtcF/giphy.gif"
+        alt="Sample GIF"
         width="500" />
     </div>
+
+    <!-- Divider line -->
+    <hr class="divider" />
 
     <div class="my-image-container">
-      <!-- Replace 'my_custom_image.jpg' with your real file/path -->
-      <img 
-        src="/static/cluster.png" 
-        alt="My Own Image" 
+      <!-- Replace 'cluster.png' with your real file/path if needed -->
+      <img
+        src="/static/cluster.png"
+        alt="My Own Image"
         width="500" />
     </div>
-
   </section>
 </body>
 </html>
