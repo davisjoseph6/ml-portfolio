@@ -1,6 +1,10 @@
 # Secure Chat
 
-Project status as of **23rd January, 2025** :
+Project status as of **31st January, 2025** :
+
+- Presentation: https://1drv.ms/p/s!Ahdv8SmoLX9Im9Vy9x9SF9qsmu7iGg?e=GNdrUM
+- Unsupervised Learning training on AWS: https://www.youtube.com/watch?v=CL0MTOYx5Hk
+- Full presentation: https://www.youtube.com/watch?v=HhLJSgnuF1w
 
 ## Project overview:
 
