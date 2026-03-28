@@ -28,7 +28,6 @@ This repository contains:
 - Large artifacts such as trained models, datasets, and generated outputs are intentionally not fully tracked in Git.
 - Several scripts use **hardcoded local paths**, **bucket names**, **endpoint names**, and **AWS account-specific values**. These should be updated before reuse.
 - Some folders contain **older experiments / legacy revisions** kept for reference.
-- A few files in `scripts/other_scripts/` appear to be placeholders or incomplete.
 
 ## Demo / presentation links
 
